@@ -1,0 +1,1716 @@
+Isolate,Organism,Country,Year,Age,Age_Category,MDR_Flag,Resistant_Class_Count,Resistant_Classes
+1827,Pseudomonas aeruginosa,Hong Kong,2018,62,Elderly,0,0,
+1895,Pseudomonas aeruginosa,Nigeria,2018,73,Elderly,0,0,
+1906,Pseudomonas aeruginosa,Croatia,2018,63,Elderly,0,0,
+1920,Pseudomonas aeruginosa,Croatia,2018,77,Elderly,0,1,Carbapenems
+1921,Pseudomonas aeruginosa,Croatia,2018,66,Elderly,0,0,
+2057,Pseudomonas aeruginosa,Nigeria,2018,1,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+2063,Pseudomonas aeruginosa,Nigeria,2018,0,Pediatric,0,0,
+4171,Pseudomonas aeruginosa,Kuwait,2018,64,Elderly,0,1,Carbapenems
+5510,Pseudomonas aeruginosa,Morocco,2018,67,Elderly,0,1,Carbapenems
+5689,Pseudomonas aeruginosa,Morocco,2018,0,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+5890,Escherichia coli,Italy,2019,69,Elderly,0,0,
+5892,Escherichia coli,Italy,2019,65,Elderly,0,2,Cephalosporins;Fluoroquinolones
+5898,Klebsiella pneumoniae,Italy,2019,63,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+5907,Klebsiella pneumoniae,Italy,2019,76,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+5935,Escherichia coli,Belgium,2019,87,Elderly,0,0,
+5959,Escherichia coli,Croatia,2019,68,Elderly,0,1,Penicillins
+5966,Escherichia coli,Croatia,2019,62,Elderly,0,0,
+5967,Escherichia coli,Croatia,2019,78,Elderly,0,0,
+5971,Escherichia coli,Croatia,2019,74,Elderly,0,2,Cephalosporins;Fluoroquinolones
+5975,Escherichia coli,Croatia,2019,67,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+5976,Klebsiella pneumoniae,Croatia,2019,15,Pediatric,0,0,
+5979,Klebsiella pneumoniae,Croatia,2019,74,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+5981,Klebsiella pneumoniae,Croatia,2019,72,Elderly,0,0,
+5982,Klebsiella pneumoniae,Croatia,2019,65,Elderly,0,2,Penicillins;Cephalosporins
+5983,Klebsiella pneumoniae,Croatia,2019,67,Elderly,0,0,
+5989,Klebsiella pneumoniae,Croatia,2019,72,Elderly,0,1,Cephalosporins
+5996,Klebsiella pneumoniae,Croatia,2019,73,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+6003,Enterobacter cloacae complex,Croatia,2019,82,Elderly,0,0,
+6004,Enterobacter cloacae,Croatia,2019,1,Pediatric,0,0,
+6052,Escherichia coli,France,2019,94,Elderly,0,0,
+6064,Escherichia coli,France,2019,80,Elderly,0,0,
+6071,Citrobacter koseri,France,2019,86,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+6086,Enterobacter cloacae,Germany,2019,61,Elderly,0,0,
+6087,Enterobacter cloacae complex,Germany,2019,75,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+6149,Escherichia coli,Germany,2018,66,Elderly,0,0,
+6151,Escherichia coli,Germany,2019,82,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+6154,Escherichia coli,Germany,2019,63,Elderly,0,0,
+6187,Klebsiella pneumoniae,Greece,2018,93,Elderly,0,0,
+6188,Klebsiella pneumoniae,Greece,2019,77,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+6210,Pseudomonas aeruginosa,Greece,2019,65,Elderly,0,0,
+6211,Klebsiella pneumoniae,Greece,2019,67,Elderly,0,0,
+6213,Pseudomonas aeruginosa,Greece,2019,63,Elderly,0,0,
+6235,Pseudomonas aeruginosa,Israel,2019,71,Elderly,0,0,
+6236,Pseudomonas aeruginosa,Israel,2019,74,Elderly,0,0,
+6238,Escherichia coli,Israel,2019,64,Elderly,0,0,
+6239,Escherichia coli,Israel,2019,63,Elderly,0,0,
+6241,Klebsiella pneumoniae,Israel,2019,6,Pediatric,0,1,Cephalosporins
+6242,Escherichia coli,Israel,2019,86,Elderly,0,1,Fluoroquinolones
+6318,Klebsiella pneumoniae,Germany,2019,8,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+6329,Escherichia coli,France,2019,0,Pediatric,0,0,
+6336,Serratia marcescens,France,2019,81,Elderly,0,0,
+6339,Klebsiella pneumoniae,France,2019,1,Pediatric,0,1,Penicillins
+6343,Pseudomonas aeruginosa,France,2019,84,Elderly,0,0,
+6344,Pseudomonas aeruginosa,France,2019,92,Elderly,0,0,
+6364,Enterobacter cloacae,Israel,2019,63,Elderly,0,0,
+6372,Escherichia coli,Israel,2019,77,Elderly,0,0,
+6373,Escherichia coli,Israel,2019,90,Elderly,0,0,
+6374,Escherichia coli,Israel,2019,67,Elderly,0,1,Fluoroquinolones
+6379,Escherichia coli,Israel,2019,83,Elderly,0,0,
+6380,Escherichia coli,Israel,2019,87,Elderly,0,0,
+6396,Klebsiella pneumoniae,Israel,2019,93,Elderly,0,0,
+6397,Klebsiella pneumoniae,Israel,2019,94,Elderly,0,0,
+6398,Klebsiella pneumoniae,Israel,2019,94,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+6399,Klebsiella pneumoniae,Israel,2019,80,Elderly,0,0,
+6400,Klebsiella pneumoniae,Israel,2019,67,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+6410,Klebsiella pneumoniae,Israel,2019,88,Elderly,0,1,Cephalosporins
+6423,Citrobacter koseri,France,2018,84,Elderly,0,0,
+6432,Escherichia coli,France,2018,80,Elderly,0,0,
+6443,Escherichia coli,France,2019,0,Pediatric,0,0,
+6449,Serratia marcescens,Latvia,2018,74,Elderly,0,0,
+6452,Serratia marcescens,Latvia,2019,89,Elderly,0,0,
+6466,Klebsiella pneumoniae,Latvia,2019,71,Elderly,0,0,
+6469,Klebsiella pneumoniae,United Kingdom,2019,69,Elderly,0,0,
+6470,Klebsiella pneumoniae,United Kingdom,2019,4,Pediatric,0,2,Cephalosporins;Aminoglycosides
+6496,Pseudomonas aeruginosa,United Kingdom,2019,65,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+6503,Enterobacter cloacae,United Kingdom,2019,73,Elderly,0,0,
+6512,Klebsiella pneumoniae,United Kingdom,2019,0,Pediatric,0,0,
+6514,Pseudomonas aeruginosa,United Kingdom,2019,79,Elderly,0,0,
+6532,Escherichia coli,Israel,2019,80,Elderly,0,0,
+6536,Escherichia coli,Israel,2019,97,Elderly,0,0,
+6538,Klebsiella pneumoniae,Israel,2019,78,Elderly,0,2,Cephalosporins;Aminoglycosides
+6548,Citrobacter koseri,Israel,2019,68,Elderly,0,0,
+6559,Serratia marcescens,Hong Kong,2019,68,Elderly,0,0,
+6560,Klebsiella pneumoniae,Hong Kong,2019,83,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+6564,Escherichia coli,Italy,2019,81,Elderly,0,0,
+6565,Escherichia coli,Italy,2019,77,Elderly,0,0,
+6566,Escherichia coli,Italy,2019,74,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+6573,Serratia marcescens,Italy,2019,76,Elderly,0,0,
+6575,Pseudomonas aeruginosa,Italy,2019,70,Elderly,0,0,
+6590,Klebsiella pneumoniae,Italy,2019,86,Elderly,0,1,Cephalosporins
+6591,Serratia marcescens,Italy,2019,79,Elderly,0,0,
+6629,Escherichia coli,Spain,2019,70,Elderly,0,2,Cephalosporins;Fluoroquinolones
+6631,Klebsiella pneumoniae,Spain,2019,73,Elderly,0,0,
+6636,Klebsiella pneumoniae,Spain,2019,82,Elderly,0,0,
+6638,Klebsiella pneumoniae,Spain,2019,64,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+6639,Klebsiella pneumoniae,Spain,2019,1,Pediatric,0,0,
+6651,Citrobacter koseri,France,2019,84,Elderly,0,0,
+6664,Citrobacter koseri,France,2019,70,Elderly,0,0,
+6670,Klebsiella pneumoniae,Italy,2019,63,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+6672,Klebsiella pneumoniae,Italy,2019,62,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+6681,Klebsiella pneumoniae,Italy,2019,65,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+6691,Pseudomonas aeruginosa,Italy,2019,78,Elderly,0,0,
+6699,Escherichia coli,Italy,2019,74,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+6701,Escherichia coli,Italy,2019,77,Elderly,0,1,Cephalosporins
+6713,Serratia marcescens,Costa Rica,2019,72,Elderly,0,0,
+6714,Escherichia coli,Costa Rica,2019,75,Elderly,0,1,Cephalosporins
+6718,Klebsiella pneumoniae,Costa Rica,2019,74,Elderly,0,0,
+6722,Klebsiella pneumoniae,Costa Rica,2019,0,Pediatric,0,0,
+6724,Klebsiella pneumoniae,Costa Rica,2019,78,Elderly,0,1,Aminoglycosides
+6736,Escherichia coli,Czech Republic,2019,81,Elderly,0,0,
+6763,Klebsiella pneumoniae,Spain,2019,64,Elderly,0,0,
+6804,Enterobacter cloacae complex,Greece,2019,75,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+6819,Klebsiella pneumoniae,Greece,2019,83,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+6825,Escherichia coli,Greece,2019,83,Elderly,0,0,
+6830,Pseudomonas aeruginosa,Greece,2019,71,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+6831,Pseudomonas aeruginosa,Greece,2019,76,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+6833,Pseudomonas aeruginosa,Greece,2019,77,Elderly,1,3,Penicillins;Fluoroquinolones;Aminoglycosides
+6841,Enterobacter cloacae,Argentina,2019,79,Elderly,0,0,
+6842,Serratia marcescens,Argentina,2019,75,Elderly,0,0,
+6847,Pseudomonas aeruginosa,Argentina,2019,63,Elderly,1,3,Penicillins;Fluoroquinolones;Aminoglycosides
+6851,Klebsiella pneumoniae,Argentina,2019,1,Pediatric,0,0,
+6853,Klebsiella pneumoniae,Argentina,2019,91,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+6865,Klebsiella pneumoniae,Italy,2019,82,Elderly,0,0,
+6869,Escherichia coli,Italy,2019,82,Elderly,0,0,
+6870,Escherichia coli,Italy,2019,78,Elderly,0,0,
+6871,Escherichia coli,Italy,2019,65,Elderly,0,1,Fluoroquinolones
+6872,Escherichia coli,Italy,2019,73,Elderly,0,0,
+6875,Pseudomonas aeruginosa,Italy,2019,62,Elderly,0,2,Penicillins;Cephalosporins
+6876,Pseudomonas aeruginosa,Italy,2019,65,Elderly,0,2,Penicillins;Cephalosporins
+6877,Pseudomonas aeruginosa,Italy,2019,69,Elderly,0,0,
+6882,Enterobacter cloacae,Italy,2019,72,Elderly,0,2,Cephalosporins;Fluoroquinolones
+6886,Escherichia coli,Italy,2019,76,Elderly,0,0,
+6887,Pseudomonas aeruginosa,Italy,2019,74,Elderly,0,0,
+6902,Escherichia coli,Italy,2019,72,Elderly,0,0,
+6906,Escherichia coli,Italy,2019,67,Elderly,0,0,
+6938,Klebsiella pneumoniae,United States,2019,92,Elderly,0,1,Fluoroquinolones
+6939,Klebsiella pneumoniae,United States,2019,63,Elderly,0,0,
+6955,Pseudomonas aeruginosa,United States,2019,86,Elderly,0,0,
+6965,Pseudomonas aeruginosa,United States,2019,67,Elderly,0,1,Carbapenems
+6982,Escherichia coli,United States,2019,77,Elderly,0,1,Fluoroquinolones
+6984,Escherichia coli,United States,2019,91,Elderly,0,0,
+6985,Escherichia coli,United States,2019,85,Elderly,0,0,
+6990,Escherichia coli,United States,2019,62,Elderly,0,1,Fluoroquinolones
+6994,Escherichia coli,United States,2019,69,Elderly,0,1,Aminoglycosides
+6997,Escherichia coli,United States,2019,85,Elderly,0,0,
+6999,Klebsiella pneumoniae,Mexico,2019,1,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7000,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7001,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7002,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7003,Klebsiella pneumoniae,Mexico,2019,1,Pediatric,0,0,
+7004,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,1,Cephalosporins
+7005,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7006,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7007,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,1,Cephalosporins
+7008,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7009,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+7010,Escherichia coli,Mexico,2019,0,Pediatric,0,1,Penicillins
+7011,Escherichia coli,Mexico,2019,0,Pediatric,0,0,
+7012,Escherichia coli,Mexico,2019,0,Pediatric,0,0,
+7013,Escherichia coli,Mexico,2019,0,Pediatric,0,2,Cephalosporins;Fluoroquinolones
+7014,Escherichia coli,Mexico,2019,1,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7015,Pseudomonas aeruginosa,Mexico,2019,0,Pediatric,0,0,
+7016,Serratia marcescens,Mexico,2019,1,Pediatric,0,0,
+7055,Escherichia coli,Spain,2019,77,Elderly,0,0,
+7059,Escherichia coli,Spain,2019,69,Elderly,0,0,
+7060,Klebsiella pneumoniae,Spain,2019,66,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+7061,Escherichia coli,Spain,2019,86,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+7062,Escherichia coli,Spain,2019,91,Elderly,0,0,
+7069,Escherichia coli,Spain,2019,68,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+7072,Klebsiella pneumoniae,Spain,2019,66,Elderly,0,2,Penicillins;Cephalosporins
+7073,Klebsiella pneumoniae,Spain,2019,78,Elderly,0,0,
+7079,Klebsiella pneumoniae,Italy,2019,70,Elderly,0,0,
+7081,Pseudomonas aeruginosa,Italy,2019,61,Elderly,0,1,Carbapenems
+7089,Escherichia coli,Italy,2019,1,Pediatric,0,2,Cephalosporins;Fluoroquinolones
+7122,Serratia marcescens,Colombia,2019,1,Pediatric,0,0,
+7128,Klebsiella pneumoniae,Colombia,2019,70,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+7134,Klebsiella pneumoniae,Colombia,2019,1,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+7157,Klebsiella pneumoniae,Portugal,2019,66,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+7179,Escherichia coli,Hungary,2019,76,Elderly,0,0,
+7182,Escherichia coli,Hungary,2019,6,Pediatric,0,2,Fluoroquinolones;Aminoglycosides
+7183,Escherichia coli,Hungary,2019,73,Elderly,0,1,Fluoroquinolones
+7196,Klebsiella pneumoniae,Portugal,2019,69,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+7200,Escherichia coli,Portugal,2019,84,Elderly,0,0,
+7206,Pseudomonas aeruginosa,Portugal,2019,95,Elderly,0,1,Carbapenems
+7257,Escherichia coli,South Africa,2019,75,Elderly,0,0,
+7260,Escherichia coli,South Africa,2019,88,Elderly,0,0,
+7261,Serratia marcescens,South Africa,2019,62,Elderly,0,0,
+7273,Pseudomonas aeruginosa,Kuwait,2019,71,Elderly,0,1,Carbapenems
+7275,Pseudomonas aeruginosa,Kuwait,2019,63,Elderly,0,1,Penicillins
+7307,Klebsiella pneumoniae,Kuwait,2019,66,Elderly,0,1,Fluoroquinolones
+7310,Klebsiella pneumoniae,Kuwait,2019,68,Elderly,0,0,
+7311,Klebsiella pneumoniae,Kuwait,2019,66,Elderly,0,1,Fluoroquinolones
+7371,Escherichia coli,Chile,2019,78,Elderly,0,0,
+7401,Enterobacter cloacae complex,Mexico,2019,15,Pediatric,0,0,
+7461,Pseudomonas aeruginosa,Mexico,2019,66,Elderly,0,1,Carbapenems
+7469,Escherichia coli,Malaysia,2019,84,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+7475,Enterobacter cloacae,Malaysia,2019,74,Elderly,0,0,
+7476,Klebsiella pneumoniae,Malaysia,2019,65,Elderly,0,0,
+7480,Klebsiella pneumoniae,Nigeria,2019,61,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+7483,Klebsiella pneumoniae,Nigeria,2019,74,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+7488,Escherichia coli,Nigeria,2019,0,Pediatric,0,0,
+7492,Klebsiella pneumoniae,Nigeria,2019,1,Pediatric,0,2,Cephalosporins;Aminoglycosides
+7514,Escherichia coli,Kuwait,2019,67,Elderly,0,2,Cephalosporins;Fluoroquinolones
+7518,Escherichia coli,Kuwait,2019,76,Elderly,0,2,Cephalosporins;Fluoroquinolones
+7528,Klebsiella pneumoniae,Kuwait,2019,1,Pediatric,0,0,
+7537,Klebsiella pneumoniae,Kuwait,2019,72,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+7539,Klebsiella pneumoniae,Kuwait,2019,75,Elderly,0,2,Cephalosporins;Aminoglycosides
+7541,Klebsiella pneumoniae,Kuwait,2019,75,Elderly,0,2,Cephalosporins;Aminoglycosides
+7550,Serratia marcescens,Kuwait,2019,1,Pediatric,0,0,
+7551,Serratia marcescens,Kuwait,2019,84,Elderly,0,0,
+7566,Pseudomonas aeruginosa,Colombia,2019,82,Elderly,0,0,
+7572,Pseudomonas aeruginosa,Colombia,2019,81,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+7583,Escherichia coli,South Africa,2019,66,Elderly,0,0,
+7586,Escherichia coli,South Africa,2019,70,Elderly,0,0,
+7589,Escherichia coli,South Africa,2019,73,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+7590,Klebsiella pneumoniae,South Africa,2019,70,Elderly,0,0,
+7593,Escherichia coli,South Africa,2019,78,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+7596,Escherichia coli,South Africa,2019,82,Elderly,0,0,
+7597,Escherichia coli,South Africa,2019,71,Elderly,0,0,
+7602,Escherichia coli,South Africa,2019,68,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+7617,Escherichia coli,"Korea, South",2019,85,Elderly,0,0,
+7618,Escherichia coli,"Korea, South",2019,61,Elderly,0,1,Aminoglycosides
+7620,Escherichia coli,"Korea, South",2019,75,Elderly,0,2,Cephalosporins;Aminoglycosides
+7624,Escherichia coli,"Korea, South",2019,78,Elderly,0,1,Fluoroquinolones
+7627,Escherichia coli,"Korea, South",2019,80,Elderly,0,2,Cephalosporins;Fluoroquinolones
+7633,Enterobacter cloacae,"Korea, South",2019,72,Elderly,0,0,
+7728,Escherichia coli,Venezuela,2019,1,Pediatric,0,1,Aminoglycosides
+7745,Enterobacter cloacae,Venezuela,2019,14,Pediatric,0,0,
+7777,Klebsiella pneumoniae,Australia,2019,80,Elderly,0,0,
+7814,Serratia marcescens,Australia,2019,73,Elderly,0,0,
+7826,Pseudomonas aeruginosa,Australia,2019,63,Elderly,0,0,
+7828,Klebsiella pneumoniae,Australia,2019,64,Elderly,0,0,
+7868,Klebsiella pneumoniae,Morocco,2019,75,Elderly,0,2,Penicillins;Cephalosporins
+7871,Klebsiella pneumoniae,Morocco,2019,0,Pediatric,0,1,Cephalosporins
+7872,Klebsiella pneumoniae,Morocco,2019,72,Elderly,0,2,Cephalosporins;Aminoglycosides
+7875,Klebsiella pneumoniae,Morocco,2019,1,Pediatric,0,1,Cephalosporins
+7876,Escherichia coli,Morocco,2019,0,Pediatric,0,1,Fluoroquinolones
+7878,Escherichia coli,Morocco,2019,1,Pediatric,0,0,
+7891,Serratia marcescens,Morocco,2019,0,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+7914,Klebsiella pneumoniae,Japan,2019,63,Elderly,0,1,Cephalosporins
+7921,Klebsiella pneumoniae,Japan,2019,75,Elderly,0,0,
+7970,Enterobacter cloacae complex,"Korea, South",2019,78,Elderly,0,0,
+7977,Escherichia coli,"Korea, South",2019,61,Elderly,0,2,Cephalosporins;Fluoroquinolones
+7985,Escherichia coli,"Korea, South",2019,76,Elderly,0,1,Cephalosporins
+7997,Escherichia coli,"Korea, South",2019,77,Elderly,0,1,Aminoglycosides
+7998,Enterobacter cloacae complex,"Korea, South",2019,72,Elderly,0,1,Cephalosporins
+8023,Klebsiella pneumoniae,"Korea, South",2019,78,Elderly,0,0,
+8038,Klebsiella pneumoniae,"Korea, South",2019,67,Elderly,0,2,Penicillins;Cephalosporins
+8042,Enterobacter cloacae,Croatia,2019,70,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+8052,Escherichia coli,Philippines,2019,82,Elderly,0,0,
+8058,Enterobacter cloacae,Philippines,2019,68,Elderly,0,0,
+8084,Escherichia coli,France,2019,71,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8085,Klebsiella pneumoniae,France,2019,73,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+8096,Klebsiella pneumoniae,Netherlands,2019,86,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+8098,Klebsiella pneumoniae,Netherlands,2019,0,Pediatric,0,0,
+8099,Klebsiella pneumoniae,Netherlands,2019,81,Elderly,0,0,
+8105,Escherichia coli,Netherlands,2019,86,Elderly,0,0,
+8107,Escherichia coli,Netherlands,2019,84,Elderly,0,0,
+8109,Escherichia coli,Netherlands,2019,82,Elderly,0,0,
+8110,Escherichia coli,Netherlands,2019,74,Elderly,0,0,
+8114,Escherichia coli,Netherlands,2019,86,Elderly,0,0,
+8119,Escherichia coli,Netherlands,2019,82,Elderly,0,0,
+8124,Klebsiella pneumoniae,Netherlands,2019,87,Elderly,0,0,
+8144,Pseudomonas aeruginosa,Netherlands,2019,15,Pediatric,0,0,
+8158,Klebsiella pneumoniae,Spain,2019,81,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+8180,Serratia marcescens,Spain,2019,61,Elderly,0,0,
+8183,Serratia marcescens,Spain,2019,73,Elderly,0,1,Aminoglycosides
+8188,Enterobacter cloacae,Spain,2019,71,Elderly,0,0,
+8202,Klebsiella pneumoniae,Spain,2019,76,Elderly,0,1,Penicillins
+8203,Klebsiella pneumoniae,Spain,2019,72,Elderly,0,0,
+8204,Klebsiella pneumoniae,Spain,2019,83,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8206,Klebsiella pneumoniae,Spain,2019,71,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+8210,Escherichia coli,Spain,2019,77,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+8216,Escherichia coli,Spain,2019,87,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8245,Pseudomonas aeruginosa,Greece,2019,66,Elderly,0,0,
+8248,Escherichia coli,Greece,2019,89,Elderly,0,1,Penicillins
+8257,Klebsiella pneumoniae,Greece,2019,75,Elderly,0,2,Cephalosporins;Aminoglycosides
+8263,Pseudomonas aeruginosa,Greece,2019,77,Elderly,0,0,
+8268,Klebsiella pneumoniae,Greece,2019,66,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+8271,Pseudomonas aeruginosa,Greece,2019,79,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+8277,Escherichia coli,Greece,2019,78,Elderly,0,1,Penicillins
+8325,Serratia marcescens,Italy,2019,0,Pediatric,0,0,
+8326,Serratia marcescens,Italy,2019,76,Elderly,0,0,
+8332,Escherichia coli,Italy,2019,70,Elderly,0,0,
+8333,Escherichia coli,Italy,2019,62,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8335,Serratia marcescens,Italy,2019,0,Pediatric,0,0,
+8336,Klebsiella pneumoniae,Italy,2019,68,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+8339,Escherichia coli,Italy,2019,70,Elderly,0,0,
+8344,Enterobacter cloacae,Italy,2019,80,Elderly,0,2,Penicillins;Cephalosporins
+8346,Klebsiella pneumoniae,Italy,2019,1,Pediatric,0,2,Cephalosporins;Aminoglycosides
+8348,Klebsiella pneumoniae,Italy,2019,78,Elderly,0,0,
+8366,Klebsiella pneumoniae,Italy,2019,81,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+8367,Klebsiella pneumoniae,Italy,2019,71,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+8368,Klebsiella pneumoniae,Italy,2019,69,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+8373,Klebsiella pneumoniae,Italy,2019,66,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+8403,Klebsiella pneumoniae,Italy,2019,83,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+8478,Klebsiella pneumoniae,Kuwait,2019,1,Pediatric,0,0,
+8480,Klebsiella pneumoniae,Kuwait,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+8481,Klebsiella pneumoniae,Kuwait,2019,0,Pediatric,0,1,Cephalosporins
+8487,Pseudomonas aeruginosa,Kuwait,2019,63,Elderly,0,0,
+8492,Klebsiella pneumoniae,United Kingdom,2019,84,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+8504,Escherichia coli,United States,2019,87,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8511,Escherichia coli,United States,2019,79,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+8512,Escherichia coli,United States,2019,70,Elderly,1,3,Penicillins;Fluoroquinolones;Aminoglycosides
+8513,Escherichia coli,United States,2019,73,Elderly,0,0,
+8518,Escherichia coli,United States,2019,91,Elderly,0,1,Fluoroquinolones
+8525,Pseudomonas aeruginosa,United States,2019,69,Elderly,0,0,
+8528,Escherichia coli,United States,2019,78,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8535,Escherichia coli,United States,2019,73,Elderly,0,1,Fluoroquinolones
+8536,Escherichia coli,United States,2019,84,Elderly,0,1,Fluoroquinolones
+8541,Escherichia coli,United States,2019,12,Pediatric,0,1,Aminoglycosides
+8542,Klebsiella pneumoniae,United States,2019,69,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8544,Klebsiella pneumoniae,United States,2019,67,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+8545,Klebsiella pneumoniae,United States,2019,61,Elderly,0,0,
+8547,Escherichia coli,Czech Republic,2019,0,Pediatric,0,0,
+8548,Escherichia coli,Czech Republic,2019,74,Elderly,0,0,
+8549,Escherichia coli,Czech Republic,2019,69,Elderly,0,1,Fluoroquinolones
+8550,Escherichia coli,Czech Republic,2019,79,Elderly,0,0,
+8577,Klebsiella pneumoniae,Venezuela,2019,64,Elderly,0,1,Cephalosporins
+8594,Escherichia coli,Venezuela,2019,83,Elderly,0,1,Fluoroquinolones
+8602,Escherichia coli,United States,2018,66,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8603,Escherichia coli,United States,2018,1,Pediatric,0,0,
+8610,Escherichia coli,United States,2019,67,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8620,Klebsiella pneumoniae,United States,2019,72,Elderly,0,0,
+8643,Klebsiella pneumoniae,South Africa,2019,61,Elderly,0,0,
+8666,Escherichia coli,Nigeria,2019,10,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+8669,Klebsiella pneumoniae,Nigeria,2019,65,Elderly,0,1,Cephalosporins
+8676,Klebsiella pneumoniae,Nigeria,2019,0,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+8677,Serratia marcescens,Nigeria,2019,0,Pediatric,0,0,
+8678,Serratia marcescens,Nigeria,2019,0,Pediatric,0,0,
+8679,Klebsiella pneumoniae,Nigeria,2019,75,Elderly,0,1,Fluoroquinolones
+8680,Klebsiella pneumoniae,Nigeria,2019,0,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+8692,Citrobacter koseri,United States,2018,90,Elderly,0,0,
+8694,Enterobacter cloacae,United States,2019,61,Elderly,0,2,Penicillins;Cephalosporins
+8707,Klebsiella pneumoniae,United States,2018,75,Elderly,0,0,
+8720,Pseudomonas aeruginosa,United States,2019,3,Pediatric,0,0,
+8755,Serratia marcescens,Spain,2019,76,Elderly,0,0,
+8757,Klebsiella pneumoniae,Spain,2019,73,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+8773,Escherichia coli,"Korea, South",2019,81,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8778,Escherichia coli,"Korea, South",2019,69,Elderly,0,0,
+8779,Escherichia coli,"Korea, South",2019,96,Elderly,0,0,
+8786,Escherichia coli,"Korea, South",2019,63,Elderly,0,1,Fluoroquinolones
+8791,Escherichia coli,"Korea, South",2019,86,Elderly,0,0,
+8794,Escherichia coli,"Korea, South",2019,66,Elderly,0,0,
+8798,Escherichia coli,"Korea, South",2019,80,Elderly,0,0,
+8799,Escherichia coli,"Korea, South",2019,92,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8812,Escherichia coli,"Korea, South",2019,69,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8814,Pseudomonas aeruginosa,"Korea, South",2019,76,Elderly,0,1,Fluoroquinolones
+8817,Escherichia coli,"Korea, South",2019,65,Elderly,0,1,Fluoroquinolones
+8819,Escherichia coli,"Korea, South",2019,77,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8851,Escherichia coli,Mexico,2019,66,Elderly,0,1,Cephalosporins
+8865,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,2,Penicillins;Cephalosporins
+8866,Klebsiella pneumoniae,Mexico,2019,64,Elderly,0,2,Cephalosporins;Aminoglycosides
+8869,Klebsiella pneumoniae,Mexico,2019,62,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+8872,Klebsiella pneumoniae,Mexico,2019,73,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+8874,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,1,Cephalosporins
+8880,Enterobacter cloacae,Mexico,2019,1,Pediatric,0,0,
+8887,Serratia marcescens,Mexico,2019,2,Pediatric,0,0,
+8888,Serratia marcescens,Mexico,2019,1,Pediatric,0,0,
+8889,Serratia marcescens,Mexico,2019,0,Pediatric,0,0,
+8928,Enterobacter cloacae,Lithuania,2019,71,Elderly,0,0,
+8929,Escherichia coli,Lithuania,2019,87,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+8930,Klebsiella pneumoniae,Lithuania,2019,77,Elderly,0,2,Cephalosporins;Aminoglycosides
+8931,Escherichia coli,Lithuania,2019,68,Elderly,0,2,Cephalosporins;Fluoroquinolones
+8933,Pseudomonas aeruginosa,Lithuania,2019,66,Elderly,0,0,
+8938,Klebsiella pneumoniae,Lithuania,2019,88,Elderly,0,1,Cephalosporins
+8941,Klebsiella pneumoniae,Lithuania,2019,71,Elderly,0,1,Penicillins
+8943,Klebsiella pneumoniae,Lithuania,2019,70,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+8951,Klebsiella pneumoniae,Lithuania,2019,64,Elderly,0,1,Penicillins
+8956,Klebsiella pneumoniae,Lithuania,2019,72,Elderly,0,0,
+8966,Escherichia coli,Lithuania,2019,0,Pediatric,0,1,Cephalosporins
+8986,Escherichia coli,Spain,2019,84,Elderly,0,0,
+8987,Escherichia coli,Spain,2019,72,Elderly,0,0,
+9010,Escherichia coli,Spain,2019,81,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+9011,Escherichia coli,Spain,2019,74,Elderly,0,0,
+9012,Escherichia coli,Spain,2019,71,Elderly,0,1,Fluoroquinolones
+9049,Escherichia coli,United Kingdom,2019,93,Elderly,0,0,
+9050,Escherichia coli,United Kingdom,2019,78,Elderly,0,2,Cephalosporins;Fluoroquinolones
+9051,Escherichia coli,United Kingdom,2019,15,Pediatric,0,2,Penicillins;Fluoroquinolones
+9054,Escherichia coli,United Kingdom,2019,74,Elderly,0,0,
+9055,Escherichia coli,United Kingdom,2019,83,Elderly,0,1,Aminoglycosides
+9057,Klebsiella pneumoniae,United Kingdom,2019,77,Elderly,0,0,
+9058,Klebsiella pneumoniae,United Kingdom,2019,70,Elderly,0,0,
+9064,Klebsiella pneumoniae,United Kingdom,2019,61,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+9066,Citrobacter koseri,United Kingdom,2019,77,Elderly,0,0,
+9082,Serratia marcescens,United Kingdom,2019,0,Pediatric,0,0,
+9092,Klebsiella pneumoniae,Thailand,2019,4,Pediatric,0,1,Cephalosporins
+9093,Escherichia coli,Thailand,2019,78,Elderly,0,2,Cephalosporins;Fluoroquinolones
+9094,Escherichia coli,Thailand,2019,90,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+9128,Escherichia coli,United States,2019,73,Elderly,0,1,Fluoroquinolones
+9131,Escherichia coli,United States,2019,90,Elderly,0,0,
+9132,Escherichia coli,United States,2019,76,Elderly,0,0,
+9139,Escherichia coli,United States,2019,80,Elderly,0,0,
+9140,Escherichia coli,United States,2019,74,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+9141,Escherichia coli,United States,2019,81,Elderly,0,0,
+9143,Klebsiella pneumoniae,United States,2019,66,Elderly,0,0,
+9158,Klebsiella pneumoniae,United States,2019,77,Elderly,0,0,
+9159,Klebsiella pneumoniae,United States,2019,61,Elderly,0,0,
+9199,Escherichia coli,Germany,2018,74,Elderly,0,0,
+9237,Klebsiella pneumoniae,Germany,2019,70,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+9259,Pseudomonas aeruginosa,Canada,2019,63,Elderly,0,0,
+9260,Pseudomonas aeruginosa,Canada,2019,61,Elderly,0,2,Carbapenems;Aminoglycosides
+9265,Escherichia coli,Canada,2019,72,Elderly,0,2,Penicillins;Fluoroquinolones
+9270,Escherichia coli,Canada,2019,78,Elderly,0,1,Fluoroquinolones
+9271,Escherichia coli,Canada,2019,81,Elderly,0,0,
+9329,Escherichia coli,Canada,2019,66,Elderly,0,0,
+9330,Escherichia coli,Canada,2019,76,Elderly,0,1,Fluoroquinolones
+9331,Escherichia coli,Canada,2019,69,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+9332,Escherichia coli,Canada,2019,61,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+9336,Klebsiella pneumoniae,Canada,2019,69,Elderly,0,0,
+9339,Klebsiella pneumoniae,Canada,2019,66,Elderly,0,0,
+9340,Klebsiella pneumoniae,Canada,2019,76,Elderly,0,0,
+9341,Klebsiella pneumoniae,Canada,2019,84,Elderly,0,1,Penicillins
+9344,Pseudomonas aeruginosa,Canada,2019,80,Elderly,0,0,
+9345,Pseudomonas aeruginosa,Canada,2019,65,Elderly,0,0,
+9348,Enterobacter cloacae complex,Canada,2019,68,Elderly,0,1,Fluoroquinolones
+9349,Klebsiella pneumoniae,Canada,2019,62,Elderly,0,0,
+9351,Klebsiella pneumoniae,Canada,2019,0,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+9352,Klebsiella pneumoniae,Canada,2019,76,Elderly,0,2,Penicillins;Cephalosporins
+9354,Escherichia coli,Canada,2019,71,Elderly,0,0,
+9355,Escherichia coli,Canada,2019,83,Elderly,0,1,Cephalosporins
+9357,Klebsiella pneumoniae,Poland,2019,70,Elderly,0,2,Cephalosporins;Fluoroquinolones
+9365,Escherichia coli,Poland,2019,0,Pediatric,0,0,
+9376,Klebsiella pneumoniae,Spain,2018,77,Elderly,0,0,
+9392,Klebsiella pneumoniae,Spain,2019,65,Elderly,0,1,Cephalosporins
+9416,Enterobacter cloacae,Spain,2019,84,Elderly,0,0,
+9466,Pseudomonas aeruginosa,Sweden,2019,90,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+9467,Serratia marcescens,Sweden,2019,80,Elderly,0,0,
+9468,Enterobacter cloacae,Sweden,2019,66,Elderly,0,2,Penicillins;Cephalosporins
+9471,Pseudomonas aeruginosa,Sweden,2019,65,Elderly,0,0,
+9472,Klebsiella pneumoniae,Sweden,2019,83,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+9473,Klebsiella pneumoniae,Sweden,2019,73,Elderly,0,0,
+9474,Enterobacter cloacae,Sweden,2019,71,Elderly,0,0,
+9477,Pseudomonas aeruginosa,Sweden,2019,86,Elderly,0,0,
+9478,Pseudomonas aeruginosa,Sweden,2019,90,Elderly,0,0,
+9479,Klebsiella pneumoniae,Sweden,2019,68,Elderly,0,1,Aminoglycosides
+9480,Klebsiella pneumoniae,Sweden,2019,85,Elderly,0,0,
+9481,Klebsiella pneumoniae,Sweden,2019,72,Elderly,0,0,
+9484,Klebsiella pneumoniae,Sweden,2019,84,Elderly,0,0,
+9494,Escherichia coli,Spain,2019,77,Elderly,0,2,Penicillins;Fluoroquinolones
+9505,Escherichia coli,Argentina,2019,65,Elderly,0,0,
+9510,Klebsiella pneumoniae,Argentina,2018,63,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+9530,Klebsiella pneumoniae,Argentina,2019,71,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+9541,Citrobacter koseri,Chile,2019,62,Elderly,0,0,
+9552,Klebsiella pneumoniae,Chile,2019,61,Elderly,0,1,Fluoroquinolones
+9567,Pseudomonas aeruginosa,Chile,2019,81,Elderly,1,3,Penicillins;Carbapenems;Fluoroquinolones
+9571,Escherichia coli,United States,2019,77,Elderly,0,0,
+9572,Enterobacter cloacae,United States,2019,64,Elderly,0,0,
+9584,Enterobacter cloacae,Romania,2019,61,Elderly,0,2,Cephalosporins;Aminoglycosides
+9585,Escherichia coli,Romania,2019,67,Elderly,0,1,Fluoroquinolones
+9587,Escherichia coli,Romania,2019,80,Elderly,0,0,
+9589,Escherichia coli,Romania,2019,66,Elderly,0,0,
+9600,Klebsiella pneumoniae,Romania,2019,64,Elderly,0,0,
+9605,Klebsiella pneumoniae,Romania,2019,73,Elderly,0,0,
+9607,Klebsiella pneumoniae,Romania,2019,71,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+9651,Klebsiella pneumoniae,United States,2019,62,Elderly,0,0,
+9659,Escherichia coli,United States,2019,85,Elderly,0,0,
+9668,Escherichia coli,United States,2019,69,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+9670,Escherichia coli,United States,2019,71,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+9677,Serratia marcescens,United States,2019,69,Elderly,0,0,
+9689,Klebsiella pneumoniae,United States,2019,84,Elderly,0,0,
+9697,Pseudomonas aeruginosa,United States,2019,70,Elderly,0,0,
+9698,Escherichia coli,United States,2019,95,Elderly,0,0,
+9712,Klebsiella pneumoniae,United States,2019,70,Elderly,0,1,Fluoroquinolones
+9730,Escherichia coli,United States,2019,93,Elderly,0,0,
+9733,Klebsiella pneumoniae,United States,2019,69,Elderly,0,0,
+9739,Klebsiella pneumoniae,United States,2019,69,Elderly,0,0,
+9741,Klebsiella pneumoniae,United States,2019,90,Elderly,0,0,
+9747,Escherichia coli,United States,2019,1,Pediatric,0,0,
+9765,Escherichia coli,United States,2019,1,Pediatric,0,2,Fluoroquinolones;Aminoglycosides
+9774,Escherichia coli,United States,2019,1,Pediatric,0,0,
+9777,Escherichia coli,United States,2019,1,Pediatric,0,1,Fluoroquinolones
+9779,Escherichia coli,United States,2019,17,Pediatric,0,1,Fluoroquinolones
+9792,Escherichia coli,United States,2019,94,Elderly,0,0,
+9799,Escherichia coli,United States,2019,89,Elderly,0,0,
+9827,Escherichia coli,United States,2019,85,Elderly,0,0,
+9832,Enterobacter cloacae,United States,2019,84,Elderly,0,0,
+9833,Escherichia coli,United States,2019,75,Elderly,0,0,
+9846,Klebsiella pneumoniae,Switzerland,2019,71,Elderly,0,0,
+9850,Citrobacter koseri,Switzerland,2019,74,Elderly,0,0,
+9862,Klebsiella pneumoniae,Spain,2019,10,Pediatric,0,0,
+9884,Escherichia coli,United Kingdom,2019,83,Elderly,0,1,Fluoroquinolones
+9885,Escherichia coli,United Kingdom,2019,81,Elderly,0,0,
+9890,Klebsiella pneumoniae,United Kingdom,2019,62,Elderly,0,0,
+9904,Enterobacter cloacae,Canada,2019,62,Elderly,0,2,Penicillins;Cephalosporins
+9905,Escherichia coli,Canada,2019,84,Elderly,0,2,Penicillins;Fluoroquinolones
+9906,Escherichia coli,Canada,2019,94,Elderly,0,0,
+9907,Escherichia coli,Canada,2019,98,Elderly,0,0,
+9908,Escherichia coli,Canada,2019,61,Elderly,0,0,
+9909,Escherichia coli,Canada,2019,90,Elderly,0,0,
+9910,Escherichia coli,Canada,2019,73,Elderly,0,0,
+9912,Escherichia coli,Canada,2019,70,Elderly,0,0,
+9915,Escherichia coli,Canada,2019,62,Elderly,0,0,
+9916,Escherichia coli,Canada,2019,65,Elderly,0,1,Fluoroquinolones
+9920,Klebsiella pneumoniae,Canada,2019,72,Elderly,0,0,
+9921,Klebsiella pneumoniae,Canada,2019,70,Elderly,0,0,
+9922,Klebsiella pneumoniae,Canada,2019,86,Elderly,0,0,
+9927,Pseudomonas aeruginosa,Canada,2019,92,Elderly,0,0,
+9929,Pseudomonas aeruginosa,Canada,2019,66,Elderly,0,0,
+9947,Klebsiella pneumoniae,Hungary,2019,65,Elderly,0,0,
+9954,Escherichia coli,Hungary,2019,7,Pediatric,0,0,
+9959,Serratia marcescens,Hungary,2019,61,Elderly,0,0,
+10006,Klebsiella pneumoniae,Germany,2019,65,Elderly,0,0,
+10007,Klebsiella pneumoniae,Germany,2019,63,Elderly,0,1,Fluoroquinolones
+10045,Pseudomonas aeruginosa,Romania,2019,80,Elderly,0,0,
+10046,Serratia marcescens,Romania,2019,16,Pediatric,0,0,
+10047,Serratia marcescens,Romania,2019,3,Pediatric,0,0,
+10048,Serratia marcescens,Romania,2019,3,Pediatric,0,0,
+10051,Escherichia coli,Romania,2019,69,Elderly,0,0,
+10052,Escherichia coli,Romania,2019,68,Elderly,0,0,
+10053,Klebsiella pneumoniae,Romania,2019,83,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+10067,Escherichia coli,Romania,2019,74,Elderly,0,0,
+10070,Escherichia coli,Romania,2019,79,Elderly,0,0,
+10105,Escherichia coli,United States,2019,67,Elderly,0,1,Fluoroquinolones
+10109,Pseudomonas aeruginosa,United States,2019,61,Elderly,0,0,
+10111,Pseudomonas aeruginosa,United States,2019,62,Elderly,0,2,Penicillins;Cephalosporins
+10112,Klebsiella pneumoniae,United States,2019,62,Elderly,0,0,
+10113,Klebsiella pneumoniae,United States,2019,82,Elderly,0,0,
+10114,Pseudomonas aeruginosa,United States,2019,64,Elderly,0,0,
+10116,Klebsiella pneumoniae,United States,2019,1,Pediatric,0,0,
+10118,Escherichia coli,United States,2019,68,Elderly,0,0,
+10120,Escherichia coli,United States,2019,71,Elderly,0,0,
+10121,Klebsiella pneumoniae,United States,2019,63,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+10122,Klebsiella pneumoniae,United States,2019,82,Elderly,0,0,
+10137,Klebsiella pneumoniae,Taiwan,2019,91,Elderly,0,1,Cephalosporins
+10141,Klebsiella pneumoniae,Taiwan,2019,66,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+10167,Citrobacter koseri,France,2018,70,Elderly,0,0,
+10172,Escherichia coli,France,2018,62,Elderly,0,0,
+10173,Escherichia coli,France,2018,70,Elderly,0,1,Penicillins
+10175,Escherichia coli,France,2018,85,Elderly,0,0,
+10194,Serratia marcescens,France,2018,68,Elderly,0,0,
+10236,Escherichia coli,Australia,2019,71,Elderly,0,0,
+10243,Klebsiella pneumoniae,Australia,2019,77,Elderly,0,0,
+10246,Escherichia coli,Australia,2019,82,Elderly,0,0,
+10276,Escherichia coli,United States,2019,84,Elderly,0,0,
+10277,Escherichia coli,United States,2019,62,Elderly,0,0,
+10278,Escherichia coli,United States,2019,74,Elderly,0,0,
+10280,Escherichia coli,United States,2019,68,Elderly,0,0,
+10282,Klebsiella pneumoniae,United States,2019,71,Elderly,0,0,
+10289,Serratia marcescens,United States,2019,69,Elderly,0,1,Fluoroquinolones
+10300,Pseudomonas aeruginosa,United States,2019,61,Elderly,0,0,
+10327,Escherichia coli,Panama,2019,74,Elderly,0,1,Fluoroquinolones
+10328,Klebsiella pneumoniae,Panama,2019,76,Elderly,0,0,
+10369,Pseudomonas aeruginosa,South Africa,2019,1,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+10373,Klebsiella pneumoniae,South Africa,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+10418,Escherichia coli,Netherlands,2019,80,Elderly,0,0,
+10424,Escherichia coli,Netherlands,2019,75,Elderly,0,0,
+10425,Escherichia coli,Netherlands,2019,90,Elderly,0,0,
+10469,Pseudomonas aeruginosa,France,2019,1,Pediatric,0,0,
+10480,Klebsiella pneumoniae,Croatia,2019,6,Pediatric,0,2,Penicillins;Cephalosporins
+10506,Escherichia coli,Mexico,2019,70,Elderly,0,0,
+10525,Escherichia coli,France,2019,69,Elderly,0,0,
+10538,Serratia marcescens,France,2019,69,Elderly,0,0,
+10539,Serratia marcescens,France,2019,81,Elderly,0,0,
+10544,Pseudomonas aeruginosa,Hungary,2019,69,Elderly,0,0,
+10547,Citrobacter koseri,Hungary,2019,77,Elderly,0,0,
+10549,Escherichia coli,Hungary,2019,81,Elderly,0,2,Penicillins;Fluoroquinolones
+10557,Klebsiella pneumoniae,Hungary,2019,78,Elderly,0,0,
+10618,Escherichia coli,United States,2019,68,Elderly,0,1,Aminoglycosides
+10620,Escherichia coli,United States,2019,67,Elderly,0,0,
+10621,Escherichia coli,United States,2019,63,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+10622,Escherichia coli,United States,2019,69,Elderly,0,0,
+10623,Escherichia coli,United States,2019,67,Elderly,0,0,
+10624,Escherichia coli,United States,2019,71,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+10625,Escherichia coli,United States,2019,83,Elderly,0,1,Fluoroquinolones
+10627,Escherichia coli,United States,2019,94,Elderly,0,0,
+10634,Klebsiella pneumoniae,United States,2019,74,Elderly,0,0,
+10636,Klebsiella pneumoniae,United States,2019,69,Elderly,0,1,Cephalosporins
+10637,Klebsiella pneumoniae,United States,2019,71,Elderly,0,0,
+10654,Pseudomonas aeruginosa,Colombia,2019,81,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+10655,Serratia marcescens,Colombia,2019,73,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+10657,Serratia marcescens,Colombia,2019,73,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+10658,Serratia marcescens,Colombia,2019,95,Elderly,0,0,
+10659,Escherichia coli,Colombia,2019,69,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+10667,Enterobacter cloacae,Colombia,2019,63,Elderly,0,0,
+10672,Klebsiella pneumoniae,Colombia,2019,71,Elderly,0,0,
+10673,Escherichia coli,Colombia,2019,63,Elderly,0,1,Fluoroquinolones
+10674,Enterobacter cloacae,Colombia,2019,0,Pediatric,0,0,
+10675,Klebsiella pneumoniae,Colombia,2019,72,Elderly,0,0,
+10676,Escherichia coli,Colombia,2019,73,Elderly,0,0,
+10677,Klebsiella pneumoniae,Colombia,2019,89,Elderly,0,0,
+10686,Pseudomonas aeruginosa,Colombia,2019,63,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+10693,Escherichia coli,Colombia,2019,2,Pediatric,0,2,Cephalosporins;Fluoroquinolones
+10698,Klebsiella pneumoniae,Colombia,2019,0,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+10699,Klebsiella pneumoniae,Colombia,2019,64,Elderly,0,0,
+10713,Escherichia coli,United States,2019,0,Pediatric,0,0,
+10716,Klebsiella pneumoniae,United States,2019,84,Elderly,0,0,
+10717,Escherichia coli,United States,2019,89,Elderly,0,2,Cephalosporins;Fluoroquinolones
+10718,Escherichia coli,United States,2019,87,Elderly,0,2,Cephalosporins;Fluoroquinolones
+10719,Escherichia coli,United States,2019,66,Elderly,0,1,Fluoroquinolones
+10720,Escherichia coli,United States,2019,67,Elderly,0,0,
+10721,Escherichia coli,United States,2019,71,Elderly,0,1,Penicillins
+10722,Escherichia coli,United States,2019,77,Elderly,0,2,Cephalosporins;Fluoroquinolones
+10725,Klebsiella pneumoniae,United States,2019,65,Elderly,0,0,
+10732,Klebsiella pneumoniae,United States,2019,82,Elderly,0,0,
+10759,Klebsiella pneumoniae,United Kingdom,2019,61,Elderly,0,0,
+10760,Klebsiella pneumoniae,United Kingdom,2019,72,Elderly,0,0,
+10765,Pseudomonas aeruginosa,United Kingdom,2019,84,Elderly,0,0,
+10768,Serratia marcescens,United Kingdom,2019,79,Elderly,0,0,
+10772,Escherichia coli,Nigeria,2019,1,Pediatric,0,0,
+10777,Klebsiella pneumoniae,Nigeria,2019,0,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+10783,Escherichia coli,Nigeria,2019,0,Pediatric,0,0,
+10801,Klebsiella pneumoniae,Guatemala,2019,1,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+10828,Enterobacter cloacae,Turkey,2019,64,Elderly,0,0,
+10855,Klebsiella pneumoniae,Turkey,2019,1,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+10860,Klebsiella pneumoniae,Turkey,2019,17,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+10861,Klebsiella pneumoniae,Turkey,2019,63,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+10874,Escherichia coli,Turkey,2019,62,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+10881,Escherichia coli,Turkey,2019,73,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+10884,Escherichia coli,Turkey,2019,83,Elderly,0,1,Fluoroquinolones
+10899,Pseudomonas aeruginosa,United Kingdom,2019,75,Elderly,0,2,Penicillins;Cephalosporins
+10900,Pseudomonas aeruginosa,United Kingdom,2019,17,Pediatric,0,0,
+10903,Escherichia coli,United Kingdom,2019,86,Elderly,0,0,
+10904,Escherichia coli,United Kingdom,2019,75,Elderly,0,0,
+10905,Escherichia coli,United Kingdom,2019,90,Elderly,0,0,
+10906,Escherichia coli,United Kingdom,2019,72,Elderly,0,0,
+10907,Klebsiella pneumoniae,United Kingdom,2019,97,Elderly,0,1,Penicillins
+10908,Klebsiella pneumoniae,United Kingdom,2019,85,Elderly,0,0,
+10943,Escherichia coli,Colombia,2019,74,Elderly,0,0,
+10945,Escherichia coli,Colombia,2019,83,Elderly,0,2,Cephalosporins;Fluoroquinolones
+10948,Klebsiella pneumoniae,Colombia,2019,66,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+10949,Klebsiella pneumoniae,Colombia,2019,78,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+10953,Escherichia coli,Colombia,2019,64,Elderly,0,0,
+10955,Escherichia coli,Colombia,2019,89,Elderly,0,1,Aminoglycosides
+10978,Escherichia coli,Colombia,2019,86,Elderly,0,1,Aminoglycosides
+10979,Klebsiella pneumoniae,Colombia,2019,71,Elderly,0,1,Penicillins
+10990,Klebsiella pneumoniae,Morocco,2019,80,Elderly,0,0,
+10998,Escherichia coli,Morocco,2019,70,Elderly,0,0,
+11012,Klebsiella pneumoniae,Morocco,2019,3,Pediatric,0,0,
+11105,Escherichia coli,India,2019,1,Pediatric,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+11111,Escherichia coli,India,2019,68,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+11112,Klebsiella pneumoniae,India,2019,0,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+11127,Pseudomonas aeruginosa,Poland,2019,6,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+11128,Escherichia coli,Poland,2019,0,Pediatric,0,0,
+11147,Escherichia coli,Chile,2019,17,Pediatric,0,1,Cephalosporins
+11148,Escherichia coli,Chile,2019,72,Elderly,0,0,
+11151,Escherichia coli,Chile,2019,87,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11174,Klebsiella pneumoniae,Morocco,2019,62,Elderly,0,1,Fluoroquinolones
+11203,Klebsiella pneumoniae,Saudi Arabia,2019,1,Pediatric,0,1,Fluoroquinolones
+11217,Enterobacter cloacae,Saudi Arabia,2019,1,Pediatric,0,0,
+11218,Klebsiella pneumoniae,Saudi Arabia,2019,1,Pediatric,0,0,
+11225,Escherichia coli,Saudi Arabia,2019,75,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11226,Klebsiella pneumoniae,Saudi Arabia,2019,87,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11228,Klebsiella pneumoniae,Saudi Arabia,2019,68,Elderly,0,0,
+11229,Enterobacter cloacae,Saudi Arabia,2019,1,Pediatric,0,0,
+11237,Escherichia coli,Saudi Arabia,2019,67,Elderly,0,1,Cephalosporins
+11246,Klebsiella pneumoniae,Saudi Arabia,2019,17,Pediatric,1,3,Penicillins;Cephalosporins;Carbapenems
+11257,Pseudomonas aeruginosa,Canada,2019,77,Elderly,0,1,Carbapenems
+11263,Pseudomonas aeruginosa,Canada,2019,68,Elderly,0,0,
+11265,Escherichia coli,Canada,2019,87,Elderly,0,1,Fluoroquinolones
+11267,Escherichia coli,Canada,2019,70,Elderly,0,0,
+11270,Escherichia coli,Canada,2019,90,Elderly,0,1,Fluoroquinolones
+11276,Escherichia coli,Canada,2019,77,Elderly,0,0,
+11277,Escherichia coli,Canada,2019,76,Elderly,0,1,Fluoroquinolones
+11278,Escherichia coli,Canada,2019,91,Elderly,0,0,
+11280,Klebsiella pneumoniae,Canada,2019,102,Elderly,0,0,
+11281,Klebsiella pneumoniae,Canada,2019,65,Elderly,0,0,
+11291,Klebsiella pneumoniae,Canada,2019,84,Elderly,0,0,
+11293,Klebsiella pneumoniae,Canada,2019,91,Elderly,0,0,
+11321,Escherichia coli,Turkey,2019,64,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11353,Pseudomonas aeruginosa,Turkey,2019,78,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+11383,Klebsiella pneumoniae,Turkey,2019,71,Elderly,0,0,
+11404,Escherichia coli,Russia,2019,67,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11406,Klebsiella pneumoniae,Russia,2019,65,Elderly,0,1,Cephalosporins
+11434,Klebsiella pneumoniae,Russia,2019,64,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+11448,Escherichia coli,Russia,2019,70,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+11461,Escherichia coli,Russia,2019,69,Elderly,0,0,
+11462,Escherichia coli,Russia,2019,63,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11463,Escherichia coli,Russia,2019,75,Elderly,0,0,
+11545,Pseudomonas aeruginosa,Russia,2019,1,Pediatric,0,1,Carbapenems
+11548,Pseudomonas aeruginosa,Russia,2019,61,Elderly,0,0,
+11549,Pseudomonas aeruginosa,Russia,2019,68,Elderly,0,0,
+11570,Klebsiella pneumoniae,Russia,2019,62,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11583,Escherichia coli,Russia,2019,69,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+11588,Pseudomonas aeruginosa,Russia,2019,61,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11602,Escherichia coli,Russia,2019,68,Elderly,0,0,
+11604,Escherichia coli,Russia,2019,74,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11605,Klebsiella pneumoniae,Russia,2019,66,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11607,Pseudomonas aeruginosa,Russia,2019,96,Elderly,0,0,
+11609,Klebsiella pneumoniae,Russia,2019,77,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+11610,Klebsiella pneumoniae,Russia,2019,75,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11615,Serratia marcescens,Russia,2019,64,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+11616,Klebsiella pneumoniae,Russia,2019,63,Elderly,0,1,Aminoglycosides
+11617,Pseudomonas aeruginosa,Russia,2019,1,Pediatric,0,0,
+11618,Klebsiella pneumoniae,Russia,2019,1,Pediatric,0,2,Cephalosporins;Fluoroquinolones
+11619,Klebsiella pneumoniae,Russia,2019,1,Pediatric,0,2,Cephalosporins;Fluoroquinolones
+11629,Escherichia coli,Russia,2019,64,Elderly,0,1,Fluoroquinolones
+11630,Escherichia coli,Russia,2019,64,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+11638,Klebsiella pneumoniae,Russia,2019,73,Elderly,1,3,Penicillins;Fluoroquinolones;Aminoglycosides
+11639,Klebsiella pneumoniae,Russia,2019,70,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+11641,Pseudomonas aeruginosa,Russia,2019,64,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11642,Klebsiella pneumoniae,Russia,2019,64,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11643,Klebsiella pneumoniae,Russia,2019,69,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11656,Pseudomonas aeruginosa,Russia,2019,1,Pediatric,0,0,
+11658,Enterobacter cloacae,Russia,2019,66,Elderly,0,0,
+11659,Pseudomonas aeruginosa,Russia,2019,61,Elderly,0,0,
+11660,Pseudomonas aeruginosa,Russia,2019,1,Pediatric,0,0,
+11663,Pseudomonas aeruginosa,Russia,2019,86,Elderly,0,2,Penicillins;Cephalosporins
+11693,Escherichia coli,Russia,2019,71,Elderly,0,1,Fluoroquinolones
+11695,Escherichia coli,Russia,2019,69,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11697,Klebsiella pneumoniae,Russia,2019,61,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11701,Escherichia coli,Russia,2019,66,Elderly,0,1,Fluoroquinolones
+11711,Klebsiella pneumoniae,Russia,2019,71,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11715,Escherichia coli,Russia,2019,84,Elderly,0,0,
+11728,Escherichia coli,Russia,2019,61,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+11757,Klebsiella pneumoniae,Russia,2019,71,Elderly,0,2,Penicillins;Cephalosporins
+11773,Escherichia coli,Russia,2019,86,Elderly,0,0,
+11776,Klebsiella pneumoniae,Russia,2019,17,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+11777,Pseudomonas aeruginosa,Russia,2019,65,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11779,Escherichia coli,Russia,2019,79,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+11780,Serratia marcescens,Russia,2019,69,Elderly,0,1,Cephalosporins
+11809,Pseudomonas aeruginosa,Russia,2019,69,Elderly,1,3,Cephalosporins;Carbapenems;Fluoroquinolones
+11811,Pseudomonas aeruginosa,Russia,2019,62,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+11844,Klebsiella pneumoniae,Russia,2019,75,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+11849,Escherichia coli,Russia,2019,63,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+11850,Enterobacter cloacae,Russia,2019,67,Elderly,0,2,Cephalosporins;Aminoglycosides
+11867,Escherichia coli,Russia,2019,72,Elderly,0,0,
+11893,Escherichia coli,Russia,2019,70,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11902,Escherichia coli,United States,2019,68,Elderly,0,0,
+11903,Escherichia coli,United States,2019,83,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11906,Escherichia coli,United States,2019,81,Elderly,0,0,
+11917,Escherichia coli,United States,2019,67,Elderly,0,0,
+11923,Klebsiella pneumoniae,United States,2019,73,Elderly,0,0,
+11924,Klebsiella pneumoniae,United States,2019,74,Elderly,0,0,
+11939,Enterobacter cloacae,India,2019,72,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+11940,Escherichia coli,India,2019,72,Elderly,0,1,Cephalosporins
+11942,Serratia marcescens,India,2019,64,Elderly,0,0,
+11944,Escherichia coli,India,2019,68,Elderly,0,2,Cephalosporins;Fluoroquinolones
+11948,Klebsiella pneumoniae,India,2019,62,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11951,Escherichia coli,India,2019,74,Elderly,0,0,
+11953,Klebsiella pneumoniae,India,2019,81,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+11972,Enterobacter cloacae,India,2019,64,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+11974,Escherichia coli,Belgium,2019,1,Pediatric,0,0,
+11975,Escherichia coli,Belgium,2019,74,Elderly,0,0,
+11993,Serratia marcescens,Belgium,2019,81,Elderly,0,2,Penicillins;Cephalosporins
+11996,Pseudomonas aeruginosa,Belgium,2019,74,Elderly,0,1,Fluoroquinolones
+11997,Citrobacter koseri,Belgium,2019,62,Elderly,0,0,
+11998,Escherichia coli,Belgium,2019,88,Elderly,0,0,
+12004,Klebsiella pneumoniae,Belgium,2019,92,Elderly,0,0,
+12025,Escherichia coli,Poland,2019,81,Elderly,0,0,
+12041,Serratia marcescens,France,2019,17,Pediatric,0,0,
+12043,Escherichia coli,India,2019,67,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+12044,Escherichia coli,India,2019,68,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+12051,Klebsiella pneumoniae,India,2019,72,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12052,Klebsiella pneumoniae,India,2019,1,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+12072,Klebsiella pneumoniae,India,2019,69,Elderly,0,0,
+12088,Escherichia coli,India,2019,73,Elderly,0,2,Cephalosporins;Fluoroquinolones
+12098,Klebsiella pneumoniae,India,2019,75,Elderly,0,0,
+12105,Pseudomonas aeruginosa,Portugal,2019,78,Elderly,0,0,
+12108,Serratia marcescens,Portugal,2019,82,Elderly,0,0,
+12109,Serratia marcescens,Portugal,2019,0,Pediatric,0,0,
+12143,Escherichia coli,United States,2019,84,Elderly,0,0,
+12148,Escherichia coli,United States,2019,76,Elderly,0,2,Cephalosporins;Fluoroquinolones
+12156,Klebsiella pneumoniae,United States,2019,71,Elderly,0,0,
+12160,Klebsiella pneumoniae,United States,2019,82,Elderly,0,0,
+12188,Escherichia coli,United States,2019,63,Elderly,0,0,
+12190,Escherichia coli,United States,2019,72,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+12196,Escherichia coli,United States,2019,69,Elderly,0,1,Fluoroquinolones
+12198,Klebsiella pneumoniae,United States,2019,71,Elderly,0,0,
+12200,Pseudomonas aeruginosa,United States,2019,66,Elderly,0,0,
+12212,Klebsiella pneumoniae,United States,2019,76,Elderly,0,0,
+12214,Klebsiella pneumoniae,United States,2019,77,Elderly,0,0,
+12215,Klebsiella pneumoniae,United States,2019,69,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+12224,Klebsiella pneumoniae,United States,2019,65,Elderly,0,0,
+12228,Escherichia coli,United States,2019,73,Elderly,0,1,Fluoroquinolones
+12238,Escherichia coli,United States,2019,67,Elderly,0,2,Penicillins;Fluoroquinolones
+12239,Escherichia coli,United States,2019,85,Elderly,0,1,Fluoroquinolones
+12241,Escherichia coli,United States,2019,0,Pediatric,0,1,Cephalosporins
+12245,Escherichia coli,United States,2019,0,Pediatric,0,1,Cephalosporins
+12268,Pseudomonas aeruginosa,United States,2019,67,Elderly,0,0,
+12278,Klebsiella pneumoniae,Denmark,2019,79,Elderly,0,1,Aminoglycosides
+12280,Serratia marcescens,Denmark,2019,74,Elderly,0,1,Fluoroquinolones
+12283,Klebsiella pneumoniae,Denmark,2019,71,Elderly,0,0,
+12286,Serratia marcescens,Denmark,2019,77,Elderly,0,0,
+12287,Klebsiella pneumoniae,Denmark,2019,72,Elderly,0,0,
+12303,Enterobacter cloacae,Denmark,2019,1,Pediatric,0,0,
+12305,Klebsiella pneumoniae,Denmark,2019,70,Elderly,0,0,
+12307,Escherichia coli,Denmark,2019,82,Elderly,0,0,
+12312,Escherichia coli,Ukraine,2019,0,Pediatric,0,0,
+12315,Escherichia coli,Ukraine,2019,5,Pediatric,0,0,
+12317,Klebsiella pneumoniae,Ukraine,2019,0,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12318,Klebsiella pneumoniae,Ukraine,2019,0,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12320,Klebsiella pneumoniae,Ukraine,2019,0,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+12322,Klebsiella pneumoniae,Ukraine,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+12325,Klebsiella pneumoniae,Ukraine,2019,0,Pediatric,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+12335,Pseudomonas aeruginosa,Ukraine,2019,15,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12340,Klebsiella pneumoniae,Ukraine,2019,0,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12347,Pseudomonas aeruginosa,Ukraine,2019,3,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12353,Escherichia coli,Philippines,2019,86,Elderly,0,1,Fluoroquinolones
+12355,Escherichia coli,Philippines,2019,77,Elderly,0,2,Cephalosporins;Fluoroquinolones
+12357,Klebsiella pneumoniae,Philippines,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+12360,Citrobacter koseri,Philippines,2019,69,Elderly,0,0,
+12377,Escherichia coli,Spain,2019,81,Elderly,0,0,
+12383,Escherichia coli,Spain,2019,80,Elderly,0,0,
+12384,Escherichia coli,Spain,2019,83,Elderly,0,0,
+12386,Escherichia coli,Spain,2019,73,Elderly,0,2,Cephalosporins;Fluoroquinolones
+12387,Klebsiella pneumoniae,Spain,2019,88,Elderly,0,0,
+12420,Escherichia coli,India,2019,86,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12421,Escherichia coli,India,2019,82,Elderly,0,0,
+12436,Pseudomonas aeruginosa,Taiwan,2019,68,Elderly,0,1,Carbapenems
+12440,Citrobacter koseri,Taiwan,2019,86,Elderly,0,0,
+12441,Citrobacter koseri,Taiwan,2019,77,Elderly,0,0,
+12442,Citrobacter koseri,Taiwan,2019,78,Elderly,0,0,
+12444,Escherichia coli,Taiwan,2019,67,Elderly,0,0,
+12447,Escherichia coli,Taiwan,2019,69,Elderly,0,1,Fluoroquinolones
+12449,Klebsiella pneumoniae,Taiwan,2019,74,Elderly,0,0,
+12452,Klebsiella pneumoniae,Taiwan,2019,61,Elderly,0,2,Cephalosporins;Aminoglycosides
+12456,Klebsiella pneumoniae,Taiwan,2019,89,Elderly,0,0,
+12487,Klebsiella pneumoniae,Belgium,2019,92,Elderly,0,0,
+12490,Enterobacter cloacae,India,2019,0,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12495,Klebsiella pneumoniae,India,2019,0,Pediatric,0,1,Cephalosporins
+12499,Escherichia coli,India,2019,81,Elderly,0,2,Cephalosporins;Fluoroquinolones
+12513,Klebsiella pneumoniae,United States,2019,72,Elderly,0,0,
+12514,Klebsiella pneumoniae,United States,2019,72,Elderly,0,0,
+12519,Escherichia coli,United States,2019,79,Elderly,0,2,Cephalosporins;Fluoroquinolones
+12521,Pseudomonas aeruginosa,United States,2019,94,Elderly,0,0,
+12522,Klebsiella pneumoniae,United States,2019,71,Elderly,0,0,
+12545,Enterobacter cloacae,India,2019,82,Elderly,0,2,Penicillins;Cephalosporins
+12551,Serratia marcescens,India,2019,8,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+12554,Serratia marcescens,India,2019,1,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+12572,Escherichia coli,Poland,2019,68,Elderly,0,2,Penicillins;Fluoroquinolones
+12580,Klebsiella pneumoniae,Poland,2019,91,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+12589,Enterobacter cloacae,Poland,2019,76,Elderly,0,2,Penicillins;Cephalosporins
+12590,Serratia marcescens,Poland,2019,67,Elderly,0,0,
+12595,Pseudomonas aeruginosa,Spain,2019,80,Elderly,0,0,
+12597,Pseudomonas aeruginosa,France,2019,78,Elderly,0,2,Penicillins;Cephalosporins
+12611,Pseudomonas aeruginosa,Greece,2019,81,Elderly,0,0,
+12623,Pseudomonas aeruginosa,Spain,2019,61,Elderly,0,0,
+12637,Pseudomonas aeruginosa,Turkey,2019,5,Pediatric,0,0,
+12641,Pseudomonas aeruginosa,Lithuania,2019,84,Elderly,0,0,
+12644,Pseudomonas aeruginosa,Lithuania,2019,66,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+12646,Pseudomonas aeruginosa,Lithuania,2019,67,Elderly,0,0,
+12648,Pseudomonas aeruginosa,Spain,2019,73,Elderly,0,0,
+12696,Escherichia coli,Morocco,2019,1,Pediatric,0,0,
+12709,Klebsiella pneumoniae,Ukraine,2019,3,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+12779,Pseudomonas aeruginosa,United States,2019,82,Elderly,0,1,Fluoroquinolones
+12788,Pseudomonas aeruginosa,Poland,2019,63,Elderly,0,0,
+12795,Pseudomonas aeruginosa,Australia,2019,71,Elderly,0,0,
+12836,Pseudomonas aeruginosa,United States,2019,1,Pediatric,0,0,
+12848,Escherichia coli,United States,2019,88,Elderly,0,1,Fluoroquinolones
+12849,Escherichia coli,United States,2019,72,Elderly,0,0,
+12851,Klebsiella pneumoniae,United States,2019,63,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+12852,Klebsiella pneumoniae,United States,2019,68,Elderly,0,0,
+12857,Klebsiella pneumoniae,Argentina,2019,79,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+12904,Pseudomonas aeruginosa,France,2019,67,Elderly,0,0,
+12942,Pseudomonas aeruginosa,Italy,2019,73,Elderly,0,2,Penicillins;Carbapenems
+12972,Pseudomonas aeruginosa,Australia,2019,73,Elderly,0,0,
+12979,Klebsiella pneumoniae,Mexico,2019,0,Pediatric,0,1,Cephalosporins
+12984,Escherichia coli,New Zealand,2019,68,Elderly,0,0,
+12985,Klebsiella pneumoniae,New Zealand,2019,71,Elderly,0,0,
+12990,Escherichia coli,New Zealand,2019,66,Elderly,0,0,
+12991,Escherichia coli,New Zealand,2019,70,Elderly,0,0,
+13004,Enterobacter cloacae,Brazil,2019,0,Pediatric,0,2,Cephalosporins;Aminoglycosides
+13005,Pseudomonas aeruginosa,Brazil,2019,0,Pediatric,0,0,
+13007,Pseudomonas aeruginosa,Brazil,2019,0,Pediatric,0,0,
+13009,Escherichia coli,Brazil,2019,69,Elderly,0,0,
+13035,Enterobacter cloacae,Brazil,2019,13,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+13051,Serratia marcescens,Brazil,2019,82,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+13053,Serratia marcescens,Brazil,2019,71,Elderly,0,2,Penicillins;Fluoroquinolones
+13056,Pseudomonas aeruginosa,Brazil,2019,69,Elderly,0,0,
+13057,Pseudomonas aeruginosa,Brazil,2019,83,Elderly,0,1,Carbapenems
+13062,Klebsiella pneumoniae,Brazil,2019,70,Elderly,0,0,
+13064,Pseudomonas aeruginosa,United Kingdom,2019,77,Elderly,0,0,
+13066,Serratia marcescens,Croatia,2019,2,Pediatric,0,2,Cephalosporins;Aminoglycosides
+13098,Escherichia coli,United States,2020,65,Elderly,0,0,
+13118,Escherichia coli,United States,2020,72,Elderly,0,0,
+13129,Klebsiella pneumoniae,United States,2020,83,Elderly,0,0,
+13131,Klebsiella pneumoniae,United States,2020,63,Elderly,0,0,
+13142,Klebsiella pneumoniae,United States,2020,61,Elderly,0,2,Cephalosporins;Aminoglycosides
+13163,Escherichia coli,United States,2020,74,Elderly,0,0,
+13168,Escherichia coli,United States,2020,66,Elderly,0,0,
+13169,Escherichia coli,United States,2020,77,Elderly,0,0,
+13178,Escherichia coli,United States,2020,62,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13212,Escherichia coli,United States,2020,1,Pediatric,0,2,Cephalosporins;Fluoroquinolones
+13218,Escherichia coli,United States,2020,1,Pediatric,0,0,
+13232,Escherichia coli,United States,2020,1,Pediatric,0,0,
+13233,Escherichia coli,United States,2020,14,Pediatric,0,0,
+13244,Klebsiella pneumoniae,United States,2020,1,Pediatric,0,0,
+13251,Klebsiella pneumoniae,United States,2020,16,Pediatric,0,0,
+13263,Klebsiella pneumoniae,United States,2020,1,Pediatric,0,1,Penicillins
+13268,Pseudomonas aeruginosa,United States,2020,77,Elderly,0,0,
+13270,Klebsiella pneumoniae,United States,2020,95,Elderly,0,0,
+13271,Klebsiella pneumoniae,United States,2020,92,Elderly,0,0,
+13274,Escherichia coli,United States,2020,81,Elderly,0,0,
+13284,Escherichia coli,United States,2020,89,Elderly,0,0,
+13294,Enterobacter cloacae,United States,2020,80,Elderly,0,2,Penicillins;Cephalosporins
+13302,Klebsiella pneumoniae,United States,2020,74,Elderly,0,0,
+13304,Klebsiella pneumoniae,United States,2020,77,Elderly,0,0,
+13305,Klebsiella pneumoniae,United States,2020,70,Elderly,0,0,
+13341,Pseudomonas aeruginosa,Croatia,2020,67,Elderly,0,2,Penicillins;Cephalosporins
+13342,Pseudomonas aeruginosa,Croatia,2020,1,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+13352,Klebsiella pneumoniae,Croatia,2020,68,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+13353,Escherichia coli,Croatia,2020,79,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13354,Escherichia coli,Croatia,2020,72,Elderly,0,0,
+13356,Pseudomonas aeruginosa,Croatia,2020,64,Elderly,0,0,
+13357,Pseudomonas aeruginosa,Croatia,2020,82,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+13359,Klebsiella pneumoniae,Croatia,2020,0,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+13367,Escherichia coli,Canada,2020,97,Elderly,0,0,
+13372,Klebsiella pneumoniae,Canada,2020,73,Elderly,0,0,
+13379,Escherichia coli,Canada,2020,63,Elderly,0,0,
+13384,Escherichia coli,Canada,2020,71,Elderly,0,0,
+13392,Escherichia coli,Canada,2020,73,Elderly,0,0,
+13393,Escherichia coli,Canada,2020,72,Elderly,0,0,
+13404,Klebsiella pneumoniae,Canada,2020,75,Elderly,0,0,
+13410,Pseudomonas aeruginosa,Canada,2020,79,Elderly,0,0,
+13420,Klebsiella pneumoniae,Canada,2020,70,Elderly,0,0,
+13431,Serratia marcescens,United States,2020,71,Elderly,0,0,
+13442,Escherichia coli,United States,2020,93,Elderly,0,0,
+13452,Escherichia coli,United States,2020,73,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13456,Escherichia coli,United States,2020,85,Elderly,0,0,
+13469,Klebsiella pneumoniae,United States,2020,79,Elderly,0,0,
+13474,Klebsiella pneumoniae,United States,2020,69,Elderly,0,0,
+13477,Pseudomonas aeruginosa,United States,2020,71,Elderly,0,1,Carbapenems
+13483,Klebsiella pneumoniae,United States,2020,83,Elderly,0,2,Penicillins;Cephalosporins
+13484,Escherichia coli,United States,2020,87,Elderly,0,0,
+13485,Klebsiella pneumoniae,United States,2020,80,Elderly,0,1,Cephalosporins
+13487,Escherichia coli,United States,2020,65,Elderly,0,1,Fluoroquinolones
+13497,Escherichia coli,United States,2020,67,Elderly,0,1,Aminoglycosides
+13502,Klebsiella pneumoniae,United States,2020,69,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+13506,Klebsiella pneumoniae,United States,2020,92,Elderly,0,1,Cephalosporins
+13507,Klebsiella pneumoniae,United States,2020,89,Elderly,0,0,
+13508,Klebsiella pneumoniae,United States,2020,85,Elderly,0,1,Cephalosporins
+13509,Escherichia coli,United States,2020,67,Elderly,0,1,Cephalosporins
+13514,Klebsiella pneumoniae,United States,2020,63,Elderly,0,0,
+13516,Escherichia coli,United States,2020,80,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13517,Escherichia coli,United States,2020,72,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13518,Escherichia coli,United States,2020,67,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13521,Klebsiella pneumoniae,United States,2020,92,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13523,Escherichia coli,United States,2020,68,Elderly,0,0,
+13524,Escherichia coli,United States,2020,87,Elderly,0,0,
+13527,Klebsiella pneumoniae,United States,2020,74,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13528,Escherichia coli,United States,2020,68,Elderly,0,0,
+13529,Escherichia coli,United States,2020,82,Elderly,0,0,
+13533,Klebsiella pneumoniae,United States,2020,63,Elderly,0,2,Cephalosporins;Aminoglycosides
+13535,Escherichia coli,United States,2020,90,Elderly,0,1,Cephalosporins
+13536,Escherichia coli,United States,2020,67,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+13537,Escherichia coli,United States,2020,68,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+13539,Escherichia coli,United States,2020,74,Elderly,0,0,
+13545,Escherichia coli,United States,2020,81,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+13556,Klebsiella pneumoniae,United States,2020,72,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+13561,Klebsiella pneumoniae,United States,2020,87,Elderly,0,0,
+13572,Pseudomonas aeruginosa,United States,2020,62,Elderly,0,0,
+13602,Escherichia coli,United States,2020,80,Elderly,0,0,
+13603,Escherichia coli,United States,2020,70,Elderly,0,0,
+13604,Escherichia coli,United States,2020,75,Elderly,0,0,
+13636,Klebsiella pneumoniae,United States,2020,1,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+13650,Klebsiella pneumoniae,United States,2020,85,Elderly,0,0,
+13651,Klebsiella pneumoniae,United States,2020,68,Elderly,0,0,
+13652,Klebsiella pneumoniae,United States,2020,72,Elderly,0,0,
+13704,Escherichia coli,United States,2020,68,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+13705,Escherichia coli,United States,2020,96,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+13709,Klebsiella pneumoniae,United States,2020,71,Elderly,0,1,Fluoroquinolones
+13711,Escherichia coli,United States,2020,84,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+13771,Escherichia coli,United States,2020,78,Elderly,0,0,
+13772,Klebsiella pneumoniae,United States,2020,69,Elderly,0,1,Fluoroquinolones
+13773,Klebsiella pneumoniae,United States,2020,2,Pediatric,0,0,
+13774,Escherichia coli,United States,2020,68,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+13781,Escherichia coli,United States,2020,3,Pediatric,0,1,Fluoroquinolones
+13786,Escherichia coli,United States,2020,72,Elderly,0,0,
+13806,Escherichia coli,United States,2020,69,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+13807,Escherichia coli,United States,2020,72,Elderly,0,0,
+13808,Escherichia coli,United States,2020,76,Elderly,0,0,
+13809,Escherichia coli,United States,2020,93,Elderly,0,0,
+13810,Escherichia coli,United States,2020,71,Elderly,0,0,
+13811,Escherichia coli,United States,2020,81,Elderly,0,1,Fluoroquinolones
+13812,Escherichia coli,United States,2020,84,Elderly,0,0,
+13815,Escherichia coli,United States,2020,65,Elderly,0,1,Fluoroquinolones
+13816,Escherichia coli,United States,2020,76,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+13817,Escherichia coli,United States,2020,62,Elderly,0,0,
+13820,Escherichia coli,United States,2020,67,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+13821,Escherichia coli,United States,2020,66,Elderly,0,0,
+13822,Escherichia coli,United States,2020,82,Elderly,0,0,
+13823,Escherichia coli,United States,2020,85,Elderly,0,0,
+13824,Escherichia coli,United States,2020,63,Elderly,0,1,Aminoglycosides
+13825,Escherichia coli,United States,2020,63,Elderly,0,0,
+13828,Pseudomonas aeruginosa,United States,2020,1,Pediatric,0,0,
+13829,Pseudomonas aeruginosa,United States,2020,73,Elderly,0,0,
+13830,Serratia marcescens,United States,2020,79,Elderly,0,0,
+13834,Escherichia coli,United States,2020,75,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+13862,Klebsiella pneumoniae,United States,2020,78,Elderly,0,0,
+13899,Klebsiella pneumoniae,United States,2020,76,Elderly,0,0,
+13900,Klebsiella pneumoniae,United States,2020,73,Elderly,0,0,
+13905,Klebsiella pneumoniae,United States,2020,65,Elderly,0,0,
+13923,Serratia marcescens,United States,2020,64,Elderly,0,0,
+13928,Pseudomonas aeruginosa,United States,2020,77,Elderly,0,0,
+13929,Pseudomonas aeruginosa,United States,2020,88,Elderly,0,0,
+13931,Pseudomonas aeruginosa,United States,2020,81,Elderly,0,0,
+13952,Enterobacter cloacae,United States,2020,67,Elderly,0,0,
+13963,Escherichia coli,United States,2020,65,Elderly,0,0,
+13964,Escherichia coli,United States,2020,88,Elderly,0,0,
+13965,Escherichia coli,United States,2020,89,Elderly,0,0,
+13966,Escherichia coli,United States,2020,82,Elderly,0,2,Cephalosporins;Fluoroquinolones
+13974,Escherichia coli,United States,2020,87,Elderly,0,0,
+13975,Escherichia coli,United States,2020,70,Elderly,0,0,
+13976,Escherichia coli,United States,2020,98,Elderly,0,0,
+13977,Escherichia coli,United States,2020,77,Elderly,0,0,
+13979,Escherichia coli,United States,2020,90,Elderly,0,0,
+13983,Escherichia coli,Japan,2020,85,Elderly,0,1,Fluoroquinolones
+13988,Klebsiella pneumoniae,Japan,2020,83,Elderly,0,0,
+13995,Klebsiella pneumoniae,Japan,2020,78,Elderly,0,0,
+14010,Pseudomonas aeruginosa,Japan,2020,82,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+14012,Escherichia coli,Japan,2020,90,Elderly,0,1,Aminoglycosides
+14016,Pseudomonas aeruginosa,Japan,2020,92,Elderly,0,0,
+14022,Pseudomonas aeruginosa,India,2020,75,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+14023,Pseudomonas aeruginosa,India,2020,69,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+14025,Klebsiella pneumoniae,India,2020,86,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+14032,Klebsiella pneumoniae,Thailand,2020,76,Elderly,0,0,
+14062,Klebsiella pneumoniae,Japan,2020,66,Elderly,0,0,
+14088,Klebsiella pneumoniae,Czech Republic,2020,78,Elderly,0,2,Cephalosporins;Aminoglycosides
+14109,Klebsiella pneumoniae,Venezuela,2020,78,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+14110,Klebsiella pneumoniae,Venezuela,2020,78,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+14116,Pseudomonas aeruginosa,Venezuela,2020,1,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+14125,Klebsiella pneumoniae,Venezuela,2020,13,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+14127,Klebsiella pneumoniae,Venezuela,2020,62,Elderly,0,2,Cephalosporins;Aminoglycosides
+14170,Escherichia coli,United States,2020,84,Elderly,0,0,
+14228,Escherichia coli,United States,2020,70,Elderly,0,0,
+14229,Escherichia coli,United States,2020,70,Elderly,0,0,
+14230,Escherichia coli,United States,2020,68,Elderly,0,0,
+14231,Escherichia coli,United States,2020,81,Elderly,0,0,
+14232,Escherichia coli,United States,2020,69,Elderly,0,0,
+14243,Escherichia coli,United States,2020,90,Elderly,0,0,
+14251,Klebsiella pneumoniae,United States,2020,75,Elderly,0,0,
+14255,Escherichia coli,United States,2020,81,Elderly,0,1,Cephalosporins
+14258,Escherichia coli,United States,2020,88,Elderly,0,0,
+14259,Escherichia coli,United States,2020,70,Elderly,0,0,
+14260,Escherichia coli,United States,2020,93,Elderly,0,0,
+14320,Serratia marcescens,Canada,2020,1,Pediatric,0,0,
+14342,Citrobacter koseri,Italy,2020,65,Elderly,0,0,
+14346,Pseudomonas aeruginosa,Italy,2020,63,Elderly,0,0,
+14350,Pseudomonas aeruginosa,Italy,2020,61,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+14408,Escherichia coli,Mexico,2020,5,Pediatric,0,1,Aminoglycosides
+14411,Escherichia coli,Mexico,2020,13,Pediatric,0,1,Cephalosporins
+14423,Klebsiella pneumoniae,Mexico,2020,1,Pediatric,0,1,Cephalosporins
+14433,Pseudomonas aeruginosa,Mexico,2020,91,Elderly,0,0,
+14442,Pseudomonas aeruginosa,Mexico,2020,68,Elderly,0,2,Carbapenems;Aminoglycosides
+14450,Escherichia coli,Mexico,2020,0,Pediatric,0,1,Cephalosporins
+14489,Pseudomonas aeruginosa,Australia,2020,69,Elderly,0,0,
+14514,Escherichia coli,Australia,2020,71,Elderly,0,0,
+14574,Escherichia coli,Germany,2020,62,Elderly,0,0,
+14575,Escherichia coli,Germany,2020,81,Elderly,0,0,
+14576,Escherichia coli,Germany,2020,84,Elderly,0,2,Penicillins;Fluoroquinolones
+14579,Klebsiella pneumoniae,Germany,2020,85,Elderly,0,0,
+14592,Pseudomonas aeruginosa,Israel,2020,10,Pediatric,1,3,Penicillins;Cephalosporins;Carbapenems
+14597,Klebsiella pneumoniae,Israel,2020,86,Elderly,0,0,
+14598,Escherichia coli,Israel,2020,90,Elderly,0,0,
+14599,Escherichia coli,Israel,2020,65,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+14607,Klebsiella pneumoniae,Israel,2020,63,Elderly,0,0,
+14608,Serratia marcescens,Israel,2020,3,Pediatric,0,0,
+14609,Klebsiella pneumoniae,Israel,2020,81,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+14610,Escherichia coli,Israel,2020,61,Elderly,0,1,Cephalosporins
+14620,Escherichia coli,Israel,2020,70,Elderly,0,2,Cephalosporins;Fluoroquinolones
+14621,Escherichia coli,Israel,2020,91,Elderly,0,0,
+14622,Escherichia coli,Israel,2020,67,Elderly,0,0,
+14626,Klebsiella pneumoniae,Israel,2020,72,Elderly,0,0,
+14668,Serratia marcescens,United States,2019,64,Elderly,0,0,
+14687,Klebsiella pneumoniae,Chile,2020,70,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+14697,Escherichia coli,Chile,2020,62,Elderly,0,0,
+14703,Pseudomonas aeruginosa,Chile,2020,80,Elderly,0,2,Penicillins;Cephalosporins
+14704,Klebsiella pneumoniae,Chile,2020,72,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+14737,Escherichia coli,"Korea, South",2020,82,Elderly,0,0,
+14738,Escherichia coli,"Korea, South",2020,96,Elderly,0,0,
+14739,Escherichia coli,"Korea, South",2020,73,Elderly,0,0,
+14740,Escherichia coli,"Korea, South",2020,61,Elderly,0,0,
+14741,Escherichia coli,"Korea, South",2020,74,Elderly,0,0,
+14744,Escherichia coli,"Korea, South",2020,66,Elderly,0,0,
+14745,Escherichia coli,"Korea, South",2020,89,Elderly,0,1,Fluoroquinolones
+14747,Escherichia coli,"Korea, South",2020,82,Elderly,0,0,
+14748,Escherichia coli,"Korea, South",2020,76,Elderly,0,0,
+14755,Klebsiella pneumoniae,"Korea, South",2020,78,Elderly,0,0,
+14793,Escherichia coli,India,2020,99,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+14799,Escherichia coli,India,2020,75,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+14801,Klebsiella pneumoniae,India,2020,62,Elderly,0,0,
+14808,Enterobacter cloacae,Spain,2020,88,Elderly,0,0,
+14814,Pseudomonas aeruginosa,Spain,2020,63,Elderly,0,0,
+14832,Klebsiella pneumoniae,Malaysia,2020,70,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+14860,Enterobacter cloacae,Canada,2020,1,Pediatric,0,0,
+14863,Escherichia coli,Canada,2020,90,Elderly,0,0,
+14864,Escherichia coli,Canada,2020,81,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+14865,Escherichia coli,Canada,2020,64,Elderly,0,0,
+14866,Escherichia coli,Canada,2020,70,Elderly,0,0,
+14870,Escherichia coli,Canada,2020,88,Elderly,0,0,
+14872,Klebsiella pneumoniae,Canada,2020,92,Elderly,0,0,
+14879,Klebsiella pneumoniae,Canada,2020,85,Elderly,0,0,
+14881,Pseudomonas aeruginosa,Canada,2020,61,Elderly,0,0,
+14907,Escherichia coli,Canada,2020,9,Pediatric,0,2,Fluoroquinolones;Aminoglycosides
+14932,Pseudomonas aeruginosa,Canada,2020,72,Elderly,0,0,
+14933,Klebsiella pneumoniae,Canada,2020,87,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+15004,Klebsiella pneumoniae,Guatemala,2020,1,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+15027,Klebsiella pneumoniae,Portugal,2020,67,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+15030,Pseudomonas aeruginosa,Portugal,2020,72,Elderly,0,0,
+15093,Klebsiella pneumoniae,Thailand,2020,68,Elderly,0,0,
+15094,Klebsiella pneumoniae,Thailand,2020,71,Elderly,0,0,
+15100,Klebsiella pneumoniae,Thailand,2020,64,Elderly,0,0,
+15103,Klebsiella pneumoniae,Thailand,2020,78,Elderly,0,0,
+15124,Serratia marcescens,India,2020,2,Pediatric,0,2,Cephalosporins;Aminoglycosides
+15125,Enterobacter cloacae,India,2020,1,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+15130,Pseudomonas aeruginosa,India,2020,83,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+15132,Escherichia coli,India,2020,74,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+15165,Klebsiella pneumoniae,Israel,2020,1,Pediatric,0,0,
+15177,Escherichia coli,India,2020,69,Elderly,0,2,Cephalosporins;Fluoroquinolones
+15178,Klebsiella pneumoniae,India,2020,82,Elderly,0,0,
+15179,Citrobacter koseri,India,2020,80,Elderly,0,0,
+15192,Pseudomonas aeruginosa,Portugal,2020,77,Elderly,0,0,
+15197,Pseudomonas aeruginosa,Portugal,2020,97,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+15199,Klebsiella pneumoniae,Portugal,2020,72,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+15200,Klebsiella pneumoniae,Portugal,2020,70,Elderly,0,0,
+15218,Klebsiella pneumoniae,United Kingdom,2020,80,Elderly,0,1,Penicillins
+15227,Klebsiella pneumoniae,United Kingdom,2020,89,Elderly,0,0,
+15228,Klebsiella pneumoniae,United Kingdom,2020,76,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+15236,Pseudomonas aeruginosa,United Kingdom,2020,83,Elderly,0,0,
+15240,Pseudomonas aeruginosa,United Kingdom,2020,86,Elderly,0,0,
+15249,Pseudomonas aeruginosa,United Kingdom,2020,5,Pediatric,0,0,
+15253,Pseudomonas aeruginosa,United Kingdom,2020,1,Pediatric,0,1,Carbapenems
+15265,Escherichia coli,Colombia,2020,76,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+15266,Escherichia coli,Colombia,2020,63,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+15268,Klebsiella pneumoniae,Colombia,2020,0,Pediatric,0,0,
+15270,Pseudomonas aeruginosa,Colombia,2020,82,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+15276,Pseudomonas aeruginosa,Colombia,2020,72,Elderly,0,0,
+15283,Escherichia coli,Colombia,2020,68,Elderly,0,1,Fluoroquinolones
+15284,Klebsiella pneumoniae,Colombia,2020,0,Pediatric,0,0,
+15285,Escherichia coli,Colombia,2020,88,Elderly,0,0,
+15288,Klebsiella pneumoniae,Colombia,2020,0,Pediatric,0,0,
+15293,Serratia marcescens,Colombia,2020,0,Pediatric,0,0,
+15298,Escherichia coli,Panama,2020,13,Pediatric,0,0,
+15307,Escherichia coli,Panama,2020,8,Pediatric,0,0,
+15309,Pseudomonas aeruginosa,Panama,2020,4,Pediatric,1,3,Penicillins;Cephalosporins;Carbapenems
+15313,Pseudomonas aeruginosa,Panama,2020,4,Pediatric,0,0,
+15333,Klebsiella pneumoniae,Mexico,2020,77,Elderly,0,0,
+15357,Klebsiella pneumoniae,United States,2020,76,Elderly,0,1,Cephalosporins
+15361,Serratia marcescens,United States,2020,72,Elderly,0,0,
+15364,Escherichia coli,United States,2020,61,Elderly,0,0,
+15369,Klebsiella pneumoniae,United States,2020,0,Pediatric,0,0,
+15372,Escherichia coli,United States,2020,70,Elderly,0,1,Aminoglycosides
+15408,Enterobacter cloacae,United States,2020,67,Elderly,0,0,
+15412,Escherichia coli,United States,2020,87,Elderly,0,0,
+15413,Escherichia coli,United States,2020,13,Pediatric,0,0,
+15462,Escherichia coli,Turkey,2020,81,Elderly,0,2,Cephalosporins;Fluoroquinolones
+15463,Klebsiella pneumoniae,Turkey,2020,73,Elderly,0,2,Cephalosporins;Aminoglycosides
+15483,Escherichia coli,Panama,2020,1,Pediatric,0,0,
+15484,Serratia marcescens,Panama,2020,71,Elderly,0,0,
+15502,Escherichia coli,Argentina,2020,88,Elderly,0,0,
+15517,Serratia marcescens,Argentina,2020,1,Pediatric,0,0,
+15522,Klebsiella pneumoniae,Argentina,2020,1,Pediatric,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+15525,Pseudomonas aeruginosa,Philippines,2020,75,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+15540,Pseudomonas aeruginosa,Taiwan,2020,70,Elderly,0,0,
+15542,Escherichia coli,Taiwan,2020,77,Elderly,0,0,
+15585,Pseudomonas aeruginosa,United States,2020,70,Elderly,0,1,Penicillins
+15613,Klebsiella pneumoniae,United States,2020,66,Elderly,0,0,
+15616,Klebsiella pneumoniae,United States,2020,62,Elderly,0,0,
+15636,Escherichia coli,United States,2020,69,Elderly,0,1,Fluoroquinolones
+15637,Escherichia coli,United States,2020,66,Elderly,0,2,Cephalosporins;Fluoroquinolones
+15646,Enterobacter cloacae,United States,2020,87,Elderly,0,0,
+15681,Pseudomonas aeruginosa,Italy,2020,63,Elderly,0,0,
+15684,Escherichia coli,France,2020,67,Elderly,0,0,
+15698,Citrobacter koseri,France,2020,63,Elderly,0,0,
+15731,Escherichia coli,Belgium,2020,84,Elderly,0,0,
+15734,Escherichia coli,Belgium,2020,72,Elderly,0,1,Fluoroquinolones
+15737,Pseudomonas aeruginosa,Belgium,2020,1,Pediatric,0,0,
+15756,Pseudomonas aeruginosa,Ireland,2020,90,Elderly,0,0,
+15758,Pseudomonas aeruginosa,Ireland,2020,65,Elderly,0,0,
+15759,Escherichia coli,Ireland,2020,76,Elderly,0,0,
+15760,Klebsiella pneumoniae,Ireland,2020,93,Elderly,0,2,Cephalosporins;Aminoglycosides
+15812,Escherichia coli,United States,2020,62,Elderly,0,0,
+15814,Escherichia coli,United States,2020,78,Elderly,0,0,
+15820,Escherichia coli,United States,2020,84,Elderly,0,0,
+15822,Escherichia coli,United States,2020,73,Elderly,0,1,Aminoglycosides
+15824,Escherichia coli,United States,2020,84,Elderly,0,1,Aminoglycosides
+15826,Escherichia coli,United States,2020,67,Elderly,0,1,Fluoroquinolones
+15827,Escherichia coli,United States,2020,61,Elderly,0,0,
+15829,Escherichia coli,United States,2020,70,Elderly,0,0,
+15831,Escherichia coli,United States,2020,67,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+15851,Klebsiella pneumoniae,United States,2020,73,Elderly,0,0,
+15854,Klebsiella pneumoniae,United States,2020,82,Elderly,0,0,
+15858,Klebsiella pneumoniae,United States,2020,79,Elderly,0,0,
+15890,Pseudomonas aeruginosa,Kuwait,2020,80,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+15892,Escherichia coli,"Korea, South",2020,64,Elderly,0,1,Fluoroquinolones
+15905,Escherichia coli,"Korea, South",2020,66,Elderly,0,2,Cephalosporins;Fluoroquinolones
+15922,Escherichia coli,France,2020,68,Elderly,0,0,
+15938,Pseudomonas aeruginosa,Spain,2020,66,Elderly,0,0,
+15939,Escherichia coli,Spain,2020,87,Elderly,0,0,
+15945,Pseudomonas aeruginosa,Italy,2020,83,Elderly,0,0,
+15952,Escherichia coli,Italy,2020,77,Elderly,0,1,Cephalosporins
+15953,Escherichia coli,Italy,2020,74,Elderly,0,2,Cephalosporins;Fluoroquinolones
+15955,Escherichia coli,Italy,2020,76,Elderly,0,0,
+15960,Klebsiella pneumoniae,Italy,2020,87,Elderly,0,0,
+15966,Escherichia coli,Greece,2020,69,Elderly,0,0,
+15986,Escherichia coli,United Kingdom,2020,91,Elderly,0,0,
+15987,Escherichia coli,United Kingdom,2020,89,Elderly,0,0,
+15991,Escherichia coli,United Kingdom,2020,74,Elderly,0,0,
+15994,Klebsiella pneumoniae,United Kingdom,2020,69,Elderly,0,0,
+16002,Pseudomonas aeruginosa,United Kingdom,2020,92,Elderly,0,0,
+16015,Enterobacter cloacae,France,2020,83,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+16023,Pseudomonas aeruginosa,France,2020,65,Elderly,0,1,Cephalosporins
+16033,Escherichia coli,Spain,2020,89,Elderly,0,0,
+16034,Escherichia coli,Spain,2020,80,Elderly,0,0,
+16038,Klebsiella pneumoniae,Spain,2020,63,Elderly,0,0,
+16039,Klebsiella pneumoniae,Spain,2020,83,Elderly,0,0,
+16040,Klebsiella pneumoniae,Spain,2020,76,Elderly,0,0,
+16071,Klebsiella pneumoniae,Italy,2020,0,Pediatric,0,1,Cephalosporins
+16079,Pseudomonas aeruginosa,Italy,2020,68,Elderly,0,0,
+16090,Enterobacter cloacae,United Kingdom,2020,75,Elderly,0,0,
+16091,Escherichia coli,United Kingdom,2020,71,Elderly,0,0,
+16105,Pseudomonas aeruginosa,United Kingdom,2020,78,Elderly,0,1,Carbapenems
+16121,Klebsiella pneumoniae,Nigeria,2019,0,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+16122,Klebsiella pneumoniae,Nigeria,2019,0,Pediatric,0,0,
+16130,Escherichia coli,Argentina,2020,72,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+16149,Pseudomonas aeruginosa,Hungary,2020,66,Elderly,0,0,
+16182,Escherichia coli,Germany,2020,87,Elderly,0,1,Aminoglycosides
+16183,Escherichia coli,Germany,2020,68,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+16200,Escherichia coli,Czech Republic,2020,72,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+16201,Escherichia coli,Czech Republic,2020,80,Elderly,0,0,
+16202,Escherichia coli,Czech Republic,2020,64,Elderly,0,0,
+16203,Escherichia coli,Czech Republic,2020,69,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+16220,Pseudomonas aeruginosa,Czech Republic,2020,78,Elderly,0,0,
+16225,Klebsiella pneumoniae,Thailand,2020,72,Elderly,0,0,
+16236,Escherichia coli,Thailand,2020,64,Elderly,0,2,Cephalosporins;Fluoroquinolones
+16237,Klebsiella pneumoniae,Thailand,2020,73,Elderly,0,0,
+16238,Escherichia coli,Thailand,2020,80,Elderly,0,0,
+16259,Pseudomonas aeruginosa,Thailand,2020,97,Elderly,1,4,Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+16267,Escherichia coli,South Africa,2020,65,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+16296,Pseudomonas aeruginosa,Colombia,2020,67,Elderly,0,0,
+16305,Escherichia coli,Colombia,2020,83,Elderly,0,0,
+16312,Klebsiella pneumoniae,Colombia,2020,61,Elderly,0,0,
+16323,Escherichia coli,France,2020,62,Elderly,0,1,Penicillins
+16336,Pseudomonas aeruginosa,France,2020,85,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+16349,Enterobacter cloacae,Spain,2020,73,Elderly,0,2,Penicillins;Cephalosporins
+16350,Escherichia coli,Spain,2020,72,Elderly,0,1,Fluoroquinolones
+16351,Escherichia coli,Spain,2020,69,Elderly,0,0,
+16354,Escherichia coli,Spain,2020,1,Pediatric,0,1,Fluoroquinolones
+16356,Klebsiella pneumoniae,Spain,2020,80,Elderly,0,1,Fluoroquinolones
+16359,Klebsiella pneumoniae,Spain,2020,64,Elderly,0,1,Penicillins
+16361,Klebsiella pneumoniae,Spain,2020,70,Elderly,0,1,Penicillins
+16362,Klebsiella pneumoniae,Spain,2020,67,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+16365,Klebsiella pneumoniae,Spain,2020,70,Elderly,0,0,
+16371,Pseudomonas aeruginosa,Spain,2020,85,Elderly,0,0,
+16376,Pseudomonas aeruginosa,Spain,2020,61,Elderly,0,0,
+16377,Pseudomonas aeruginosa,Spain,2020,67,Elderly,0,0,
+16379,Pseudomonas aeruginosa,Spain,2020,2,Pediatric,0,1,Carbapenems
+16421,Klebsiella pneumoniae,United States,2020,78,Elderly,0,0,
+16482,Klebsiella pneumoniae,Australia,2020,80,Elderly,0,2,Cephalosporins;Aminoglycosides
+16485,Pseudomonas aeruginosa,Australia,2020,81,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+16526,Klebsiella pneumoniae,Italy,2020,83,Elderly,0,0,
+16535,Klebsiella pneumoniae,Italy,2020,0,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+16536,Pseudomonas aeruginosa,Italy,2020,67,Elderly,0,2,Penicillins;Cephalosporins
+16537,Klebsiella pneumoniae,Italy,2020,75,Elderly,0,0,
+16543,Klebsiella pneumoniae,Spain,2020,68,Elderly,0,0,
+16571,Klebsiella pneumoniae,France,2020,64,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+16580,Pseudomonas aeruginosa,France,2020,61,Elderly,0,0,
+16582,Pseudomonas aeruginosa,France,2020,83,Elderly,0,0,
+16619,Escherichia coli,Spain,2020,69,Elderly,0,0,
+16625,Klebsiella pneumoniae,Spain,2020,79,Elderly,0,0,
+16626,Klebsiella pneumoniae,Spain,2020,73,Elderly,0,0,
+16643,Escherichia coli,Switzerland,2020,86,Elderly,0,0,
+16647,Escherichia coli,Switzerland,2020,75,Elderly,0,0,
+16648,Escherichia coli,Switzerland,2020,63,Elderly,0,0,
+16651,Klebsiella pneumoniae,Switzerland,2020,78,Elderly,0,0,
+16656,Klebsiella pneumoniae,Switzerland,2020,84,Elderly,0,0,
+16659,Pseudomonas aeruginosa,Switzerland,2020,69,Elderly,0,0,
+16676,Serratia marcescens,Sweden,2020,74,Elderly,0,0,
+16677,Enterobacter cloacae,Sweden,2020,65,Elderly,0,2,Penicillins;Cephalosporins
+16678,Pseudomonas aeruginosa,Sweden,2020,88,Elderly,0,0,
+16679,Pseudomonas aeruginosa,Sweden,2020,99,Elderly,0,0,
+16702,Klebsiella pneumoniae,Netherlands,2020,87,Elderly,0,0,
+16706,Pseudomonas aeruginosa,Netherlands,2020,63,Elderly,0,0,
+16709,Escherichia coli,Netherlands,2020,91,Elderly,0,0,
+16710,Escherichia coli,Netherlands,2020,62,Elderly,0,0,
+16722,Klebsiella pneumoniae,Romania,2020,64,Elderly,0,0,
+16729,Klebsiella pneumoniae,Romania,2020,70,Elderly,0,0,
+16733,Pseudomonas aeruginosa,Romania,2020,81,Elderly,0,0,
+16737,Escherichia coli,Canada,2020,73,Elderly,0,0,
+16739,Escherichia coli,Canada,2020,73,Elderly,0,1,Cephalosporins
+16743,Klebsiella pneumoniae,Canada,2020,1,Pediatric,0,0,
+16744,Klebsiella pneumoniae,Canada,2020,1,Pediatric,0,0,
+16745,Klebsiella pneumoniae,Canada,2020,64,Elderly,0,0,
+16746,Klebsiella pneumoniae,Canada,2020,68,Elderly,0,0,
+16764,Pseudomonas aeruginosa,South Africa,2020,97,Elderly,0,0,
+16766,Pseudomonas aeruginosa,South Africa,2020,83,Elderly,0,0,
+16807,Klebsiella pneumoniae,Morocco,2020,0,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+16817,Klebsiella pneumoniae,Nigeria,2020,0,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+16818,Klebsiella pneumoniae,Nigeria,2020,0,Pediatric,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+16829,Pseudomonas aeruginosa,Colombia,2020,61,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+16831,Klebsiella pneumoniae,Colombia,2020,12,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+16836,Klebsiella pneumoniae,Colombia,2020,63,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+16838,Escherichia coli,Colombia,2020,71,Elderly,0,2,Penicillins;Cephalosporins
+16840,Klebsiella pneumoniae,Colombia,2020,77,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+16856,Pseudomonas aeruginosa,Morocco,2020,81,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+16858,Pseudomonas aeruginosa,Morocco,2020,78,Elderly,0,0,
+16877,Klebsiella pneumoniae,Kuwait,2020,1,Pediatric,0,0,
+16880,Pseudomonas aeruginosa,Kuwait,2020,0,Pediatric,0,1,Penicillins
+16881,Pseudomonas aeruginosa,Kuwait,2020,0,Pediatric,0,0,
+16883,Pseudomonas aeruginosa,Kuwait,2020,0,Pediatric,0,0,
+16884,Pseudomonas aeruginosa,Kuwait,2020,0,Pediatric,0,0,
+16890,Escherichia coli,Costa Rica,2020,69,Elderly,0,0,
+16891,Escherichia coli,Costa Rica,2020,0,Pediatric,0,0,
+16892,Escherichia coli,Costa Rica,2020,66,Elderly,0,0,
+16895,Klebsiella pneumoniae,Costa Rica,2020,65,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+16897,Escherichia coli,Costa Rica,2020,91,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+16903,Pseudomonas aeruginosa,Costa Rica,2020,88,Elderly,0,0,
+16944,Klebsiella pneumoniae,France,2020,80,Elderly,0,2,Cephalosporins;Aminoglycosides
+16952,Pseudomonas aeruginosa,France,2020,83,Elderly,0,0,
+16955,Pseudomonas aeruginosa,France,2020,72,Elderly,0,2,Penicillins;Cephalosporins
+16964,Klebsiella pneumoniae,Germany,2020,84,Elderly,0,0,
+16965,Escherichia coli,Germany,2020,63,Elderly,0,0,
+16987,Klebsiella pneumoniae,Romania,2020,71,Elderly,0,0,
+16988,Klebsiella pneumoniae,Romania,2020,65,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+16991,Klebsiella pneumoniae,Romania,2020,79,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+16996,Pseudomonas aeruginosa,Romania,2020,64,Elderly,0,0,
+16997,Enterobacter cloacae,Romania,2020,78,Elderly,0,2,Penicillins;Cephalosporins
+16998,Escherichia coli,Romania,2020,67,Elderly,0,0,
+17008,Klebsiella pneumoniae,Spain,2020,71,Elderly,0,1,Fluoroquinolones
+17010,Klebsiella pneumoniae,Spain,2020,77,Elderly,0,0,
+17023,Klebsiella pneumoniae,Belgium,2020,0,Pediatric,0,0,
+17026,Klebsiella pneumoniae,Belgium,2020,75,Elderly,0,0,
+17061,Escherichia coli,Lithuania,2020,63,Elderly,0,0,
+17062,Escherichia coli,Lithuania,2020,87,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+17063,Escherichia coli,Lithuania,2020,83,Elderly,0,0,
+17064,Klebsiella pneumoniae,Lithuania,2020,81,Elderly,0,0,
+17065,Klebsiella pneumoniae,Lithuania,2020,64,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+17071,Klebsiella pneumoniae,Lithuania,2020,92,Elderly,0,0,
+17082,Pseudomonas aeruginosa,Lithuania,2020,1,Pediatric,0,1,Penicillins
+17087,Klebsiella pneumoniae,Croatia,2020,1,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+17088,Pseudomonas aeruginosa,Croatia,2020,61,Elderly,0,0,
+17089,Escherichia coli,Croatia,2020,94,Elderly,0,0,
+17090,Escherichia coli,Croatia,2020,71,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+17093,Citrobacter koseri,Croatia,2020,82,Elderly,0,0,
+17094,Klebsiella pneumoniae,Croatia,2020,63,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+17096,Pseudomonas aeruginosa,Croatia,2020,88,Elderly,0,0,
+17098,Pseudomonas aeruginosa,Croatia,2020,79,Elderly,0,0,
+17099,Klebsiella pneumoniae,Croatia,2020,63,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+17140,Escherichia coli,Czech Republic,2020,90,Elderly,0,0,
+17141,Escherichia coli,Czech Republic,2020,87,Elderly,0,1,Fluoroquinolones
+17144,Klebsiella pneumoniae,Czech Republic,2020,76,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+17146,Klebsiella pneumoniae,Czech Republic,2020,82,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+17148,Klebsiella pneumoniae,Czech Republic,2020,68,Elderly,0,1,Cephalosporins
+17150,Klebsiella pneumoniae,Czech Republic,2020,1,Pediatric,0,0,
+17152,Klebsiella pneumoniae,Czech Republic,2020,73,Elderly,0,2,Cephalosporins;Aminoglycosides
+17158,Pseudomonas aeruginosa,Czech Republic,2020,16,Pediatric,0,0,
+17161,Pseudomonas aeruginosa,Czech Republic,2020,70,Elderly,0,0,
+17175,Escherichia coli,United States,2020,87,Elderly,0,0,
+17178,Escherichia coli,United States,2020,90,Elderly,0,0,
+17182,Escherichia coli,United States,2020,83,Elderly,0,0,
+17184,Escherichia coli,United States,2020,70,Elderly,0,1,Aminoglycosides
+17188,Klebsiella pneumoniae,United States,2020,75,Elderly,0,0,
+17231,Pseudomonas aeruginosa,United States,2020,65,Elderly,0,0,
+17232,Escherichia coli,Canada,2020,87,Elderly,0,0,
+17233,Escherichia coli,Canada,2020,73,Elderly,0,0,
+17234,Escherichia coli,Canada,2020,98,Elderly,0,1,Cephalosporins
+17235,Escherichia coli,Canada,2020,73,Elderly,0,1,Aminoglycosides
+17237,Escherichia coli,Canada,2020,65,Elderly,0,0,
+17238,Escherichia coli,Canada,2020,77,Elderly,0,0,
+17239,Escherichia coli,Canada,2020,90,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+17240,Escherichia coli,Canada,2020,82,Elderly,0,0,
+17243,Klebsiella pneumoniae,Canada,2020,74,Elderly,0,0,
+17246,Klebsiella pneumoniae,Canada,2020,69,Elderly,0,0,
+17247,Klebsiella pneumoniae,Canada,2020,67,Elderly,0,0,
+17251,Pseudomonas aeruginosa,Canada,2020,61,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+17274,Pseudomonas aeruginosa,Switzerland,2020,76,Elderly,0,0,
+17278,Citrobacter koseri,Switzerland,2020,75,Elderly,0,0,
+17284,Escherichia coli,Poland,2020,0,Pediatric,0,1,Fluoroquinolones
+17288,Pseudomonas aeruginosa,Poland,2020,0,Pediatric,0,0,
+17289,Escherichia coli,Poland,2020,0,Pediatric,0,0,
+17293,Klebsiella pneumoniae,South Africa,2020,80,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+17294,Klebsiella pneumoniae,South Africa,2020,73,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+17297,Escherichia coli,South Africa,2020,79,Elderly,0,0,
+17310,Klebsiella pneumoniae,South Africa,2020,0,Pediatric,0,0,
+17315,Escherichia coli,South Africa,2020,78,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+17317,Escherichia coli,South Africa,2020,84,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+17327,Escherichia coli,Lithuania,2020,67,Elderly,0,0,
+17328,Escherichia coli,Lithuania,2020,70,Elderly,0,1,Fluoroquinolones
+17334,Pseudomonas aeruginosa,Lithuania,2020,67,Elderly,0,1,Carbapenems
+17339,Klebsiella pneumoniae,Lithuania,2020,85,Elderly,0,0,
+17355,Pseudomonas aeruginosa,Lithuania,2020,5,Pediatric,0,0,
+17398,Klebsiella pneumoniae,United States,2020,77,Elderly,0,1,Penicillins
+17401,Serratia marcescens,United States,2020,81,Elderly,0,0,
+17404,Escherichia coli,United States,2020,66,Elderly,0,0,
+17410,Pseudomonas aeruginosa,United States,2020,71,Elderly,0,0,
+17419,Escherichia coli,United States,2020,80,Elderly,0,0,
+17427,Escherichia coli,United States,2020,79,Elderly,0,2,Cephalosporins;Fluoroquinolones
+17440,Escherichia coli,United States,2020,75,Elderly,0,0,
+17464,Klebsiella pneumoniae,Japan,2020,76,Elderly,0,2,Cephalosporins;Fluoroquinolones
+17476,Escherichia coli,Denmark,2020,82,Elderly,0,0,
+17479,Escherichia coli,Denmark,2020,82,Elderly,0,0,
+17480,Klebsiella pneumoniae,Denmark,2020,62,Elderly,0,0,
+17483,Klebsiella pneumoniae,Denmark,2020,71,Elderly,0,0,
+17487,Pseudomonas aeruginosa,Denmark,2020,78,Elderly,0,1,Carbapenems
+17488,Pseudomonas aeruginosa,Denmark,2020,77,Elderly,0,0,
+17505,Escherichia coli,United States,2020,1,Pediatric,0,0,
+17561,Escherichia coli,South Africa,2020,94,Elderly,0,0,
+17564,Klebsiella pneumoniae,South Africa,2020,10,Pediatric,0,0,
+17573,Klebsiella pneumoniae,Ukraine,2020,1,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+17575,Escherichia coli,Ukraine,2020,1,Pediatric,0,2,Cephalosporins;Fluoroquinolones
+17588,Pseudomonas aeruginosa,Mexico,2020,80,Elderly,0,0,
+17599,Enterobacter cloacae,Saudi Arabia,2020,1,Pediatric,0,0,
+17603,Pseudomonas aeruginosa,Saudi Arabia,2020,80,Elderly,0,0,
+17614,Escherichia coli,Belgium,2020,84,Elderly,0,0,
+17615,Escherichia coli,Belgium,2020,16,Pediatric,0,0,
+17621,Escherichia coli,Belgium,2020,79,Elderly,0,2,Cephalosporins;Aminoglycosides
+17622,Klebsiella pneumoniae,Belgium,2020,63,Elderly,0,1,Cephalosporins
+17623,Klebsiella pneumoniae,Belgium,2020,70,Elderly,0,0,
+17658,Escherichia coli,Hungary,2020,17,Pediatric,0,0,
+17660,Escherichia coli,Hungary,2020,83,Elderly,0,0,
+17661,Escherichia coli,Hungary,2020,17,Pediatric,0,0,
+17665,Escherichia coli,Hungary,2020,0,Pediatric,0,1,Fluoroquinolones
+17667,Pseudomonas aeruginosa,Hungary,2020,64,Elderly,0,0,
+17668,Pseudomonas aeruginosa,Hungary,2020,70,Elderly,0,0,
+17672,Pseudomonas aeruginosa,Hungary,2020,77,Elderly,0,1,Carbapenems
+17673,Escherichia coli,Germany,2020,69,Elderly,0,0,
+17677,Escherichia coli,Germany,2020,73,Elderly,0,0,
+17700,Escherichia coli,Germany,2020,8,Pediatric,0,1,Cephalosporins
+17721,Escherichia coli,France,2020,62,Elderly,0,0,
+17722,Escherichia coli,France,2020,62,Elderly,0,0,
+17723,Escherichia coli,France,2020,62,Elderly,0,0,
+17740,Klebsiella pneumoniae,France,2020,1,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+17761,Pseudomonas aeruginosa,Chile,2020,69,Elderly,0,1,Carbapenems
+17791,Klebsiella pneumoniae,Hungary,2020,75,Elderly,0,2,Penicillins;Cephalosporins
+17793,Escherichia coli,Hungary,2020,85,Elderly,0,0,
+17822,Serratia marcescens,Chile,2020,71,Elderly,0,0,
+17824,Escherichia coli,France,2020,65,Elderly,0,1,Cephalosporins
+17831,Serratia marcescens,France,2020,74,Elderly,0,0,
+17842,Escherichia coli,Germany,2020,71,Elderly,0,0,
+17846,Escherichia coli,Germany,2020,61,Elderly,0,0,
+17851,Klebsiella pneumoniae,Germany,2020,82,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+17858,Pseudomonas aeruginosa,Germany,2020,5,Pediatric,0,0,
+17873,Escherichia coli,Belgium,2020,78,Elderly,0,2,Cephalosporins;Fluoroquinolones
+17880,Klebsiella pneumoniae,Belgium,2020,73,Elderly,0,1,Cephalosporins
+17882,Pseudomonas aeruginosa,Belgium,2020,64,Elderly,0,0,
+17883,Pseudomonas aeruginosa,Belgium,2020,62,Elderly,0,0,
+17886,Escherichia coli,United States,2020,66,Elderly,0,1,Fluoroquinolones
+17889,Escherichia coli,United States,2020,72,Elderly,0,1,Cephalosporins
+17890,Escherichia coli,United States,2020,90,Elderly,0,0,
+17907,Klebsiella pneumoniae,United States,2020,66,Elderly,0,0,
+17908,Klebsiella pneumoniae,United States,2020,1,Pediatric,0,0,
+17909,Klebsiella pneumoniae,United States,2020,82,Elderly,0,0,
+17927,Klebsiella pneumoniae,United States,2020,77,Elderly,0,2,Cephalosporins;Aminoglycosides
+17931,Klebsiella pneumoniae,United States,2020,89,Elderly,0,2,Cephalosporins;Aminoglycosides
+17933,Pseudomonas aeruginosa,United States,2020,71,Elderly,0,1,Carbapenems
+17947,Pseudomonas aeruginosa,United States,2020,61,Elderly,0,0,
+17948,Pseudomonas aeruginosa,United States,2020,87,Elderly,0,0,
+17984,Klebsiella pneumoniae,Brazil,2020,61,Elderly,1,3,Penicillins;Cephalosporins;Carbapenems
+17987,Pseudomonas aeruginosa,Brazil,2020,70,Elderly,0,0,
+17997,Pseudomonas aeruginosa,Brazil,2020,69,Elderly,0,1,Carbapenems
+18000,Klebsiella pneumoniae,Brazil,2020,85,Elderly,0,2,Cephalosporins;Fluoroquinolones
+18015,Klebsiella pneumoniae,Romania,2020,62,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+18024,Escherichia coli,Romania,2020,71,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+18028,Escherichia coli,Poland,2020,0,Pediatric,0,0,
+18031,Pseudomonas aeruginosa,Poland,2020,70,Elderly,0,0,
+18037,Klebsiella pneumoniae,Poland,2020,67,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+18052,Klebsiella pneumoniae,Turkey,2020,76,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+18058,Escherichia coli,Italy,2020,67,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+18086,Klebsiella pneumoniae,United States,2020,74,Elderly,0,0,
+18097,Escherichia coli,United States,2020,78,Elderly,0,0,
+18104,Klebsiella pneumoniae,United States,2020,71,Elderly,0,0,
+18121,Klebsiella pneumoniae,United States,2020,63,Elderly,0,0,
+18133,Pseudomonas aeruginosa,United States,2020,87,Elderly,0,1,Carbapenems
+18134,Pseudomonas aeruginosa,United States,2020,70,Elderly,0,0,
+18138,Escherichia coli,United States,2020,70,Elderly,0,0,
+18139,Klebsiella pneumoniae,United States,2020,84,Elderly,0,0,
+18141,Escherichia coli,United States,2020,61,Elderly,0,0,
+18183,Pseudomonas aeruginosa,Spain,2020,84,Elderly,0,0,
+18189,Pseudomonas aeruginosa,Spain,2020,71,Elderly,0,0,
+18192,Pseudomonas aeruginosa,Spain,2020,78,Elderly,0,0,
+18196,Escherichia coli,Spain,2020,78,Elderly,0,0,
+18211,Klebsiella pneumoniae,Belgium,2020,72,Elderly,0,2,Cephalosporins;Fluoroquinolones
+18223,Klebsiella pneumoniae,Belgium,2020,81,Elderly,0,2,Cephalosporins;Aminoglycosides
+18235,Escherichia coli,United States,2020,77,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+18236,Escherichia coli,United States,2020,76,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+18243,Escherichia coli,United States,2020,91,Elderly,0,1,Fluoroquinolones
+18248,Escherichia coli,United States,2020,74,Elderly,0,0,
+18272,Klebsiella pneumoniae,United States,2020,73,Elderly,0,2,Cephalosporins;Aminoglycosides
+18273,Escherichia coli,United States,2020,86,Elderly,0,0,
+18283,Klebsiella pneumoniae,United States,2020,70,Elderly,0,0,
+18299,Klebsiella pneumoniae,United States,2020,81,Elderly,0,0,
+18304,Pseudomonas aeruginosa,Mexico,2020,0,Pediatric,1,3,Cephalosporins;Carbapenems;Aminoglycosides
+18308,Escherichia coli,Mexico,2020,0,Pediatric,0,0,
+18309,Escherichia coli,Mexico,2020,0,Pediatric,0,0,
+18310,Escherichia coli,Mexico,2020,0,Pediatric,0,0,
+18311,Klebsiella pneumoniae,Mexico,2020,1,Pediatric,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+18312,Klebsiella pneumoniae,Mexico,2020,0,Pediatric,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+18314,Serratia marcescens,Mexico,2020,0,Pediatric,0,0,
+18325,Escherichia coli,Portugal,2020,0,Pediatric,0,0,
+18329,Pseudomonas aeruginosa,Turkey,2020,71,Elderly,0,1,Fluoroquinolones
+18331,Pseudomonas aeruginosa,Turkey,2020,87,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+18334,Escherichia coli,Turkey,2020,63,Elderly,0,0,
+18337,Klebsiella pneumoniae,Turkey,2020,81,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+18348,Pseudomonas aeruginosa,Turkey,2020,83,Elderly,0,0,
+18349,Pseudomonas aeruginosa,Turkey,2020,64,Elderly,0,0,
+18354,Escherichia coli,United Kingdom,2020,87,Elderly,0,0,
+18355,Klebsiella pneumoniae,United Kingdom,2020,79,Elderly,0,0,
+18359,Klebsiella pneumoniae,United Kingdom,2020,71,Elderly,0,0,
+18384,Citrobacter koseri,United Kingdom,2020,83,Elderly,0,0,
+18404,Escherichia coli,"Korea, South",2020,62,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+18426,Escherichia coli,"Korea, South",2020,90,Elderly,0,1,Aminoglycosides
+18427,Escherichia coli,"Korea, South",2020,81,Elderly,0,1,Aminoglycosides
+18428,Escherichia coli,"Korea, South",2020,78,Elderly,0,2,Cephalosporins;Aminoglycosides
+18432,Escherichia coli,"Korea, South",2020,84,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+18439,Escherichia coli,"Korea, South",2020,65,Elderly,0,2,Cephalosporins;Fluoroquinolones
+18443,Klebsiella pneumoniae,Thailand,2020,1,Pediatric,0,0,
+18448,Pseudomonas aeruginosa,Thailand,2020,86,Elderly,0,2,Penicillins;Cephalosporins
+18452,Enterobacter cloacae,India,2020,86,Elderly,0,0,
+18459,Escherichia coli,India,2020,67,Elderly,0,0,
+18476,Pseudomonas aeruginosa,Mexico,2020,73,Elderly,0,0,
+18488,Pseudomonas aeruginosa,Guatemala,2020,0,Pediatric,0,1,Penicillins
+18508,Enterobacter cloacae,Mexico,2020,65,Elderly,0,0,
+18541,Klebsiella pneumoniae,United States,2020,64,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+18543,Klebsiella pneumoniae,United States,2020,73,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+18545,Escherichia coli,United States,2020,76,Elderly,0,1,Cephalosporins
+18550,Pseudomonas aeruginosa,United States,2020,69,Elderly,0,1,Penicillins
+18559,Klebsiella pneumoniae,United States,2020,81,Elderly,0,0,
+18563,Pseudomonas aeruginosa,United States,2020,83,Elderly,0,0,
+18566,Serratia marcescens,United States,2020,76,Elderly,0,0,
+18569,Escherichia coli,United States,2020,85,Elderly,0,1,Cephalosporins
+18570,Citrobacter koseri,United States,2020,69,Elderly,0,1,Cephalosporins
+18580,Escherichia coli,United States,2020,0,Pediatric,0,0,
+18582,Escherichia coli,United States,2020,80,Elderly,0,0,
+18583,Escherichia coli,United States,2020,81,Elderly,0,2,Cephalosporins;Fluoroquinolones
+18587,Escherichia coli,United States,2020,62,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+18588,Escherichia coli,United States,2020,87,Elderly,0,1,Fluoroquinolones
+18593,Klebsiella pneumoniae,United States,2020,74,Elderly,0,1,Aminoglycosides
+18598,Escherichia coli,United States,2020,81,Elderly,0,1,Cephalosporins
+18600,Klebsiella pneumoniae,United States,2020,67,Elderly,0,0,
+18602,Klebsiella pneumoniae,United States,2020,76,Elderly,0,2,Penicillins;Fluoroquinolones
+18605,Klebsiella pneumoniae,United States,2020,74,Elderly,0,0,
+18606,Klebsiella pneumoniae,United States,2020,84,Elderly,0,0,
+18612,Klebsiella pneumoniae,United States,2020,16,Pediatric,0,0,
+18617,Pseudomonas aeruginosa,United States,2020,62,Elderly,0,0,
+18634,Pseudomonas aeruginosa,Germany,2020,72,Elderly,0,0,
+18660,Escherichia coli,Venezuela,2020,69,Elderly,0,0,
+18675,Escherichia coli,Brazil,2020,69,Elderly,0,0,
+19161,Escherichia coli,United States,2020,0,Pediatric,0,0,
+19218,Pseudomonas aeruginosa,Kuwait,2020,77,Elderly,0,0,
+19228,Klebsiella pneumoniae,Kuwait,2020,69,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+19229,Klebsiella pneumoniae,Kuwait,2020,81,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+19230,Klebsiella pneumoniae,Kuwait,2020,65,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+19256,Escherichia coli,United States,2020,68,Elderly,0,2,Cephalosporins;Fluoroquinolones
+21005,Pseudomonas aeruginosa,Latvia,2021,80,Elderly,0,0,
+21012,Pseudomonas aeruginosa,Latvia,2021,70,Elderly,0,0,
+21158,Pseudomonas aeruginosa,Ukraine,2021,17,Pediatric,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+24290,Pseudomonas aeruginosa,Ukraine,2021,67,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+24318,Pseudomonas aeruginosa,Ukraine,2021,61,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+24377,Pseudomonas aeruginosa,Ukraine,2021,62,Elderly,0,0,
+24771,Pseudomonas aeruginosa,Latvia,2021,64,Elderly,0,0,
+24772,Pseudomonas aeruginosa,Latvia,2021,80,Elderly,0,1,Carbapenems
+24779,Pseudomonas aeruginosa,Latvia,2021,73,Elderly,0,0,
+24784,Pseudomonas aeruginosa,India,2022,69,Elderly,0,0,
+24820,Escherichia coli,"Korea, South",2022,74,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+24833,Klebsiella pneumoniae,"Korea, South",2022,89,Elderly,0,0,
+24838,Pseudomonas aeruginosa,"Korea, South",2022,87,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+24846,Pseudomonas aeruginosa,"Korea, South",2022,79,Elderly,0,0,
+24876,Escherichia coli,Israel,2022,70,Elderly,0,0,
+24895,Klebsiella pneumoniae,India,2022,1,Pediatric,1,3,Penicillins;Cephalosporins;Aminoglycosides
+24914,Serratia marcescens,United States,2022,68,Elderly,0,1,Cephalosporins
+24960,Citrobacter koseri,India,2022,70,Elderly,0,0,
+24974,Enterobacter cloacae,Australia,2022,82,Elderly,0,0,
+24993,Enterobacter cloacae,Italy,2022,76,Elderly,0,0,
+25010,Enterobacter cloacae,United States,2022,78,Elderly,0,0,
+25015,Klebsiella pneumoniae,United States,2022,66,Elderly,0,0,
+25017,Klebsiella pneumoniae,United States,2022,81,Elderly,0,2,Penicillins;Cephalosporins
+25121,Pseudomonas aeruginosa,"Korea, South",2022,74,Elderly,0,0,
+25218,Citrobacter koseri,United States,2022,75,Elderly,0,0,
+25248,Klebsiella pneumoniae,Canada,2022,72,Elderly,0,0,
+25266,Escherichia coli,Kuwait,2022,0,Pediatric,0,1,Cephalosporins
+25270,Pseudomonas aeruginosa,Kuwait,2022,1,Pediatric,0,0,
+25320,Escherichia coli,Israel,2022,89,Elderly,0,0,
+25387,Enterobacter cloacae,Mexico,2022,78,Elderly,0,2,Cephalosporins;Aminoglycosides
+25390,Escherichia coli,Mexico,2022,67,Elderly,0,2,Cephalosporins;Fluoroquinolones
+25466,Escherichia coli,Croatia,2022,68,Elderly,0,0,
+25695,Escherichia coli,Czech Republic,2022,100,Elderly,0,1,Fluoroquinolones
+25736,Escherichia coli,France,2022,69,Elderly,0,0,
+25741,Escherichia coli,Germany,2022,84,Elderly,0,0,
+25742,Escherichia coli,Germany,2022,75,Elderly,0,0,
+25784,Serratia marcescens,Italy,2022,9,Pediatric,0,0,
+25795,Enterobacter cloacae,Italy,2022,69,Elderly,0,2,Penicillins;Cephalosporins
+25832,Escherichia coli,Belgium,2022,63,Elderly,0,1,Fluoroquinolones
+25850,Citrobacter koseri,United Kingdom,2022,65,Elderly,0,0,
+25854,Escherichia coli,United Kingdom,2022,94,Elderly,0,0,
+25898,Enterobacter cloacae,Spain,2022,64,Elderly,0,0,
+25912,Pseudomonas aeruginosa,Spain,2022,62,Elderly,0,0,
+25917,Escherichia coli,Lithuania,2022,86,Elderly,0,1,Fluoroquinolones
+25920,Escherichia coli,Lithuania,2022,74,Elderly,0,0,
+25923,Escherichia coli,Lithuania,2022,87,Elderly,0,1,Fluoroquinolones
+25929,Klebsiella pneumoniae,Lithuania,2022,72,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+25954,Klebsiella pneumoniae,Taiwan,2022,71,Elderly,0,0,
+25978,Escherichia coli,Poland,2022,65,Elderly,0,0,
+25989,Escherichia coli,Switzerland,2022,0,Pediatric,0,0,
+26008,Escherichia coli,Switzerland,2022,81,Elderly,0,0,
+26027,Enterobacter cloacae,France,2022,95,Elderly,0,1,Cephalosporins
+26039,Escherichia coli,Ukraine,2022,1,Pediatric,0,1,Penicillins
+26087,Enterobacter cloacae,Spain,2022,69,Elderly,0,0,
+26088,Escherichia coli,Spain,2022,1,Pediatric,0,1,Fluoroquinolones
+26158,Pseudomonas aeruginosa,Kuwait,2022,72,Elderly,0,2,Penicillins;Cephalosporins
+26159,Pseudomonas aeruginosa,Kuwait,2022,72,Elderly,0,2,Penicillins;Cephalosporins
+26160,Pseudomonas aeruginosa,Kuwait,2022,74,Elderly,0,0,
+26171,Enterobacter cloacae,Kuwait,2022,79,Elderly,0,1,Aminoglycosides
+26184,Escherichia coli,South Africa,2022,71,Elderly,0,1,Fluoroquinolones
+26185,Escherichia coli,South Africa,2022,79,Elderly,0,0,
+26186,Klebsiella pneumoniae,South Africa,2022,84,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+26190,Escherichia coli,South Africa,2022,76,Elderly,0,0,
+26191,Klebsiella pneumoniae,South Africa,2022,82,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+26205,Escherichia coli,Spain,2022,67,Elderly,0,0,
+26257,Enterobacter cloacae,Colombia,2022,70,Elderly,0,0,
+26357,Enterobacter cloacae,United States,2022,61,Elderly,0,0,
+26385,Enterobacter cloacae,United States,2022,0,Pediatric,0,0,
+26427,Escherichia coli,Canada,2022,65,Elderly,0,1,Cephalosporins
+26428,Escherichia coli,Canada,2022,76,Elderly,0,0,
+26429,Escherichia coli,Canada,2022,72,Elderly,0,0,
+26432,Serratia marcescens,Canada,2022,71,Elderly,0,0,
+26433,Escherichia coli,Canada,2022,1,Pediatric,0,0,
+26434,Escherichia coli,Canada,2022,83,Elderly,0,0,
+26451,Escherichia coli,United States,2022,74,Elderly,0,0,
+26468,Klebsiella pneumoniae,United States,2022,69,Elderly,0,0,
+26501,Escherichia coli,Czech Republic,2022,64,Elderly,0,0,
+26502,Klebsiella pneumoniae,Czech Republic,2022,62,Elderly,0,0,
+26504,Klebsiella pneumoniae,Czech Republic,2022,97,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+26534,Klebsiella pneumoniae,Colombia,2022,0,Pediatric,0,0,
+26586,Klebsiella pneumoniae,France,2022,61,Elderly,0,0,
+26637,Enterobacter cloacae,Spain,2022,92,Elderly,0,0,
+26641,Escherichia coli,Denmark,2022,71,Elderly,0,0,
+26676,Escherichia coli,United States,2022,66,Elderly,0,1,Fluoroquinolones
+26689,Pseudomonas aeruginosa,United States,2022,76,Elderly,0,0,
+26721,Escherichia coli,United States,2022,84,Elderly,0,0,
+26743,Klebsiella pneumoniae,Greece,2022,1,Pediatric,0,0,
+26778,Escherichia coli,United States,2022,1,Pediatric,0,1,Cephalosporins
+26783,Klebsiella pneumoniae,United States,2022,3,Pediatric,0,2,Cephalosporins;Aminoglycosides
+26790,Klebsiella pneumoniae,United States,2022,1,Pediatric,0,0,
+26824,Klebsiella pneumoniae,Guatemala,2022,61,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Aminoglycosides
+26899,Klebsiella pneumoniae,Morocco,2022,3,Pediatric,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+26948,Escherichia coli,India,2022,65,Elderly,0,0,
+26955,Enterobacter cloacae,Greece,2022,76,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+27030,Enterobacter cloacae,Netherlands,2022,64,Elderly,0,2,Penicillins;Cephalosporins
+27031,Enterobacter cloacae,Netherlands,2022,0,Pediatric,0,0,
+27144,Serratia marcescens,Costa Rica,2022,68,Elderly,0,0,
+27152,Klebsiella pneumoniae,Costa Rica,2022,0,Pediatric,0,0,
+27189,Escherichia coli,France,2022,82,Elderly,0,0,
+27240,Escherichia coli,Colombia,2022,88,Elderly,0,0,
+27245,Escherichia coli,Colombia,2022,75,Elderly,0,0,
+27288,Escherichia coli,Hungary,2022,92,Elderly,0,1,Fluoroquinolones
+27303,Enterobacter cloacae,Hungary,2022,65,Elderly,0,0,
+27359,Klebsiella pneumoniae,United States,2022,61,Elderly,1,3,Penicillins;Cephalosporins;Aminoglycosides
+27367,Klebsiella pneumoniae,United States,2022,62,Elderly,0,2,Cephalosporins;Aminoglycosides
+27374,Pseudomonas aeruginosa,United States,2022,79,Elderly,0,0,
+27380,Escherichia coli,United States,2022,62,Elderly,0,2,Cephalosporins;Fluoroquinolones
+27421,Escherichia coli,Spain,2022,85,Elderly,0,1,Fluoroquinolones
+27433,Escherichia coli,"Korea, South",2022,69,Elderly,0,0,
+27435,Escherichia coli,"Korea, South",2022,74,Elderly,0,0,
+27446,Pseudomonas aeruginosa,"Korea, South",2022,83,Elderly,0,0,
+27488,Enterobacter cloacae,Spain,2022,81,Elderly,0,0,
+27528,Enterobacter cloacae,United States,2022,16,Pediatric,0,0,
+27531,Escherichia coli,United States,2022,76,Elderly,0,0,
+27535,Escherichia coli,United States,2022,78,Elderly,0,0,
+27584,Escherichia coli,Nigeria,2022,1,Pediatric,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+27626,Pseudomonas aeruginosa,United States,2022,78,Elderly,0,0,
+27643,Escherichia coli,Australia,2022,76,Elderly,0,0,
+27679,Escherichia coli,Germany,2022,80,Elderly,0,1,Fluoroquinolones
+27732,Klebsiella pneumoniae,Thailand,2022,71,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+27764,Serratia marcescens,Slovenia,2022,77,Elderly,0,0,
+27772,Escherichia coli,Cameroon,2022,0,Pediatric,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+27794,Klebsiella pneumoniae,Romania,2022,82,Elderly,1,3,Cephalosporins;Fluoroquinolones;Aminoglycosides
+27812,Pseudomonas aeruginosa,Romania,2022,94,Elderly,0,2,Penicillins;Cephalosporins
+27840,Citrobacter koseri,Argentina,2022,75,Elderly,0,0,
+27844,Escherichia coli,Argentina,2022,4,Pediatric,0,0,
+27894,Serratia marcescens,Brazil,2022,76,Elderly,0,1,Cephalosporins
+27915,Klebsiella pneumoniae,Venezuela,2022,0,Pediatric,0,2,Fluoroquinolones;Aminoglycosides
+27920,Serratia marcescens,Venezuela,2022,7,Pediatric,0,0,
+27935,Klebsiella pneumoniae,Nigeria,2022,10,Pediatric,0,0,
+27976,Escherichia coli,United States,2022,73,Elderly,0,0,
+27979,Klebsiella pneumoniae,United States,2022,62,Elderly,0,0,
+28011,Escherichia coli,Belgium,2022,67,Elderly,0,0,
+28039,Klebsiella pneumoniae,Brazil,2022,61,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+28057,Enterobacter cloacae,Sweden,2022,63,Elderly,0,2,Penicillins;Cephalosporins
+28067,Enterobacter cloacae,Poland,2022,0,Pediatric,0,2,Penicillins;Cephalosporins
+28096,Enterobacter cloacae,Chile,2022,0,Pediatric,0,0,
+28157,Klebsiella pneumoniae,Poland,2022,67,Elderly,1,4,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones
+28160,Klebsiella pneumoniae,Poland,2022,65,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+28211,Escherichia coli,United States,2022,72,Elderly,0,0,
+28220,Klebsiella pneumoniae,United States,2022,80,Elderly,0,0,
+28245,Klebsiella pneumoniae,Belgium,2022,61,Elderly,0,2,Cephalosporins;Aminoglycosides
+28246,Klebsiella pneumoniae,Belgium,2022,1,Pediatric,0,1,Cephalosporins
+28282,Serratia marcescens,Morocco,2022,83,Elderly,0,2,Cephalosporins;Aminoglycosides
+28283,Serratia marcescens,Morocco,2022,83,Elderly,0,2,Cephalosporins;Aminoglycosides
+28331,Klebsiella pneumoniae,United States,2022,65,Elderly,0,0,
+28332,Pseudomonas aeruginosa,United States,2022,70,Elderly,0,0,
+28459,Klebsiella pneumoniae,Ireland,2022,64,Elderly,0,0,
+28494,Escherichia coli,Italy,2022,80,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+28497,Klebsiella pneumoniae,Italy,2022,78,Elderly,0,1,Cephalosporins
+28498,Klebsiella pneumoniae,Italy,2022,75,Elderly,0,1,Cephalosporins
+28505,Enterobacter cloacae,Italy,2022,65,Elderly,0,2,Penicillins;Cephalosporins
+28511,Pseudomonas aeruginosa,Romania,2022,61,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+28516,Pseudomonas aeruginosa,Romania,2022,69,Elderly,0,0,
+28553,Klebsiella pneumoniae,Brazil,2022,68,Elderly,1,4,Penicillins;Cephalosporins;Fluoroquinolones;Aminoglycosides
+28563,Citrobacter koseri,Croatia,2022,77,Elderly,0,0,
+28586,Escherichia coli,Romania,2022,63,Elderly,1,3,Penicillins;Cephalosporins;Fluoroquinolones
+28624,Escherichia coli,Spain,2022,72,Elderly,0,1,Penicillins
+28681,Klebsiella pneumoniae,Lithuania,2022,71,Elderly,0,0,
+28685,Serratia marcescens,Lithuania,2022,69,Elderly,0,0,
+28778,Escherichia coli,United States,2022,78,Elderly,0,0,
+28781,Escherichia coli,United States,2022,84,Elderly,0,0,
+28796,Escherichia coli,Argentina,2022,83,Elderly,0,2,Fluoroquinolones;Aminoglycosides
+28805,Klebsiella pneumoniae,Chile,2022,69,Elderly,1,5,Penicillins;Cephalosporins;Carbapenems;Fluoroquinolones;Aminoglycosides
+28815,Enterobacter cloacae,Chile,2022,80,Elderly,0,0,
+28823,Escherichia coli,Colombia,2022,79,Elderly,0,1,Fluoroquinolones
+28825,Enterobacter cloacae,Colombia,2022,87,Elderly,0,0,
+28971,Escherichia coli,Mexico,2022,0,Pediatric,0,0,
+28984,Escherichia coli,Mexico,2022,0,Pediatric,0,2,Cephalosporins;Fluoroquinolones
+29020,Pseudomonas aeruginosa,United States,2022,75,Elderly,0,0,
+29037,Pseudomonas aeruginosa,United States,2022,61,Elderly,0,0,
+29087,Escherichia coli,Qatar,2022,70,Elderly,0,0,
+29094,Klebsiella pneumoniae,Canada,2022,74,Elderly,0,1,Cephalosporins
+29119,Escherichia coli,United Kingdom,2022,83,Elderly,0,0,
+29218,Escherichia coli,United States,2022,66,Elderly,0,0,
+29233,Escherichia coli,United States,2022,78,Elderly,0,0,
+29278,Pseudomonas aeruginosa,Italy,2022,83,Elderly,0,0,
+29283,Serratia marcescens,Italy,2022,79,Elderly,0,0,
+29284,Klebsiella pneumoniae,Italy,2022,66,Elderly,0,0,
+29287,Klebsiella pneumoniae,Italy,2022,67,Elderly,0,0,
+29294,Pseudomonas aeruginosa,France,2022,64,Elderly,0,0,
