@@ -1,0 +1,1147 @@
+Country,Year,Health_Exp_PCT_GDP,Is_HIC,HIC_Mean_Exp
+Afghanistan,2005,9.9,False,7.34
+Afghanistan,2010,8.6,False,8.16
+Afghanistan,2015,10.1,False,8.41
+Afghanistan,2020,15.5,False,9.4
+Afghanistan,2021,21.5,False,9.32
+Afghanistan,2022,23.1,False,8.71
+Albania,2005,5.7,False,7.34
+Albania,2010,6.2,False,8.16
+Albania,2015,6.5,False,8.41
+Albania,2020,7.5,False,9.4
+Albania,2021,7.4,False,9.32
+Albania,2022,6.2,False,8.71
+Algeria,2005,3.1,False,7.34
+Algeria,2010,4.6,False,8.16
+Algeria,2015,6.3,False,8.41
+Algeria,2020,5.6,False,9.4
+Algeria,2021,5.0,False,9.32
+Algeria,2022,3.6,False,8.71
+Andorra,2005,5.6,False,7.34
+Andorra,2010,7.7,False,8.16
+Andorra,2015,6.9,False,8.41
+Andorra,2020,8.8,False,9.4
+Andorra,2021,8.3,False,9.32
+Andorra,2022,7.5,False,8.71
+Angola,2005,2.9,False,7.34
+Angola,2010,2.7,False,8.16
+Angola,2015,2.6,False,8.41
+Angola,2020,3.3,False,9.4
+Angola,2021,3.1,False,9.32
+Angola,2022,2.9,False,8.71
+Antigua and Barbuda,2005,5.0,False,7.34
+Antigua and Barbuda,2010,5.4,False,8.16
+Antigua and Barbuda,2015,5.3,False,8.41
+Antigua and Barbuda,2020,5.7,False,9.4
+Antigua and Barbuda,2021,5.0,False,9.32
+Antigua and Barbuda,2022,5.7,False,8.71
+Argentina,2005,7.6,False,7.34
+Argentina,2010,9.4,False,8.16
+Argentina,2015,10.2,False,8.41
+Argentina,2020,10.5,False,9.4
+Argentina,2021,10.0,False,9.32
+Argentina,2022,9.9,False,8.71
+Armenia,2005,5.9,False,7.34
+Armenia,2010,9.2,False,8.16
+Armenia,2015,10.1,False,8.41
+Armenia,2020,12.2,False,9.4
+Armenia,2021,12.3,False,9.32
+Armenia,2022,10.0,False,8.71
+Australia,2005,8.0,True,7.34
+Australia,2010,8.4,True,8.16
+Australia,2015,10.2,True,8.41
+Australia,2020,10.7,True,9.4
+Australia,2021,10.4,True,9.32
+Australia,2022,9.9,True,8.71
+Austria,2005,9.6,True,7.34
+Austria,2010,10.2,True,8.16
+Austria,2015,10.4,True,8.41
+Austria,2020,11.3,True,9.4
+Austria,2021,12.2,True,9.32
+Austria,2022,11.2,True,8.71
+Azerbaijan,2005,2.2,False,7.34
+Azerbaijan,2010,2.6,False,8.16
+Azerbaijan,2015,4.3,False,8.41
+Azerbaijan,2020,5.8,False,9.4
+Azerbaijan,2021,4.7,False,9.32
+Azerbaijan,2022,4.0,False,8.71
+Bahamas (The),2005,4.0,False,7.34
+Bahamas (The),2010,5.3,False,8.16
+Bahamas (The),2015,5.2,False,8.41
+Bahamas (The),2020,7.6,False,9.4
+Bahamas (The),2021,7.0,False,9.32
+Bahamas (The),2022,7.2,False,8.71
+Bahrain,2005,3.3,False,7.34
+Bahrain,2010,4.1,False,8.16
+Bahrain,2015,5.0,False,8.41
+Bahrain,2020,4.7,False,9.4
+Bahrain,2021,4.5,False,9.32
+Bahrain,2022,3.8,False,8.71
+Bangladesh,2005,2.1,False,7.34
+Bangladesh,2010,2.3,False,8.16
+Bangladesh,2015,2.3,False,8.41
+Bangladesh,2020,2.3,False,9.4
+Bangladesh,2021,2.4,False,9.32
+Bangladesh,2022,2.4,False,8.71
+Barbados,2005,6.8,False,7.34
+Barbados,2010,6.8,False,8.16
+Barbados,2015,6.8,False,8.41
+Barbados,2020,7.3,False,9.4
+Barbados,2021,7.9,False,9.32
+Barbados,2022,6.3,False,8.71
+Belarus,2005,6.1,False,7.34
+Belarus,2010,5.7,False,8.16
+Belarus,2015,6.1,False,8.41
+Belarus,2020,6.4,False,9.4
+Belarus,2021,6.6,False,9.32
+Belarus,2022,6.7,False,8.71
+Belgium,2005,9.2,True,7.34
+Belgium,2010,10.2,True,8.16
+Belgium,2015,10.8,True,8.41
+Belgium,2020,11.3,True,9.4
+Belgium,2021,11.0,True,9.32
+Belgium,2022,10.8,True,8.71
+Belize,2005,3.6,False,7.34
+Belize,2010,4.5,False,8.16
+Belize,2015,4.7,False,8.41
+Belize,2020,5.4,False,9.4
+Belize,2021,5.1,False,9.32
+Belize,2022,4.2,False,8.71
+Benin,2005,3.2,False,7.34
+Benin,2010,3.0,False,8.16
+Benin,2015,2.7,False,8.41
+Benin,2020,2.7,False,9.4
+Benin,2021,2.6,False,9.32
+Benin,2022,2.7,False,8.71
+Bhutan,2005,3.8,False,7.34
+Bhutan,2010,3.3,False,8.16
+Bhutan,2015,3.5,False,8.41
+Bhutan,2020,4.1,False,9.4
+Bhutan,2021,3.1,False,9.32
+Bhutan,2022,4.4,False,8.71
+Bolivia (Plurin. State of),2005,5.1,False,7.34
+Bolivia (Plurin. State of),2010,5.2,False,8.16
+Bolivia (Plurin. State of),2015,6.6,False,8.41
+Bolivia (Plurin. State of),2020,8.0,False,9.4
+Bolivia (Plurin. State of),2021,8.2,False,9.32
+Bolivia (Plurin. State of),2022,8.4,False,8.71
+Bosnia and Herzegovina,2005,9.1,False,7.34
+Bosnia and Herzegovina,2010,9.0,False,8.16
+Bosnia and Herzegovina,2015,9.2,False,8.41
+Bosnia and Herzegovina,2020,9.7,False,9.4
+Bosnia and Herzegovina,2021,9.6,False,9.32
+Bosnia and Herzegovina,2022,8.7,False,8.71
+Botswana,2005,5.3,False,7.34
+Botswana,2010,6.3,False,8.16
+Botswana,2015,6.1,False,8.41
+Botswana,2020,6.1,False,9.4
+Botswana,2021,6.3,False,9.32
+Botswana,2022,5.7,False,8.71
+Brazil,2005,8.0,False,7.34
+Brazil,2010,7.9,False,8.16
+Brazil,2015,8.9,False,8.41
+Brazil,2020,9.6,False,9.4
+Brazil,2021,9.6,False,9.32
+Brazil,2022,9.1,False,8.71
+Brunei Darussalam,2005,2.2,False,7.34
+Brunei Darussalam,2010,2.3,False,8.16
+Brunei Darussalam,2015,2.4,False,8.41
+Brunei Darussalam,2020,2.5,False,9.4
+Brunei Darussalam,2021,2.1,False,9.32
+Brunei Darussalam,2022,1.8,False,8.71
+Bulgaria,2005,6.9,False,7.34
+Bulgaria,2010,7.1,False,8.16
+Bulgaria,2015,7.4,False,8.41
+Bulgaria,2020,8.5,False,9.4
+Bulgaria,2021,8.6,False,9.32
+Bulgaria,2022,7.7,False,8.71
+Burkina Faso,2005,4.0,False,7.34
+Burkina Faso,2010,5.2,False,8.16
+Burkina Faso,2015,5.1,False,8.41
+Burkina Faso,2020,6.6,False,9.4
+Burkina Faso,2021,6.4,False,9.32
+Burkina Faso,2022,6.8,False,8.71
+Burundi,2005,7.6,False,7.34
+Burundi,2010,11.3,False,8.16
+Burundi,2015,6.3,False,8.41
+Burundi,2020,10.7,False,9.4
+Burundi,2021,9.0,False,9.32
+Burundi,2022,8.4,False,8.71
+Cabo Verde,2005,4.5,False,7.34
+Cabo Verde,2010,4.1,False,8.16
+Cabo Verde,2015,4.4,False,8.41
+Cabo Verde,2020,6.6,False,9.4
+Cabo Verde,2021,7.3,False,9.32
+Cabo Verde,2022,6.7,False,8.71
+Cambodia,2005,6.2,False,7.34
+Cambodia,2010,5.6,False,8.16
+Cambodia,2015,4.6,False,8.41
+Cambodia,2020,5.3,False,9.4
+Cambodia,2021,5.5,False,9.32
+Cambodia,2022,4.7,False,8.71
+Cameroon,2005,3.8,False,7.34
+Cameroon,2010,3.6,False,8.16
+Cameroon,2015,4.1,False,8.41
+Cameroon,2020,4.3,False,9.4
+Cameroon,2021,4.3,False,9.32
+Cameroon,2022,4.5,False,8.71
+Canada,2005,9.0,True,7.34
+Canada,2010,10.7,True,8.16
+Canada,2015,10.8,True,8.41
+Canada,2020,13.0,True,9.4
+Canada,2021,12.4,True,9.32
+Canada,2022,11.2,True,8.71
+Central African Republic,2005,4.2,False,7.34
+Central African Republic,2010,3.6,False,8.16
+Central African Republic,2015,5.0,False,8.41
+Central African Republic,2020,9.0,False,9.4
+Central African Republic,2021,9.2,False,9.32
+Central African Republic,2022,10.0,False,8.71
+Chad,2005,3.6,False,7.34
+Chad,2010,3.0,False,8.16
+Chad,2015,3.4,False,8.41
+Chad,2020,4.5,False,9.4
+Chad,2021,4.2,False,9.32
+Chad,2022,4.5,False,8.71
+Chile,2005,6.6,False,7.34
+Chile,2010,6.8,False,8.16
+Chile,2015,8.4,False,8.41
+Chile,2020,9.7,False,9.4
+Chile,2021,9.7,False,9.32
+Chile,2022,10.1,False,8.71
+China,2005,4.2,False,7.34
+China,2010,4.2,False,8.16
+China,2015,4.9,False,8.41
+China,2020,5.6,False,9.4
+China,2021,5.4,False,9.32
+China,2022,5.4,False,8.71
+Colombia,2005,6.1,False,7.34
+Colombia,2010,7.1,False,8.16
+Colombia,2015,7.5,False,8.41
+Colombia,2020,8.7,False,9.4
+Colombia,2021,9.0,False,9.32
+Colombia,2022,7.6,False,8.71
+Comoros,2005,6.1,False,7.34
+Comoros,2010,5.0,False,8.16
+Comoros,2015,4.6,False,8.41
+Comoros,2020,5.9,False,9.4
+Comoros,2021,6.4,False,9.32
+Comoros,2022,8.4,False,8.71
+Congo,2005,1.7,False,7.34
+Congo,2010,1.9,False,8.16
+Congo,2015,2.5,False,8.41
+Congo,2020,4.0,False,9.4
+Congo,2021,3.5,False,9.32
+Congo,2022,2.2,False,8.71
+Cook Islands,2005,3.9,False,7.34
+Cook Islands,2010,3.7,False,8.16
+Cook Islands,2015,2.9,False,8.41
+Cook Islands,2020,5.8,False,9.4
+Cook Islands,2021,7.1,False,9.32
+Cook Islands,2022,5.7,False,8.71
+Costa Rica,2005,6.7,False,7.34
+Costa Rica,2010,8.0,False,8.16
+Costa Rica,2015,7.6,False,8.41
+Costa Rica,2020,7.8,False,9.4
+Costa Rica,2021,7.6,False,9.32
+Costa Rica,2022,7.2,False,8.71
+Côte dIvoire,2005,4.0,False,7.34
+Côte dIvoire,2010,4.6,False,8.16
+Côte dIvoire,2015,3.2,False,8.41
+Côte dIvoire,2020,3.6,False,9.4
+Côte dIvoire,2021,3.8,False,9.32
+Côte dIvoire,2022,3.6,False,8.71
+Croatia,2005,6.8,True,7.34
+Croatia,2010,8.0,True,8.16
+Croatia,2015,6.7,True,8.41
+Croatia,2020,7.6,True,9.4
+Croatia,2021,8.0,True,9.32
+Croatia,2022,7.2,True,8.71
+Cuba,2005,8.8,False,7.34
+Cuba,2010,10.7,False,8.16
+Cuba,2015,12.8,False,8.41
+Cuba,2020,12.5,False,9.4
+Cuba,2021,13.8,False,9.32
+Cuba,2022,11.8,False,8.71
+Cyprus,2005,5.4,False,7.34
+Cyprus,2010,6.5,False,8.16
+Cyprus,2015,6.8,False,8.41
+Cyprus,2020,8.8,False,9.4
+Cyprus,2021,9.5,False,9.32
+Cyprus,2022,8.9,False,8.71
+Czech Republic,2005,6.3,True,7.34
+Czech Republic,2010,7.6,True,8.16
+Czech Republic,2015,7.3,True,8.41
+Czech Republic,2020,9.2,True,9.4
+Czech Republic,2021,9.5,True,9.32
+Czech Republic,2022,8.8,True,8.71
+Dem. Rep. of the Congo,2005,4.0,False,7.34
+Dem. Rep. of the Congo,2010,3.7,False,8.16
+Dem. Rep. of the Congo,2015,3.7,False,8.41
+Dem. Rep. of the Congo,2020,4.0,False,9.4
+Dem. Rep. of the Congo,2021,3.7,False,9.32
+Dem. Rep. of the Congo,2022,3.8,False,8.71
+Denmark,2005,9.1,True,7.34
+Denmark,2010,10.6,True,8.16
+Denmark,2015,10.3,True,8.41
+Denmark,2020,10.7,True,9.4
+Denmark,2021,10.7,True,9.32
+Denmark,2022,9.5,True,8.71
+Djibouti,2005,3.8,False,7.34
+Djibouti,2010,3.4,False,8.16
+Djibouti,2015,3.3,False,8.41
+Djibouti,2020,2.3,False,9.4
+Djibouti,2021,2.9,False,9.32
+Djibouti,2022,2.5,False,8.71
+Dominica,2005,5.0,False,7.34
+Dominica,2010,5.2,False,8.16
+Dominica,2015,5.2,False,8.41
+Dominica,2020,6.1,False,9.4
+Dominica,2021,6.3,False,9.32
+Dominica,2022,6.3,False,8.71
+Dominican Republic,2005,4.4,False,7.34
+Dominican Republic,2010,4.9,False,8.16
+Dominican Republic,2015,4.7,False,8.41
+Dominican Republic,2020,4.9,False,9.4
+Dominican Republic,2021,4.9,False,9.32
+Dominican Republic,2022,4.6,False,8.71
+Ecuador,2005,5.8,False,7.34
+Ecuador,2010,6.3,False,8.16
+Ecuador,2015,7.8,False,8.41
+Ecuador,2020,8.7,False,9.4
+Ecuador,2021,8.2,False,9.32
+Ecuador,2022,7.5,False,8.71
+Egypt,2005,4.9,False,7.34
+Egypt,2010,4.2,False,8.16
+Egypt,2015,5.1,False,8.41
+Egypt,2020,4.2,False,9.4
+Egypt,2021,4.6,False,9.32
+Egypt,2022,4.7,False,8.71
+El Salvador,2005,9.2,False,7.34
+El Salvador,2010,8.9,False,8.16
+El Salvador,2015,8.8,False,8.41
+El Salvador,2020,9.0,False,9.4
+El Salvador,2021,10.1,False,9.32
+El Salvador,2022,9.8,False,8.71
+Equatorial Guinea,2005,1.3,False,7.34
+Equatorial Guinea,2010,1.6,False,8.16
+Equatorial Guinea,2015,2.3,False,8.41
+Equatorial Guinea,2020,4.0,False,9.4
+Equatorial Guinea,2021,3.4,False,9.32
+Equatorial Guinea,2022,2.9,False,8.71
+Eritrea,2005,6.9,False,7.34
+Eritrea,2010,4.8,False,8.16
+Eritrea,2015,4.5,False,8.41
+Eritrea,2020,4.3,False,9.4
+Eritrea,2021,4.2,False,9.32
+Eritrea,2022,3.9,False,8.71
+Estonia,2005,5.3,True,7.34
+Estonia,2010,6.6,True,8.16
+Estonia,2015,6.6,True,8.41
+Estonia,2020,7.6,True,9.4
+Estonia,2021,7.5,True,9.32
+Estonia,2022,7.0,True,8.71
+Eswatini,2005,7.4,False,7.34
+Eswatini,2010,8.6,False,8.16
+Eswatini,2015,7.1,False,8.41
+Eswatini,2020,7.1,False,9.4
+Eswatini,2021,7.4,False,9.32
+Eswatini,2022,7.2,False,8.71
+Ethiopia,2005,4.1,False,7.34
+Ethiopia,2010,5.5,False,8.16
+Ethiopia,2015,3.8,False,8.41
+Ethiopia,2020,3.5,False,9.4
+Ethiopia,2021,3.2,False,9.32
+Ethiopia,2022,2.9,False,8.71
+Fiji,2005,3.3,False,7.34
+Fiji,2010,3.4,False,8.16
+Fiji,2015,3.3,False,8.41
+Fiji,2020,5.3,False,9.4
+Fiji,2021,7.1,False,9.32
+Fiji,2022,4.0,False,8.71
+Finland,2005,8.3,True,7.34
+Finland,2010,9.1,True,8.16
+Finland,2015,9.6,True,8.41
+Finland,2020,9.6,True,9.4
+Finland,2021,9.8,True,9.32
+Finland,2022,9.7,True,8.71
+France,2005,10.2,True,7.34
+France,2010,11.2,True,8.16
+France,2015,11.4,True,8.41
+France,2020,12.1,True,9.4
+France,2021,12.3,True,9.32
+France,2022,11.9,True,8.71
+Gabon,2005,2.9,False,7.34
+Gabon,2010,2.5,False,8.16
+Gabon,2015,2.7,False,8.41
+Gabon,2020,3.4,False,9.4
+Gabon,2021,2.7,False,9.32
+Gabon,2022,2.9,False,8.71
+Gambia,2005,5.4,False,7.34
+Gambia,2010,4.1,False,8.16
+Gambia,2015,3.2,False,8.41
+Gambia,2020,3.7,False,9.4
+Gambia,2021,3.2,False,9.32
+Gambia,2022,3.4,False,8.71
+Georgia,2005,8.1,False,7.34
+Georgia,2010,8.9,False,8.16
+Georgia,2015,7.3,False,8.41
+Georgia,2020,8.3,False,9.4
+Georgia,2021,8.3,False,9.32
+Georgia,2022,7.3,False,8.71
+Germany,2005,10.3,True,7.34
+Germany,2010,11.1,True,8.16
+Germany,2015,11.2,True,8.41
+Germany,2020,12.7,True,9.4
+Germany,2021,12.9,True,9.32
+Germany,2022,12.6,True,8.71
+Ghana,2005,3.5,False,7.34
+Ghana,2010,4.7,False,8.16
+Ghana,2015,4.5,False,8.41
+Ghana,2020,4.4,False,9.4
+Ghana,2021,3.9,False,9.32
+Ghana,2022,3.7,False,8.71
+Greece,2005,8.6,True,7.34
+Greece,2010,9.6,True,8.16
+Greece,2015,8.2,True,8.41
+Greece,2020,9.5,True,9.4
+Greece,2021,9.2,True,9.32
+Greece,2022,8.5,True,8.71
+Grenada,2005,5.1,False,7.34
+Grenada,2010,5.4,False,8.16
+Grenada,2015,4.6,False,8.41
+Grenada,2020,5.3,False,9.4
+Grenada,2021,5.3,False,9.32
+Grenada,2022,4.9,False,8.71
+Guatemala,2005,6.1,False,7.34
+Guatemala,2010,6.1,False,8.16
+Guatemala,2015,6.0,False,8.41
+Guatemala,2020,6.5,False,9.4
+Guatemala,2021,7.0,False,9.32
+Guatemala,2022,7.4,False,8.71
+Guinea,2005,4.0,False,7.34
+Guinea,2010,3.4,False,8.16
+Guinea,2015,5.8,False,8.41
+Guinea,2020,3.9,False,9.4
+Guinea,2021,3.7,False,9.32
+Guinea,2022,4.0,False,8.71
+Guinea-Bissau,2005,4.6,False,7.34
+Guinea-Bissau,2010,5.3,False,8.16
+Guinea-Bissau,2015,8.1,False,8.41
+Guinea-Bissau,2020,9.0,False,9.4
+Guinea-Bissau,2021,8.2,False,9.32
+Guinea-Bissau,2022,8.1,False,8.71
+Guyana,2005,3.8,False,7.34
+Guyana,2010,4.2,False,8.16
+Guyana,2015,4.0,False,8.41
+Guyana,2020,5.4,False,9.4
+Guyana,2021,4.9,False,9.32
+Guyana,2022,3.0,False,8.71
+Haiti,2005,3.3,False,7.34
+Haiti,2010,4.5,False,8.16
+Haiti,2015,5.1,False,8.41
+Haiti,2020,3.2,False,9.4
+Haiti,2021,3.4,False,9.32
+Haiti,2022,3.2,False,8.71
+Honduras,2005,7.5,False,7.34
+Honduras,2010,8.7,False,8.16
+Honduras,2015,7.5,False,8.41
+Honduras,2020,9.0,False,9.4
+Honduras,2021,9.2,False,9.32
+Honduras,2022,8.3,False,8.71
+Hungary,2005,8.0,True,7.34
+Hungary,2010,7.4,True,8.16
+Hungary,2015,6.9,True,8.41
+Hungary,2020,7.3,True,9.4
+Hungary,2021,7.4,True,9.32
+Hungary,2022,6.7,True,8.71
+Iceland,2005,8.9,False,7.34
+Iceland,2010,8.4,False,8.16
+Iceland,2015,8.1,False,8.41
+Iceland,2020,9.7,False,9.4
+Iceland,2021,9.8,False,9.32
+Iceland,2022,9.3,False,8.71
+India,2005,3.9,False,7.34
+India,2010,3.3,False,8.16
+India,2015,3.6,False,8.41
+India,2020,3.3,False,9.4
+India,2021,3.3,False,9.32
+India,2022,3.3,False,8.71
+Indonesia,2005,2.5,False,7.34
+Indonesia,2010,2.8,False,8.16
+Indonesia,2015,2.9,False,8.41
+Indonesia,2020,3.4,False,9.4
+Indonesia,2021,3.7,False,9.32
+Indonesia,2022,2.7,False,8.71
+Iran,2005,5.3,False,7.34
+Iran,2010,6.3,False,8.16
+Iran,2015,7.5,False,8.41
+Iran,2020,5.4,False,9.4
+Iran,2021,5.8,False,9.32
+Iran,2022,5.3,False,8.71
+Iraq,2005,3.0,False,7.34
+Iraq,2010,3.2,False,8.16
+Iraq,2015,3.2,False,8.41
+Iraq,2020,5.8,False,9.4
+Iraq,2021,5.3,False,9.32
+Iraq,2022,4.3,False,8.71
+Ireland,2005,7.6,True,7.34
+Ireland,2010,10.5,True,8.16
+Ireland,2015,7.3,True,8.41
+Ireland,2020,7.1,True,9.4
+Ireland,2021,6.6,True,9.32
+Ireland,2022,6.1,True,8.71
+Israel,2005,6.9,True,7.34
+Israel,2010,6.9,True,8.16
+Israel,2015,7.0,True,8.41
+Israel,2020,7.7,True,9.4
+Israel,2021,7.7,True,9.32
+Israel,2022,7.3,True,8.71
+Italy,2005,8.3,True,7.34
+Italy,2010,8.9,True,8.16
+Italy,2015,8.9,True,8.41
+Italy,2020,9.6,True,9.4
+Italy,2021,9.3,True,9.32
+Italy,2022,9.0,True,8.71
+Jamaica,2005,4.5,False,7.34
+Jamaica,2010,5.3,False,8.16
+Jamaica,2015,5.6,False,8.41
+Jamaica,2020,6.6,False,9.4
+Jamaica,2021,7.2,False,9.32
+Jamaica,2022,7.8,False,8.71
+Japan,2005,7.7,True,7.34
+Japan,2010,9.1,True,8.16
+Japan,2015,10.7,True,8.41
+Japan,2020,11.2,True,9.4
+Japan,2021,11.2,True,9.32
+Japan,2022,11.4,True,8.71
+Jordan,2005,8.5,False,7.34
+Jordan,2010,8.2,False,8.16
+Jordan,2015,7.5,False,8.41
+Jordan,2020,7.1,False,9.4
+Jordan,2021,7.2,False,9.32
+Jordan,2022,6.8,False,8.71
+Kazakhstan,2005,3.9,False,7.34
+Kazakhstan,2010,2.7,False,8.16
+Kazakhstan,2015,3.0,False,8.41
+Kazakhstan,2020,3.8,False,9.4
+Kazakhstan,2021,3.9,False,9.32
+Kazakhstan,2022,3.7,False,8.71
+Kenya,2005,4.2,False,7.34
+Kenya,2010,5.4,False,8.16
+Kenya,2015,4.8,False,8.41
+Kenya,2020,4.5,False,9.4
+Kenya,2021,4.6,False,9.32
+Kenya,2022,4.3,False,8.71
+Kiribati,2005,11.4,False,7.34
+Kiribati,2010,8.8,False,8.16
+Kiribati,2015,7.2,False,8.41
+Kiribati,2020,13.5,False,9.4
+Kiribati,2021,11.7,False,9.32
+Kiribati,2022,10.5,False,8.71
+Kuwait,2005,2.0,True,7.34
+Kuwait,2010,2.7,True,8.16
+Kuwait,2015,4.2,True,8.41
+Kuwait,2020,6.2,True,9.4
+Kuwait,2021,5.5,True,9.32
+Kuwait,2022,4.3,True,8.71
+Kyrgyzstan,2005,7.5,False,7.34
+Kyrgyzstan,2010,7.0,False,8.16
+Kyrgyzstan,2015,7.1,False,8.41
+Kyrgyzstan,2020,4.9,False,9.4
+Kyrgyzstan,2021,5.4,False,9.32
+Kyrgyzstan,2022,4.9,False,8.71
+Lao People's Dem. Rep.,2005,3.3,False,7.34
+Lao People's Dem. Rep.,2010,2.9,False,8.16
+Lao People's Dem. Rep.,2015,2.5,False,8.41
+Lao People's Dem. Rep.,2020,2.1,False,9.4
+Lao People's Dem. Rep.,2021,2.7,False,9.32
+Lao People's Dem. Rep.,2022,2.0,False,8.71
+Latvia,2005,5.8,True,7.34
+Latvia,2010,6.1,True,8.16
+Latvia,2015,5.7,True,8.41
+Latvia,2020,7.3,True,9.4
+Latvia,2021,9.1,True,9.32
+Latvia,2022,7.6,True,8.71
+Lebanon,2005,7.5,False,7.34
+Lebanon,2010,7.4,False,8.16
+Lebanon,2015,7.4,False,8.41
+Lebanon,2020,7.6,False,9.4
+Lebanon,2021,4.9,False,9.32
+Lebanon,2022,5.7,False,8.71
+Lesotho,2005,4.7,False,7.34
+Lesotho,2010,7.6,False,8.16
+Lesotho,2015,9.3,False,8.41
+Lesotho,2020,10.5,False,9.4
+Lesotho,2021,10.8,False,9.32
+Lesotho,2022,12.7,False,8.71
+Liberia,2005,7.1,False,7.34
+Liberia,2010,10.4,False,8.16
+Liberia,2015,10.5,False,8.41
+Liberia,2020,12.9,False,9.4
+Liberia,2021,13.8,False,9.32
+Liberia,2022,13.5,False,8.71
+Libya,2005,2.5,False,7.34
+Libya,2010,3.3,False,8.16
+Libya,2015,5.8,False,8.41
+Libya,2020,7.1,False,9.4
+Libya,2021,6.2,False,9.32
+Libya,2022,4.7,False,8.71
+Lithuania,2005,5.6,True,7.34
+Lithuania,2010,6.8,True,8.16
+Lithuania,2015,6.5,True,8.41
+Lithuania,2020,7.5,True,9.4
+Lithuania,2021,7.8,True,9.32
+Lithuania,2022,7.2,True,8.71
+Luxembourg,2005,7.1,False,7.34
+Luxembourg,2010,6.7,False,8.16
+Luxembourg,2015,5.1,False,8.41
+Luxembourg,2020,5.8,False,9.4
+Luxembourg,2021,5.7,False,9.32
+Luxembourg,2022,5.6,False,8.71
+Madagascar,2005,5.2,False,7.34
+Madagascar,2010,4.7,False,8.16
+Madagascar,2015,5.0,False,8.41
+Madagascar,2020,3.7,False,9.4
+Madagascar,2021,3.5,False,9.32
+Madagascar,2022,3.3,False,8.71
+Malawi,2005,4.3,False,7.34
+Malawi,2010,5.1,False,8.16
+Malawi,2015,6.6,False,8.41
+Malawi,2020,7.2,False,9.4
+Malawi,2021,7.6,False,9.32
+Malawi,2022,6.5,False,8.71
+Malaysia,2005,2.8,False,7.34
+Malaysia,2010,3.2,False,8.16
+Malaysia,2015,3.8,False,8.41
+Malaysia,2020,4.1,False,9.4
+Malaysia,2021,4.4,False,9.32
+Malaysia,2022,3.9,False,8.71
+Maldives,2005,8.8,False,7.34
+Maldives,2010,8.5,False,8.16
+Maldives,2015,8.7,False,8.41
+Maldives,2020,11.3,False,9.4
+Maldives,2021,10.1,False,9.32
+Maldives,2022,9.7,False,8.71
+Mali,2005,5.2,False,7.34
+Mali,2010,4.7,False,8.16
+Mali,2015,4.1,False,8.41
+Mali,2020,3.5,False,9.4
+Mali,2021,3.5,False,9.32
+Mali,2022,3.7,False,8.71
+Malta,2005,8.7,False,7.34
+Malta,2010,8.0,False,8.16
+Malta,2015,8.9,False,8.41
+Malta,2020,10.6,False,9.4
+Malta,2021,10.4,False,9.32
+Malta,2022,9.5,False,8.71
+Marshall Islands,2005,18.5,False,7.34
+Marshall Islands,2010,17.8,False,8.16
+Marshall Islands,2015,14.9,False,8.41
+Marshall Islands,2020,12.2,False,9.4
+Marshall Islands,2021,12.5,False,9.32
+Marshall Islands,2022,11.7,False,8.71
+Mauritania,2005,3.4,False,7.34
+Mauritania,2010,2.6,False,8.16
+Mauritania,2015,3.7,False,8.41
+Mauritania,2020,3.0,False,9.4
+Mauritania,2021,3.8,False,9.32
+Mauritania,2022,4.5,False,8.71
+Mauritius,2005,3.5,False,7.34
+Mauritius,2010,4.5,False,8.16
+Mauritius,2015,5.6,False,8.41
+Mauritius,2020,6.1,False,9.4
+Mauritius,2021,6.6,False,9.32
+Mauritius,2022,5.8,False,8.71
+Mexico,2005,5.6,False,7.34
+Mexico,2010,5.5,False,8.16
+Mexico,2015,5.5,False,8.41
+Mexico,2020,6.1,False,9.4
+Mexico,2021,5.9,False,9.32
+Mexico,2022,5.7,False,8.71
+Micronesia (Fed. States of),2005,18.0,False,7.34
+Micronesia (Fed. States of),2010,21.5,False,8.16
+Micronesia (Fed. States of),2015,12.7,False,8.41
+Micronesia (Fed. States of),2020,12.0,False,9.4
+Micronesia (Fed. States of),2021,11.4,False,9.32
+Micronesia (Fed. States of),2022,10.3,False,8.71
+Monaco,2005,4.5,False,7.34
+Monaco,2010,5.0,False,8.16
+Monaco,2015,4.3,False,8.41
+Monaco,2020,4.3,False,9.4
+Monaco,2021,3.7,False,9.32
+Monaco,2022,3.4,False,8.71
+Mongolia,2005,3.9,False,7.34
+Mongolia,2010,3.7,False,8.16
+Mongolia,2015,4.2,False,8.41
+Mongolia,2020,4.7,False,9.4
+Mongolia,2021,7.2,False,9.32
+Mongolia,2022,8.9,False,8.71
+Montenegro,2015,9.0,False,8.41
+Montenegro,2020,11.4,False,9.4
+Montenegro,2021,10.6,False,9.32
+Montenegro,2022,10.9,False,8.71
+Morocco,2005,4.4,False,7.34
+Morocco,2010,5.4,False,8.16
+Morocco,2015,5.1,False,8.41
+Morocco,2020,5.6,False,9.4
+Morocco,2021,5.5,False,9.32
+Morocco,2022,5.7,False,8.71
+Mozambique,2005,4.2,False,7.34
+Mozambique,2010,5.3,False,8.16
+Mozambique,2015,6.6,False,8.41
+Mozambique,2020,7.5,False,9.4
+Mozambique,2021,8.9,False,9.32
+Mozambique,2022,8.8,False,8.71
+Myanmar,2005,2.5,False,7.34
+Myanmar,2010,2.1,False,8.16
+Myanmar,2015,5.5,False,8.41
+Myanmar,2020,4.4,False,9.4
+Myanmar,2021,5.8,False,9.32
+Myanmar,2022,5.2,False,8.71
+Namibia,2005,10.1,False,7.34
+Namibia,2010,9.7,False,8.16
+Namibia,2015,10.0,False,8.41
+Namibia,2020,8.9,False,9.4
+Namibia,2021,9.3,False,9.32
+Namibia,2022,9.3,False,8.71
+Nauru,2005,10.8,False,7.34
+Nauru,2010,12.7,False,8.16
+Nauru,2015,14.0,False,8.41
+Nauru,2020,11.6,False,9.4
+Nauru,2021,12.0,False,9.32
+Nauru,2022,18.2,False,8.71
+Nepal,2005,4.0,False,7.34
+Nepal,2010,4.4,False,8.16
+Nepal,2015,5.5,False,8.41
+Nepal,2020,5.2,False,9.4
+Nepal,2021,5.3,False,9.32
+Nepal,2022,6.7,False,8.71
+Netherlands (Kingdom of the),2005,9.1,False,7.34
+Netherlands (Kingdom of the),2010,10.2,False,8.16
+Netherlands (Kingdom of the),2015,10.3,False,8.41
+Netherlands (Kingdom of the),2020,11.2,False,9.4
+Netherlands (Kingdom of the),2021,11.1,False,9.32
+Netherlands (Kingdom of the),2022,10.1,False,8.71
+New Zealand,2005,8.3,True,7.34
+New Zealand,2010,9.6,True,8.16
+New Zealand,2015,9.3,True,8.41
+New Zealand,2020,10.1,True,9.4
+New Zealand,2021,10.0,True,9.32
+New Zealand,2022,10.0,True,8.71
+Nicaragua,2005,6.2,False,7.34
+Nicaragua,2010,7.7,False,8.16
+Nicaragua,2015,8.0,False,8.41
+Nicaragua,2020,8.6,False,9.4
+Nicaragua,2021,9.6,False,9.32
+Nicaragua,2022,9.0,False,8.71
+Niger,2005,5.7,False,7.34
+Niger,2010,5.0,False,8.16
+Niger,2015,5.3,False,8.41
+Niger,2020,6.2,False,9.4
+Niger,2021,5.8,False,9.32
+Niger,2022,4.4,False,8.71
+Nigeria,2005,4.5,False,7.34
+Nigeria,2010,3.3,False,8.16
+Nigeria,2015,3.6,False,8.41
+Nigeria,2020,3.4,False,9.4
+Nigeria,2021,4.1,False,9.32
+Nigeria,2022,4.3,False,8.71
+Niue,2005,11.7,False,7.34
+Niue,2010,13.1,False,8.16
+Niue,2015,8.6,False,8.41
+Niue,2020,9.1,False,9.4
+Niue,2021,15.1,False,9.32
+Niue,2022,18.3,False,8.71
+North Macedonia,2005,7.7,False,7.34
+North Macedonia,2010,6.7,False,8.16
+North Macedonia,2015,6.3,False,8.41
+North Macedonia,2020,7.7,False,9.4
+North Macedonia,2021,8.5,False,9.32
+North Macedonia,2022,7.6,False,8.71
+Norway,2005,8.3,True,7.34
+Norway,2010,8.9,True,8.16
+Norway,2015,10.1,True,8.41
+Norway,2020,11.4,True,9.4
+Norway,2021,9.8,True,9.32
+Norway,2022,7.9,True,8.71
+Oman,2005,2.3,True,7.34
+Oman,2010,2.5,True,8.16
+Oman,2015,4.1,True,8.41
+Oman,2020,5.1,True,9.4
+Oman,2021,4.4,True,9.32
+Oman,2022,2.9,True,8.71
+Pakistan,2005,2.4,False,7.34
+Pakistan,2010,2.4,False,8.16
+Pakistan,2015,2.5,False,8.41
+Pakistan,2020,3.0,False,9.4
+Pakistan,2021,3.0,False,9.32
+Pakistan,2022,2.9,False,8.71
+Palau,2005,8.6,False,7.34
+Palau,2010,10.9,False,8.16
+Palau,2015,9.8,False,8.41
+Palau,2020,13.3,False,9.4
+Palau,2021,14.6,False,9.32
+Palau,2022,14.3,False,8.71
+Panama,2005,6.2,False,7.34
+Panama,2010,7.2,False,8.16
+Panama,2015,6.9,False,8.41
+Panama,2020,10.2,False,9.4
+Panama,2021,9.1,False,9.32
+Panama,2022,8.5,False,8.71
+Papua New Guinea,2005,2.4,False,7.34
+Papua New Guinea,2010,2.1,False,8.16
+Papua New Guinea,2015,1.8,False,8.41
+Papua New Guinea,2020,2.3,False,9.4
+Papua New Guinea,2021,2.3,False,9.32
+Papua New Guinea,2022,2.6,False,8.71
+Paraguay,2005,4.8,False,7.34
+Paraguay,2010,5.5,False,8.16
+Paraguay,2015,6.7,False,8.41
+Paraguay,2020,7.7,False,9.4
+Paraguay,2021,8.0,False,9.32
+Paraguay,2022,7.7,False,8.71
+Peru,2005,4.7,False,7.34
+Peru,2010,4.7,False,8.16
+Peru,2015,4.9,False,8.41
+Peru,2020,6.4,False,9.4
+Peru,2021,6.7,False,9.32
+Peru,2022,6.1,False,8.71
+Philippines,2005,3.7,False,7.34
+Philippines,2010,4.1,False,8.16
+Philippines,2015,3.9,False,8.41
+Philippines,2020,5.2,False,9.4
+Philippines,2021,6.0,False,9.32
+Philippines,2022,5.2,False,8.71
+Poland,2005,5.8,True,7.34
+Poland,2010,6.5,True,8.16
+Poland,2015,6.4,True,8.41
+Poland,2020,6.5,True,9.4
+Poland,2021,6.4,True,9.32
+Poland,2022,6.4,True,8.71
+Portugal,2005,9.7,True,7.34
+Portugal,2010,10.0,True,8.16
+Portugal,2015,9.3,True,8.41
+Portugal,2020,10.5,True,9.4
+Portugal,2021,11.1,True,9.32
+Portugal,2022,10.5,True,8.71
+Qatar,2005,2.6,True,7.34
+Qatar,2010,1.9,True,8.16
+Qatar,2015,3.6,True,8.41
+Qatar,2020,3.8,True,9.4
+Qatar,2021,2.9,True,9.32
+Qatar,2022,2.2,True,8.71
+"Korea, South",2005,4.8,True,7.34
+"Korea, South",2010,6.0,True,8.16
+"Korea, South",2015,6.7,True,8.41
+"Korea, South",2020,8.4,True,9.4
+"Korea, South",2021,9.0,True,9.32
+"Korea, South",2022,9.4,True,8.71
+Moldova,2005,9.6,False,7.34
+Moldova,2010,10.1,False,8.16
+Moldova,2015,8.6,False,8.41
+Moldova,2020,7.0,False,9.4
+Moldova,2021,7.7,False,9.32
+Moldova,2022,7.0,False,8.71
+Romania,2005,5.5,False,7.34
+Romania,2010,5.6,False,8.16
+Romania,2015,4.9,False,8.41
+Romania,2020,6.2,False,9.4
+Romania,2021,6.5,False,9.32
+Romania,2022,5.7,False,8.71
+Russia,2005,4.8,False,7.34
+Russia,2010,5.0,False,8.16
+Russia,2015,5.3,False,8.41
+Russia,2020,8.0,False,9.4
+Russia,2021,7.0,False,9.32
+Russia,2022,6.9,False,8.71
+Rwanda,2005,7.7,False,7.34
+Rwanda,2010,8.1,False,8.16
+Rwanda,2015,6.7,False,8.41
+Rwanda,2020,7.5,False,9.4
+Rwanda,2021,7.3,False,9.32
+Rwanda,2022,7.9,False,8.71
+Saint Kitts and Nevis,2005,4.7,False,7.34
+Saint Kitts and Nevis,2010,5.2,False,8.16
+Saint Kitts and Nevis,2015,5.1,False,8.41
+Saint Kitts and Nevis,2020,5.7,False,9.4
+Saint Kitts and Nevis,2021,6.2,False,9.32
+Saint Kitts and Nevis,2022,5.6,False,8.71
+Saint Lucia,2005,4.9,False,7.34
+Saint Lucia,2010,5.1,False,8.16
+Saint Lucia,2015,4.5,False,8.41
+Saint Lucia,2020,6.8,False,9.4
+Saint Lucia,2021,5.7,False,9.32
+Saint Lucia,2022,5.0,False,8.71
+Saint Vincent & Grenadines,2005,3.8,False,7.34
+Saint Vincent & Grenadines,2010,4.3,False,8.16
+Saint Vincent & Grenadines,2015,4.1,False,8.41
+Saint Vincent & Grenadines,2020,4.8,False,9.4
+Saint Vincent & Grenadines,2021,5.4,False,9.32
+Saint Vincent & Grenadines,2022,4.7,False,8.71
+Samoa,2005,4.6,False,7.34
+Samoa,2010,5.2,False,8.16
+Samoa,2015,6.2,False,8.41
+Samoa,2020,6.2,False,9.4
+Samoa,2021,6.8,False,9.32
+Samoa,2022,6.3,False,8.71
+San Marino,2005,4.9,False,7.34
+San Marino,2010,6.2,False,8.16
+San Marino,2015,8.4,False,8.41
+San Marino,2020,8.5,False,9.4
+San Marino,2021,7.5,False,9.32
+San Marino,2022,7.4,False,8.71
+Sao Tome and Principe,2005,10.4,False,7.34
+Sao Tome and Principe,2010,5.8,False,8.16
+Sao Tome and Principe,2015,6.5,False,8.41
+Sao Tome and Principe,2020,7.3,False,9.4
+Sao Tome and Principe,2021,7.9,False,9.32
+Sao Tome and Principe,2022,7.5,False,8.71
+Saudi Arabia,2005,3.4,True,7.34
+Saudi Arabia,2010,3.6,True,8.16
+Saudi Arabia,2015,5.9,True,8.41
+Saudi Arabia,2020,6.6,True,9.4
+Saudi Arabia,2021,5.9,True,9.32
+Saudi Arabia,2022,4.6,True,8.71
+Senegal,2005,3.7,False,7.34
+Senegal,2010,4.0,False,8.16
+Senegal,2015,4.4,False,8.41
+Senegal,2020,5.2,False,9.4
+Senegal,2021,4.4,False,9.32
+Senegal,2022,4.1,False,8.71
+Serbia,2005,8.3,False,7.34
+Serbia,2010,9.5,False,8.16
+Serbia,2015,8.8,False,8.41
+Serbia,2020,8.7,False,9.4
+Serbia,2021,10.0,False,9.32
+Serbia,2022,9.7,False,8.71
+Seychelles,2005,5.2,False,7.34
+Seychelles,2010,5.4,False,8.16
+Seychelles,2015,4.3,False,8.41
+Seychelles,2020,6.0,False,9.4
+Seychelles,2021,5.2,False,9.32
+Seychelles,2022,4.2,False,8.71
+Sierra Leone,2005,9.0,False,7.34
+Sierra Leone,2010,9.1,False,8.16
+Sierra Leone,2015,19.7,False,8.41
+Sierra Leone,2020,9.3,False,9.4
+Sierra Leone,2021,8.6,False,9.32
+Sierra Leone,2022,7.9,False,8.71
+Singapore,2005,3.0,True,7.34
+Singapore,2010,3.2,True,8.16
+Singapore,2015,4.2,True,8.41
+Singapore,2020,5.6,True,9.4
+Singapore,2021,5.2,True,9.32
+Singapore,2022,4.9,True,8.71
+Slovak Republic,2005,6.6,True,7.34
+Slovak Republic,2010,7.7,True,8.16
+Slovak Republic,2015,6.8,True,8.41
+Slovak Republic,2020,7.1,True,9.4
+Slovak Republic,2021,7.8,True,9.32
+Slovak Republic,2022,7.7,True,8.71
+Slovenia,2005,8.0,True,7.34
+Slovenia,2010,8.6,True,8.16
+Slovenia,2015,8.5,True,8.41
+Slovenia,2020,9.4,True,9.4
+Slovenia,2021,9.5,True,9.32
+Slovenia,2022,9.6,True,8.71
+Solomon Islands,2005,9.0,False,7.34
+Solomon Islands,2010,4.7,False,8.16
+Solomon Islands,2015,4.4,False,8.41
+Solomon Islands,2020,4.9,False,9.4
+Solomon Islands,2021,4.9,False,9.32
+Solomon Islands,2022,4.8,False,8.71
+Somalia,2015,2.8,False,8.41
+Somalia,2020,2.2,False,9.4
+Somalia,2021,2.6,False,9.32
+Somalia,2022,2.6,False,8.71
+South Africa,2005,6.9,False,7.34
+South Africa,2010,7.8,False,8.16
+South Africa,2015,8.1,False,8.41
+South Africa,2020,9.0,False,9.4
+South Africa,2021,8.7,False,9.32
+South Africa,2022,8.8,False,8.71
+South Sudan,2020,9.3,False,9.4
+South Sudan,2021,6.3,False,9.32
+South Sudan,2022,6.8,False,8.71
+Spain,2005,7.7,True,7.34
+Spain,2010,9.1,True,8.16
+Spain,2015,9.1,True,8.41
+Spain,2020,10.7,True,9.4
+Spain,2021,10.3,True,9.32
+Spain,2022,9.7,True,8.71
+Sri Lanka,2005,3.9,False,7.34
+Sri Lanka,2010,3.7,False,8.16
+Sri Lanka,2015,3.7,False,8.41
+Sri Lanka,2020,4.1,False,9.4
+Sri Lanka,2021,4.0,False,9.32
+Sri Lanka,2022,4.4,False,8.71
+Sudan,2005,4.1,False,7.34
+Sudan,2010,5.1,False,8.16
+Sudan,2015,5.8,False,8.41
+Sudan,2020,3.0,False,9.4
+Sudan,2021,2.8,False,9.32
+Sudan,2022,4.6,False,8.71
+Suriname,2005,5.2,False,7.34
+Suriname,2010,4.7,False,8.16
+Suriname,2015,5.8,False,8.41
+Suriname,2020,6.7,False,9.4
+Suriname,2021,5.5,False,9.32
+Suriname,2022,5.9,False,8.71
+Sweden,2005,8.2,True,7.34
+Sweden,2010,8.3,True,8.16
+Sweden,2015,10.8,True,8.41
+Sweden,2020,11.3,True,9.4
+Sweden,2021,11.1,True,9.32
+Sweden,2022,10.5,True,8.71
+Switzerland,2005,10.1,True,7.34
+Switzerland,2010,10.0,True,8.16
+Switzerland,2015,11.0,True,8.41
+Switzerland,2020,12.0,True,9.4
+Switzerland,2021,12.0,True,9.32
+Switzerland,2022,11.7,True,8.71
+Syria,2005,4.1,False,7.34
+Syria,2010,3.2,False,8.16
+Syria,2015,3.5,False,8.41
+Syria,2020,3.7,False,9.4
+Syria,2021,4.7,False,9.32
+Syria,2022,4.2,False,8.71
+Tajikistan,2005,5.2,False,7.34
+Tajikistan,2010,5.7,False,8.16
+Tajikistan,2015,6.9,False,8.41
+Tajikistan,2020,8.9,False,9.4
+Tajikistan,2021,8.4,False,9.32
+Tajikistan,2022,7.6,False,8.71
+Thailand,2005,3.2,False,7.34
+Thailand,2010,3.4,False,8.16
+Thailand,2015,3.9,False,8.41
+Thailand,2020,4.4,False,9.4
+Thailand,2021,5.2,False,9.32
+Thailand,2022,5.4,False,8.71
+Timor-Leste,2005,5.3,False,7.34
+Timor-Leste,2010,6.5,False,8.16
+Timor-Leste,2015,7.7,False,8.41
+Timor-Leste,2020,9.9,False,9.4
+Timor-Leste,2021,11.4,False,9.32
+Timor-Leste,2022,14.3,False,8.71
+Togo,2005,3.2,False,7.34
+Togo,2010,4.3,False,8.16
+Togo,2015,6.2,False,8.41
+Togo,2020,6.2,False,9.4
+Togo,2021,5.6,False,9.32
+Togo,2022,6.0,False,8.71
+Tonga,2005,4.4,False,7.34
+Tonga,2010,4.8,False,8.16
+Tonga,2015,4.7,False,8.41
+Tonga,2020,5.6,False,9.4
+Tonga,2021,7.6,False,9.32
+Tonga,2022,8.1,False,8.71
+Trinidad and Tobago,2005,4.4,False,7.34
+Trinidad and Tobago,2010,5.1,False,8.16
+Trinidad and Tobago,2015,5.6,False,8.41
+Trinidad and Tobago,2020,7.5,False,9.4
+Trinidad and Tobago,2021,7.1,False,9.32
+Trinidad and Tobago,2022,6.4,False,8.71
+Tunisia,2005,5.1,False,7.34
+Tunisia,2010,5.6,False,8.16
+Tunisia,2015,6.2,False,8.41
+Tunisia,2020,7.1,False,9.4
+Tunisia,2021,7.0,False,9.32
+Tunisia,2022,7.0,False,8.71
+Türkiye,2005,4.9,False,7.34
+Türkiye,2010,5.0,False,8.16
+Türkiye,2015,4.1,False,8.41
+Türkiye,2020,4.6,False,9.4
+Türkiye,2021,4.6,False,9.32
+Türkiye,2022,3.7,False,8.71
+Turkmenistan,2005,5.6,False,7.34
+Turkmenistan,2010,3.2,False,8.16
+Turkmenistan,2015,5.0,False,8.41
+Turkmenistan,2020,5.6,False,9.4
+Turkmenistan,2021,5.5,False,9.32
+Turkmenistan,2022,5.4,False,8.71
+Tuvalu,2005,10.0,False,7.34
+Tuvalu,2010,15.4,False,8.16
+Tuvalu,2015,13.4,False,8.41
+Tuvalu,2020,18.6,False,9.4
+Tuvalu,2021,19.5,False,9.32
+Tuvalu,2022,18.4,False,8.71
+Uganda,2005,5.8,False,7.34
+Uganda,2010,6.8,False,8.16
+Uganda,2015,5.0,False,8.41
+Uganda,2020,5.2,False,9.4
+Uganda,2021,5.5,False,9.32
+Uganda,2022,4.4,False,8.71
+Ukraine,2005,6.3,False,7.34
+Ukraine,2010,6.8,False,8.16
+Ukraine,2015,7.8,False,8.41
+Ukraine,2020,7.6,False,9.4
+Ukraine,2021,8.2,False,9.32
+United Arab Emirates,2005,2.3,False,7.34
+United Arab Emirates,2010,3.7,False,8.16
+United Arab Emirates,2015,3.5,False,8.41
+United Arab Emirates,2020,5.8,False,9.4
+United Arab Emirates,2021,5.3,False,9.32
+United Arab Emirates,2022,4.7,False,8.71
+United Kingdom,2005,8.4,True,7.34
+United Kingdom,2010,9.8,True,8.16
+United Kingdom,2015,9.8,True,8.41
+United Kingdom,2020,12.0,True,9.4
+United Kingdom,2021,12.0,True,9.32
+United Kingdom,2022,11.1,True,8.71
+United Rep. of Tanzania,2005,6.3,False,7.34
+United Rep. of Tanzania,2010,5.2,False,8.16
+United Rep. of Tanzania,2015,3.6,False,8.41
+United Rep. of Tanzania,2020,3.1,False,9.4
+United Rep. of Tanzania,2021,3.5,False,9.32
+United Rep. of Tanzania,2022,3.1,False,8.71
+United States,2005,14.6,True,7.34
+United States,2010,16.2,True,8.16
+United States,2015,16.5,True,8.41
+United States,2020,18.8,True,9.4
+United States,2021,17.5,True,9.32
+United States,2022,16.5,True,8.71
+Uruguay,2005,7.7,False,7.34
+Uruguay,2010,7.9,False,8.16
+Uruguay,2015,8.3,False,8.41
+Uruguay,2020,9.1,False,9.4
+Uruguay,2021,8.9,False,9.32
+Uruguay,2022,8.9,False,8.71
+Uzbekistan,2005,4.8,False,7.34
+Uzbekistan,2010,5.3,False,8.16
+Uzbekistan,2015,4.7,False,8.41
+Uzbekistan,2020,6.7,False,9.4
+Uzbekistan,2021,7.7,False,9.32
+Uzbekistan,2022,7.4,False,8.71
+Vanuatu,2005,3.3,False,7.34
+Vanuatu,2010,3.5,False,8.16
+Vanuatu,2015,4.3,False,8.41
+Vanuatu,2020,4.1,False,9.4
+Vanuatu,2021,4.5,False,9.32
+Vanuatu,2022,4.1,False,8.71
+Venezuela (Boliv. Rep. of),2020,4.1,False,9.4
+Venezuela (Boliv. Rep. of),2021,4.1,False,9.32
+Venezuela (Boliv. Rep. of),2022,4.6,False,8.71
+Vietnam,2005,4.3,False,7.34
+Vietnam,2010,5.1,False,8.16
+Vietnam,2015,4.7,False,8.41
+Vietnam,2020,4.3,False,9.4
+Vietnam,2021,4.5,False,9.32
+Vietnam,2022,4.6,False,8.71
+Yemen,2005,5.2,False,7.34
+Yemen,2010,5.2,False,8.16
+Yemen,2015,4.3,False,8.41
+Yemen,2020,5.8,False,9.4
+Yemen,2021,6.2,False,9.32
+Yemen,2022,6.2,False,8.71
+Zambia,2005,6.3,False,7.34
+Zambia,2010,4.0,False,8.16
+Zambia,2015,4.4,False,8.41
+Zambia,2020,6.3,False,9.4
+Zambia,2021,6.6,False,9.32
+Zambia,2022,5.3,False,8.71
+Zimbabwe,2010,10.5,False,8.16
+Zimbabwe,2015,7.4,False,8.41
+Zimbabwe,2020,3.0,False,9.4
+Zimbabwe,2021,2.8,False,9.32
+Zimbabwe,2022,3.6,False,8.71
