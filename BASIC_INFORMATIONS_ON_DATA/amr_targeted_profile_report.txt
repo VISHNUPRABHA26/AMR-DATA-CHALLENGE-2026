@@ -1,0 +1,1536 @@
+========================================================================
+   AMR DATA CHALLENGE 2026 — TARGETED STUDY PROFILE REPORT
+   Nosocomial Neuroinvasive Bacterial AMR Study
+   Vivli Data Challenge | Vishnu Prabha | JRF Bioinformatics
+========================================================================
+
+========================================================================
+ SECTION 1: ATLAS DATASET  —  atlas_vivli_2004_2024.csv
+========================================================================
+
+--- 1.1 BASIC DIMENSIONS ---
+  Total rows (isolates) : 1,011,168
+  Total columns         : 127
+  Year range            : 2004 to 2024
+  Total countries       : 83
+  Total unique species  : 400
+
+--- 1.2 ALL COLUMN NAMES ---
+  Isolate Id                                           [float64]
+  Study                                                [str]
+  Species                                              [str]
+  Country                                              [str]
+  State                                                [str]
+  Gender                                               [str]
+  Age Group                                            [str]
+  Speciality                                           [str]
+  Source                                               [str]
+  Year                                                 [int64]
+  Amikacin                                             [str]
+  Amikacin_I                                           [str]
+  Amoxycillin clavulanate                              [str]
+  Amoxycillin clavulanate_I                            [str]
+  Ampicillin                                           [str]
+  Ampicillin sulbactam                                 [str]
+  Ampicillin sulbactam_I                               [str]
+  Ampicillin_I                                         [str]
+  Azithromycin                                         [str]
+  Azithromycin_I                                       [str]
+  Aztreonam                                            [str]
+  Aztreonam avibactam                                  [str]
+  Aztreonam avibactam_I                                [float64]
+  Aztreonam_I                                          [str]
+  Cefepime                                             [str]
+  Cefepime_I                                           [str]
+  Cefiderocol                                          [str]
+  Cefiderocol_I                                        [str]
+  Cefixime                                             [str]
+  Cefixime_I                                           [str]
+  Cefoperazone sulbactam                               [str]
+  Cefoperazone sulbactam_I                             [float64]
+  Cefoxitin                                            [str]
+  Cefoxitin_I                                          [str]
+  Cefpodoxime                                          [str]
+  Cefpodoxime_I                                        [str]
+  Ceftaroline                                          [str]
+  Ceftaroline_I                                        [str]
+  Ceftazidime                                          [str]
+  Ceftazidime avibactam                                [str]
+  Ceftazidime avibactam_I                              [str]
+  Ceftazidime_I                                        [str]
+  Ceftibuten                                           [str]
+  Ceftibuten_I                                         [str]
+  Ceftolozane tazobactam                               [str]
+  Ceftolozane tazobactam_I                             [str]
+  Ceftriaxone                                          [str]
+  Ceftriaxone_I                                        [str]
+  Ciprofloxacin                                        [str]
+  Ciprofloxacin_I                                      [str]
+  Clarithromycin                                       [str]
+  Clarithromycin_I                                     [str]
+  Clindamycin                                          [str]
+  Clindamycin_I                                        [str]
+  Colistin                                             [str]
+  Colistin_I                                           [str]
+  Daptomycin                                           [str]
+  Daptomycin_I                                         [str]
+  Doripenem                                            [str]
+  Doripenem_I                                          [str]
+  Ertapenem                                            [str]
+  Ertapenem_I                                          [str]
+  Erythromycin                                         [str]
+  Erythromycin_I                                       [str]
+  Gatifloxacin                                         [str]
+  Gatifloxacin_I                                       [float64]
+  Gentamicin                                           [str]
+  Gentamicin_I                                         [str]
+  Imipenem                                             [str]
+  Imipenem_I                                           [str]
+  Levofloxacin                                         [str]
+  Levofloxacin_I                                       [str]
+  Linezolid                                            [str]
+  Linezolid_I                                          [str]
+  Meropenem                                            [str]
+  Meropenem vaborbactam                                [str]
+  Meropenem vaborbactam_I                              [str]
+  Meropenem_I                                          [str]
+  Metronidazole                                        [str]
+  Metronidazole_I                                      [str]
+  Minocycline                                          [str]
+  Minocycline_I                                        [str]
+  Moxifloxacin                                         [str]
+  Moxifloxacin_I                                       [str]
+  Oxacillin                                            [str]
+  Oxacillin_I                                          [str]
+  Penicillin                                           [str]
+  Penicillin_I                                         [str]
+  Piperacillin tazobactam                              [str]
+  Piperacillin tazobactam_I                            [str]
+  Quinupristin dalfopristin                            [str]
+  Quinupristin dalfopristin_I                          [str]
+  Sulbactam                                            [str]
+  Sulbactam_I                                          [float64]
+  Teicoplanin                                          [str]
+  Teicoplanin_I                                        [str]
+  Tetracycline                                         [str]
+  Tetracycline_I                                       [str]
+  Tigecycline                                          [str]
+  Tigecycline_I                                        [str]
+  Trimethoprim sulfa                                   [str]
+  Trimethoprim sulfa_I                                 [str]
+  Vancomycin                                           [str]
+  Vancomycin_I                                         [str]
+  ACC                                                  [str]
+  ACT/MIR                                              [str]
+  AMPC                                                 [str]
+  CMY I/MOX                                            [str]
+  CMY2                                                 [str]
+  CTX-M-1                                              [str]
+  CTX-M-2                                              [str]
+  CTX-M-8/25                                           [str]
+  CTX-M-9                                              [str]
+  DHA                                                  [str]
+  FOX                                                  [str]
+  GES                                                  [str]
+  GIM                                                  [float64]
+  IMP                                                  [str]
+  KPC                                                  [str]
+  NDM                                                  [str]
+  OXA                                                  [str]
+  PER                                                  [str]
+  SHV                                                  [str]
+  SPM                                                  [str]
+  TEM                                                  [str]
+  VEB                                                  [str]
+  VIM                                                  [str]
+
+--- 1.3 MISSING VALUES PER COLUMN ---
+  Column                                                  Missing    Missing%
+  ----------------------------------------------------------------------------
+  State                                                   845,288       83.6%
+  Amikacin                                                396,241       39.2%
+  Amikacin_I                                              421,528       41.7%
+  Amoxycillin clavulanate                                 153,914       15.2%
+  Amoxycillin clavulanate_I                               530,026       52.4%
+  Ampicillin                                               72,219        7.1%
+  Ampicillin sulbactam                                    635,828       62.9%
+  Ampicillin sulbactam_I                                  818,657       81.0%
+  Ampicillin_I                                            485,090       48.0%
+  Azithromycin                                            980,783       97.0%
+  Azithromycin_I                                          981,392       97.1%
+  Aztreonam                                               664,446       65.7%
+  Aztreonam avibactam                                     669,550       66.2%
+  Aztreonam avibactam_I                                 1,011,168      100.0%
+  Aztreonam_I                                             700,025       69.2%
+  Cefepime                                                396,241       39.2%
+  Cefepime_I                                              398,617       39.4%
+  Cefiderocol                                             983,400       97.3%
+  Cefiderocol_I                                           983,459       97.3%
+  Cefixime                                                915,807       90.6%
+  Cefixime_I                                              949,013       93.9%
+  Cefoperazone sulbactam                                  750,013       74.2%
+  Cefoperazone sulbactam_I                              1,011,168      100.0%
+  Cefoxitin                                             1,002,307       99.1%
+  Cefoxitin_I                                           1,002,307       99.1%
+  Cefpodoxime                                             915,881       90.6%
+  Cefpodoxime_I                                           949,086       93.9%
+  Ceftaroline                                             419,784       41.5%
+  Ceftaroline_I                                           593,987       58.7%
+  Ceftazidime                                             377,644       37.3%
+  Ceftazidime avibactam                                   548,145       54.2%
+  Ceftazidime avibactam_I                                 701,575       69.4%
+  Ceftazidime_I                                           486,195       48.1%
+  Ceftibuten                                              915,880       90.6%
+  Ceftibuten_I                                            949,086       93.9%
+  Ceftolozane tazobactam                                  821,701       81.3%
+  Ceftolozane tazobactam_I                                844,744       83.5%
+  Ceftriaxone                                             432,258       42.7%
+  Ceftriaxone_I                                           644,969       63.8%
+  Ciprofloxacin                                           775,400       76.7%
+  Ciprofloxacin_I                                         775,495       76.7%
+  Clarithromycin                                          990,356       97.9%
+  Clarithromycin_I                                        990,356       97.9%
+  Clindamycin                                             741,976       73.4%
+  Clindamycin_I                                           771,366       76.3%
+  Colistin                                                694,415       68.7%
+  Colistin_I                                              694,934       68.7%
+  Daptomycin                                              802,072       79.3%
+  Daptomycin_I                                            820,654       81.2%
+  Doripenem                                               791,357       78.3%
+  Doripenem_I                                             871,125       86.2%
+  Ertapenem                                               945,839       93.5%
+  Ertapenem_I                                             979,286       96.8%
+  Erythromycin                                            755,803       74.7%
+  Erythromycin_I                                          760,577       75.2%
+  Gatifloxacin                                          1,011,095      100.0%
+  Gatifloxacin_I                                        1,011,168      100.0%
+  Gentamicin                                              623,307       61.6%
+  Gentamicin_I                                            706,002       69.8%
+  Imipenem                                                604,150       59.7%
+  Imipenem_I                                              618,718       61.2%
+  Levofloxacin                                             19,962        2.0%
+  Levofloxacin_I                                           24,160        2.4%
+  Linezolid                                               646,163       63.9%
+  Linezolid_I                                             650,937       64.4%
+  Meropenem                                               160,678       15.9%
+  Meropenem vaborbactam                                   840,308       83.1%
+  Meropenem vaborbactam_I                                 903,135       89.3%
+  Meropenem_I                                             317,932       31.4%
+  Metronidazole                                           991,288       98.0%
+  Metronidazole_I                                         991,291       98.0%
+  Minocycline                                             501,394       49.6%
+  Minocycline_I                                           579,720       57.3%
+  Moxifloxacin                                            911,035       90.1%
+  Moxifloxacin_I                                          924,630       91.4%
+  Oxacillin                                               834,675       82.5%
+  Oxacillin_I                                             864,061       85.5%
+  Penicillin                                              817,687       80.9%
+  Penicillin_I                                            874,014       86.4%
+  Piperacillin tazobactam                                 129,536       12.8%
+  Piperacillin tazobactam_I                               367,786       36.4%
+  Quinupristin dalfopristin                             1,007,339       99.6%
+  Quinupristin dalfopristin_I                           1,007,339       99.6%
+  Sulbactam                                             1,005,570       99.4%
+  Sulbactam_I                                           1,011,168      100.0%
+  Teicoplanin                                             803,162       79.4%
+  Teicoplanin_I                                           833,394       82.4%
+  Tetracycline                                          1,011,095      100.0%
+  Tetracycline_I                                        1,011,095      100.0%
+  Tigecycline                                                  83        0.0%
+  Tigecycline_I                                           186,637       18.5%
+  Trimethoprim sulfa                                      623,309       61.6%
+  Trimethoprim sulfa_I                                    705,896       69.8%
+  Vancomycin                                              641,768       63.5%
+  Vancomycin_I                                            650,935       64.4%
+  ACC                                                   1,011,102      100.0%
+  ACT/MIR                                               1,010,956      100.0%
+  AMPC                                                  1,009,917       99.9%
+  CMY I/MOX                                             1,011,152      100.0%
+  CMY2                                                  1,008,692       99.8%
+  CTX-M-1                                                 977,576       96.7%
+  CTX-M-2                                               1,010,438       99.9%
+  CTX-M-8/25                                            1,010,968      100.0%
+  CTX-M-9                                               1,006,043       99.5%
+  DHA                                                   1,009,324       99.8%
+  FOX                                                   1,011,127      100.0%
+  GES                                                   1,010,585       99.9%
+  GIM                                                   1,011,168      100.0%
+  IMP                                                   1,010,741      100.0%
+  KPC                                                   1,005,841       99.5%
+  NDM                                                   1,006,126       99.5%
+  OXA                                                   1,005,458       99.4%
+  PER                                                   1,010,973      100.0%
+  SHV                                                     983,230       97.2%
+  SPM                                                   1,011,163      100.0%
+  TEM                                                     982,042       97.1%
+  VEB                                                   1,010,541       99.9%
+  VIM                                                   1,008,956       99.8%
+
+--- 1.4 ALL UNIQUE SPECIES IN ATLAS ---
+  Total unique species: 400
+
+  Species                                                 Count
+  --------------------------------------------------------------
+  Staphylococcus aureus                                 172,883
+  Escherichia coli                                      125,878
+  Pseudomonas aeruginosa                                115,807
+  Klebsiella pneumoniae                                 106,946
+  Streptococcus pneumoniae                               49,165
+  Enterobacter cloacae                                   46,383
+  Acinetobacter baumannii                                45,011
+  Enterococcus faecalis                                  40,136
+  Haemophilus influenzae                                 33,669
+  Serratia marcescens                                    27,240
+  Streptococcus agalactiae                               27,196
+  Klebsiella oxytoca                                     20,675
+  Enterococcus faecium                                   20,007
+  Klebsiella aerogenes                                   18,234
+  Staphylococcus epidermidis                             15,891
+  Streptococcus pyogenes                                 13,865
+  Proteus mirabilis                                      10,856
+  Staphylococcus haemolyticus                             9,605
+  Citrobacter freundii                                    8,498
+  Citrobacter koseri                                      7,369
+  Morganella morganii                                     6,834
+  Moraxella catarrhalis                                   4,747
+  Clostridioides difficile                                4,581
+  Acinetobacter pitii                                     4,429
+  Proteus vulgaris                                        3,995
+  Enterobacter hormaechi                                  3,671
+  Bacteroides fragilis                                    3,474
+  Klebsiella variicola                                    3,331
+  Streptococcus dysgalactiae                              3,129
+  Acinetobacter spp                                       3,116
+  Enterobacter spp                                        2,912
+  Enterobacter asburiae                                   2,381
+  Stenotrophomonas maltophilia                            2,345
+  Providencia stuartii                                    2,313
+  Providencia rettgeri                                    2,053
+  Acinetobacter lwoffii                                   2,048
+  Acinetobacter nosocomialis                              1,767
+  Clostridium perfringens                                 1,372
+  Acinetobacter ursingii                                  1,328
+  Enterobacter kobei                                      1,174
+  Staphylococcus spp                                      1,120
+  Enterobacter bugandensis                                  998
+  Staphylococcus hominis                                    914
+  Streptococcus anginosus                                   902
+  Prevotella bivia                                          891
+  Serratia spp                                              888
+  Staphylococcus Coagulase Negative                         839
+  Acinetobacter junii                                       820
+  Parvimonas micra                                          812
+  Enterobacter, non-speciated                               779
+  Bacteroides thetaiotaomicron                              758
+  Citrobacter braakii                                       734
+  Acinetobacter, non-speciated                              680
+  Staphylococcus lugdunensis                                665
+  Acinetobacter dijkshoorniae                               648
+  Finegoldia magna                                          612
+  Peptostreptococcus anaerobius                             570
+  Peptostreptococcus magnus                                 569
+  Serratia liquefaciens                                     561
+  Acinetobacter radioresistens                              532
+  Staphylococcus capitis                                    516
+  Haemophilus parainfluenzae                                480
+  Enterobacter ludwigii                                     459
+  Acinetobacter bereziniae                                  444
+  Bacteroides ovatus                                        435
+  Klebsiella spp                                            429
+  Proteus hauseri                                           427
+  Acinetobacter johnsonii                                   408
+  Citrobacter spp                                           401
+  Enterobacter agglomerans                                  393
+  Prevotella buccae                                         380
+  Acinetobacter haemolyticus                                377
+  Proteus spp                                               374
+  Acinetobacter calcoaceticus                               359
+  Bacteroides vulgatus                                      345
+  Streptococcus gallolyticus                                325
+  Staphylococcus saprophyticus                              318
+  Prevotella melaninogenica                                 298
+  Enterococcus avium                                        295
+  Acinetobacter lactucae                                    290
+  Anaerococcus prevotii                                     285
+  Streptococcus, Beta Hemolytic                             264
+  Peptoniphilus harei                                       263
+  Acinetobacter guillouiae                                  250
+  Pseudomonas spp                                           235
+  Prevotella intermedia                                     232
+  Clostridium innocuum                                      229
+  Bacteroides uniformis                                     228
+  Enterobacter roggenkampii                                 228
+  Parabacteroides distasonis                                225
+  Raoultella ornithinolytica                                219
+  Enterococcus casseliflavus                                217
+  Citrobacter amalonaticus                                  215
+  Klebsiella, non-speciated                                 214
+  Staphylococcus warneri                                    214
+  Prevotella denticola                                      195
+  Enterococcus spp                                          194
+  Enterobacter xiangfangensis                               188
+  Streptococcus constellatus                                184
+  Peptoniphilus asaccharolyticus                            177
+  Clostridium ramosum                                       177
+  Enterococcus gallinarum                                   173
+  Enterococcus, non-speciated                               160
+  Escherichia spp                                           152
+  Prevotella oralis                                         150
+  Prevotella disiens                                        149
+  Providencia spp                                           149
+  Enterobacter sakazakii                                    147
+  Serratia ureilytica                                       146
+  Citrobacter, non-speciated                                133
+  Enterococcus durans                                       132
+  Clostridium clostridiiformis                              130
+  Staphylococcus simulans                                   124
+  Clostridium sporogenes                                    122
+  Prevotella oris                                           119
+  Serratia, non-speciated                                   117
+  Clostridium tertium                                       115
+  Proteus penneri                                           115
+  Pluralibacter gergoviae                                   113
+  Lelliottia amnigena                                       111
+  Clostridium spp                                           111
+  Acinetobacter seifertii                                   108
+  Prevotella nigrescens                                     107
+  Bacteroides caccae                                        103
+  Citrobacter farmeri                                       102
+  Prevotella spp                                            101
+  Serratia odorifera                                         97
+  Citrobacter sedlakii                                       97
+  Enterococcus raffinosus                                    94
+  Acinetobacter soli                                         87
+  Peptostreptococcus spp                                     83
+  Clostridium butyricum                                      81
+  Acinetobacter baylyi                                       79
+  Staphylococcus caprae                                      73
+  Neisseria gonorrhoeae                                      73
+  Bacteroides stercosis                                      69
+  Staphylococcus cohnii                                      69
+  Clostridium paraputrificum                                 68
+  Staphylococcus sciuri                                      67
+  Streptococcus canis                                        65
+  Clostridium sordellii                                      64
+  Acinetobacter variabilis                                   62
+  Providencia alcalifaciens                                  61
+  Serratia rubidaea                                          60
+  Prevotella loescheii                                       58
+  Clostridium septicum                                       54
+  Peptoniphilus spp                                          54
+  Acinetobacter courvalinii                                  54
+  Clostridium hathewayi                                      53
+  Klebsiella ozaenae                                         50
+  Providencia, non-speciated                                 48
+  Acinetobacter schindleri                                   47
+  Peptoniphilus indolicus                                    46
+  Acinetobacter parvus                                       46
+  Acinetobacter anitratus                                    45
+  Bacteroides spp                                            45
+  Raoultella planticola                                      45
+  Staphylococcus argenteus                                   45
+  Enterococcus hirae                                         43
+  Prevotella corporis                                        41
+  Pseudomonas putida                                         40
+  Anaerococcus vaginalis                                     39
+  Streptococcus bovis                                        39
+  Acinetobacter beijerinckii                                 39
+  Prevotella bergensis                                       37
+  Streptococcus salivarius                                   36
+  Streptococcus, viridans group                              33
+  Prevotella nanceinsis                                      32
+  Haemophilus spp                                            32
+  Prevotella buccalis                                        31
+  Bacteroides faecis                                         30
+  Bacteroides eggerthii                                      29
+  Enterobacter cancerogenus                                  29
+  Prevotella baroniae                                        29
+  Acinetobacter tjernbergiae                                 29
+  Clostridium bifermentans                                   27
+  Acinetobacter proteolyticus                                27
+  Streptococcus oralis                                       26
+  Klebsiella planticola                                      24
+  Moraxella spp                                              24
+  Bacteroides capsillosis                                    23
+  Bacteroides pyogenes                                       23
+  Bacteroides nordii                                         21
+  Enterococcus Group D                                       20
+  Phocaeicola vulgatus                                       20
+  Serratia fonticola                                         19
+  Prevotella timonensis                                      19
+  Streptococcus spp                                          19
+  Klebsiella ornithinolytica                                 18
+  Clostridium cadaveris                                      18
+  Streptococcus parasanguinis                                18
+  Acinetobacter dispersus                                    18
+  Staphylococcus schleiferi                                  17
+  Prevotella salivae                                         17
+  Acinetobacter vivianii                                     17
+  Finegoldia spp                                             17
+  Bacteroides salersyae                                      16
+  Bacteroides intestinalis                                   15
+  Clostridium barati                                         15
+  Enterocloster clostridioformis                             15
+  Serratia plymuthica                                        14
+  Citrobacter diversus                                       14
+  Citrobacter gillenii                                       14
+  Peptoniphilus gorbachii                                    14
+  Streptococcus intermedius                                  14
+  Clostridioides spp                                         14
+  Enterobacter intermedium                                   13
+  Serratia ficaria                                           13
+  Staphylococcus pasteuri                                    13
+  Citrobacter murliniae                                      13
+  Clostridium citroniae                                      13
+  Prevotella histicola                                       13
+  Salmonella spp                                             13
+  Clostridium sphenoides                                     12
+  Staphylococcus pettenkoferi                                12
+  Staphylococcus pseudointermedius                           12
+  Pseudomonas monteilii                                      12
+  Clostridium bolteae                                        12
+  Burkholderia cenocepacia                                   12
+  Achromobacter xylosoxidans                                 12
+  Acinetobacter gyllenbergii                                 12
+  Bacteroides merdeae                                        11
+  Acinetobacter towneri                                      11
+  Anaerococcus hydrogenalis                                  11
+  Campylobacter ureolyticus                                  10
+  Streptococcus lutetiensis                                  10
+  Citrobacter youngae                                        10
+  Pseudomonas stutzeri                                       10
+  Prevotella heparinolytica                                  10
+  Clostridium glycolicum                                      9
+  Clostridium subterminale                                    9
+  Staphylococcus xylosus                                      9
+  Anaerococcus spp                                            9
+  Clostridium celerecrescens                                  9
+  Enterobacter taylorae                                       8
+  Staphylococcus intermedius                                  8
+  Streptococcus sanguinis                                     8
+  Aeromonas caviae                                            8
+  Parabacteroides goldsteinii                                 8
+  Clostridium scindens                                        8
+  Pseudomonas mosselii                                        8
+  Prevotella pallens                                          8
+  Pseudomonas otitidis                                        8
+  Hungatella hathewayi                                        8
+  Bacteroides dorei                                           7
+  Streptococcus mitis                                         7
+  Haemophilus parahaemolyticus                                7
+  Bacteroides cellulosilyticus                                7
+  Clostridium histolyticum                                    6
+  Anaerococcus tetradius                                      6
+  Peptostreptococcus lactolyticus                             6
+  Streptococcus castoreus                                     6
+  Clostridium aldenense                                       6
+  Pantoea agglomerans                                         6
+  Burkholderia cepacia                                        6
+  Peptoniphilus olsenii                                       6
+  Acinetobacter modestus                                      6
+  Morganella spp                                              6
+  Acinetobacter venetianus                                    6
+  Peptoniphilus coxii                                         6
+  Paeniclostridium sordelli                                   6
+  Clostridium symbiosum                                       5
+  Hafnia alvei                                                5
+  Aeromonas veronii                                           5
+  Pseudomonas nitroreducens                                   5
+  Parabacteroides johnsonii                                   5
+  Anaerococcus murdochii                                      5
+  Prevotella veroralis                                        5
+  Acinetobacter colistiniresistens                            5
+  Acinetobacter indicus                                       5
+  Parvimonas spp                                              5
+  Streptococcus Alpha Hemolytic                               5
+  Hungatella spp                                              5
+  Peptostreptococcus hydrogenalis                             4
+  Aeromonas hydrophila                                        4
+  Prevotella maculosa                                         4
+  Staphylococcus auricularis                                  4
+  Proteus rettgeri                                            4
+  Peptoniphilus lacrimalis                                    4
+  Achromobacter insolitus                                     4
+  Pseudomonas guariconensis                                   4
+  Raoultella spp                                              4
+  Clostridium novyia                                          3
+  Clostridium hastiforme                                      3
+  Bacteroides splanchnicus                                    3
+  Peptostreptococcus indolicus                                3
+  Clostridium rectum                                          3
+  Kluyvera ascorbata                                          3
+  Raoultella terrigena                                        3
+  Staphylococcus arlettae                                     3
+  Anaerococcus lactolyticus                                   3
+  Anaerococcus octavius                                       3
+  Prevotella oulorum                                          3
+  Clostridium cochlearium                                     3
+  Pantoea septica                                             3
+  Pseudomonas fulva                                           3
+  Alcaligenes faecalis                                        3
+  Providencia rustigianii                                     3
+  Eggerthella lenta                                           3
+  Enterocloster bolteae                                       3
+  Paraclostridium bifermentans                                3
+  Prevotella tannerae                                         2
+  Clostridium scatalogenes                                    2
+  Clostridium putrificum                                      2
+  Enterobacter liquifaciens                                   2
+  Eubacterium lentum                                          2
+  Eubacterium aerofaciens                                     2
+  Veillonella parvula                                         2
+  Peptostreptococcus tetradius                                2
+  Enterococcus mundtii                                        2
+  Streptococcus equi                                          2
+  Staphylococcus vitulinus                                    2
+  Bacteroides massiliensis                                    2
+  Enterococcus malodoratus                                    2
+  Escherichia vulneris                                        2
+  Escherichia hermanii                                        2
+  Serratia grimesii                                           2
+  Clostridium beijerinckii                                    2
+  Bacteroides coagulans                                       2
+  Cronobacter sakazakii                                       2
+  Prevotella amnii                                            2
+  Pantoea dispersa                                            2
+  Pseudomonas citronellolis                                   2
+  Staphylococcus saccharolyticus                              2
+  Staphylococcus petrasii                                     2
+  Enterocloster citroniae                                     2
+  Elizabethkingia anophelis                                   2
+  Staphylococcus ureilyticus                                  2
+  Paeniclostridium spp                                        2
+  Bacteroides xylanolyticus                                   2
+  Streptococcus peroris                                       2
+  Bacteroides bivius                                          1
+  Fusobacterium nucleatum                                     1
+  Anaerovorax spp                                             1
+  Enterococcus flavescens                                     1
+  Prevotella multiformis                                      1
+  Acinetobacter alcaligenes                                   1
+  Klebsiella rhinoscleromatis                                 1
+  Haemophilus pittmaniae                                      1
+  Escherichia fergusonii                                      1
+  Staphylococcus hyicus                                       1
+  Streptococcus gordonii                                      1
+  Clostridium limosum                                         1
+  Pseudomonas fluorescens                                     1
+  Pseudomonas stewartii                                       1
+  Streptococcus sanguis                                       1
+  Streptococcus suis                                          1
+  Pseudomonas alcaliphila                                     1
+  Clostridium disporicum                                      1
+  Pseudomonas mendocina                                       1
+  Enterobacter gergoviae                                      1
+  Streptococcus massiliensis                                  1
+  Clostridium colicanis                                       1
+  Aeromonas spp                                               1
+  Pseudomonas pseudoalcaligenes                               1
+  Corynebacterium aurimucosum                                 1
+  Pseudomonas alcaligenes                                     1
+  Staphylococcus condimenti                                   1
+  Pantoea spp                                                 1
+  Pseudomonas putida/fluorescens Group                        1
+  Bordetella trematum                                         1
+  Myroides odoratimimus                                       1
+  Ochrobactrum anthropi                                       1
+  Cronobacter spp                                             1
+  Acinetobacter tandoii                                       1
+  Bordetella spp                                              1
+  Pseudomonas graminis                                        1
+  Acidaminococcus fermentans                                  1
+  Enterococcus canintestini                                   1
+  Paraclostridium spp                                         1
+  Acinetobacter pseudolwoffii                                 1
+  Prevotella jejunii                                          1
+  Comamonas kerstersii                                        1
+  Moraxella osloensis                                         1
+  Eggerthella spp                                             1
+  Lancefieldella parvula                                      1
+  Corynebacterium tuberculostearicum                          1
+  Slackia exigua                                              1
+  Enterocloster aldenensis                                    1
+  Clostridium hylemonae                                       1
+  Lactobacillus casei                                         1
+  Aerococcus viridans                                         1
+  Peptoniphilus grossensis                                    1
+  Eubacterium limosum                                         1
+  Parabacteroides spp                                         1
+  Cutibacterium acnes                                         1
+  Tissierella praeacuta                                       1
+  Serratia nematodiphila                                      1
+  Cutibacterium spp                                           1
+  Hungatella effluvii                                         1
+  Fusobacterium ulcerans                                      1
+  Acinetobacter gandensis                                     1
+  Streptococcus mitis_oralis                                  1
+  Citrobacter werkmanii                                       1
+  Phocaeicola spp                                             1
+  Stenotrophomonas spp                                        1
+  Mixta calida                                                1
+  Bacillus spp                                                1
+  Phocaeicola massiliensis                                    1
+  Burkholderia spp                                            1
+
+--- 1.5 YEARS COVERED ---
+  Year range: 2004 to 2024
+
+  Year       Isolates
+  --------------------
+  2004         20,101
+  2005         21,801
+  2006         29,940
+  2007         39,964
+  2008         36,773
+  2009         41,692
+  2010         32,462
+  2011         26,023
+  2012         51,066
+  2013         70,125
+  2014         70,529
+  2015         64,785
+  2016         69,598
+  2017         58,271
+  2018         47,798
+  2019         57,339
+  2020         60,382
+  2021         62,692
+  2022         57,751
+  2023         47,713
+  2024         44,363
+
+--- 1.6 COUNTRIES COVERED (GLOBAL — ALL 83) ---
+  Total unique countries: 83
+
+  Country                                      Isolates
+  ------------------------------------------------------
+  United States                                 165,880
+  Spain                                          65,418
+  France                                         62,065
+  Germany                                        59,538
+  Italy                                          55,705
+  China                                          36,584
+  Belgium                                        30,892
+  Canada                                         25,241
+  Mexico                                         25,089
+  Portugal                                       20,082
+  Israel                                         18,101
+  Argentina                                      18,039
+  Australia                                      17,944
+  Czech Republic                                 17,527
+  India                                          17,327
+  United Kingdom                                 17,155
+  Hungary                                        16,488
+  Brazil                                         16,483
+  Korea, South                                   16,402
+  Taiwan                                         15,605
+  Greece                                         15,558
+  Colombia                                       15,482
+  South Africa                                   14,958
+  Turkey                                         13,965
+  Thailand                                       13,417
+  Chile                                          13,158
+  Poland                                         12,247
+  Russia                                         12,171
+  Philippines                                    12,068
+  Kuwait                                         11,745
+  Venezuela                                      10,981
+  Croatia                                        10,243
+  Japan                                           9,249
+  Romania                                         9,073
+  Netherlands                                     8,561
+  Denmark                                         8,496
+  Ireland                                         8,447
+  Switzerland                                     7,937
+  Sweden                                          7,775
+  Malaysia                                        6,425
+  Guatemala                                       5,920
+  Morocco                                         5,310
+  Austria                                         5,043
+  Panama                                          4,951
+  Nigeria                                         4,824
+  Lithuania                                       4,565
+  Finland                                         3,506
+  Hong Kong                                       3,288
+  Latvia                                          3,204
+  Ukraine                                         3,004
+  Bulgaria                                        2,751
+  Slovenia                                        2,634
+  Jordan                                          2,566
+  New Zealand                                     2,430
+  Saudi Arabia                                    2,218
+  Singapore                                       2,002
+  Dominican Republic                              1,640
+  Costa Rica                                      1,563
+  Qatar                                           1,419
+  Pakistan                                        1,079
+  Slovak Republic                                   970
+  Ivory Coast                                       909
+  Kenya                                             790
+  Cameroon                                          788
+  Tunisia                                           750
+  Honduras                                          437
+  El Salvador                                       348
+  Egypt                                             315
+  Uganda                                            275
+  Malawi                                            244
+  Ghana                                             210
+  Oman                                              205
+  Serbia                                            199
+  Jamaica                                           198
+  Norway                                            195
+  Lebanon                                           177
+  Vietnam                                           175
+  Puerto Rico                                       139
+  Namibia                                           139
+  Mauritius                                         119
+  Indonesia                                          88
+  Nicaragua                                          46
+  Estonia                                            14
+
+--- 1.7 AGE GROUPS ---
+  Unique age groups: 5
+
+  Age Group                   Count        %
+  --------------------------------------------
+  61+                       485,088    48.0%
+  31 - 60                   323,686    32.0%
+  0 - 17                    111,787    11.1%
+  18 - 30                    72,343     7.2%
+  Unknown                    18,264     1.8%
+
+--- 1.8 GENDER DISTRIBUTION ---
+  Male                      563,055  (55.7%)
+  Female                    437,279  (43.2%)
+  Unknown                    10,834  (1.1%)
+
+--- 1.9 ALL SPECIMEN SOURCES (FULL DATASET) ---
+  Total unique sources: 97
+
+  Source                                              Count
+  ----------------------------------------------------------
+  Blood                                             195,510
+  Wound                                             145,010
+  Urine                                             132,751
+  Sputum                                            131,072
+  Endotracheal aspirate                              47,769
+  Gastric Abscess                                    32,859
+  Abscess                                            32,566
+  Bronchus                                           30,535
+  Peritoneal Fluid                                   26,797
+  Bronchoalveolar lavage                             21,877
+  Trachea                                            19,281
+  Skin: Other                                        15,681
+  Ulcer                                              14,326
+  Respiratory: Other                                  9,933
+  Gall Bladder                                        9,441
+  Abdominal Fluid                                     8,175
+  Skin                                                7,339
+  Intestinal: Other                                   6,782
+  Catheters                                           6,302
+  Vagina                                              6,163
+  Decubitus                                           5,508
+  Ear                                                 5,158
+  Feces/Stool                                         5,037
+  None Given                                          4,612
+  Eye                                                 4,504
+  Bladder                                             4,347
+  Genitourinary: Other                                4,227
+  Cellulitis                                          4,063
+  Throat                                              3,741
+  Tissue Fluid                                        3,740
+  Burn                                                3,479
+  Nose                                                3,198
+  Lungs                                               3,166
+  Thoracentesis Fluid                                 3,018
+  Colon                                               2,916
+  Exudate                                             2,837
+  Bile                                                2,725
+  Bone                                                2,614
+  Bodily Fluids                                       2,594
+  Liver                                               2,450
+  Respiratory: Sinuses                                2,419
+  Aspirate                                            2,063
+  Drains                                              2,059
+  Stomach                                             2,044
+  Pleural Fluid                                       1,979
+  CSF                                                 1,830
+  HEENT: Other                                        1,752
+  Appendix                                            1,721
+  Kidney                                              1,710
+  Urethra                                             1,709
+  Rectum                                              1,708
+  Furuncle                                            1,591
+  Impetiginous lesions                                1,490
+  Pancreas                                            1,474
+  Synovial Fluid                                      1,301
+  Muscle                                              1,076
+  Circulatory: Other                                    920
+  Instruments: Other                                    775
+  Prostate                                              745
+  Carbuncle                                             621
+  Ureter                                                599
+  Spinal Cord                                           574
+  Integumentary (Skin Nail Hair)                        538
+  Mouth                                                 523
+  Uterus                                                517
+  Penis                                                 453
+  Skeletal: Other                                       379
+  Placenta                                              347
+  Diverticulum                                          305
+  CNS: Other                                            275
+  Heart                                                 174
+  Head                                                  163
+  Brain                                                 134
+  Blood Vessels                                         131
+  Testis                                                126
+  Nails                                                 116
+  Lymph Nodes                                           104
+  Bone Marrow                                            90
+  Ovary                                                  89
+  Lymphatic Fluid                                        82
+  Peripheral Nerves                                      73
+  Cervix                                                 67
+  Fallopian Tubes                                        65
+  Vas Deferens                                           65
+  Hair                                                   41
+  Esophagus                                              13
+  Spleen                                                 10
+  Nasopharyngeal Aspirate                                 5
+  Thymus                                                  4
+  Paracentesis Fluid                                      4
+  Nasotracheal Aspirate                                   3
+  Ascetic Fluid                                           2
+  Transtracheal Aspirate                                  2
+  Bronchiole                                              2
+  Vomit                                                   1
+  Ileum                                                   1
+  Pyoderma Lesion                                         1
+
+--- 1.9b CNS & NOSOCOMIAL-RELEVANT SOURCES — STUDY SCOPE ---
+  (Direct CNS + Bloodstream + ICU/Device-associated + Deep sterile sites)
+
+  Source                                              Count
+  ----------------------------------------------------------
+  Blood                                             195,510
+  CSF                                                 1,830
+  Brain                                                 134
+  CNS: Other                                            275
+  Spinal Cord                                           574
+  Head                                                  163
+  Peripheral Nerves                                      73
+  Endotracheal aspirate                              47,769
+  Bronchoalveolar lavage                             21,877
+  Trachea                                            19,281
+  Bronchus                                           30,535
+  Catheters                                           6,302
+  Drains                                              2,059
+  Abscess                                            32,566
+  Bone                                                2,614
+  Bone Marrow                                            90
+  Pleural Fluid                                       1,979
+  Thoracentesis Fluid                                 3,018
+  Peritoneal Fluid                                   26,797
+  Abdominal Fluid                                     8,175
+  Tissue Fluid                                        3,740
+  Bodily Fluids                                       2,594
+  Aspirate                                            2,063
+  Lungs                                               3,166
+  Respiratory: Other                                  9,933
+
+  TOTAL isolates from selected sources : 423,117
+
+--- 1.10 SPECIALITY / FACILITY TYPE ---
+  Facility Type                                 Count    Included
+  ----------------------------------------------------------------
+  Medicine General                            372,378         YES
+  Surgery General                             151,185         YES
+  Medicine ICU                                111,407         YES
+  Emergency Room                              101,537         YES
+  None Given                                   65,656    EXCLUDED
+  Surgery ICU                                  54,995         YES
+  Pediatric General                            47,192         YES
+  Clinic / Office                              35,229         YES
+  Pediatric ICU                                29,577         YES
+  Other                                        18,129         YES
+  General Unspecified ICU                      17,957         YES
+  Nursing Home / Rehab                          5,926         YES
+
+  TOTAL isolates from included facilities : 945,512
+
+--- 1.11 ANTIBIOTIC COLUMNS PRESENT ---
+  Interpretation (_I) columns : 47
+    Amikacin_I
+    Amoxycillin clavulanate_I
+    Ampicillin sulbactam_I
+    Ampicillin_I
+    Azithromycin_I
+    Aztreonam avibactam_I
+    Aztreonam_I
+    Cefepime_I
+    Cefiderocol_I
+    Cefixime_I
+    Cefoperazone sulbactam_I
+    Cefoxitin_I
+    Cefpodoxime_I
+    Ceftaroline_I
+    Ceftazidime avibactam_I
+    Ceftazidime_I
+    Ceftibuten_I
+    Ceftolozane tazobactam_I
+    Ceftriaxone_I
+    Ciprofloxacin_I
+    Clarithromycin_I
+    Clindamycin_I
+    Colistin_I
+    Daptomycin_I
+    Doripenem_I
+    Ertapenem_I
+    Erythromycin_I
+    Gatifloxacin_I
+    Gentamicin_I
+    Imipenem_I
+    Levofloxacin_I
+    Linezolid_I
+    Meropenem vaborbactam_I
+    Meropenem_I
+    Metronidazole_I
+    Minocycline_I
+    Moxifloxacin_I
+    Oxacillin_I
+    Penicillin_I
+    Piperacillin tazobactam_I
+    Quinupristin dalfopristin_I
+    Sulbactam_I
+    Teicoplanin_I
+    Tetracycline_I
+    Tigecycline_I
+    Trimethoprim sulfa_I
+    Vancomycin_I
+
+  MIC value columns : 47
+    Amikacin
+    Amoxycillin clavulanate
+    Ampicillin
+    Ampicillin sulbactam
+    Azithromycin
+    Aztreonam
+    Aztreonam avibactam
+    Cefepime
+    Cefiderocol
+    Cefixime
+    Cefoperazone sulbactam
+    Cefoxitin
+    Cefpodoxime
+    Ceftaroline
+    Ceftazidime
+    Ceftazidime avibactam
+    Ceftibuten
+    Ceftolozane tazobactam
+    Ceftriaxone
+    Ciprofloxacin
+    Clarithromycin
+    Clindamycin
+    Colistin
+    Daptomycin
+    Doripenem
+    Ertapenem
+    Erythromycin
+    Gatifloxacin
+    Gentamicin
+    Imipenem
+    Levofloxacin
+    Linezolid
+    Meropenem
+    Meropenem vaborbactam
+    Metronidazole
+    Minocycline
+    Moxifloxacin
+    Oxacillin
+    Penicillin
+    Piperacillin tazobactam
+    Quinupristin dalfopristin
+    Sulbactam
+    Teicoplanin
+    Tetracycline
+    Tigecycline
+    Trimethoprim sulfa
+    Vancomycin
+
+--- 1.12 S/I/R DISTRIBUTION FOR ALL ANTIBIOTIC INTERPRETATION COLUMNS ---
+  Antibiotic                                    S         I         R        NA      R%
+  ----------------------------------------------------------------------------------
+  Amikacin                                507,931    28,225    53,484   421,528     9.1
+  Amoxycillin clavulanate                 273,665    49,382   158,095   530,026    32.9
+  Ampicillin sulbactam                    110,908    25,020    56,583   818,657    29.4
+  Ampicillin                              151,839    24,571   349,668   485,090    66.5
+  Azithromycin                             22,231       576     6,969   981,392    23.4
+  Aztreonam avibactam                           0         0         0  1,011,168      NA
+  Aztreonam                               222,971    14,767    73,405   700,025    23.6
+  Cefepime                                464,304    40,529   107,718   398,617    17.6
+  Cefiderocol                              27,342       189       178   983,459     0.6
+  Cefixime                                 36,732     3,187    22,236   949,013    35.8
+  Cefoperazone sulbactam                        0         0         0  1,011,168      NA
+  Cefoxitin                                 7,663       800       398  1,002,307     4.5
+  Cefpodoxime                              37,455     2,511    22,116   949,086    35.6
+  Ceftaroline                             321,532    14,398    81,251   593,987    19.5
+  Ceftazidime avibactam                   296,461         0    13,132   701,575     4.2
+  Ceftazidime                             379,914    21,510   123,549   486,195    23.5
+  Ceftibuten                               50,431     2,199     9,452   949,086    15.2
+  Ceftolozane tazobactam                  144,926     3,451    18,047   844,744    10.8
+  Ceftriaxone                             284,825    12,469    68,905   644,969    18.8
+  Ciprofloxacin                           153,538     9,707    72,428   775,495    30.7
+  Clarithromycin                           14,220       104     6,488   990,356    31.2
+  Clindamycin                             187,305     3,109    49,388   771,366    20.6
+  Colistin                                      0   276,718    39,516   694,934    12.5
+  Daptomycin                              177,956    11,910       648   820,654     0.3
+  Doripenem                               129,142     2,430     8,471   871,125     6.0
+  Ertapenem                                30,103       793       986   979,286     3.1
+  Erythromycin                            128,498    12,153   109,940   760,577    43.9
+  Gatifloxacin                                  0         0         0  1,011,168      NA
+  Gentamicin                              239,709     5,171    60,286   706,002    19.8
+  Imipenem                                305,391    25,235    61,824   618,718    15.8
+  Levofloxacin                            686,333    35,971   264,704    24,160    26.8
+  Linezolid                               359,137       531       563   650,937     0.2
+  Meropenem vaborbactam                   102,521       608     4,904   903,135     4.5
+  Meropenem                               606,718    14,464    72,054   317,932    10.4
+  Metronidazole                            19,790        26        61   991,291     0.3
+  Minocycline                             344,929    41,819    44,700   579,720    10.4
+  Moxifloxacin                             55,092     3,242    28,204   924,630    32.6
+  Oxacillin                                75,932         0    71,175   864,061    48.4
+  Penicillin                              105,348    13,791    18,015   874,014    13.1
+  Piperacillin tazobactam                 494,512    28,843   120,027   367,786    18.7
+  Quinupristin dalfopristin                 1,243       409     2,177  1,007,339    56.9
+  Sulbactam                                     0         0         0  1,011,168      NA
+  Teicoplanin                             174,601       574     2,599   833,394     1.5
+  Tetracycline                                 10        40        23  1,011,095    31.5
+  Tigecycline                             807,063    14,902     2,566   186,637     0.3
+  Trimethoprim sulfa                      229,004         0    76,268   705,896    25.0
+  Vancomycin                              353,153       569     6,511   650,935     1.8
+
+--- 1.13 STUDY CODES ---
+  TEST                      413,245
+  ATLAS                     378,038
+  Inform                    219,885
+
+--- 1.14 RESISTANCE GENE COLUMNS ---
+  Gene/resistance columns found: 17
+
+  Column                          Non-Empty     Missing    Missing%
+  ------------------------------------------------------------------
+  ACC                                    66   1,011,102      100.0%
+  AMPC                                1,251   1,009,917       99.9%
+  CMY2                                2,476   1,008,692       99.8%
+  DHA                                 1,844   1,009,324       99.8%
+  FOX                                    41   1,011,127      100.0%
+  GES                                   583   1,010,585       99.9%
+  GIM                                     0   1,011,168      100.0%
+  IMP                                   427   1,010,741      100.0%
+  KPC                                 5,327   1,005,841       99.5%
+  NDM                                 5,042   1,006,126       99.5%
+  OXA                                 5,710   1,005,458       99.4%
+  PER                                   195   1,010,973      100.0%
+  SHV                                27,938     983,230       97.2%
+  SPM                                     5   1,011,163      100.0%
+  TEM                                29,126     982,042       97.1%
+  VEB                                   627   1,010,541       99.9%
+  VIM                                 2,212   1,008,956       99.8%
+
+--- 1.15 TARGET ORGANISMS — ROW COUNTS IN FULL ATLAS ---
+  Organism                                           Count      Status
+  ----------------------------------------------------------------------
+  Klebsiella pneumoniae                            106,946   EXCELLENT
+  Acinetobacter baumannii                           45,011   EXCELLENT
+  Escherichia coli                                 125,878   EXCELLENT
+  Staphylococcus aureus                            172,883   EXCELLENT
+  Pseudomonas aeruginosa                           115,807   EXCELLENT
+  Enterobacter cloacae                              46,383   EXCELLENT
+  Enterococcus faecium                              20,007   EXCELLENT
+  Staphylococcus epidermidis                        15,891   EXCELLENT
+  Serratia marcescens                               27,240   EXCELLENT
+  Citrobacter koseri                                 7,369   EXCELLENT
+  Streptococcus pneumoniae                          49,165   EXCELLENT
+  Haemophilus influenzae                            33,669   EXCELLENT
+  Salmonella spp                                        13         LOW
+
+  TOTAL across all 13 target organisms : 766,262
+
+--- 1.16 PEDIATRIC (0-17) vs ELDERLY (61+) PER TARGET ORGANISM ---
+  Actual age group values in data: ['0 - 17', '18 - 30', '31 - 60', '61+', 'Unknown']
+
+  Total pediatric (0-17) rows : 111,787
+  Total elderly   (61+)  rows : 485,088
+
+  Organism                                         Pediatric     Elderly    Combined
+  ----------------------------------------------------------------------------------
+  Klebsiella pneumoniae                                9,066      56,325      65,391
+  Acinetobacter baumannii                              3,430      21,514      24,944
+  Escherichia coli                                    11,118      64,529      75,647
+  Staphylococcus aureus                               20,478      73,966      94,444
+  Pseudomonas aeruginosa                              10,453      61,514      71,967
+  Enterobacter cloacae                                 5,261      22,466      27,727
+  Enterococcus faecium                                 1,105      11,305      12,410
+  Staphylococcus epidermidis                           1,875       7,220       9,095
+  Serratia marcescens                                  2,864      13,825      16,689
+  Citrobacter koseri                                     354       4,140       4,494
+  Streptococcus pneumoniae                            10,965      19,538      30,503
+  Haemophilus influenzae                               8,736      12,627      21,363
+  Salmonella spp                                           5           5          10
+
+========================================================================
+ SECTION 2: GEARS DATASET  —  Venatorx Surveillance Data
+========================================================================
+
+--- 2.1 BASIC DIMENSIONS ---
+  Total rows    : 29,365
+  Total columns : 23
+  Year range    : 2018 to 2022
+  Countries     : 59
+  Organisms     : 42
+
+--- 2.2 ALL COLUMN NAMES ---
+  Isolate                        [int64]
+  Year                           [int64]
+  Organism                       [str]
+  Family                         [str]
+  Region                         [str]
+  Country                        [str]
+  Age                            [object]
+  Gender                         [str]
+  BodySite                       [str]
+  Facility                       [str]
+  CAZ_MIC                        [float64]
+  C_MIC                          [object]
+  CIP_MIC                        [object]
+  CL_MIC                         [object]
+  FEP_MIC                        [float64]
+  GM_MIC                         [object]
+  IPM_MIC                        [object]
+  LVX_MIC                        [object]
+  MEM_MIC                        [object]
+  MI_MIC                         [object]
+  SXT_MIC                        [object]
+  TIM_MIC                        [object]
+  TZP_MIC                        [object]
+
+--- 2.3 MISSING VALUES PER COLUMN ---
+  Column                                      Missing    Missing%
+  ----------------------------------------------------------------
+  No missing values in any column.
+
+--- 2.4 UNIQUE ORGANISMS IN GEARS ---
+  Total unique organisms: 42
+
+  Organism                                                Count
+  --------------------------------------------------------------
+  Pseudomonas aeruginosa                                  7,919
+  Escherichia coli                                        5,717
+  Klebsiella pneumoniae                                   5,700
+  Proteus mirabilis                                       1,435
+  Klebsiella oxytoca                                      1,094
+  Citrobacter freundii                                    1,001
+  Enterobacter cloacae                                      904
+  Serratia marcescens                                       757
+  Morganella morganii                                       634
+  Klebsiella aerogenes                                      606
+  Citrobacter koseri                                        590
+  Proteus vulgaris                                          588
+  Stenotrophomonas maltophilia                              581
+  Providencia stuartii                                      335
+  Serratia sp                                               280
+  Providencia rettgeri                                      253
+  Enterobacter sp                                           179
+  Enterobacter hormaechei                                   163
+  Staphylococcus aureus, MSSA                               140
+  Enterobacter bugandensis                                   80
+  Serratia liquefaciens                                      64
+  Enterobacter cloacae complex                               58
+  Enterobacter asburiae                                      55
+  Citrobacter braakii                                        54
+  Enterobacter kobei                                         27
+  Enterobacter ludwigii                                      27
+  Serratia ureilytica                                        24
+  Enterobacter xiangfangensis                                24
+  Enterobacter roggenkampii                                  13
+  Providencia sp                                             12
+  Citrobacter amalonaticus                                    9
+  Citrobacter sp                                              9
+  Citrobacter sedlakii                                        6
+  Serratia rubidaea                                           5
+  Proteus sp                                                  5
+  Citrobacter farmeri                                         4
+  Klebsiella variicola                                        4
+  Providencia alcalifaciens                                   4
+  Serratia odorifera                                          2
+  Serratia fonticola                                          1
+  Citrobacter youngae                                         1
+  Providencia rustigianii                                     1
+
+--- 2.5 YEARS COVERED IN GEARS ---
+  Year range: 2018 to 2022
+
+  Year       Isolates
+  --------------------
+  2018          6,050
+  2019          7,032
+  2020          5,700
+  2021          6,000
+  2022          4,583
+
+--- 2.6 COUNTRIES IN GEARS ---
+  Total countries: 59
+
+  Country                                       Count
+  ----------------------------------------------------
+  United States                                 6,608
+  Germany                                       1,317
+  Spain                                         1,260
+  Canada                                        1,260
+  Italy                                         1,140
+  France                                          982
+  Belgium                                         864
+  Mexico                                          862
+  Korea, South                                    819
+  Russia                                          690
+  United Kingdom                                  627
+  Israel                                          622
+  Colombia                                        614
+  Australia                                       563
+  India                                           546
+  Turkey                                          545
+  Hungary                                         488
+  Czech Republic                                  423
+  Lithuania                                       416
+  Croatia                                         408
+  Romania                                         408
+  Japan                                           407
+  Kuwait                                          401
+  Greece                                          388
+  Thailand                                        381
+  South Africa                                    376
+  Brazil                                          362
+  Poland                                          360
+  Ukraine                                         358
+  Venezuela                                       353
+  Chile                                           346
+  Taiwan                                          342
+  Argentina                                       336
+  Morocco                                         322
+  Portugal                                        309
+  Switzerland                                     257
+  Nigeria                                         247
+  Netherlands                                     242
+  Philippines                                     234
+  Ireland                                         208
+  Guatemala                                       202
+  Latvia                                          185
+  Sweden                                          182
+  Panama                                          151
+  Malaysia                                        136
+  Dominican Republic                              129
+  Denmark                                         123
+  Saudi Arabia                                    121
+  Costa Rica                                       96
+  Hong Kong                                        90
+  Slovenia                                         76
+  New Zealand                                      56
+  Finland                                          47
+  Ecuador                                          24
+  Qatar                                            21
+  Puerto Rico                                      16
+  Singapore                                         9
+  Vietnam                                           6
+  Cameroon                                          4
+
+--- 2.7 AGE DISTRIBUTION IN GEARS ---
+  Min age    : 0
+  Max age    : 119
+  Mean age   : 57.2
+  Median age : 63
+
+  Neonatal  (age 0)      : 571
+  Pediatric (age 1-5)    : 1,356
+  Pediatric (age 6-17)   : 1,020
+  Total Pediatric (0-17) : 2,947
+  Elderly (61+)          : 16,102
+
+  Pediatric (0-17) and Elderly (61+) per target organism:
+  Organism                                         Pediatric     Elderly
+  ----------------------------------------------------------------------
+  Klebsiella pneumoniae                                  557       3,127
+  Acinetobacter baumannii                                  0           0
+  Escherichia coli                                       633       3,086
+  Staphylococcus aureus                                   18          67
+  Pseudomonas aeruginosa                                 832       4,154
+  Enterobacter cloacae                                   108         531
+  Enterococcus faecium                                     0           0
+  Staphylococcus epidermidis                               0           0
+  Serratia marcescens                                    100         407
+  Citrobacter koseri                                      35         333
+  Streptococcus pneumoniae                                 0           0
+  Haemophilus influenzae                                   0           0
+  Salmonella spp                                           0           0
+
+--- 2.8 ALL BODY SITE / SPECIMEN TYPES IN GEARS ---
+  Total unique body sites: 42
+
+  Body Site                                               Count
+  --------------------------------------------------------------
+  GU: Urine                                               6,454
+  Respiratory: Endotracheal aspirate                      4,968
+  Respiratory: Sputum                                     4,859
+  CVS: Blood                                              3,417
+  Respiratory: Bronchoalveolar lavage                     1,896
+  Bodily Fluids: Peritoneal                               1,197
+  GI: Abscess                                             1,166
+  INT: Wound                                                878
+  Respiratory: Bronchial brushing                           749
+  GI: Gall Bladder                                          696
+  INT: Abscess                                              528
+  Respiratory: Other                                        380
+  GI: Other                                                 364
+  GU: Urinary Bladder                                       251
+  GI: Large Colon                                           191
+  GI: Liver                                                 155
+  INT: Skin Ulcer                                           148
+  GI: Appendix                                              133
+  Bodily Fluids: Thoracentesis                              111
+  GU: Kidneys                                               111
+  GI: Stomach                                               108
+  INT: Other                                                 91
+  INT: Decubitus                                             78
+  GI: Pancreas                                               58
+  GU: Urethra                                                54
+  GU: Other                                                  50
+  INT: Burn                                                  46
+  INT: Cellulitis/Erysipelas                                 37
+  GI: Small Colon                                            32
+  GU: Ureter                                                 27
+  GI: Diverticulum                                           26
+  Respiratory: Lungs                                         24
+  Bodily Fluids: Abscess / Pus                               22
+  GU: Prostate                                               20
+  INT: Carbuncle                                             12
+  INT: Impetiginous lesions                                   9
+  Respiratory: Bronchials                                     7
+  Unknown                                                     4
+  Bodily Fluids: Tissue                                       4
+  INT: Furuncle                                               2
+  IAI: Peritoneal Fluid                                       1
+  HEENT: Eyes                                                 1
+
+--- 2.8b CNS & NOSOCOMIAL-RELEVANT BODY SITES — STUDY SCOPE ---
+  Body Site                                               Count
+  --------------------------------------------------------------
+  CVS: Blood                                              3,417
+  Respiratory: Endotracheal aspirate                      4,968
+  Respiratory: Bronchoalveolar lavage                     1,896
+  Respiratory: Sputum                                     4,859
+  Respiratory: Bronchial brushing                           749
+  Respiratory: Other                                        380
+  Respiratory: Lungs                                         24
+  Respiratory: Bronchials                                     7
+  Bodily Fluids: Peritoneal                               1,197
+  Bodily Fluids: Thoracentesis                              111
+  Bodily Fluids: Abscess / Pus                               22
+  Bodily Fluids: Tissue                                       4
+  GI: Abscess                                             1,166
+  INT: Abscess                                              528
+  INT: Wound                                                878
+
+  TOTAL GEARS isolates from selected sources : 20,206
+
+--- 2.9 FACILITY TYPE IN GEARS ---
+  Facility Type                                 Count    Included
+  ----------------------------------------------------------------
+  Medicine General                              9,937         YES
+  Medicine ICU                                  6,358         YES
+  Surgery General                               3,288         YES
+  Surgery ICU                                   2,894         YES
+  Emergency Room                                2,175         YES
+  General Unspecified ICU                       1,418         YES
+  Pediatric ICU                                 1,412         YES
+  Pediatric General                               984         YES
+  None Given                                      577    EXCLUDED
+  Other                                           322         YES
+
+  TOTAL GEARS isolates from included facilities : 28,788
+
+--- 2.10 MIC COLUMNS IN GEARS ---
+  MIC columns found: 13
+
+  Column          Non-Missing   Missing       Min       Max    Median
+  --------------------------------------------------------------------
+  CAZ_MIC              29,365         0    0.0299       128         1
+  C_MIC                   581    28,784         1        64        16
+  CIP_MIC               7,919    21,446    0.0599         4      0.12
+  CL_MIC                  581    28,784       0.5        32         1
+  FEP_MIC              29,365         0      0.25       128      0.25
+  GM_MIC               28,784       581      0.12        16         1
+  IPM_MIC               7,919    21,446       0.5        64         2
+  LVX_MIC              21,446     7,919    0.0039        16      0.12
+  MEM_MIC              28,784       581    0.0039        64      0.06
+  MI_MIC                  581    28,784      0.12        16       0.5
+  SXT_MIC                 581    28,784       0.5        64       0.5
+  TIM_MIC                 581    28,784         2       128        32
+  TZP_MIC              28,784       581       0.5       128         4
+
+--- 2.11 TARGET ORGANISMS IN GEARS ---
+  Organism                                           Total   Pediatric     Elderly   Present
+  ------------------------------------------------------------------------------------------
+  Klebsiella pneumoniae                              5,700         557       3,127       YES
+  Acinetobacter baumannii                                0           0           0    ABSENT
+  Escherichia coli                                   5,717         633       3,086       YES
+  Staphylococcus aureus                                140          18          67       YES
+  Pseudomonas aeruginosa                             7,919         832       4,154       YES
+  Enterobacter cloacae                                 962         108         531       YES
+  Enterococcus faecium                                   0           0           0    ABSENT
+  Staphylococcus epidermidis                             0           0           0    ABSENT
+  Serratia marcescens                                  757         100         407       YES
+  Citrobacter koseri                                   590          35         333       YES
+  Streptococcus pneumoniae                               0           0           0    ABSENT
+  Haemophilus influenzae                                 0           0           0    ABSENT
+  Salmonella spp                                         0           0           0    ABSENT
+
+  TOTAL across all target organisms in GEARS : 21,785
+
+========================================================================
+ SECTION 3: STUDY SCOPE SUMMARY
+========================================================================
+
+  ATLAS  : 1,011,168 rows | 83 countries | 2004-2024 | 127 columns
+  GEARS  : 29,365 rows   | 59 countries | 2018-2022 |  23 columns
+
+  TARGET ORGANISMS (13):
+    - Klebsiella pneumoniae
+    - Acinetobacter baumannii
+    - Escherichia coli
+    - Staphylococcus aureus
+    - Pseudomonas aeruginosa
+    - Enterobacter cloacae
+    - Enterococcus faecium
+    - Staphylococcus epidermidis
+    - Serratia marcescens
+    - Citrobacter koseri
+    - Streptococcus pneumoniae
+    - Haemophilus influenzae
+    - Salmonella spp
+
+  SPECIMEN SOURCES — CNS/Nosocomial relevant:
+    ATLAS : Blood, CSF, Brain, CNS:Other, Spinal Cord, Head,
+            Peripheral Nerves, Endotracheal aspirate, BAL, Trachea,
+            Bronchus, Catheters, Drains, Abscess, Bone, Bone Marrow,
+            Pleural Fluid, Thoracentesis Fluid, Peritoneal Fluid,
+            Abdominal Fluid, Tissue Fluid, Bodily Fluids, Aspirate,
+            Lungs, Respiratory:Other
+    GEARS : CVS:Blood, Respiratory (ETA/BAL/Sputum/etc.),
+            Peritoneal, Thoracentesis, Abscess/Pus, Tissue, Wound
+
+  FACILITY TYPES : All except 'None Given'
+  AGE GROUPS     : Pediatric 0-17  |  Elderly 61+
+  GEOGRAPHY      : ALL countries (global)
+  ANTIBIOTICS    : All 47 interpretation columns
+
+========================================================================
+ END OF REPORT
+========================================================================
