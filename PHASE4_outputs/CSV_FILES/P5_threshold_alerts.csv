@@ -1,0 +1,451 @@
+Organism,Country,Alert_Year,Current_MDR_Rate_%,Already_Above_50,ARIMA_Forecast_%,Prophet_Forecast_%,Ensemble_Mean_%,ARIMA_Alert,Prophet_Alert,Both_Models_Alert,Models_Alerting
+Acinetobacter baumannii,Croatia,2025,100.0,True,99.99,99.87,99.93,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Croatia,2026,100.0,True,99.94,100.0,99.97,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Croatia,2027,100.0,True,99.89,100.0,99.94,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Croatia,2028,100.0,True,99.85,100.0,99.92,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Croatia,2029,100.0,True,99.82,100.0,99.91,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Croatia,2030,100.0,True,99.79,100.0,99.9,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,France,2025,50.0,False,45.78,58.74,52.26,False,True,False,Prophet
+Acinetobacter baumannii,France,2026,50.0,False,64.23,61.43,62.83,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,France,2027,50.0,False,60.93,64.12,62.53,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,France,2028,50.0,False,47.65,66.82,57.24,False,True,False,Prophet
+Acinetobacter baumannii,France,2029,50.0,False,57.41,69.52,63.46,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,France,2030,50.0,False,63.04,72.21,67.62,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Italy,2025,70.0,True,60.28,91.77,76.03,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Italy,2026,70.0,True,60.28,92.47,76.38,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Italy,2027,70.0,True,60.28,93.16,76.72,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Italy,2028,70.0,True,60.28,93.86,77.07,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Italy,2029,70.0,True,60.28,94.56,77.42,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Italy,2030,70.0,True,60.28,95.25,77.76,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Spain,2025,64.29,True,93.19,68.69,80.94,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Spain,2026,64.29,True,65.55,68.31,66.93,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Spain,2027,64.29,True,44.38,67.93,56.16,False,True,False,Prophet
+Acinetobacter baumannii,Spain,2028,64.29,True,58.08,67.55,62.82,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Spain,2029,64.29,True,96.45,67.17,81.81,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,Spain,2030,64.29,True,100.0,66.79,83.4,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,United States,2025,57.14,True,53.14,55.56,54.35,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,United States,2026,57.14,True,53.17,55.98,54.58,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,United States,2027,57.14,True,53.21,56.4,54.8,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,United States,2028,57.14,True,53.24,56.81,55.03,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,United States,2029,57.14,True,53.28,57.23,55.26,True,True,True,ARIMA+Prophet
+Acinetobacter baumannii,United States,2030,57.14,True,53.31,57.65,55.48,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,Canada,2025,40.91,False,65.1,24.63,44.86,True,False,False,ARIMA
+Enterobacter cloacae,Canada,2026,40.91,False,65.1,25.64,45.37,True,False,False,ARIMA
+Enterobacter cloacae,Canada,2027,40.91,False,65.1,26.65,45.88,True,False,False,ARIMA
+Enterobacter cloacae,Canada,2028,40.91,False,65.1,27.65,46.38,True,False,False,ARIMA
+Enterobacter cloacae,Canada,2029,40.91,False,65.1,28.66,46.88,True,False,False,ARIMA
+Enterobacter cloacae,Canada,2030,40.91,False,65.1,29.67,47.38,True,False,False,ARIMA
+Enterobacter cloacae,France,2025,100.0,True,92.22,66.5,79.36,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,France,2026,100.0,True,100.0,68.78,84.39,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,France,2027,100.0,True,87.91,71.06,79.48,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,France,2028,100.0,True,100.0,73.34,86.67,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,France,2029,100.0,True,82.6,75.63,79.11,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,France,2030,100.0,True,100.0,77.91,88.96,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,Italy,2025,52.38,True,51.98,10.45,31.21,True,False,False,ARIMA
+Enterobacter cloacae,Italy,2026,52.38,True,51.98,8.72,30.35,True,False,False,ARIMA
+Enterobacter cloacae,Italy,2027,52.38,True,51.98,6.99,29.48,True,False,False,ARIMA
+Enterobacter cloacae,Italy,2028,52.38,True,51.98,5.27,28.62,True,False,False,ARIMA
+Enterobacter cloacae,Italy,2029,52.38,True,51.98,3.54,27.76,True,False,False,ARIMA
+Enterobacter cloacae,Italy,2030,52.38,True,51.98,1.81,26.9,True,False,False,ARIMA
+Enterobacter cloacae,Spain,2025,66.67,True,66.47,44.24,55.36,True,False,False,ARIMA
+Enterobacter cloacae,Spain,2026,66.67,True,66.47,45.79,56.13,True,False,False,ARIMA
+Enterobacter cloacae,Spain,2027,66.67,True,66.47,47.35,56.91,True,False,False,ARIMA
+Enterobacter cloacae,Spain,2028,66.67,True,66.47,48.9,57.68,True,False,False,ARIMA
+Enterobacter cloacae,Spain,2029,66.67,True,66.47,50.46,58.46,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,Spain,2030,66.67,True,66.47,52.02,59.24,True,True,True,ARIMA+Prophet
+Enterobacter cloacae,United States,2026,36.36,False,66.78,44.71,55.74,True,False,False,ARIMA
+Enterobacter cloacae,United States,2028,36.36,False,72.26,47.6,59.93,True,False,False,ARIMA
+Enterobacter cloacae,United States,2030,36.36,False,79.24,50.5,64.87,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Canada,2025,80.0,True,81.8,98.66,90.23,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Canada,2026,80.0,True,79.07,100.0,89.54,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Canada,2027,80.0,True,76.58,100.0,88.29,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Canada,2028,80.0,True,74.22,100.0,87.11,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Canada,2029,80.0,True,71.98,100.0,85.99,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Canada,2030,80.0,True,69.81,100.0,84.9,True,True,True,ARIMA+Prophet
+Enterococcus faecium,France,2025,80.95,True,41.24,100.0,70.62,False,True,False,Prophet
+Enterococcus faecium,France,2026,80.95,True,34.9,100.0,67.45,False,True,False,Prophet
+Enterococcus faecium,France,2027,80.95,True,29.53,100.0,64.76,False,True,False,Prophet
+Enterococcus faecium,France,2028,80.95,True,24.99,100.0,62.5,False,True,False,Prophet
+Enterococcus faecium,France,2029,80.95,True,21.15,100.0,60.58,False,True,False,Prophet
+Enterococcus faecium,France,2030,80.95,True,17.89,100.0,58.94,False,True,False,Prophet
+Enterococcus faecium,Germany,2025,91.67,True,86.04,100.0,93.02,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Germany,2026,91.67,True,91.36,100.0,95.68,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Germany,2027,91.67,True,97.99,100.0,99.0,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Germany,2028,91.67,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Germany,2029,91.67,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Germany,2030,91.67,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Italy,2025,100.0,True,96.22,100.0,98.11,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Italy,2026,100.0,True,95.27,100.0,97.64,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Italy,2027,100.0,True,95.27,100.0,97.64,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Italy,2028,100.0,True,95.27,100.0,97.64,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Italy,2029,100.0,True,95.27,100.0,97.64,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Italy,2030,100.0,True,95.27,100.0,97.64,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Spain,2025,72.73,True,73.45,98.77,86.11,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Spain,2026,72.73,True,73.45,100.0,86.72,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Spain,2027,72.73,True,73.45,100.0,86.72,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Spain,2028,72.73,True,73.45,100.0,86.72,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Spain,2029,72.73,True,73.45,100.0,86.72,True,True,True,ARIMA+Prophet
+Enterococcus faecium,Spain,2030,72.73,True,73.45,100.0,86.72,True,True,True,ARIMA+Prophet
+Enterococcus faecium,United States,2025,100.0,True,88.07,91.57,89.82,True,True,True,ARIMA+Prophet
+Enterococcus faecium,United States,2026,100.0,True,87.88,92.79,90.34,True,True,True,ARIMA+Prophet
+Enterococcus faecium,United States,2027,100.0,True,87.88,94.0,90.94,True,True,True,ARIMA+Prophet
+Enterococcus faecium,United States,2028,100.0,True,87.88,95.21,91.54,True,True,True,ARIMA+Prophet
+Enterococcus faecium,United States,2029,100.0,True,87.88,96.43,92.16,True,True,True,ARIMA+Prophet
+Enterococcus faecium,United States,2030,100.0,True,87.88,97.64,92.76,True,True,True,ARIMA+Prophet
+Escherichia coli,Argentina,2025,46.15,False,56.81,62.25,59.53,True,True,True,ARIMA+Prophet
+Escherichia coli,Argentina,2026,46.15,False,57.39,64.27,60.83,True,True,True,ARIMA+Prophet
+Escherichia coli,Argentina,2027,46.15,False,57.39,66.29,61.84,True,True,True,ARIMA+Prophet
+Escherichia coli,Argentina,2028,46.15,False,57.39,68.31,62.85,True,True,True,ARIMA+Prophet
+Escherichia coli,Argentina,2029,46.15,False,57.39,70.34,63.86,True,True,True,ARIMA+Prophet
+Escherichia coli,Argentina,2030,46.15,False,57.39,72.36,64.88,True,True,True,ARIMA+Prophet
+Escherichia coli,Australia,2028,18.18,False,24.68,50.86,37.77,False,True,False,Prophet
+Escherichia coli,Australia,2029,18.18,False,24.68,52.88,38.78,False,True,False,Prophet
+Escherichia coli,Australia,2030,18.18,False,24.68,54.9,39.79,False,True,False,Prophet
+Escherichia coli,Belgium,2025,62.5,True,63.29,56.37,59.83,True,True,True,ARIMA+Prophet
+Escherichia coli,Belgium,2026,62.5,True,62.36,58.67,60.52,True,True,True,ARIMA+Prophet
+Escherichia coli,Belgium,2027,62.5,True,62.03,60.98,61.5,True,True,True,ARIMA+Prophet
+Escherichia coli,Belgium,2028,62.5,True,62.77,63.28,63.03,True,True,True,ARIMA+Prophet
+Escherichia coli,Belgium,2029,62.5,True,62.83,65.59,64.21,True,True,True,ARIMA+Prophet
+Escherichia coli,Belgium,2030,62.5,True,62.28,67.89,65.09,True,True,True,ARIMA+Prophet
+Escherichia coli,Brazil,2025,47.73,False,48.74,69.18,58.96,False,True,False,Prophet
+Escherichia coli,Brazil,2026,47.73,False,58.78,71.67,65.22,True,True,True,ARIMA+Prophet
+Escherichia coli,Brazil,2027,47.73,False,59.42,74.16,66.79,True,True,True,ARIMA+Prophet
+Escherichia coli,Brazil,2028,47.73,False,60.07,76.64,68.36,True,True,True,ARIMA+Prophet
+Escherichia coli,Brazil,2029,47.73,False,60.73,79.14,69.94,True,True,True,ARIMA+Prophet
+Escherichia coli,Brazil,2030,47.73,False,61.39,81.62,71.5,True,True,True,ARIMA+Prophet
+Escherichia coli,Canada,2029,30.43,False,51.66,46.72,49.19,True,False,False,ARIMA
+Escherichia coli,Canada,2030,30.43,False,54.87,48.46,51.66,True,False,False,ARIMA
+Escherichia coli,China,2025,79.78,True,82.96,86.5,84.73,True,True,True,ARIMA+Prophet
+Escherichia coli,China,2026,79.78,True,83.87,87.99,85.93,True,True,True,ARIMA+Prophet
+Escherichia coli,China,2027,79.78,True,84.46,89.47,86.96,True,True,True,ARIMA+Prophet
+Escherichia coli,China,2028,79.78,True,85.06,90.95,88.0,True,True,True,ARIMA+Prophet
+Escherichia coli,China,2029,79.78,True,85.66,92.44,89.05,True,True,True,ARIMA+Prophet
+Escherichia coli,China,2030,79.78,True,86.26,93.92,90.09,True,True,True,ARIMA+Prophet
+Escherichia coli,Colombia,2025,68.75,True,82.73,86.16,84.44,True,True,True,ARIMA+Prophet
+Escherichia coli,Colombia,2026,68.75,True,90.93,90.09,90.51,True,True,True,ARIMA+Prophet
+Escherichia coli,Colombia,2027,68.75,True,96.65,94.01,95.33,True,True,True,ARIMA+Prophet
+Escherichia coli,Colombia,2028,68.75,True,100.0,97.93,98.96,True,True,True,ARIMA+Prophet
+Escherichia coli,Colombia,2029,68.75,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Escherichia coli,Colombia,2030,68.75,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Escherichia coli,Croatia,2025,53.97,True,68.38,50.32,59.35,True,True,True,ARIMA+Prophet
+Escherichia coli,Croatia,2026,53.97,True,67.82,52.0,59.91,True,True,True,ARIMA+Prophet
+Escherichia coli,Croatia,2027,53.97,True,73.66,53.68,63.67,True,True,True,ARIMA+Prophet
+Escherichia coli,Croatia,2028,53.97,True,80.01,55.36,67.68,True,True,True,ARIMA+Prophet
+Escherichia coli,Croatia,2029,53.97,True,86.9,57.04,71.97,True,True,True,ARIMA+Prophet
+Escherichia coli,Croatia,2030,53.97,True,94.39,58.72,76.56,True,True,True,ARIMA+Prophet
+Escherichia coli,France,2026,46.67,False,44.26,50.3,47.28,False,True,False,Prophet
+Escherichia coli,France,2027,46.67,False,44.26,52.5,48.38,False,True,False,Prophet
+Escherichia coli,France,2028,46.67,False,44.26,54.69,49.47,False,True,False,Prophet
+Escherichia coli,France,2029,46.67,False,44.26,56.89,50.58,False,True,False,Prophet
+Escherichia coli,France,2030,46.67,False,44.26,59.08,51.67,False,True,False,Prophet
+Escherichia coli,Greece,2025,80.0,True,91.13,59.68,75.4,True,True,True,ARIMA+Prophet
+Escherichia coli,Greece,2026,80.0,True,89.51,62.71,76.11,True,True,True,ARIMA+Prophet
+Escherichia coli,Greece,2027,80.0,True,90.68,65.74,78.21,True,True,True,ARIMA+Prophet
+Escherichia coli,Greece,2028,80.0,True,89.84,68.77,79.31,True,True,True,ARIMA+Prophet
+Escherichia coli,Greece,2029,80.0,True,90.45,71.81,81.13,True,True,True,ARIMA+Prophet
+Escherichia coli,Greece,2030,80.0,True,90.01,74.84,82.43,True,True,True,ARIMA+Prophet
+Escherichia coli,India,2025,89.13,True,85.7,87.64,86.67,True,True,True,ARIMA+Prophet
+Escherichia coli,India,2026,89.13,True,87.25,88.04,87.65,True,True,True,ARIMA+Prophet
+Escherichia coli,India,2027,89.13,True,89.51,88.43,88.97,True,True,True,ARIMA+Prophet
+Escherichia coli,India,2028,89.13,True,89.21,88.83,89.02,True,True,True,ARIMA+Prophet
+Escherichia coli,India,2029,89.13,True,87.9,89.23,88.56,True,True,True,ARIMA+Prophet
+Escherichia coli,India,2030,89.13,True,87.74,89.63,88.68,True,True,True,ARIMA+Prophet
+Escherichia coli,Ireland,2025,40.0,False,47.55,51.05,49.3,False,True,False,Prophet
+Escherichia coli,Ireland,2026,40.0,False,36.83,53.23,45.03,False,True,False,Prophet
+Escherichia coli,Ireland,2027,40.0,False,36.83,55.41,46.12,False,True,False,Prophet
+Escherichia coli,Ireland,2028,40.0,False,36.83,57.59,47.21,False,True,False,Prophet
+Escherichia coli,Ireland,2029,40.0,False,36.83,59.77,48.3,False,True,False,Prophet
+Escherichia coli,Ireland,2030,40.0,False,36.83,61.95,49.39,False,True,False,Prophet
+Escherichia coli,Israel,2025,75.0,True,58.7,58.66,58.68,True,True,True,ARIMA+Prophet
+Escherichia coli,Israel,2026,75.0,True,64.04,59.53,61.78,True,True,True,ARIMA+Prophet
+Escherichia coli,Israel,2027,75.0,True,64.04,60.41,62.22,True,True,True,ARIMA+Prophet
+Escherichia coli,Israel,2028,75.0,True,64.04,61.28,62.66,True,True,True,ARIMA+Prophet
+Escherichia coli,Israel,2029,75.0,True,64.04,62.16,63.1,True,True,True,ARIMA+Prophet
+Escherichia coli,Israel,2030,75.0,True,64.04,63.04,63.54,True,True,True,ARIMA+Prophet
+Escherichia coli,Italy,2025,55.1,True,49.05,53.93,51.49,False,True,False,Prophet
+Escherichia coli,Italy,2026,55.1,True,48.01,54.67,51.34,False,True,False,Prophet
+Escherichia coli,Italy,2027,55.1,True,48.01,55.42,51.72,False,True,False,Prophet
+Escherichia coli,Italy,2028,55.1,True,48.01,56.17,52.09,False,True,False,Prophet
+Escherichia coli,Italy,2029,55.1,True,48.01,56.92,52.46,False,True,False,Prophet
+Escherichia coli,Italy,2030,55.1,True,48.01,57.67,52.84,False,True,False,Prophet
+Escherichia coli,"Korea, South",2025,70.37,True,63.06,74.72,68.89,True,True,True,ARIMA+Prophet
+Escherichia coli,"Korea, South",2026,70.37,True,63.68,77.45,70.56,True,True,True,ARIMA+Prophet
+Escherichia coli,"Korea, South",2027,70.37,True,64.09,80.18,72.14,True,True,True,ARIMA+Prophet
+Escherichia coli,"Korea, South",2028,70.37,True,64.35,82.92,73.63,True,True,True,ARIMA+Prophet
+Escherichia coli,"Korea, South",2029,70.37,True,64.53,85.65,75.09,True,True,True,ARIMA+Prophet
+Escherichia coli,"Korea, South",2030,70.37,True,64.65,88.39,76.52,True,True,True,ARIMA+Prophet
+Escherichia coli,Lithuania,2026,25.93,False,28.98,50.65,39.82,False,True,False,Prophet
+Escherichia coli,Lithuania,2027,25.93,False,27.0,53.01,40.0,False,True,False,Prophet
+Escherichia coli,Lithuania,2028,25.93,False,25.14,55.38,40.26,False,True,False,Prophet
+Escherichia coli,Lithuania,2029,25.93,False,23.42,57.75,40.58,False,True,False,Prophet
+Escherichia coli,Lithuania,2030,25.93,False,21.81,60.12,40.96,False,True,False,Prophet
+Escherichia coli,Mexico,2025,82.14,True,91.63,94.72,93.18,True,True,True,ARIMA+Prophet
+Escherichia coli,Mexico,2026,82.14,True,97.77,97.55,97.66,True,True,True,ARIMA+Prophet
+Escherichia coli,Mexico,2027,82.14,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Escherichia coli,Mexico,2028,82.14,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Escherichia coli,Mexico,2029,82.14,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Escherichia coli,Mexico,2030,82.14,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Escherichia coli,Netherlands,2028,28.57,False,46.74,51.62,49.18,False,True,False,Prophet
+Escherichia coli,Netherlands,2029,28.57,False,49.0,53.99,51.5,False,True,False,Prophet
+Escherichia coli,Netherlands,2030,28.57,False,51.37,56.35,53.86,True,True,True,ARIMA+Prophet
+Escherichia coli,Poland,2026,61.54,True,44.75,50.06,47.4,False,True,False,Prophet
+Escherichia coli,Poland,2027,61.54,True,44.66,51.01,47.83,False,True,False,Prophet
+Escherichia coli,Poland,2028,61.54,True,44.57,51.96,48.26,False,True,False,Prophet
+Escherichia coli,Poland,2029,61.54,True,44.49,52.91,48.7,False,True,False,Prophet
+Escherichia coli,Poland,2030,61.54,True,44.4,53.86,49.13,False,True,False,Prophet
+Escherichia coli,Portugal,2028,39.02,False,51.61,44.68,48.14,True,False,False,ARIMA
+Escherichia coli,Portugal,2029,39.02,False,53.96,45.74,49.85,True,False,False,ARIMA
+Escherichia coli,Portugal,2030,39.02,False,56.43,46.8,51.61,True,False,False,ARIMA
+Escherichia coli,Spain,2027,29.82,False,38.13,50.58,44.36,False,True,False,Prophet
+Escherichia coli,Spain,2028,29.82,False,38.13,52.02,45.08,False,True,False,Prophet
+Escherichia coli,Spain,2029,29.82,False,38.13,53.45,45.79,False,True,False,Prophet
+Escherichia coli,Spain,2030,29.82,False,38.13,54.89,46.51,False,True,False,Prophet
+Escherichia coli,Sweden,2025,21.05,False,77.4,35.16,56.28,True,False,False,ARIMA
+Escherichia coli,Sweden,2028,21.05,False,100.0,40.69,70.34,True,False,False,ARIMA
+Escherichia coli,Switzerland,2027,37.5,False,36.3,50.64,43.47,False,True,False,Prophet
+Escherichia coli,Switzerland,2028,37.5,False,36.3,52.77,44.54,False,True,False,Prophet
+Escherichia coli,Switzerland,2029,37.5,False,36.3,54.91,45.6,False,True,False,Prophet
+Escherichia coli,Switzerland,2030,37.5,False,36.3,57.03,46.66,False,True,False,Prophet
+Escherichia coli,Taiwan,2025,65.62,True,65.39,69.96,67.68,True,True,True,ARIMA+Prophet
+Escherichia coli,Taiwan,2026,65.62,True,65.24,72.29,68.76,True,True,True,ARIMA+Prophet
+Escherichia coli,Taiwan,2027,65.62,True,65.24,74.62,69.93,True,True,True,ARIMA+Prophet
+Escherichia coli,Taiwan,2028,65.62,True,65.24,76.95,71.1,True,True,True,ARIMA+Prophet
+Escherichia coli,Taiwan,2029,65.62,True,65.24,79.29,72.26,True,True,True,ARIMA+Prophet
+Escherichia coli,Taiwan,2030,65.62,True,65.24,81.63,73.44,True,True,True,ARIMA+Prophet
+Escherichia coli,Thailand,2025,68.75,True,69.97,78.89,74.43,True,True,True,ARIMA+Prophet
+Escherichia coli,Thailand,2026,68.75,True,65.21,79.61,72.41,True,True,True,ARIMA+Prophet
+Escherichia coli,Thailand,2027,68.75,True,62.68,80.32,71.5,True,True,True,ARIMA+Prophet
+Escherichia coli,Thailand,2028,68.75,True,60.26,81.04,70.65,True,True,True,ARIMA+Prophet
+Escherichia coli,Thailand,2029,68.75,True,57.93,81.76,69.84,True,True,True,ARIMA+Prophet
+Escherichia coli,Thailand,2030,68.75,True,55.68,82.48,69.08,True,True,True,ARIMA+Prophet
+Escherichia coli,Turkey,2025,85.0,True,89.49,81.45,85.47,True,True,True,ARIMA+Prophet
+Escherichia coli,Turkey,2026,85.0,True,93.46,83.64,88.55,True,True,True,ARIMA+Prophet
+Escherichia coli,Turkey,2027,85.0,True,97.02,85.83,91.42,True,True,True,ARIMA+Prophet
+Escherichia coli,Turkey,2028,85.0,True,100.0,88.02,94.01,True,True,True,ARIMA+Prophet
+Escherichia coli,Turkey,2029,85.0,True,100.0,90.22,95.11,True,True,True,ARIMA+Prophet
+Escherichia coli,Turkey,2030,85.0,True,100.0,92.41,96.2,True,True,True,ARIMA+Prophet
+Escherichia coli,United States,2026,49.65,False,52.94,51.88,52.41,True,True,True,ARIMA+Prophet
+Escherichia coli,United States,2027,49.65,False,33.79,54.04,43.92,False,True,False,Prophet
+Escherichia coli,United States,2028,49.65,False,56.56,56.21,56.39,True,True,True,ARIMA+Prophet
+Escherichia coli,United States,2029,49.65,False,29.48,58.38,43.93,False,True,False,Prophet
+Escherichia coli,United States,2030,49.65,False,61.68,60.55,61.11,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Argentina,2025,77.78,True,73.27,81.23,77.25,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Argentina,2026,77.78,True,73.27,83.19,78.23,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Argentina,2027,77.78,True,73.27,85.15,79.21,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Argentina,2028,77.78,True,73.27,87.11,80.19,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Argentina,2029,77.78,True,73.27,89.08,81.18,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Argentina,2030,77.78,True,73.27,91.04,82.16,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Belgium,2025,59.38,True,36.62,52.19,44.4,False,True,False,Prophet
+Klebsiella pneumoniae,Belgium,2026,59.38,True,61.29,54.01,57.65,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Belgium,2027,59.38,True,35.08,55.84,45.46,False,True,False,Prophet
+Klebsiella pneumoniae,Belgium,2028,59.38,True,62.92,57.66,60.29,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Belgium,2029,59.38,True,33.35,59.48,46.42,False,True,False,Prophet
+Klebsiella pneumoniae,Belgium,2030,59.38,True,64.77,61.31,63.04,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Brazil,2025,65.62,True,47.56,78.08,62.82,False,True,False,Prophet
+Klebsiella pneumoniae,Brazil,2026,65.62,True,46.34,79.13,62.74,False,True,False,Prophet
+Klebsiella pneumoniae,Brazil,2027,65.62,True,46.34,80.18,63.26,False,True,False,Prophet
+Klebsiella pneumoniae,Brazil,2028,65.62,True,46.34,81.22,63.78,False,True,False,Prophet
+Klebsiella pneumoniae,Brazil,2029,65.62,True,46.34,82.27,64.31,False,True,False,Prophet
+Klebsiella pneumoniae,Brazil,2030,65.62,True,46.34,83.32,64.83,False,True,False,Prophet
+Klebsiella pneumoniae,Chile,2025,78.57,True,84.46,86.89,85.68,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Chile,2026,78.57,True,93.91,88.66,91.28,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Chile,2027,78.57,True,97.19,90.44,93.82,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Chile,2028,78.57,True,100.0,92.21,96.1,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Chile,2029,78.57,True,100.0,93.99,97.0,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Chile,2030,78.57,True,100.0,95.76,97.88,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,China,2025,47.06,False,36.24,60.48,48.36,False,True,False,Prophet
+Klebsiella pneumoniae,China,2026,47.06,False,28.16,60.87,44.52,False,True,False,Prophet
+Klebsiella pneumoniae,China,2027,47.06,False,20.91,61.26,41.08,False,True,False,Prophet
+Klebsiella pneumoniae,China,2028,47.06,False,14.63,61.66,38.14,False,True,False,Prophet
+Klebsiella pneumoniae,China,2029,47.06,False,9.41,62.05,35.73,False,True,False,Prophet
+Klebsiella pneumoniae,China,2030,47.06,False,5.21,62.45,33.83,False,True,False,Prophet
+Klebsiella pneumoniae,Colombia,2025,59.09,True,64.51,71.09,67.8,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Colombia,2026,59.09,True,63.51,73.28,68.4,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Colombia,2027,59.09,True,63.51,75.46,69.48,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Colombia,2028,59.09,True,63.51,77.65,70.58,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Colombia,2029,59.09,True,63.51,79.85,71.68,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Colombia,2030,59.09,True,63.51,82.03,72.77,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Croatia,2025,80.7,True,75.37,85.49,80.43,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Croatia,2026,80.7,True,75.73,87.23,81.48,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Croatia,2027,80.7,True,77.28,88.97,83.12,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Croatia,2028,80.7,True,76.31,90.71,83.51,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Croatia,2029,80.7,True,76.34,92.46,84.4,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Croatia,2030,80.7,True,76.64,94.2,85.42,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Czech Republic,2025,52.63,True,71.04,63.72,67.38,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Czech Republic,2026,52.63,True,48.82,63.73,56.28,False,True,False,Prophet
+Klebsiella pneumoniae,Czech Republic,2027,52.63,True,68.66,63.73,66.19,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Czech Republic,2028,52.63,True,45.8,63.74,54.77,False,True,False,Prophet
+Klebsiella pneumoniae,Czech Republic,2029,52.63,True,66.41,63.74,65.08,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Czech Republic,2030,52.63,True,42.88,63.75,53.32,False,True,False,Prophet
+Klebsiella pneumoniae,France,2025,46.67,False,48.7,54.82,51.76,False,True,False,Prophet
+Klebsiella pneumoniae,France,2026,46.67,False,52.51,56.96,54.74,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,France,2027,46.67,False,50.6,59.09,54.84,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,France,2028,46.67,False,47.36,61.22,54.29,False,True,False,Prophet
+Klebsiella pneumoniae,France,2029,46.67,False,49.13,63.36,56.24,False,True,False,Prophet
+Klebsiella pneumoniae,France,2030,46.67,False,51.89,65.5,58.7,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Greece,2025,100.0,True,98.94,88.76,93.85,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Greece,2026,100.0,True,100.0,89.94,94.97,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Greece,2027,100.0,True,100.0,91.11,95.56,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Greece,2028,100.0,True,100.0,92.29,96.15,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Greece,2029,100.0,True,100.0,93.47,96.74,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Greece,2030,100.0,True,100.0,94.65,97.32,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Hungary,2025,38.71,False,24.92,50.31,37.62,False,True,False,Prophet
+Klebsiella pneumoniae,India,2025,79.63,True,73.27,80.17,76.72,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,India,2026,79.63,True,91.67,80.08,85.88,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,India,2027,79.63,True,68.54,79.98,74.26,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,India,2028,79.63,True,86.31,79.88,83.1,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,India,2029,79.63,True,82.44,79.78,81.11,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,India,2030,79.63,True,69.45,79.69,74.57,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Israel,2025,61.54,True,68.11,62.14,65.12,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Israel,2026,61.54,True,65.38,62.41,63.9,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Israel,2027,61.54,True,66.26,62.68,64.47,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Israel,2028,61.54,True,67.15,62.96,65.06,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Israel,2029,61.54,True,68.05,63.23,65.64,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Israel,2030,61.54,True,68.97,63.5,66.24,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Italy,2025,80.49,True,68.58,81.31,74.94,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Italy,2026,80.49,True,69.02,83.66,76.34,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Italy,2027,80.49,True,69.38,86.01,77.69,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Italy,2028,80.49,True,69.66,88.36,79.01,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Italy,2029,80.49,True,69.89,90.72,80.31,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Italy,2030,80.49,True,70.08,93.07,81.57,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,"Korea, South",2025,36.36,False,70.45,43.89,57.17,True,False,False,ARIMA
+Klebsiella pneumoniae,"Korea, South",2026,36.36,False,56.46,44.82,50.64,True,False,False,ARIMA
+Klebsiella pneumoniae,"Korea, South",2027,36.36,False,77.67,45.76,61.72,True,False,False,ARIMA
+Klebsiella pneumoniae,"Korea, South",2028,36.36,False,75.09,46.69,60.89,True,False,False,ARIMA
+Klebsiella pneumoniae,"Korea, South",2029,36.36,False,90.72,47.63,69.18,True,False,False,ARIMA
+Klebsiella pneumoniae,"Korea, South",2030,36.36,False,94.89,48.57,71.73,True,False,False,ARIMA
+Klebsiella pneumoniae,Mexico,2025,80.0,True,72.92,89.85,81.38,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Mexico,2026,80.0,True,74.42,92.93,83.68,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Mexico,2027,80.0,True,74.42,96.0,85.21,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Mexico,2028,80.0,True,74.42,99.08,86.75,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Mexico,2029,80.0,True,74.42,100.0,87.21,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Mexico,2030,80.0,True,74.42,100.0,87.21,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Poland,2025,81.25,True,73.75,83.21,78.48,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Poland,2026,81.25,True,80.44,83.94,82.19,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Poland,2027,81.25,True,86.87,84.67,85.77,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Poland,2028,81.25,True,75.52,85.41,80.46,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Poland,2029,81.25,True,79.94,86.14,83.04,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Poland,2030,81.25,True,85.79,86.87,86.33,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Portugal,2025,72.73,True,67.97,65.2,66.59,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Portugal,2026,72.73,True,64.93,66.7,65.82,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Portugal,2027,72.73,True,64.93,68.19,66.56,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Portugal,2028,72.73,True,64.93,69.69,67.31,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Portugal,2029,72.73,True,64.93,71.19,68.06,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Portugal,2030,72.73,True,64.93,72.69,68.81,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Romania,2025,54.84,True,66.43,60.38,63.4,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Romania,2026,54.84,True,65.35,58.97,62.16,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Romania,2027,54.84,True,65.15,57.56,61.36,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Romania,2028,54.84,True,64.96,56.15,60.55,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Romania,2029,54.84,True,64.76,54.73,59.74,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Romania,2030,54.84,True,64.57,53.32,58.94,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Spain,2026,47.54,False,50.44,50.73,50.58,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Spain,2027,47.54,False,47.43,52.14,49.78,False,True,False,Prophet
+Klebsiella pneumoniae,Spain,2028,47.54,False,49.8,53.56,51.68,False,True,False,Prophet
+Klebsiella pneumoniae,Spain,2029,47.54,False,49.13,54.97,52.05,False,True,False,Prophet
+Klebsiella pneumoniae,Spain,2030,47.54,False,48.18,56.38,52.28,False,True,False,Prophet
+Klebsiella pneumoniae,Taiwan,2025,37.5,False,59.38,56.67,58.03,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Taiwan,2026,37.5,False,58.45,58.33,58.39,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Taiwan,2027,37.5,False,57.93,59.98,58.96,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Taiwan,2028,37.5,False,57.64,61.63,59.64,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Taiwan,2029,37.5,False,57.47,63.29,60.38,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Taiwan,2030,37.5,False,57.38,64.95,61.17,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Turkey,2025,64.29,True,74.15,96.38,85.26,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Turkey,2026,64.29,True,67.78,100.0,83.89,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Turkey,2027,64.29,True,64.56,100.0,82.28,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Turkey,2028,64.29,True,61.49,100.0,80.74,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Turkey,2029,64.29,True,58.57,100.0,79.28,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,Turkey,2030,64.29,True,55.78,100.0,77.89,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,United Kingdom,2025,46.15,False,50.5,51.67,51.08,True,True,True,ARIMA+Prophet
+Klebsiella pneumoniae,United Kingdom,2026,46.15,False,49.35,54.15,51.75,False,True,False,Prophet
+Klebsiella pneumoniae,United Kingdom,2027,46.15,False,49.35,56.64,53.0,False,True,False,Prophet
+Klebsiella pneumoniae,United Kingdom,2028,46.15,False,49.35,59.12,54.24,False,True,False,Prophet
+Klebsiella pneumoniae,United Kingdom,2029,46.15,False,49.35,61.6,55.48,False,True,False,Prophet
+Klebsiella pneumoniae,United Kingdom,2030,46.15,False,49.35,64.09,56.72,False,True,False,Prophet
+Pseudomonas aeruginosa,Brazil,2025,25.0,False,71.07,31.06,51.06,True,False,False,ARIMA
+Pseudomonas aeruginosa,Brazil,2027,25.0,False,73.17,30.74,51.96,True,False,False,ARIMA
+Pseudomonas aeruginosa,Brazil,2029,25.0,False,75.55,30.41,52.98,True,False,False,ARIMA
+Pseudomonas aeruginosa,Colombia,2025,27.78,False,54.47,40.19,47.33,True,False,False,ARIMA
+Pseudomonas aeruginosa,Colombia,2028,27.78,False,58.47,42.5,50.48,True,False,False,ARIMA
+Pseudomonas aeruginosa,India,2025,52.94,True,48.49,56.91,52.7,False,True,False,Prophet
+Pseudomonas aeruginosa,India,2026,52.94,True,63.36,58.5,60.93,True,True,True,ARIMA+Prophet
+Pseudomonas aeruginosa,India,2027,52.94,True,49.6,60.09,54.84,False,True,False,Prophet
+Pseudomonas aeruginosa,India,2028,52.94,True,62.33,61.68,62.0,True,True,True,ARIMA+Prophet
+Pseudomonas aeruginosa,India,2029,52.94,True,50.56,63.27,56.92,True,True,True,ARIMA+Prophet
+Pseudomonas aeruginosa,India,2030,52.94,True,61.45,64.87,63.16,True,True,True,ARIMA+Prophet
+Pseudomonas aeruginosa,Mexico,2026,53.33,True,50.07,38.84,44.46,True,False,False,ARIMA
+Pseudomonas aeruginosa,Mexico,2027,53.33,True,50.01,39.34,44.68,True,False,False,ARIMA
+Pseudomonas aeruginosa,Taiwan,2027,8.33,False,64.7,27.12,45.91,True,False,False,ARIMA
+Pseudomonas aeruginosa,Taiwan,2029,8.33,False,93.83,27.4,60.61,True,False,False,ARIMA
+Serratia marcescens,France,2025,80.0,True,63.79,61.79,62.79,True,True,True,ARIMA+Prophet
+Serratia marcescens,France,2026,80.0,True,63.79,64.9,64.34,True,True,True,ARIMA+Prophet
+Serratia marcescens,France,2027,80.0,True,63.79,68.01,65.9,True,True,True,ARIMA+Prophet
+Serratia marcescens,France,2028,80.0,True,63.79,71.13,67.46,True,True,True,ARIMA+Prophet
+Serratia marcescens,France,2029,80.0,True,63.79,74.25,69.02,True,True,True,ARIMA+Prophet
+Serratia marcescens,France,2030,80.0,True,63.79,77.36,70.58,True,True,True,ARIMA+Prophet
+Serratia marcescens,Italy,2025,50.0,False,25.45,53.05,39.25,False,True,False,Prophet
+Serratia marcescens,Italy,2026,50.0,False,25.45,55.49,40.47,False,True,False,Prophet
+Serratia marcescens,Italy,2027,50.0,False,25.45,57.93,41.69,False,True,False,Prophet
+Serratia marcescens,Italy,2028,50.0,False,25.45,60.37,42.91,False,True,False,Prophet
+Serratia marcescens,Italy,2029,50.0,False,25.45,62.81,44.13,False,True,False,Prophet
+Serratia marcescens,Italy,2030,50.0,False,25.45,65.25,45.35,False,True,False,Prophet
+Serratia marcescens,United States,2026,40.0,False,51.85,42.89,47.37,True,False,False,ARIMA
+Serratia marcescens,United States,2027,40.0,False,56.37,44.41,50.39,True,False,False,ARIMA
+Serratia marcescens,United States,2028,40.0,False,61.27,45.92,53.6,True,False,False,ARIMA
+Serratia marcescens,United States,2029,40.0,False,66.61,47.44,57.02,True,False,False,ARIMA
+Serratia marcescens,United States,2030,40.0,False,72.4,48.96,60.68,True,False,False,ARIMA
+Staphylococcus aureus,"Korea, South",2025,64.29,True,71.87,44.89,58.38,True,False,False,ARIMA
+Staphylococcus aureus,"Korea, South",2026,64.29,True,91.72,47.23,69.47,True,False,False,ARIMA
+Staphylococcus aureus,"Korea, South",2027,64.29,True,91.72,49.57,70.64,True,False,False,ARIMA
+Staphylococcus aureus,"Korea, South",2028,64.29,True,91.72,51.91,71.82,True,True,True,ARIMA+Prophet
+Staphylococcus aureus,"Korea, South",2029,64.29,True,91.72,54.25,72.98,True,True,True,ARIMA+Prophet
+Staphylococcus aureus,"Korea, South",2030,64.29,True,91.72,56.59,74.16,True,True,True,ARIMA+Prophet
+Staphylococcus aureus,Mexico,2025,65.0,True,37.47,54.39,45.93,False,True,False,Prophet
+Staphylococcus aureus,Mexico,2026,65.0,True,37.47,57.4,47.44,False,True,False,Prophet
+Staphylococcus aureus,Mexico,2027,65.0,True,37.47,60.4,48.94,False,True,False,Prophet
+Staphylococcus aureus,Mexico,2028,65.0,True,37.47,63.41,50.44,False,True,False,Prophet
+Staphylococcus aureus,Mexico,2029,65.0,True,37.47,66.42,51.94,False,True,False,Prophet
+Staphylococcus aureus,Mexico,2030,65.0,True,37.47,69.43,53.45,False,True,False,Prophet
+Staphylococcus aureus,Taiwan,2025,31.03,False,26.43,51.72,39.08,False,True,False,Prophet
+Staphylococcus aureus,Taiwan,2026,31.03,False,22.9,54.34,38.62,False,True,False,Prophet
+Staphylococcus aureus,Taiwan,2027,31.03,False,22.9,56.97,39.94,False,True,False,Prophet
+Staphylococcus aureus,Taiwan,2028,31.03,False,22.9,59.59,41.24,False,True,False,Prophet
+Staphylococcus aureus,Taiwan,2029,31.03,False,22.9,62.22,42.56,False,True,False,Prophet
+Staphylococcus aureus,Taiwan,2030,31.03,False,22.9,64.85,43.88,False,True,False,Prophet
+Staphylococcus epidermidis,Belgium,2025,77.78,True,65.84,93.44,79.64,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Belgium,2026,77.78,True,70.38,98.36,84.37,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Belgium,2027,77.78,True,70.38,100.0,85.19,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Belgium,2028,77.78,True,70.38,100.0,85.19,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Belgium,2029,77.78,True,70.38,100.0,85.19,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Belgium,2030,77.78,True,70.38,100.0,85.19,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,France,2025,61.11,True,79.26,83.24,81.25,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,France,2026,61.11,True,85.19,89.35,87.27,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,France,2027,61.11,True,92.46,95.46,93.96,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,France,2028,61.11,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,France,2029,61.11,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,France,2030,61.11,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Germany,2025,52.94,True,66.84,59.54,63.19,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Germany,2026,52.94,True,53.6,63.2,58.4,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Germany,2027,52.94,True,66.3,66.85,66.57,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Germany,2028,52.94,True,54.12,70.51,62.32,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Germany,2029,52.94,True,65.81,74.18,70.0,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Germany,2030,52.94,True,54.59,77.84,66.22,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Italy,2025,62.5,True,65.05,85.72,75.38,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Italy,2026,62.5,True,63.57,92.33,77.95,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Italy,2027,62.5,True,63.57,98.94,81.26,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Italy,2028,62.5,True,63.57,100.0,81.78,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Italy,2029,62.5,True,63.57,100.0,81.78,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Italy,2030,62.5,True,63.57,100.0,81.78,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Spain,2025,75.0,True,82.64,89.37,86.0,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Spain,2026,75.0,True,86.16,95.33,90.74,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Spain,2027,75.0,True,91.79,100.0,95.9,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Spain,2028,75.0,True,97.78,100.0,98.89,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Spain,2029,75.0,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,Spain,2030,75.0,True,100.0,100.0,100.0,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,United States,2025,65.31,True,61.89,50.77,56.33,True,True,True,ARIMA+Prophet
+Staphylococcus epidermidis,United States,2026,65.31,True,59.7,48.79,54.24,True,False,False,ARIMA
+Staphylococcus epidermidis,United States,2027,65.31,True,59.7,46.82,53.26,True,False,False,ARIMA
+Staphylococcus epidermidis,United States,2028,65.31,True,59.7,44.84,52.27,True,False,False,ARIMA
+Staphylococcus epidermidis,United States,2029,65.31,True,59.7,42.86,51.28,True,False,False,ARIMA
+Staphylococcus epidermidis,United States,2030,65.31,True,59.7,40.89,50.3,True,False,False,ARIMA
+Streptococcus pneumoniae,Australia,2028,6.67,False,78.31,6.24,42.28,True,False,False,ARIMA
+Streptococcus pneumoniae,Australia,2030,6.67,False,100.0,6.45,53.22,True,False,False,ARIMA

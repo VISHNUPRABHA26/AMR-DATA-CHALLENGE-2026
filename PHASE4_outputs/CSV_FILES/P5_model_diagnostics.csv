@@ -1,0 +1,150 @@
+Organism,Country,N_Valid_Years,Year_Min,Year_Max,MDR_Rate_Mean_%,MDR_Rate_Last_%,ARIMA_p,ARIMA_d,ARIMA_q,ARIMA_AIC,ARIMA_RMSE,ARIMA_Status,Prophet_RMSE,Prophet_Status
+Klebsiella pneumoniae,Argentina,16,2004,2023,59.14,77.78,0,1,2,94.911,9.798,OK,9.258,OK
+Klebsiella pneumoniae,Australia,13,2006,2024,13.72,0.0,0,0,2,85.374,12.859,OK,9.481,OK
+Klebsiella pneumoniae,Belgium,14,2004,2024,35.65,59.38,1,1,2,82.751,10.427,OK,10.973,OK
+Klebsiella pneumoniae,Brazil,13,2007,2024,69.37,65.62,0,1,2,72.25,8.318,OK,7.835,OK
+Klebsiella pneumoniae,Canada,19,2004,2024,15.73,24.49,0,1,2,115.848,9.02,OK,8.085,OK
+Klebsiella pneumoniae,Chile,12,2005,2024,71.5,78.57,1,0,2,82.735,29.077,OK,15.796,OK
+Klebsiella pneumoniae,China,10,2015,2024,58.3,47.06,2,0,2,65.798,33.527,OK,15.118,OK
+Klebsiella pneumoniae,Colombia,11,2008,2024,53.96,59.09,0,1,2,68.332,23.323,OK,17.08,OK
+Klebsiella pneumoniae,Croatia,13,2007,2024,70.2,80.7,2,1,2,61.387,15.766,OK,9.584,OK
+Klebsiella pneumoniae,Czech Republic,8,2017,2024,63.65,52.63,2,0,2,48.237,31.081,OK,12.374,OK
+Klebsiella pneumoniae,Denmark,13,2006,2024,18.28,27.78,1,0,2,82.953,11.043,OK,9.465,OK
+Klebsiella pneumoniae,France,20,2004,2024,32.18,46.67,2,1,2,119.335,9.778,OK,7.745,OK
+Klebsiella pneumoniae,Germany,17,2007,2024,25.95,28.57,1,0,2,122.843,13.308,OK,12.011,OK
+Klebsiella pneumoniae,Greece,9,2006,2024,78.42,100.0,1,1,2,49.073,13.118,OK,9.436,OK
+Klebsiella pneumoniae,Hungary,8,2008,2024,57.75,38.71,1,1,2,38.981,21.227,OK,13.101,OK
+Klebsiella pneumoniae,India,9,2007,2024,80.86,79.63,2,1,2,29.439,21.464,OK,6.795,OK
+Klebsiella pneumoniae,Ireland,9,2005,2020,20.4,35.71,2,1,2,45.16,11.444,OK,10.852,OK
+Klebsiella pneumoniae,Israel,12,2006,2024,59.56,61.54,1,0,2,72.491,21.171,OK,8.053,OK
+Klebsiella pneumoniae,Italy,21,2004,2024,55.57,80.49,1,1,2,141.511,20.056,OK,12.128,OK
+Klebsiella pneumoniae,"Korea, South",10,2006,2024,35.09,36.36,2,0,2,66.752,15.916,OK,13.12,OK
+Klebsiella pneumoniae,Mexico,15,2007,2024,62.73,80.0,0,1,2,98.359,14.457,OK,11.697,OK
+Klebsiella pneumoniae,Poland,8,2009,2023,78.28,81.25,2,1,2,26.671,23.689,OK,8.365,OK
+Klebsiella pneumoniae,Portugal,14,2009,2024,53.05,72.73,0,1,2,83.175,12.43,OK,11.183,OK
+Klebsiella pneumoniae,Romania,10,2008,2024,71.14,54.84,1,0,2,61.297,33.621,OK,10.887,OK
+Klebsiella pneumoniae,Spain,20,2004,2024,34.38,47.54,2,1,2,118.814,8.145,OK,8.255,OK
+Klebsiella pneumoniae,Taiwan,9,2006,2024,44.31,37.5,1,1,2,48.712,29.3,OK,15.136,OK
+Klebsiella pneumoniae,Turkey,8,2006,2024,68.42,64.29,1,0,2,42.427,28.66,OK,14.94,OK
+Klebsiella pneumoniae,United Kingdom,13,2004,2024,31.05,46.15,0,1,2,77.811,11.713,OK,10.219,OK
+Klebsiella pneumoniae,United States,21,2004,2024,21.18,36.9,0,1,2,136.486,10.722,OK,9.853,OK
+Acinetobacter baumannii,Croatia,8,2007,2024,98.27,100.0,2,1,2,5.082,21.677,OK,2.926,OK
+Acinetobacter baumannii,France,9,2007,2022,27.57,50.0,2,1,2,51.989,18.754,OK,14.242,OK
+Acinetobacter baumannii,Italy,15,2006,2023,84.71,70.0,0,1,2,85.655,11.042,OK,9.211,OK
+Acinetobacter baumannii,Spain,9,2004,2016,74.1,64.29,2,1,2,37.506,18.183,OK,5.024,OK
+Acinetobacter baumannii,United States,13,2004,2022,49.93,57.14,1,0,2,83.874,15.49,OK,10.696,OK
+Escherichia coli,Argentina,17,2004,2024,40.73,46.15,0,1,2,121.505,19.83,OK,17.334,OK
+Escherichia coli,Australia,15,2004,2024,21.59,18.18,0,1,2,99.108,15.213,OK,12.594,OK
+Escherichia coli,Belgium,19,2006,2024,33.32,62.5,2,1,2,112.626,8.399,OK,8.538,OK
+Escherichia coli,Brazil,12,2008,2024,50.52,47.73,1,0,2,77.833,13.106,OK,10.823,OK
+Escherichia coli,Canada,20,2004,2024,21.5,30.43,1,0,2,134.749,12.533,OK,9.807,OK
+Escherichia coli,Chile,12,2005,2024,43.23,47.06,1,0,2,83.621,20.521,OK,13.676,OK
+Escherichia coli,China,10,2015,2024,78.35,79.78,1,0,2,57.435,24.165,OK,7.024,OK
+Escherichia coli,Colombia,14,2008,2024,53.36,68.75,1,0,2,101.927,18.991,OK,12.973,OK
+Escherichia coli,Croatia,15,2007,2024,35.42,53.97,1,0,2,108.833,21.209,OK,15.368,OK
+Escherichia coli,Czech Republic,10,2015,2024,35.4,50.0,1,0,2,58.181,14.097,OK,8.678,OK
+Escherichia coli,Denmark,14,2006,2024,22.85,32.0,1,0,2,97.313,13.896,OK,11.525,OK
+Escherichia coli,France,21,2004,2024,23.96,46.67,0,1,2,133.778,9.997,OK,7.398,OK
+Escherichia coli,Germany,19,2006,2024,31.86,30.43,0,1,2,127.943,12.915,OK,11.428,OK
+Escherichia coli,Greece,9,2006,2024,27.0,80.0,1,1,2,48.94,15.197,OK,15.278,OK
+Escherichia coli,Hungary,11,2008,2024,41.86,55.88,0,1,2,62.416,14.596,OK,11.681,OK
+Escherichia coli,India,11,2007,2024,84.63,89.13,2,1,2,60.937,11.49,OK,12.241,OK
+Escherichia coli,Ireland,15,2005,2024,26.25,40.0,0,1,2,91.048,12.368,OK,10.641,OK
+Escherichia coli,Israel,10,2007,2024,50.51,75.0,0,1,2,52.46,10.508,OK,9.4,OK
+Escherichia coli,Italy,21,2004,2024,45.68,55.1,0,1,2,114.731,8.521,OK,6.879,OK
+Escherichia coli,"Korea, South",15,2006,2024,49.21,70.37,1,1,2,100.751,17.338,OK,12.74,OK
+Escherichia coli,Lithuania,8,2010,2024,35.56,25.93,1,0,2,46.386,18.701,OK,13.947,OK
+Escherichia coli,Mexico,16,2006,2024,68.02,82.14,1,0,2,113.195,16.181,OK,10.793,OK
+Escherichia coli,Netherlands,9,2012,2024,27.72,28.57,1,0,2,56.327,15.637,OK,10.855,OK
+Escherichia coli,Poland,12,2009,2024,41.99,61.54,1,0,2,80.612,14.836,OK,11.713,OK
+Escherichia coli,Portugal,17,2008,2024,31.99,39.02,1,0,2,116.335,16.781,OK,11.729,OK
+Escherichia coli,Romania,10,2008,2024,50.26,52.17,1,0,2,60.748,16.634,OK,9.46,OK
+Escherichia coli,Spain,20,2004,2024,32.51,29.82,0,1,2,124.556,9.326,OK,9.199,OK
+Escherichia coli,Sweden,10,2005,2024,11.89,21.05,2,1,2,56.141,8.801,OK,9.41,OK
+Escherichia coli,Switzerland,16,2004,2024,24.42,37.5,0,1,2,107.065,15.185,OK,12.05,OK
+Escherichia coli,Taiwan,11,2006,2024,51.95,65.62,0,1,2,67.796,20.225,OK,15.53,OK
+Escherichia coli,Thailand,8,2016,2024,75.56,68.75,1,0,2,42.527,24.222,OK,12.574,OK
+Escherichia coli,Turkey,8,2008,2024,65.83,85.0,1,1,2,38.785,12.161,OK,8.515,OK
+Escherichia coli,United Kingdom,16,2004,2024,31.36,46.15,2,1,2,97.575,12.051,OK,15.142,OK
+Escherichia coli,United States,21,2004,2024,25.85,49.65,1,1,2,122.952,6.775,OK,7.802,OK
+Staphylococcus aureus,Argentina,16,2004,2024,8.48,10.0,0,1,2,98.027,9.963,OK,9.507,OK
+Staphylococcus aureus,Belgium,14,2009,2024,8.28,16.67,1,0,2,88.157,8.197,OK,7.626,OK
+Staphylococcus aureus,Brazil,14,2005,2024,20.9,16.13,1,1,2,77.338,21.433,OK,17.635,OK
+Staphylococcus aureus,Canada,17,2004,2024,5.55,22.0,0,1,2,80.602,3.734,OK,4.696,OK
+Staphylococcus aureus,Chile,14,2005,2023,12.92,15.38,0,1,2,93.943,17.307,OK,15.914,OK
+Staphylococcus aureus,China,11,2014,2024,31.46,26.92,1,0,2,70.8,27.049,OK,13.861,OK
+Staphylococcus aureus,Colombia,12,2006,2024,1.58,4.35,1,0,2,44.083,1.651,OK,1.716,OK
+Staphylococcus aureus,Croatia,13,2007,2024,13.39,28.07,0,1,2,66.777,6.101,OK,7.987,OK
+Staphylococcus aureus,Czech Republic,10,2014,2024,22.53,15.0,1,0,2,51.331,18.494,OK,7.31,OK
+Staphylococcus aureus,France,21,2004,2024,3.22,1.79,0,1,2,92.487,2.804,OK,2.99,OK
+Staphylococcus aureus,Germany,19,2006,2024,6.67,6.98,1,0,2,113.125,5.825,OK,7.531,OK
+Staphylococcus aureus,Greece,11,2006,2024,22.51,45.45,0,1,2,59.172,14.841,OK,13.227,OK
+Staphylococcus aureus,Hungary,11,2008,2024,20.91,4.17,1,0,2,61.141,21.584,OK,18.671,OK
+Staphylococcus aureus,Ireland,9,2007,2020,1.17,10.53,0,1,2,35.684,3.723,OK,2.907,OK
+Staphylococcus aureus,Israel,15,2006,2023,20.82,30.77,0,1,2,107.235,22.205,OK,18.124,OK
+Staphylococcus aureus,Italy,20,2005,2024,8.43,11.54,0,1,2,109.901,5.546,OK,6.891,OK
+Staphylococcus aureus,Japan,9,2014,2023,37.28,33.33,1,0,2,48.958,21.8,OK,7.753,OK
+Staphylococcus aureus,"Korea, South",15,2006,2024,22.49,64.29,0,1,2,99.311,14.73,OK,14.071,OK
+Staphylococcus aureus,Lithuania,8,2010,2024,12.38,23.33,1,1,2,27.768,6.016,OK,4.175,OK
+Staphylococcus aureus,Mexico,14,2007,2023,26.22,65.0,0,1,2,95.442,19.231,OK,14.002,OK
+Staphylococcus aureus,Poland,12,2009,2024,11.8,6.67,1,0,2,70.941,7.771,OK,7.114,OK
+Staphylococcus aureus,Portugal,16,2008,2024,16.61,12.5,0,1,2,90.881,7.915,OK,12.422,OK
+Staphylococcus aureus,Romania,9,2008,2024,3.8,6.25,1,0,2,38.255,2.983,OK,3.233,OK
+Staphylococcus aureus,South Africa,8,2016,2024,18.18,5.56,2,0,2,35.077,30.877,OK,16.911,OK
+Staphylococcus aureus,Spain,20,2004,2024,9.69,11.76,0,1,2,112.263,6.146,OK,6.559,OK
+Staphylococcus aureus,Taiwan,13,2006,2024,29.88,31.03,0,1,2,82.157,17.573,OK,13.727,OK
+Staphylococcus aureus,Turkey,11,2006,2024,6.44,5.88,0,0,2,64.798,8.57,OK,7.285,OK
+Staphylococcus aureus,United Kingdom,14,2004,2024,7.77,2.44,0,1,2,83.828,11.911,OK,12.64,OK
+Staphylococcus aureus,United States,21,2004,2024,13.18,30.28,0,1,2,132.527,9.201,OK,7.655,OK
+Pseudomonas aeruginosa,Belgium,9,2013,2024,18.39,18.18,2,0,2,53.026,13.373,OK,14.388,OK
+Pseudomonas aeruginosa,Brazil,11,2008,2024,32.35,25.0,2,0,2,69.476,16.561,OK,9.353,OK
+Pseudomonas aeruginosa,Canada,14,2004,2024,13.17,10.0,0,1,2,77.539,8.687,OK,7.695,OK
+Pseudomonas aeruginosa,China,9,2015,2024,31.86,16.67,2,1,2,46.988,16.315,OK,17.398,OK
+Pseudomonas aeruginosa,Colombia,8,2008,2024,34.48,27.78,2,1,2,37.213,11.542,OK,9.722,OK
+Pseudomonas aeruginosa,Croatia,11,2007,2024,40.48,38.71,1,0,2,73.424,27.038,OK,16.848,OK
+Pseudomonas aeruginosa,Denmark,8,2006,2024,10.8,11.76,2,0,2,43.361,7.589,OK,6.518,OK
+Pseudomonas aeruginosa,France,19,2005,2024,22.98,28.57,1,0,2,127.553,11.369,OK,9.315,OK
+Pseudomonas aeruginosa,Germany,14,2008,2024,17.08,37.5,1,0,2,94.29,11.262,OK,9.826,OK
+Pseudomonas aeruginosa,India,8,2007,2023,44.62,52.94,1,1,2,40.75,18.351,OK,13.016,OK
+Pseudomonas aeruginosa,Italy,20,2005,2024,26.43,14.29,0,1,2,124.505,10.526,OK,9.379,OK
+Pseudomonas aeruginosa,Mexico,13,2006,2024,34.19,53.33,1,0,2,84.772,13.263,OK,10.609,OK
+Pseudomonas aeruginosa,Portugal,10,2013,2024,24.65,22.73,0,1,2,48.579,12.327,OK,7.833,OK
+Pseudomonas aeruginosa,Spain,19,2004,2024,23.11,28.12,0,1,2,120.963,10.238,OK,9.321,OK
+Pseudomonas aeruginosa,Taiwan,8,2006,2024,25.68,8.33,1,1,2,39.965,13.725,OK,11.026,OK
+Pseudomonas aeruginosa,United Kingdom,13,2004,2024,11.07,12.9,1,1,2,57.511,4.34,OK,3.874,OK
+Pseudomonas aeruginosa,United States,21,2004,2024,16.72,26.92,0,1,2,124.314,7.353,OK,6.842,OK
+Enterobacter cloacae,Canada,11,2004,2018,10.81,40.91,0,1,2,59.134,9.68,OK,9.599,OK
+Enterobacter cloacae,France,17,2004,2020,36.81,100.0,1,1,2,113.402,12.932,OK,16.397,OK
+Enterobacter cloacae,Germany,10,2007,2017,17.45,0.0,0,1,2,54.242,18.442,OK,13.605,OK
+Enterobacter cloacae,Italy,14,2005,2018,33.78,52.38,0,1,2,88.303,15.214,OK,14.544,OK
+Enterobacter cloacae,Spain,16,2004,2020,24.59,66.67,0,1,2,102.575,13.91,OK,12.894,OK
+Enterobacter cloacae,United States,18,2004,2021,25.18,36.36,1,1,2,118.392,11.473,OK,12.96,OK
+Enterococcus faecium,Canada,8,2010,2024,64.39,80.0,2,0,2,48.474,15.289,OK,9.869,OK
+Enterococcus faecium,France,11,2007,2022,44.23,80.95,1,0,2,83.923,25.206,OK,21.729,OK
+Enterococcus faecium,Germany,8,2006,2024,54.69,91.67,2,0,2,50.034,15.737,OK,9.334,OK
+Enterococcus faecium,Italy,14,2008,2024,58.52,100.0,0,1,2,98.703,23.37,OK,19.299,OK
+Enterococcus faecium,Spain,14,2008,2023,41.24,72.73,0,1,2,95.605,20.147,OK,14.738,OK
+Enterococcus faecium,United States,20,2004,2024,78.12,100.0,0,1,2,134.444,12.526,OK,10.033,OK
+Staphylococcus epidermidis,Belgium,11,2014,2024,63.88,77.78,0,1,2,58.136,18.719,OK,14.691,OK
+Staphylococcus epidermidis,France,12,2013,2024,43.48,61.11,1,0,2,91.92,22.834,OK,18.33,OK
+Staphylococcus epidermidis,Germany,10,2012,2024,32.44,52.94,1,1,2,51.696,15.469,OK,11.912,OK
+Staphylococcus epidermidis,Italy,12,2013,2024,42.69,62.5,0,1,2,73.502,15.896,OK,10.658,OK
+Staphylococcus epidermidis,Spain,13,2012,2024,47.6,75.0,1,0,2,97.483,19.492,OK,18.019,OK
+Staphylococcus epidermidis,United States,10,2014,2024,62.24,65.31,0,1,2,50.516,10.704,OK,8.349,OK
+Serratia marcescens,France,14,2007,2022,27.97,80.0,0,1,2,100.081,24.415,OK,20.078,OK
+Serratia marcescens,Italy,11,2006,2022,22.67,50.0,0,1,2,71.773,23.928,OK,16.729,OK
+Serratia marcescens,Spain,11,2004,2016,11.24,5.0,2,0,2,51.091,5.713,OK,5.827,OK
+Serratia marcescens,United States,14,2004,2020,20.16,40.0,1,0,2,105.678,18.227,OK,15.357,OK
+Streptococcus pneumoniae,Australia,9,2006,2023,5.11,6.67,1,1,2,38.975,7.477,OK,5.812,OK
+Streptococcus pneumoniae,Belgium,11,2005,2024,7.29,16.67,0,1,2,45.181,11.279,OK,6.877,OK
+Streptococcus pneumoniae,Canada,17,2004,2024,7.73,11.11,1,0,2,99.55,6.293,OK,6.433,OK
+Streptococcus pneumoniae,Croatia,8,2007,2024,16.09,5.88,1,1,2,38.568,12.176,OK,7.82,OK
+Streptococcus pneumoniae,France,20,2004,2024,23.79,21.43,0,1,2,122.079,11.599,OK,10.901,OK
+Streptococcus pneumoniae,Germany,18,2004,2024,3.19,3.45,1,0,2,81.479,3.14,OK,2.999,OK
+Streptococcus pneumoniae,Israel,11,2007,2020,12.36,6.67,2,0,2,63.416,13.838,OK,7.567,OK
+Streptococcus pneumoniae,Italy,20,2004,2024,8.07,5.88,1,0,2,119.424,7.082,OK,5.794,OK
+Streptococcus pneumoniae,Portugal,11,2010,2022,8.05,15.38,0,1,2,51.49,6.875,OK,5.612,OK
+Streptococcus pneumoniae,Spain,20,2004,2024,14.97,17.39,1,0,2,117.388,9.458,OK,5.896,OK
+Streptococcus pneumoniae,United Kingdom,10,2009,2024,0.8,0.0,0,0,2,31.117,1.795,OK,1.533,OK
+Streptococcus pneumoniae,United States,21,2004,2024,14.01,21.43,1,0,2,119.863,7.988,OK,5.211,OK
+Haemophilus influenzae,United States,13,2004,2019,0.92,0.0,0,0,2,47.021,1.909,OK,1.755,OK
