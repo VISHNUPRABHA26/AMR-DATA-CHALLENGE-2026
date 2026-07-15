@@ -1,0 +1,895 @@
+Organism,Country,Year,Prophet_Forecast_%,Prophet_CI_Lower_%,Prophet_CI_Upper_%
+Klebsiella pneumoniae,Argentina,2025.0,81.23,70.54,92.42
+Klebsiella pneumoniae,Argentina,2026.0,83.19,72.44,94.66
+Klebsiella pneumoniae,Argentina,2027.0,85.15,74.45,97.84
+Klebsiella pneumoniae,Argentina,2028.0,87.11,76.84,98.12
+Klebsiella pneumoniae,Argentina,2029.0,89.08,77.26,100.0
+Klebsiella pneumoniae,Argentina,2030.0,91.04,78.1,100.0
+Klebsiella pneumoniae,Australia,2025.0,11.95,0.22,23.81
+Klebsiella pneumoniae,Australia,2026.0,11.77,0.0,23.87
+Klebsiella pneumoniae,Australia,2027.0,11.58,0.0,24.18
+Klebsiella pneumoniae,Australia,2028.0,11.39,0.0,22.98
+Klebsiella pneumoniae,Australia,2029.0,11.21,0.0,23.04
+Klebsiella pneumoniae,Australia,2030.0,11.02,0.01,25.24
+Klebsiella pneumoniae,Belgium,2025.0,52.19,38.26,65.2
+Klebsiella pneumoniae,Belgium,2026.0,54.01,40.19,67.45
+Klebsiella pneumoniae,Belgium,2027.0,55.84,44.15,70.56
+Klebsiella pneumoniae,Belgium,2028.0,57.66,44.08,70.68
+Klebsiella pneumoniae,Belgium,2029.0,59.48,46.61,73.75
+Klebsiella pneumoniae,Belgium,2030.0,61.31,46.53,76.47
+Klebsiella pneumoniae,Brazil,2025.0,78.08,67.69,89.05
+Klebsiella pneumoniae,Brazil,2026.0,79.13,68.96,89.3
+Klebsiella pneumoniae,Brazil,2027.0,80.18,70.84,90.14
+Klebsiella pneumoniae,Brazil,2028.0,81.22,71.76,90.85
+Klebsiella pneumoniae,Brazil,2029.0,82.27,73.14,91.57
+Klebsiella pneumoniae,Brazil,2030.0,83.32,74.0,93.62
+Klebsiella pneumoniae,Canada,2025.0,26.87,17.62,37.11
+Klebsiella pneumoniae,Canada,2026.0,27.93,18.24,38.93
+Klebsiella pneumoniae,Canada,2027.0,28.99,18.06,39.38
+Klebsiella pneumoniae,Canada,2028.0,30.05,19.52,40.94
+Klebsiella pneumoniae,Canada,2029.0,31.11,21.98,41.54
+Klebsiella pneumoniae,Canada,2030.0,32.17,20.81,41.44
+Klebsiella pneumoniae,Chile,2025.0,86.89,66.91,100.0
+Klebsiella pneumoniae,Chile,2026.0,88.66,68.85,100.0
+Klebsiella pneumoniae,Chile,2027.0,90.44,71.61,100.0
+Klebsiella pneumoniae,Chile,2028.0,92.21,72.79,100.0
+Klebsiella pneumoniae,Chile,2029.0,93.99,74.6,100.0
+Klebsiella pneumoniae,Chile,2030.0,95.76,75.85,100.0
+Klebsiella pneumoniae,China,2025.0,60.48,42.56,80.54
+Klebsiella pneumoniae,China,2026.0,60.87,42.34,78.5
+Klebsiella pneumoniae,China,2027.0,61.26,40.24,78.35
+Klebsiella pneumoniae,China,2028.0,61.66,42.29,79.75
+Klebsiella pneumoniae,China,2029.0,62.05,44.36,81.02
+Klebsiella pneumoniae,China,2030.0,62.45,39.89,82.0
+Klebsiella pneumoniae,Colombia,2025.0,71.09,48.43,93.17
+Klebsiella pneumoniae,Colombia,2026.0,73.28,51.04,96.37
+Klebsiella pneumoniae,Colombia,2027.0,75.46,52.73,97.08
+Klebsiella pneumoniae,Colombia,2028.0,77.65,55.71,99.25
+Klebsiella pneumoniae,Colombia,2029.0,79.85,60.18,100.0
+Klebsiella pneumoniae,Colombia,2030.0,82.03,60.55,100.0
+Klebsiella pneumoniae,Croatia,2025.0,85.49,74.53,97.72
+Klebsiella pneumoniae,Croatia,2026.0,87.23,75.15,99.22
+Klebsiella pneumoniae,Croatia,2027.0,88.97,77.05,100.0
+Klebsiella pneumoniae,Croatia,2028.0,90.71,78.93,100.0
+Klebsiella pneumoniae,Croatia,2029.0,92.46,80.07,100.0
+Klebsiella pneumoniae,Croatia,2030.0,94.2,80.49,100.0
+Klebsiella pneumoniae,Czech Republic,2025.0,63.72,48.51,80.32
+Klebsiella pneumoniae,Czech Republic,2026.0,63.73,48.91,80.85
+Klebsiella pneumoniae,Czech Republic,2027.0,63.73,48.78,81.16
+Klebsiella pneumoniae,Czech Republic,2028.0,63.74,49.58,78.22
+Klebsiella pneumoniae,Czech Republic,2029.0,63.74,46.65,79.65
+Klebsiella pneumoniae,Czech Republic,2030.0,63.75,47.62,77.65
+Klebsiella pneumoniae,Denmark,2025.0,23.72,12.7,36.2
+Klebsiella pneumoniae,Denmark,2026.0,24.31,12.6,36.62
+Klebsiella pneumoniae,Denmark,2027.0,24.9,13.19,37.12
+Klebsiella pneumoniae,Denmark,2028.0,25.49,13.23,38.35
+Klebsiella pneumoniae,Denmark,2029.0,26.08,13.97,37.54
+Klebsiella pneumoniae,Denmark,2030.0,26.67,13.21,37.88
+Klebsiella pneumoniae,France,2025.0,54.82,45.33,64.2
+Klebsiella pneumoniae,France,2026.0,56.96,47.01,66.91
+Klebsiella pneumoniae,France,2027.0,59.09,49.75,68.35
+Klebsiella pneumoniae,France,2028.0,61.22,50.03,70.64
+Klebsiella pneumoniae,France,2029.0,63.36,52.96,74.63
+Klebsiella pneumoniae,France,2030.0,65.5,54.97,75.01
+Klebsiella pneumoniae,Germany,2025.0,39.23,23.78,54.1
+Klebsiella pneumoniae,Germany,2026.0,40.65,25.7,56.42
+Klebsiella pneumoniae,Germany,2027.0,42.07,28.23,57.82
+Klebsiella pneumoniae,Germany,2028.0,43.5,28.39,58.94
+Klebsiella pneumoniae,Germany,2029.0,44.92,28.53,58.4
+Klebsiella pneumoniae,Germany,2030.0,46.35,30.66,62.16
+Klebsiella pneumoniae,Greece,2025.0,88.76,77.13,100.0
+Klebsiella pneumoniae,Greece,2026.0,89.94,78.28,100.0
+Klebsiella pneumoniae,Greece,2027.0,91.11,78.82,100.0
+Klebsiella pneumoniae,Greece,2028.0,92.29,80.7,100.0
+Klebsiella pneumoniae,Greece,2029.0,93.47,81.36,100.0
+Klebsiella pneumoniae,Greece,2030.0,94.65,82.14,100.0
+Klebsiella pneumoniae,Hungary,2025.0,50.31,33.41,67.27
+Klebsiella pneumoniae,Hungary,2026.0,49.02,31.74,64.17
+Klebsiella pneumoniae,Hungary,2027.0,47.74,30.27,63.32
+Klebsiella pneumoniae,Hungary,2028.0,46.45,29.38,64.65
+Klebsiella pneumoniae,Hungary,2029.0,45.17,28.3,61.39
+Klebsiella pneumoniae,Hungary,2030.0,43.88,27.95,60.57
+Klebsiella pneumoniae,India,2025.0,80.17,71.93,88.69
+Klebsiella pneumoniae,India,2026.0,80.08,70.93,88.26
+Klebsiella pneumoniae,India,2027.0,79.98,71.56,88.96
+Klebsiella pneumoniae,India,2028.0,79.88,71.18,89.41
+Klebsiella pneumoniae,India,2029.0,79.78,71.79,88.45
+Klebsiella pneumoniae,India,2030.0,79.69,70.35,87.45
+Klebsiella pneumoniae,Ireland,2025.0,24.48,11.93,37.08
+Klebsiella pneumoniae,Ireland,2026.0,24.82,11.99,37.44
+Klebsiella pneumoniae,Ireland,2027.0,25.15,11.51,38.59
+Klebsiella pneumoniae,Ireland,2028.0,25.48,13.32,39.26
+Klebsiella pneumoniae,Ireland,2029.0,25.81,11.62,38.9
+Klebsiella pneumoniae,Ireland,2030.0,26.14,12.22,39.55
+Klebsiella pneumoniae,Israel,2025.0,62.14,52.99,71.94
+Klebsiella pneumoniae,Israel,2026.0,62.41,52.47,72.7
+Klebsiella pneumoniae,Israel,2027.0,62.68,53.02,72.56
+Klebsiella pneumoniae,Israel,2028.0,62.96,52.42,72.87
+Klebsiella pneumoniae,Israel,2029.0,63.23,53.94,74.75
+Klebsiella pneumoniae,Israel,2030.0,63.5,53.26,74.13
+Klebsiella pneumoniae,Italy,2025.0,81.31,65.87,97.62
+Klebsiella pneumoniae,Italy,2026.0,83.66,68.71,98.3
+Klebsiella pneumoniae,Italy,2027.0,86.01,70.17,100.0
+Klebsiella pneumoniae,Italy,2028.0,88.36,70.42,100.0
+Klebsiella pneumoniae,Italy,2029.0,90.72,75.48,100.0
+Klebsiella pneumoniae,Italy,2030.0,93.07,76.48,100.0
+Klebsiella pneumoniae,"Korea, South",2025.0,43.89,27.04,60.01
+Klebsiella pneumoniae,"Korea, South",2026.0,44.82,28.41,60.99
+Klebsiella pneumoniae,"Korea, South",2027.0,45.76,30.72,62.19
+Klebsiella pneumoniae,"Korea, South",2028.0,46.69,29.39,62.93
+Klebsiella pneumoniae,"Korea, South",2029.0,47.63,28.66,65.26
+Klebsiella pneumoniae,"Korea, South",2030.0,48.57,32.95,65.91
+Klebsiella pneumoniae,Mexico,2025.0,89.85,73.88,100.0
+Klebsiella pneumoniae,Mexico,2026.0,92.93,78.95,100.0
+Klebsiella pneumoniae,Mexico,2027.0,96.0,81.16,100.0
+Klebsiella pneumoniae,Mexico,2028.0,99.08,85.71,100.0
+Klebsiella pneumoniae,Mexico,2029.0,100.0,85.46,100.0
+Klebsiella pneumoniae,Mexico,2030.0,100.0,90.28,100.0
+Klebsiella pneumoniae,Poland,2025.0,83.21,72.74,93.99
+Klebsiella pneumoniae,Poland,2026.0,83.94,73.12,94.83
+Klebsiella pneumoniae,Poland,2027.0,84.67,73.28,96.55
+Klebsiella pneumoniae,Poland,2028.0,85.41,74.92,96.05
+Klebsiella pneumoniae,Poland,2029.0,86.14,75.25,96.88
+Klebsiella pneumoniae,Poland,2030.0,86.87,75.85,97.31
+Klebsiella pneumoniae,Portugal,2025.0,65.2,50.12,80.38
+Klebsiella pneumoniae,Portugal,2026.0,66.7,51.06,80.74
+Klebsiella pneumoniae,Portugal,2027.0,68.19,52.56,81.47
+Klebsiella pneumoniae,Portugal,2028.0,69.69,57.01,84.91
+Klebsiella pneumoniae,Portugal,2029.0,71.19,59.51,85.04
+Klebsiella pneumoniae,Portugal,2030.0,72.69,58.54,85.96
+Klebsiella pneumoniae,Romania,2025.0,60.38,46.56,73.52
+Klebsiella pneumoniae,Romania,2026.0,58.97,43.64,73.67
+Klebsiella pneumoniae,Romania,2027.0,57.56,44.15,71.24
+Klebsiella pneumoniae,Romania,2028.0,56.15,42.03,68.57
+Klebsiella pneumoniae,Romania,2029.0,54.73,40.59,68.81
+Klebsiella pneumoniae,Romania,2030.0,53.32,39.48,66.21
+Klebsiella pneumoniae,Spain,2025.0,49.32,39.19,59.36
+Klebsiella pneumoniae,Spain,2026.0,50.73,40.23,61.23
+Klebsiella pneumoniae,Spain,2027.0,52.14,42.52,61.96
+Klebsiella pneumoniae,Spain,2028.0,53.56,42.61,63.04
+Klebsiella pneumoniae,Spain,2029.0,54.97,44.38,66.29
+Klebsiella pneumoniae,Spain,2030.0,56.38,44.51,66.43
+Klebsiella pneumoniae,Taiwan,2025.0,56.67,36.84,75.04
+Klebsiella pneumoniae,Taiwan,2026.0,58.33,40.49,77.91
+Klebsiella pneumoniae,Taiwan,2027.0,59.98,42.27,79.54
+Klebsiella pneumoniae,Taiwan,2028.0,61.63,42.28,81.89
+Klebsiella pneumoniae,Taiwan,2029.0,63.29,44.89,83.05
+Klebsiella pneumoniae,Taiwan,2030.0,64.95,46.24,83.56
+Klebsiella pneumoniae,Turkey,2025.0,96.38,78.27,100.0
+Klebsiella pneumoniae,Turkey,2026.0,100.0,82.32,100.0
+Klebsiella pneumoniae,Turkey,2027.0,100.0,87.14,100.0
+Klebsiella pneumoniae,Turkey,2028.0,100.0,87.77,100.0
+Klebsiella pneumoniae,Turkey,2029.0,100.0,91.87,100.0
+Klebsiella pneumoniae,Turkey,2030.0,100.0,97.76,100.0
+Klebsiella pneumoniae,United Kingdom,2025.0,51.67,38.98,65.3
+Klebsiella pneumoniae,United Kingdom,2026.0,54.15,41.58,67.12
+Klebsiella pneumoniae,United Kingdom,2027.0,56.64,43.23,69.95
+Klebsiella pneumoniae,United Kingdom,2028.0,59.12,45.5,72.16
+Klebsiella pneumoniae,United Kingdom,2029.0,61.6,48.9,74.82
+Klebsiella pneumoniae,United Kingdom,2030.0,64.09,51.43,76.57
+Klebsiella pneumoniae,United States,2025.0,31.05,17.77,43.19
+Klebsiella pneumoniae,United States,2026.0,31.95,19.58,44.41
+Klebsiella pneumoniae,United States,2027.0,32.85,19.99,45.55
+Klebsiella pneumoniae,United States,2028.0,33.75,22.13,46.28
+Klebsiella pneumoniae,United States,2029.0,34.65,21.31,47.33
+Klebsiella pneumoniae,United States,2030.0,35.55,22.63,48.08
+Acinetobacter baumannii,Croatia,2025.0,99.87,96.28,100.0
+Acinetobacter baumannii,Croatia,2026.0,100.0,96.08,100.0
+Acinetobacter baumannii,Croatia,2027.0,100.0,96.02,100.0
+Acinetobacter baumannii,Croatia,2028.0,100.0,96.8,100.0
+Acinetobacter baumannii,Croatia,2029.0,100.0,97.01,100.0
+Acinetobacter baumannii,Croatia,2030.0,100.0,96.97,100.0
+Acinetobacter baumannii,France,2025.0,58.74,40.89,76.63
+Acinetobacter baumannii,France,2026.0,61.43,44.17,79.24
+Acinetobacter baumannii,France,2027.0,64.12,45.09,81.75
+Acinetobacter baumannii,France,2028.0,66.82,49.35,84.72
+Acinetobacter baumannii,France,2029.0,69.52,51.51,86.78
+Acinetobacter baumannii,France,2030.0,72.21,54.27,91.5
+Acinetobacter baumannii,Italy,2025.0,91.77,81.03,100.0
+Acinetobacter baumannii,Italy,2026.0,92.47,80.18,100.0
+Acinetobacter baumannii,Italy,2027.0,93.16,80.62,100.0
+Acinetobacter baumannii,Italy,2028.0,93.86,82.71,100.0
+Acinetobacter baumannii,Italy,2029.0,94.56,83.24,100.0
+Acinetobacter baumannii,Italy,2030.0,95.25,83.8,100.0
+Acinetobacter baumannii,Spain,2025.0,68.69,63.2,75.3
+Acinetobacter baumannii,Spain,2026.0,68.31,61.61,74.71
+Acinetobacter baumannii,Spain,2027.0,67.93,61.34,74.71
+Acinetobacter baumannii,Spain,2028.0,67.55,61.13,73.58
+Acinetobacter baumannii,Spain,2029.0,67.17,60.61,73.45
+Acinetobacter baumannii,Spain,2030.0,66.79,60.56,73.05
+Acinetobacter baumannii,United States,2025.0,55.56,42.09,69.38
+Acinetobacter baumannii,United States,2026.0,55.98,42.48,69.05
+Acinetobacter baumannii,United States,2027.0,56.4,44.42,69.99
+Acinetobacter baumannii,United States,2028.0,56.81,42.9,69.43
+Acinetobacter baumannii,United States,2029.0,57.23,42.98,71.58
+Acinetobacter baumannii,United States,2030.0,57.65,43.65,72.24
+Escherichia coli,Argentina,2025.0,62.25,38.56,83.72
+Escherichia coli,Argentina,2026.0,64.27,42.35,84.54
+Escherichia coli,Argentina,2027.0,66.29,44.67,86.65
+Escherichia coli,Argentina,2028.0,68.31,46.48,90.93
+Escherichia coli,Argentina,2029.0,70.34,48.54,92.22
+Escherichia coli,Argentina,2030.0,72.36,51.81,94.84
+Escherichia coli,Australia,2025.0,44.8,30.03,62.51
+Escherichia coli,Australia,2026.0,46.82,31.27,62.43
+Escherichia coli,Australia,2027.0,48.84,32.29,63.55
+Escherichia coli,Australia,2028.0,50.86,36.7,66.7
+Escherichia coli,Australia,2029.0,52.88,35.19,68.4
+Escherichia coli,Australia,2030.0,54.9,37.33,69.77
+Escherichia coli,Belgium,2025.0,56.37,44.8,67.35
+Escherichia coli,Belgium,2026.0,58.67,47.09,68.96
+Escherichia coli,Belgium,2027.0,60.98,50.88,72.48
+Escherichia coli,Belgium,2028.0,63.28,53.32,74.47
+Escherichia coli,Belgium,2029.0,65.59,55.58,76.94
+Escherichia coli,Belgium,2030.0,67.89,56.07,77.83
+Escherichia coli,Brazil,2025.0,69.18,55.81,82.61
+Escherichia coli,Brazil,2026.0,71.67,57.68,86.0
+Escherichia coli,Brazil,2027.0,74.16,61.18,87.86
+Escherichia coli,Brazil,2028.0,76.64,63.48,89.22
+Escherichia coli,Brazil,2029.0,79.14,66.08,92.55
+Escherichia coli,Brazil,2030.0,81.62,68.81,95.43
+Escherichia coli,Canada,2025.0,39.79,27.99,52.93
+Escherichia coli,Canada,2026.0,41.52,28.78,54.14
+Escherichia coli,Canada,2027.0,43.25,31.73,56.44
+Escherichia coli,Canada,2028.0,44.99,32.72,56.7
+Escherichia coli,Canada,2029.0,46.72,34.42,59.56
+Escherichia coli,Canada,2030.0,48.46,35.41,61.92
+Escherichia coli,Chile,2025.0,45.06,28.08,60.88
+Escherichia coli,Chile,2026.0,45.24,26.06,62.14
+Escherichia coli,Chile,2027.0,45.43,28.94,63.1
+Escherichia coli,Chile,2028.0,45.62,28.1,60.9
+Escherichia coli,Chile,2029.0,45.81,26.85,63.49
+Escherichia coli,Chile,2030.0,46.0,27.61,62.94
+Escherichia coli,China,2025.0,86.5,78.32,95.63
+Escherichia coli,China,2026.0,87.99,79.51,96.46
+Escherichia coli,China,2027.0,89.47,80.3,98.91
+Escherichia coli,China,2028.0,90.95,82.7,100.0
+Escherichia coli,China,2029.0,92.44,83.73,100.0
+Escherichia coli,China,2030.0,93.92,84.82,100.0
+Escherichia coli,Colombia,2025.0,86.16,69.28,100.0
+Escherichia coli,Colombia,2026.0,90.09,73.72,100.0
+Escherichia coli,Colombia,2027.0,94.01,78.34,100.0
+Escherichia coli,Colombia,2028.0,97.93,83.28,100.0
+Escherichia coli,Colombia,2029.0,100.0,85.8,100.0
+Escherichia coli,Colombia,2030.0,100.0,89.33,100.0
+Escherichia coli,Croatia,2025.0,50.32,30.32,69.25
+Escherichia coli,Croatia,2026.0,52.0,32.5,70.76
+Escherichia coli,Croatia,2027.0,53.68,35.04,72.01
+Escherichia coli,Croatia,2028.0,55.36,36.58,74.47
+Escherichia coli,Croatia,2029.0,57.04,38.06,76.88
+Escherichia coli,Croatia,2030.0,58.72,37.92,80.14
+Escherichia coli,Czech Republic,2025.0,38.57,27.18,51.08
+Escherichia coli,Czech Republic,2026.0,39.15,28.72,49.76
+Escherichia coli,Czech Republic,2027.0,39.73,29.14,51.83
+Escherichia coli,Czech Republic,2028.0,40.32,28.72,50.55
+Escherichia coli,Czech Republic,2029.0,40.9,29.8,52.41
+Escherichia coli,Czech Republic,2030.0,41.48,31.08,52.33
+Escherichia coli,Denmark,2025.0,36.65,21.05,53.58
+Escherichia coli,Denmark,2026.0,38.15,23.9,51.46
+Escherichia coli,Denmark,2027.0,39.66,26.11,54.56
+Escherichia coli,Denmark,2028.0,41.16,26.77,56.84
+Escherichia coli,Denmark,2029.0,42.67,29.09,56.98
+Escherichia coli,Denmark,2030.0,44.17,29.85,57.66
+Escherichia coli,France,2025.0,48.11,38.56,56.95
+Escherichia coli,France,2026.0,50.3,40.9,59.08
+Escherichia coli,France,2027.0,52.5,44.0,60.95
+Escherichia coli,France,2028.0,54.69,45.18,64.16
+Escherichia coli,France,2029.0,56.89,47.17,66.13
+Escherichia coli,France,2030.0,59.08,50.14,67.97
+Escherichia coli,Germany,2025.0,43.05,29.01,56.07
+Escherichia coli,Germany,2026.0,44.15,30.55,59.13
+Escherichia coli,Germany,2027.0,45.25,29.86,59.41
+Escherichia coli,Germany,2028.0,46.35,32.4,62.86
+Escherichia coli,Germany,2029.0,47.45,33.42,61.82
+Escherichia coli,Germany,2030.0,48.55,33.07,63.63
+Escherichia coli,Greece,2025.0,59.68,38.51,78.38
+Escherichia coli,Greece,2026.0,62.71,41.63,81.68
+Escherichia coli,Greece,2027.0,65.74,44.76,85.03
+Escherichia coli,Greece,2028.0,68.77,48.37,89.13
+Escherichia coli,Greece,2029.0,71.81,51.93,89.74
+Escherichia coli,Greece,2030.0,74.84,57.58,95.53
+Escherichia coli,Hungary,2025.0,44.64,28.93,57.68
+Escherichia coli,Hungary,2026.0,45.07,30.03,59.13
+Escherichia coli,Hungary,2027.0,45.5,30.68,60.73
+Escherichia coli,Hungary,2028.0,45.93,31.15,61.5
+Escherichia coli,Hungary,2029.0,46.36,32.5,60.84
+Escherichia coli,Hungary,2030.0,46.79,30.3,60.62
+Escherichia coli,India,2025.0,87.64,70.64,100.0
+Escherichia coli,India,2026.0,88.04,71.97,100.0
+Escherichia coli,India,2027.0,88.43,73.82,100.0
+Escherichia coli,India,2028.0,88.83,73.18,100.0
+Escherichia coli,India,2029.0,89.23,73.94,100.0
+Escherichia coli,India,2030.0,89.63,73.17,100.0
+Escherichia coli,Ireland,2025.0,51.05,38.16,63.71
+Escherichia coli,Ireland,2026.0,53.23,39.38,67.7
+Escherichia coli,Ireland,2027.0,55.41,41.52,69.4
+Escherichia coli,Ireland,2028.0,57.59,44.21,71.13
+Escherichia coli,Ireland,2029.0,59.77,47.48,73.66
+Escherichia coli,Ireland,2030.0,61.95,48.26,75.08
+Escherichia coli,Israel,2025.0,58.66,47.57,69.85
+Escherichia coli,Israel,2026.0,59.53,47.3,71.25
+Escherichia coli,Israel,2027.0,60.41,49.29,71.3
+Escherichia coli,Israel,2028.0,61.28,49.11,73.48
+Escherichia coli,Israel,2029.0,62.16,49.8,73.98
+Escherichia coli,Israel,2030.0,63.04,51.79,76.57
+Escherichia coli,Italy,2025.0,53.93,45.19,62.64
+Escherichia coli,Italy,2026.0,54.67,46.07,63.08
+Escherichia coli,Italy,2027.0,55.42,46.51,64.7
+Escherichia coli,Italy,2028.0,56.17,48.09,64.87
+Escherichia coli,Italy,2029.0,56.92,48.87,65.87
+Escherichia coli,Italy,2030.0,57.67,49.06,66.71
+Escherichia coli,"Korea, South",2025.0,74.72,58.26,91.69
+Escherichia coli,"Korea, South",2026.0,77.45,61.16,94.52
+Escherichia coli,"Korea, South",2027.0,80.18,63.67,97.2
+Escherichia coli,"Korea, South",2028.0,82.92,68.1,100.0
+Escherichia coli,"Korea, South",2029.0,85.65,69.04,100.0
+Escherichia coli,"Korea, South",2030.0,88.39,72.26,100.0
+Escherichia coli,Lithuania,2025.0,48.28,29.29,65.35
+Escherichia coli,Lithuania,2026.0,50.65,33.07,68.53
+Escherichia coli,Lithuania,2027.0,53.01,35.72,70.45
+Escherichia coli,Lithuania,2028.0,55.38,38.64,71.6
+Escherichia coli,Lithuania,2029.0,57.75,40.89,76.9
+Escherichia coli,Lithuania,2030.0,60.12,42.88,78.03
+Escherichia coli,Mexico,2025.0,94.72,80.62,100.0
+Escherichia coli,Mexico,2026.0,97.55,83.23,100.0
+Escherichia coli,Mexico,2027.0,100.0,87.24,100.0
+Escherichia coli,Mexico,2028.0,100.0,88.29,100.0
+Escherichia coli,Mexico,2029.0,100.0,91.4,100.0
+Escherichia coli,Mexico,2030.0,100.0,95.65,100.0
+Escherichia coli,Netherlands,2025.0,44.53,31.43,56.75
+Escherichia coli,Netherlands,2026.0,46.9,32.67,60.88
+Escherichia coli,Netherlands,2027.0,49.26,36.74,61.83
+Escherichia coli,Netherlands,2028.0,51.62,38.38,65.24
+Escherichia coli,Netherlands,2029.0,53.99,39.61,66.97
+Escherichia coli,Netherlands,2030.0,56.35,41.93,70.69
+Escherichia coli,Poland,2025.0,49.11,33.67,64.86
+Escherichia coli,Poland,2026.0,50.06,35.38,65.93
+Escherichia coli,Poland,2027.0,51.01,36.12,67.06
+Escherichia coli,Poland,2028.0,51.96,37.78,67.25
+Escherichia coli,Poland,2029.0,52.91,37.12,68.41
+Escherichia coli,Poland,2030.0,53.86,40.01,70.14
+Escherichia coli,Portugal,2025.0,41.51,27.28,55.71
+Escherichia coli,Portugal,2026.0,42.57,28.79,56.73
+Escherichia coli,Portugal,2027.0,43.62,30.19,57.66
+Escherichia coli,Portugal,2028.0,44.68,29.32,59.0
+Escherichia coli,Portugal,2029.0,45.74,31.64,60.32
+Escherichia coli,Portugal,2030.0,46.8,31.33,61.61
+Escherichia coli,Romania,2025.0,49.57,38.16,61.96
+Escherichia coli,Romania,2026.0,49.48,37.69,61.48
+Escherichia coli,Romania,2027.0,49.39,36.91,61.44
+Escherichia coli,Romania,2028.0,49.3,37.68,60.75
+Escherichia coli,Romania,2029.0,49.21,38.52,61.12
+Escherichia coli,Romania,2030.0,49.12,36.65,61.05
+Escherichia coli,Spain,2025.0,47.72,35.58,59.17
+Escherichia coli,Spain,2026.0,49.15,37.76,60.1
+Escherichia coli,Spain,2027.0,50.58,38.86,61.54
+Escherichia coli,Spain,2028.0,52.02,39.25,64.7
+Escherichia coli,Spain,2029.0,53.45,41.97,66.37
+Escherichia coli,Spain,2030.0,54.89,43.8,66.81
+Escherichia coli,Sweden,2025.0,35.16,23.76,46.42
+Escherichia coli,Sweden,2026.0,37.0,26.63,49.13
+Escherichia coli,Sweden,2027.0,38.85,27.0,50.79
+Escherichia coli,Sweden,2028.0,40.69,28.14,51.84
+Escherichia coli,Sweden,2029.0,42.54,30.22,55.74
+Escherichia coli,Sweden,2030.0,44.39,32.61,57.42
+Escherichia coli,Switzerland,2025.0,46.38,31.65,60.38
+Escherichia coli,Switzerland,2026.0,48.51,33.1,63.57
+Escherichia coli,Switzerland,2027.0,50.64,35.58,66.07
+Escherichia coli,Switzerland,2028.0,52.77,38.88,70.7
+Escherichia coli,Switzerland,2029.0,54.91,39.48,71.3
+Escherichia coli,Switzerland,2030.0,57.03,41.91,74.03
+Escherichia coli,Taiwan,2025.0,69.96,49.7,89.47
+Escherichia coli,Taiwan,2026.0,72.29,53.02,91.33
+Escherichia coli,Taiwan,2027.0,74.62,55.68,93.09
+Escherichia coli,Taiwan,2028.0,76.95,58.2,98.76
+Escherichia coli,Taiwan,2029.0,79.29,58.18,99.41
+Escherichia coli,Taiwan,2030.0,81.63,60.98,100.0
+Escherichia coli,Thailand,2025.0,78.89,63.71,95.03
+Escherichia coli,Thailand,2026.0,79.61,63.92,95.46
+Escherichia coli,Thailand,2027.0,80.32,64.75,97.13
+Escherichia coli,Thailand,2028.0,81.04,66.33,95.47
+Escherichia coli,Thailand,2029.0,81.76,66.94,97.35
+Escherichia coli,Thailand,2030.0,82.48,67.45,99.41
+Escherichia coli,Turkey,2025.0,81.45,69.9,92.12
+Escherichia coli,Turkey,2026.0,83.64,71.86,94.1
+Escherichia coli,Turkey,2027.0,85.83,73.89,96.96
+Escherichia coli,Turkey,2028.0,88.02,76.46,99.2
+Escherichia coli,Turkey,2029.0,90.22,78.78,100.0
+Escherichia coli,Turkey,2030.0,92.41,80.74,100.0
+Escherichia coli,United Kingdom,2025.0,38.23,18.15,56.66
+Escherichia coli,United Kingdom,2026.0,38.97,20.41,58.77
+Escherichia coli,United Kingdom,2027.0,39.71,20.94,58.46
+Escherichia coli,United Kingdom,2028.0,40.46,23.72,60.86
+Escherichia coli,United Kingdom,2029.0,41.2,22.28,60.63
+Escherichia coli,United Kingdom,2030.0,41.94,22.51,60.26
+Escherichia coli,United States,2025.0,49.71,39.55,59.25
+Escherichia coli,United States,2026.0,51.88,42.37,60.71
+Escherichia coli,United States,2027.0,54.04,43.54,63.79
+Escherichia coli,United States,2028.0,56.21,46.44,65.75
+Escherichia coli,United States,2029.0,58.38,47.53,68.79
+Escherichia coli,United States,2030.0,60.55,50.61,69.8
+Staphylococcus aureus,Argentina,2025.0,17.24,5.71,28.46
+Staphylococcus aureus,Argentina,2026.0,18.11,6.03,30.68
+Staphylococcus aureus,Argentina,2027.0,18.97,8.27,31.29
+Staphylococcus aureus,Argentina,2028.0,19.84,6.9,30.54
+Staphylococcus aureus,Argentina,2029.0,20.71,9.39,33.25
+Staphylococcus aureus,Argentina,2030.0,21.58,10.15,33.29
+Staphylococcus aureus,Belgium,2025.0,13.62,4.24,23.59
+Staphylococcus aureus,Belgium,2026.0,14.32,4.32,24.55
+Staphylococcus aureus,Belgium,2027.0,15.02,5.4,25.2
+Staphylococcus aureus,Belgium,2028.0,15.72,7.13,25.96
+Staphylococcus aureus,Belgium,2029.0,16.42,6.65,25.54
+Staphylococcus aureus,Belgium,2030.0,17.12,8.39,26.81
+Staphylococcus aureus,Brazil,2025.0,27.95,7.32,49.74
+Staphylococcus aureus,Brazil,2026.0,28.79,6.92,53.73
+Staphylococcus aureus,Brazil,2027.0,29.62,4.7,50.92
+Staphylococcus aureus,Brazil,2028.0,30.45,6.57,54.02
+Staphylococcus aureus,Brazil,2029.0,31.29,8.29,53.59
+Staphylococcus aureus,Brazil,2030.0,32.12,9.55,54.78
+Staphylococcus aureus,Canada,2025.0,15.15,8.77,21.21
+Staphylococcus aureus,Canada,2026.0,16.1,10.49,21.58
+Staphylococcus aureus,Canada,2027.0,17.05,11.24,23.05
+Staphylococcus aureus,Canada,2028.0,18.0,12.76,23.78
+Staphylococcus aureus,Canada,2029.0,18.95,12.91,24.66
+Staphylococcus aureus,Canada,2030.0,19.9,14.61,26.08
+Staphylococcus aureus,Chile,2025.0,24.15,3.0,44.72
+Staphylococcus aureus,Chile,2026.0,25.24,4.3,44.69
+Staphylococcus aureus,Chile,2027.0,26.33,5.98,45.96
+Staphylococcus aureus,Chile,2028.0,27.43,7.79,48.38
+Staphylococcus aureus,Chile,2029.0,28.52,9.31,50.22
+Staphylococcus aureus,Chile,2030.0,29.61,9.82,50.37
+Staphylococcus aureus,China,2025.0,15.49,0.47,34.88
+Staphylococcus aureus,China,2026.0,12.83,0.0,32.71
+Staphylococcus aureus,China,2027.0,10.18,0.0,26.78
+Staphylococcus aureus,China,2028.0,7.53,0.0,25.47
+Staphylococcus aureus,China,2029.0,4.87,0.0,23.78
+Staphylococcus aureus,China,2030.0,2.21,0.0,20.48
+Staphylococcus aureus,Colombia,2025.0,2.94,0.6,4.99
+Staphylococcus aureus,Colombia,2026.0,3.1,0.97,5.44
+Staphylococcus aureus,Colombia,2027.0,3.27,1.06,5.65
+Staphylococcus aureus,Colombia,2028.0,3.43,1.42,5.75
+Staphylococcus aureus,Colombia,2029.0,3.6,1.66,5.65
+Staphylococcus aureus,Colombia,2030.0,3.76,1.54,5.92
+Staphylococcus aureus,Croatia,2025.0,31.62,22.22,42.74
+Staphylococcus aureus,Croatia,2026.0,33.72,23.33,44.09
+Staphylococcus aureus,Croatia,2027.0,35.81,24.92,46.26
+Staphylococcus aureus,Croatia,2028.0,37.9,28.22,47.94
+Staphylococcus aureus,Croatia,2029.0,40.0,29.67,50.94
+Staphylococcus aureus,Croatia,2030.0,42.1,31.26,52.57
+Staphylococcus aureus,Czech Republic,2025.0,0.0,0.0,6.55
+Staphylococcus aureus,Czech Republic,2026.0,0.0,0.0,1.56
+Staphylococcus aureus,Czech Republic,2027.0,0.0,0.0,0.0
+Staphylococcus aureus,Czech Republic,2028.0,0.0,0.0,0.0
+Staphylococcus aureus,Czech Republic,2029.0,0.0,0.0,0.0
+Staphylococcus aureus,Czech Republic,2030.0,0.0,0.0,0.0
+Staphylococcus aureus,France,2025.0,7.13,3.78,10.92
+Staphylococcus aureus,France,2026.0,7.48,3.78,11.29
+Staphylococcus aureus,France,2027.0,7.84,4.04,11.84
+Staphylococcus aureus,France,2028.0,8.19,4.14,12.22
+Staphylococcus aureus,France,2029.0,8.55,5.01,12.57
+Staphylococcus aureus,France,2030.0,8.9,5.27,12.48
+Staphylococcus aureus,Germany,2025.0,11.85,2.48,20.75
+Staphylococcus aureus,Germany,2026.0,12.36,1.21,21.84
+Staphylococcus aureus,Germany,2027.0,12.88,3.37,23.01
+Staphylococcus aureus,Germany,2028.0,13.4,3.92,22.6
+Staphylococcus aureus,Germany,2029.0,13.92,4.22,24.2
+Staphylococcus aureus,Germany,2030.0,14.43,4.44,24.6
+Staphylococcus aureus,Greece,2025.0,32.21,14.64,49.78
+Staphylococcus aureus,Greece,2026.0,33.65,16.14,50.8
+Staphylococcus aureus,Greece,2027.0,35.09,18.66,52.43
+Staphylococcus aureus,Greece,2028.0,36.53,21.14,52.6
+Staphylococcus aureus,Greece,2029.0,37.98,20.57,54.71
+Staphylococcus aureus,Greece,2030.0,39.42,22.65,56.49
+Staphylococcus aureus,Hungary,2025.0,10.34,0.0,33.23
+Staphylococcus aureus,Hungary,2026.0,8.82,0.0,31.41
+Staphylococcus aureus,Hungary,2027.0,7.31,0.0,29.05
+Staphylococcus aureus,Hungary,2028.0,5.79,0.0,28.2
+Staphylococcus aureus,Hungary,2029.0,4.27,0.0,26.35
+Staphylococcus aureus,Hungary,2030.0,2.75,0.0,26.85
+Staphylococcus aureus,Ireland,2025.0,5.3,1.45,8.9
+Staphylococcus aureus,Ireland,2026.0,5.7,2.16,9.42
+Staphylococcus aureus,Ireland,2027.0,6.1,2.42,9.82
+Staphylococcus aureus,Ireland,2028.0,6.5,2.78,9.96
+Staphylococcus aureus,Ireland,2029.0,6.9,2.92,10.7
+Staphylococcus aureus,Ireland,2030.0,7.29,3.95,10.94
+Staphylococcus aureus,Israel,2025.0,38.96,13.24,60.6
+Staphylococcus aureus,Israel,2026.0,40.77,16.57,61.81
+Staphylococcus aureus,Israel,2027.0,42.59,20.03,66.56
+Staphylococcus aureus,Israel,2028.0,44.4,19.61,66.02
+Staphylococcus aureus,Israel,2029.0,46.21,23.4,69.32
+Staphylococcus aureus,Israel,2030.0,48.03,25.6,70.29
+Staphylococcus aureus,Italy,2025.0,20.04,10.49,28.67
+Staphylococcus aureus,Italy,2026.0,21.14,12.37,30.41
+Staphylococcus aureus,Italy,2027.0,22.25,13.04,30.93
+Staphylococcus aureus,Italy,2028.0,23.35,14.49,31.65
+Staphylococcus aureus,Italy,2029.0,24.46,16.41,33.59
+Staphylococcus aureus,Italy,2030.0,25.56,16.7,34.92
+Staphylococcus aureus,Japan,2025.0,26.39,16.13,36.61
+Staphylococcus aureus,Japan,2026.0,24.61,15.43,34.46
+Staphylococcus aureus,Japan,2027.0,22.83,13.75,32.06
+Staphylococcus aureus,Japan,2028.0,21.05,11.8,30.47
+Staphylococcus aureus,Japan,2029.0,19.26,9.22,28.26
+Staphylococcus aureus,Japan,2030.0,17.48,8.84,26.61
+Staphylococcus aureus,"Korea, South",2025.0,44.89,27.39,62.44
+Staphylococcus aureus,"Korea, South",2026.0,47.23,30.15,64.36
+Staphylococcus aureus,"Korea, South",2027.0,49.57,32.93,67.04
+Staphylococcus aureus,"Korea, South",2028.0,51.91,33.94,69.24
+Staphylococcus aureus,"Korea, South",2029.0,54.25,36.17,72.2
+Staphylococcus aureus,"Korea, South",2030.0,56.59,38.17,76.46
+Staphylococcus aureus,Lithuania,2025.0,20.09,14.36,24.98
+Staphylococcus aureus,Lithuania,2026.0,21.53,16.24,26.29
+Staphylococcus aureus,Lithuania,2027.0,22.96,17.32,28.55
+Staphylococcus aureus,Lithuania,2028.0,24.39,18.78,30.02
+Staphylococcus aureus,Lithuania,2029.0,25.83,20.32,31.71
+Staphylococcus aureus,Lithuania,2030.0,27.27,22.23,32.22
+Staphylococcus aureus,Mexico,2025.0,54.39,38.05,71.99
+Staphylococcus aureus,Mexico,2026.0,57.4,40.74,77.53
+Staphylococcus aureus,Mexico,2027.0,60.4,40.9,77.73
+Staphylococcus aureus,Mexico,2028.0,63.41,46.01,82.39
+Staphylococcus aureus,Mexico,2029.0,66.42,47.27,83.36
+Staphylococcus aureus,Mexico,2030.0,69.43,53.11,87.28
+Staphylococcus aureus,Poland,2025.0,17.94,9.27,27.0
+Staphylococcus aureus,Poland,2026.0,18.76,9.7,27.55
+Staphylococcus aureus,Poland,2027.0,19.59,9.85,28.44
+Staphylococcus aureus,Poland,2028.0,20.42,11.49,28.51
+Staphylococcus aureus,Poland,2029.0,21.24,12.2,29.75
+Staphylococcus aureus,Poland,2030.0,22.07,12.34,31.35
+Staphylococcus aureus,Portugal,2025.0,27.47,11.63,43.1
+Staphylococcus aureus,Portugal,2026.0,28.73,12.34,43.22
+Staphylococcus aureus,Portugal,2027.0,29.98,14.27,46.52
+Staphylococcus aureus,Portugal,2028.0,31.24,15.14,48.68
+Staphylococcus aureus,Portugal,2029.0,32.5,15.56,48.24
+Staphylococcus aureus,Portugal,2030.0,33.76,19.22,49.89
+Staphylococcus aureus,Romania,2025.0,5.76,1.7,9.82
+Staphylococcus aureus,Romania,2026.0,6.05,2.06,10.11
+Staphylococcus aureus,Romania,2027.0,6.33,2.02,10.39
+Staphylococcus aureus,Romania,2028.0,6.62,2.74,10.55
+Staphylococcus aureus,Romania,2029.0,6.91,2.76,10.56
+Staphylococcus aureus,Romania,2030.0,7.2,3.48,10.93
+Staphylococcus aureus,South Africa,2025.0,0.0,0.0,14.44
+Staphylococcus aureus,South Africa,2026.0,0.0,0.0,9.67
+Staphylococcus aureus,South Africa,2027.0,0.0,0.0,7.29
+Staphylococcus aureus,South Africa,2028.0,0.0,0.0,3.37
+Staphylococcus aureus,South Africa,2029.0,0.0,0.0,0.0
+Staphylococcus aureus,South Africa,2030.0,0.0,0.0,0.0
+Staphylococcus aureus,Spain,2025.0,22.16,13.66,30.6
+Staphylococcus aureus,Spain,2026.0,23.33,13.94,31.55
+Staphylococcus aureus,Spain,2027.0,24.5,16.15,33.18
+Staphylococcus aureus,Spain,2028.0,25.68,17.37,34.46
+Staphylococcus aureus,Spain,2029.0,26.86,18.08,35.7
+Staphylococcus aureus,Spain,2030.0,28.03,20.0,35.81
+Staphylococcus aureus,Taiwan,2025.0,51.72,33.13,67.85
+Staphylococcus aureus,Taiwan,2026.0,54.34,38.64,71.81
+Staphylococcus aureus,Taiwan,2027.0,56.97,39.59,73.97
+Staphylococcus aureus,Taiwan,2028.0,59.59,40.83,76.98
+Staphylococcus aureus,Taiwan,2029.0,62.22,45.72,78.1
+Staphylococcus aureus,Taiwan,2030.0,64.85,47.67,83.44
+Staphylococcus aureus,Turkey,2025.0,9.94,1.11,18.8
+Staphylococcus aureus,Turkey,2026.0,10.4,0.69,19.99
+Staphylococcus aureus,Turkey,2027.0,10.86,1.71,18.24
+Staphylococcus aureus,Turkey,2028.0,11.31,1.45,20.52
+Staphylococcus aureus,Turkey,2029.0,11.77,3.58,20.94
+Staphylococcus aureus,Turkey,2030.0,12.23,2.05,22.36
+Staphylococcus aureus,United Kingdom,2025.0,7.6,0.0,22.95
+Staphylococcus aureus,United Kingdom,2026.0,7.57,0.0,23.77
+Staphylococcus aureus,United Kingdom,2027.0,7.54,0.0,21.77
+Staphylococcus aureus,United Kingdom,2028.0,7.51,0.0,25.63
+Staphylococcus aureus,United Kingdom,2029.0,7.48,0.0,24.89
+Staphylococcus aureus,United Kingdom,2030.0,7.45,0.0,22.71
+Staphylococcus aureus,United States,2025.0,35.0,25.62,43.91
+Staphylococcus aureus,United States,2026.0,36.98,27.11,46.55
+Staphylococcus aureus,United States,2027.0,38.96,29.04,48.23
+Staphylococcus aureus,United States,2028.0,40.94,30.16,50.6
+Staphylococcus aureus,United States,2029.0,42.93,33.69,52.41
+Staphylococcus aureus,United States,2030.0,44.91,35.29,55.51
+Pseudomonas aeruginosa,Belgium,2025.0,28.76,10.51,46.22
+Pseudomonas aeruginosa,Belgium,2026.0,30.42,12.94,48.69
+Pseudomonas aeruginosa,Belgium,2027.0,32.09,13.68,49.86
+Pseudomonas aeruginosa,Belgium,2028.0,33.75,16.33,52.59
+Pseudomonas aeruginosa,Belgium,2029.0,35.42,16.86,52.83
+Pseudomonas aeruginosa,Belgium,2030.0,37.09,19.63,54.99
+Pseudomonas aeruginosa,Brazil,2025.0,31.06,19.7,43.49
+Pseudomonas aeruginosa,Brazil,2026.0,30.9,19.47,42.26
+Pseudomonas aeruginosa,Brazil,2027.0,30.74,19.45,43.08
+Pseudomonas aeruginosa,Brazil,2028.0,30.57,19.22,41.51
+Pseudomonas aeruginosa,Brazil,2029.0,30.41,17.4,41.88
+Pseudomonas aeruginosa,Brazil,2030.0,30.24,17.99,42.84
+Pseudomonas aeruginosa,Canada,2025.0,20.1,11.11,30.02
+Pseudomonas aeruginosa,Canada,2026.0,20.88,11.14,30.59
+Pseudomonas aeruginosa,Canada,2027.0,21.66,12.41,31.21
+Pseudomonas aeruginosa,Canada,2028.0,22.45,13.51,32.82
+Pseudomonas aeruginosa,Canada,2029.0,23.23,12.96,31.84
+Pseudomonas aeruginosa,Canada,2030.0,24.01,14.31,34.3
+Pseudomonas aeruginosa,China,2025.0,31.15,9.22,54.01
+Pseudomonas aeruginosa,China,2026.0,31.01,9.57,51.54
+Pseudomonas aeruginosa,China,2027.0,30.87,10.21,53.74
+Pseudomonas aeruginosa,China,2028.0,30.73,8.08,51.0
+Pseudomonas aeruginosa,China,2029.0,30.59,6.51,51.55
+Pseudomonas aeruginosa,China,2030.0,30.45,9.58,51.32
+Pseudomonas aeruginosa,Colombia,2025.0,40.19,27.54,52.65
+Pseudomonas aeruginosa,Colombia,2026.0,40.96,27.37,52.28
+Pseudomonas aeruginosa,Colombia,2027.0,41.73,29.69,52.75
+Pseudomonas aeruginosa,Colombia,2028.0,42.5,30.51,55.74
+Pseudomonas aeruginosa,Colombia,2029.0,43.28,31.55,54.79
+Pseudomonas aeruginosa,Colombia,2030.0,44.05,32.6,57.1
+Pseudomonas aeruginosa,Croatia,2025.0,42.34,21.01,62.57
+Pseudomonas aeruginosa,Croatia,2026.0,42.56,21.81,63.58
+Pseudomonas aeruginosa,Croatia,2027.0,42.78,22.19,65.63
+Pseudomonas aeruginosa,Croatia,2028.0,43.0,18.83,64.01
+Pseudomonas aeruginosa,Croatia,2029.0,43.22,22.31,65.57
+Pseudomonas aeruginosa,Croatia,2030.0,43.43,21.72,64.87
+Pseudomonas aeruginosa,Denmark,2025.0,17.91,9.19,24.37
+Pseudomonas aeruginosa,Denmark,2026.0,18.71,11.31,26.8
+Pseudomonas aeruginosa,Denmark,2027.0,19.51,10.95,27.61
+Pseudomonas aeruginosa,Denmark,2028.0,20.31,12.42,28.99
+Pseudomonas aeruginosa,Denmark,2029.0,21.11,13.64,29.15
+Pseudomonas aeruginosa,Denmark,2030.0,21.9,14.04,30.39
+Pseudomonas aeruginosa,France,2025.0,24.47,13.28,36.87
+Pseudomonas aeruginosa,France,2026.0,24.62,11.45,36.86
+Pseudomonas aeruginosa,France,2027.0,24.77,13.14,36.96
+Pseudomonas aeruginosa,France,2028.0,24.92,13.1,36.82
+Pseudomonas aeruginosa,France,2029.0,25.07,12.69,36.92
+Pseudomonas aeruginosa,France,2030.0,25.21,13.08,35.19
+Pseudomonas aeruginosa,Germany,2025.0,23.4,10.52,34.7
+Pseudomonas aeruginosa,Germany,2026.0,24.14,10.99,35.46
+Pseudomonas aeruginosa,Germany,2027.0,24.88,12.76,37.62
+Pseudomonas aeruginosa,Germany,2028.0,25.62,13.29,36.97
+Pseudomonas aeruginosa,Germany,2029.0,26.37,14.03,38.53
+Pseudomonas aeruginosa,Germany,2030.0,27.11,16.57,39.91
+Pseudomonas aeruginosa,India,2025.0,56.91,40.38,73.6
+Pseudomonas aeruginosa,India,2026.0,58.5,41.73,74.88
+Pseudomonas aeruginosa,India,2027.0,60.09,45.07,76.17
+Pseudomonas aeruginosa,India,2028.0,61.68,45.86,78.46
+Pseudomonas aeruginosa,India,2029.0,63.27,47.14,80.85
+Pseudomonas aeruginosa,India,2030.0,64.87,49.65,79.96
+Pseudomonas aeruginosa,Italy,2025.0,25.14,13.48,36.17
+Pseudomonas aeruginosa,Italy,2026.0,25.02,13.22,36.65
+Pseudomonas aeruginosa,Italy,2027.0,24.9,13.72,36.29
+Pseudomonas aeruginosa,Italy,2028.0,24.78,13.75,35.09
+Pseudomonas aeruginosa,Italy,2029.0,24.65,12.9,36.2
+Pseudomonas aeruginosa,Italy,2030.0,24.53,13.73,37.08
+Pseudomonas aeruginosa,Mexico,2025.0,38.33,25.0,50.13
+Pseudomonas aeruginosa,Mexico,2026.0,38.84,25.95,52.06
+Pseudomonas aeruginosa,Mexico,2027.0,39.34,27.5,52.89
+Pseudomonas aeruginosa,Mexico,2028.0,39.85,26.36,52.64
+Pseudomonas aeruginosa,Mexico,2029.0,40.35,27.0,53.12
+Pseudomonas aeruginosa,Mexico,2030.0,40.85,27.71,54.17
+Pseudomonas aeruginosa,Portugal,2025.0,33.34,23.35,42.91
+Pseudomonas aeruginosa,Portugal,2026.0,34.82,24.84,44.61
+Pseudomonas aeruginosa,Portugal,2027.0,36.3,25.99,46.32
+Pseudomonas aeruginosa,Portugal,2028.0,37.78,27.41,47.95
+Pseudomonas aeruginosa,Portugal,2029.0,39.26,29.07,48.29
+Pseudomonas aeruginosa,Portugal,2030.0,40.74,30.71,51.14
+Pseudomonas aeruginosa,Spain,2025.0,23.69,12.0,35.64
+Pseudomonas aeruginosa,Spain,2026.0,23.75,11.54,34.4
+Pseudomonas aeruginosa,Spain,2027.0,23.81,10.76,36.21
+Pseudomonas aeruginosa,Spain,2028.0,23.86,11.31,35.67
+Pseudomonas aeruginosa,Spain,2029.0,23.92,11.15,35.8
+Pseudomonas aeruginosa,Spain,2030.0,23.98,12.83,35.67
+Pseudomonas aeruginosa,Taiwan,2025.0,26.85,12.17,42.17
+Pseudomonas aeruginosa,Taiwan,2026.0,26.99,11.74,40.91
+Pseudomonas aeruginosa,Taiwan,2027.0,27.12,12.92,40.63
+Pseudomonas aeruginosa,Taiwan,2028.0,27.26,13.29,41.21
+Pseudomonas aeruginosa,Taiwan,2029.0,27.4,13.92,42.11
+Pseudomonas aeruginosa,Taiwan,2030.0,27.54,12.54,40.8
+Pseudomonas aeruginosa,United Kingdom,2025.0,16.34,12.16,21.35
+Pseudomonas aeruginosa,United Kingdom,2026.0,17.0,12.6,22.22
+Pseudomonas aeruginosa,United Kingdom,2027.0,17.66,12.62,22.18
+Pseudomonas aeruginosa,United Kingdom,2028.0,18.32,13.22,23.37
+Pseudomonas aeruginosa,United Kingdom,2029.0,18.98,13.42,23.89
+Pseudomonas aeruginosa,United Kingdom,2030.0,19.64,14.67,24.69
+Pseudomonas aeruginosa,United States,2025.0,24.22,15.46,32.75
+Pseudomonas aeruginosa,United States,2026.0,24.9,16.26,33.56
+Pseudomonas aeruginosa,United States,2027.0,25.58,16.96,33.73
+Pseudomonas aeruginosa,United States,2028.0,26.26,17.53,34.47
+Pseudomonas aeruginosa,United States,2029.0,26.95,17.76,35.36
+Pseudomonas aeruginosa,United States,2030.0,27.63,19.82,36.46
+Enterobacter cloacae,Canada,2025.0,24.63,11.52,36.87
+Enterobacter cloacae,Canada,2026.0,25.64,13.28,37.89
+Enterobacter cloacae,Canada,2027.0,26.65,14.78,39.26
+Enterobacter cloacae,Canada,2028.0,27.65,16.12,39.54
+Enterobacter cloacae,Canada,2029.0,28.66,16.23,41.24
+Enterobacter cloacae,Canada,2030.0,29.67,17.14,41.88
+Enterobacter cloacae,France,2025.0,66.5,46.13,87.45
+Enterobacter cloacae,France,2026.0,68.78,49.08,90.03
+Enterobacter cloacae,France,2027.0,71.06,50.62,91.56
+Enterobacter cloacae,France,2028.0,73.34,51.07,95.79
+Enterobacter cloacae,France,2029.0,75.63,54.11,96.9
+Enterobacter cloacae,France,2030.0,77.91,56.52,100.0
+Enterobacter cloacae,Germany,2025.0,0.87,0.0,17.26
+Enterobacter cloacae,Germany,2026.0,0.0,0.0,16.98
+Enterobacter cloacae,Germany,2027.0,0.0,0.0,17.27
+Enterobacter cloacae,Germany,2028.0,0.0,0.0,13.89
+Enterobacter cloacae,Germany,2029.0,0.0,0.0,13.13
+Enterobacter cloacae,Germany,2030.0,0.0,0.0,11.36
+Enterobacter cloacae,Italy,2025.0,10.45,0.0,29.04
+Enterobacter cloacae,Italy,2026.0,8.72,0.0,27.1
+Enterobacter cloacae,Italy,2027.0,6.99,0.0,25.76
+Enterobacter cloacae,Italy,2028.0,5.27,0.0,24.97
+Enterobacter cloacae,Italy,2029.0,3.54,0.0,19.5
+Enterobacter cloacae,Italy,2030.0,1.81,0.0,21.3
+Enterobacter cloacae,Spain,2025.0,44.24,28.86,60.57
+Enterobacter cloacae,Spain,2026.0,45.79,28.15,59.8
+Enterobacter cloacae,Spain,2027.0,47.35,31.23,62.93
+Enterobacter cloacae,Spain,2028.0,48.9,32.73,66.5
+Enterobacter cloacae,Spain,2029.0,50.46,33.09,65.54
+Enterobacter cloacae,Spain,2030.0,52.02,35.21,69.52
+Enterobacter cloacae,United States,2025.0,43.27,27.2,60.04
+Enterobacter cloacae,United States,2026.0,44.71,28.26,62.41
+Enterobacter cloacae,United States,2027.0,46.16,28.18,61.4
+Enterobacter cloacae,United States,2028.0,47.6,30.46,65.14
+Enterobacter cloacae,United States,2029.0,49.05,33.08,66.13
+Enterobacter cloacae,United States,2030.0,50.5,35.55,66.99
+Enterococcus faecium,Canada,2025.0,98.66,85.2,100.0
+Enterococcus faecium,Canada,2026.0,100.0,92.42,100.0
+Enterococcus faecium,Canada,2027.0,100.0,96.72,100.0
+Enterococcus faecium,Canada,2028.0,100.0,100.0,100.0
+Enterococcus faecium,Canada,2029.0,100.0,100.0,100.0
+Enterococcus faecium,Canada,2030.0,100.0,100.0,100.0
+Enterococcus faecium,France,2025.0,100.0,69.85,100.0
+Enterococcus faecium,France,2026.0,100.0,76.96,100.0
+Enterococcus faecium,France,2027.0,100.0,83.55,100.0
+Enterococcus faecium,France,2028.0,100.0,88.78,100.0
+Enterococcus faecium,France,2029.0,100.0,95.19,100.0
+Enterococcus faecium,France,2030.0,100.0,100.0,100.0
+Enterococcus faecium,Germany,2025.0,100.0,90.59,100.0
+Enterococcus faecium,Germany,2026.0,100.0,96.42,100.0
+Enterococcus faecium,Germany,2027.0,100.0,99.72,100.0
+Enterococcus faecium,Germany,2028.0,100.0,100.0,100.0
+Enterococcus faecium,Germany,2029.0,100.0,100.0,100.0
+Enterococcus faecium,Germany,2030.0,100.0,100.0,100.0
+Enterococcus faecium,Italy,2025.0,100.0,83.12,100.0
+Enterococcus faecium,Italy,2026.0,100.0,85.64,100.0
+Enterococcus faecium,Italy,2027.0,100.0,93.62,100.0
+Enterococcus faecium,Italy,2028.0,100.0,97.8,100.0
+Enterococcus faecium,Italy,2029.0,100.0,100.0,100.0
+Enterococcus faecium,Italy,2030.0,100.0,100.0,100.0
+Enterococcus faecium,Spain,2025.0,98.77,80.92,100.0
+Enterococcus faecium,Spain,2026.0,100.0,83.44,100.0
+Enterococcus faecium,Spain,2027.0,100.0,93.28,100.0
+Enterococcus faecium,Spain,2028.0,100.0,97.39,100.0
+Enterococcus faecium,Spain,2029.0,100.0,100.0,100.0
+Enterococcus faecium,Spain,2030.0,100.0,100.0,100.0
+Enterococcus faecium,United States,2025.0,91.57,77.94,100.0
+Enterococcus faecium,United States,2026.0,92.79,79.3,100.0
+Enterococcus faecium,United States,2027.0,94.0,81.05,100.0
+Enterococcus faecium,United States,2028.0,95.21,83.05,100.0
+Enterococcus faecium,United States,2029.0,96.43,84.99,100.0
+Enterococcus faecium,United States,2030.0,97.64,85.76,100.0
+Staphylococcus epidermidis,Belgium,2025.0,93.44,73.52,100.0
+Staphylococcus epidermidis,Belgium,2026.0,98.36,78.53,100.0
+Staphylococcus epidermidis,Belgium,2027.0,100.0,84.28,100.0
+Staphylococcus epidermidis,Belgium,2028.0,100.0,89.99,100.0
+Staphylococcus epidermidis,Belgium,2029.0,100.0,95.03,100.0
+Staphylococcus epidermidis,Belgium,2030.0,100.0,100.0,100.0
+Staphylococcus epidermidis,France,2025.0,83.24,60.56,100.0
+Staphylococcus epidermidis,France,2026.0,89.35,66.08,100.0
+Staphylococcus epidermidis,France,2027.0,95.46,73.1,100.0
+Staphylococcus epidermidis,France,2028.0,100.0,79.56,100.0
+Staphylococcus epidermidis,France,2029.0,100.0,82.51,100.0
+Staphylococcus epidermidis,France,2030.0,100.0,88.79,100.0
+Staphylococcus epidermidis,Germany,2025.0,59.54,43.48,74.43
+Staphylococcus epidermidis,Germany,2026.0,63.2,48.43,79.43
+Staphylococcus epidermidis,Germany,2027.0,66.85,51.14,82.1
+Staphylococcus epidermidis,Germany,2028.0,70.51,57.33,84.9
+Staphylococcus epidermidis,Germany,2029.0,74.18,59.4,88.76
+Staphylococcus epidermidis,Germany,2030.0,77.84,62.89,92.51
+Staphylococcus epidermidis,Italy,2025.0,85.72,71.08,100.0
+Staphylococcus epidermidis,Italy,2026.0,92.33,78.72,100.0
+Staphylococcus epidermidis,Italy,2027.0,98.94,84.53,100.0
+Staphylococcus epidermidis,Italy,2028.0,100.0,92.97,100.0
+Staphylococcus epidermidis,Italy,2029.0,100.0,97.72,100.0
+Staphylococcus epidermidis,Italy,2030.0,100.0,100.0,100.0
+Staphylococcus epidermidis,Spain,2025.0,89.37,66.52,100.0
+Staphylococcus epidermidis,Spain,2026.0,95.33,72.0,100.0
+Staphylococcus epidermidis,Spain,2027.0,100.0,74.18,100.0
+Staphylococcus epidermidis,Spain,2028.0,100.0,83.86,100.0
+Staphylococcus epidermidis,Spain,2029.0,100.0,92.95,100.0
+Staphylococcus epidermidis,Spain,2030.0,100.0,96.09,100.0
+Staphylococcus epidermidis,United States,2025.0,50.77,40.31,61.31
+Staphylococcus epidermidis,United States,2026.0,48.79,39.15,59.45
+Staphylococcus epidermidis,United States,2027.0,46.82,35.6,58.2
+Staphylococcus epidermidis,United States,2028.0,44.84,33.65,57.36
+Staphylococcus epidermidis,United States,2029.0,42.86,32.26,53.26
+Staphylococcus epidermidis,United States,2030.0,40.89,30.65,50.9
+Serratia marcescens,France,2025.0,61.79,34.84,87.69
+Serratia marcescens,France,2026.0,64.9,36.63,90.36
+Serratia marcescens,France,2027.0,68.01,41.78,92.44
+Serratia marcescens,France,2028.0,71.13,46.78,96.02
+Serratia marcescens,France,2029.0,74.25,52.07,100.0
+Serratia marcescens,France,2030.0,77.36,51.63,100.0
+Serratia marcescens,Italy,2025.0,53.05,31.69,73.44
+Serratia marcescens,Italy,2026.0,55.49,32.99,76.88
+Serratia marcescens,Italy,2027.0,57.93,36.65,77.84
+Serratia marcescens,Italy,2028.0,60.37,40.39,80.55
+Serratia marcescens,Italy,2029.0,62.81,42.23,83.78
+Serratia marcescens,Italy,2030.0,65.25,44.53,88.23
+Serratia marcescens,Spain,2025.0,17.82,11.27,25.32
+Serratia marcescens,Spain,2026.0,18.28,10.21,25.15
+Serratia marcescens,Spain,2027.0,18.74,11.83,25.63
+Serratia marcescens,Spain,2028.0,19.2,12.54,27.25
+Serratia marcescens,Spain,2029.0,19.66,12.2,27.06
+Serratia marcescens,Spain,2030.0,20.12,12.42,27.04
+Serratia marcescens,United States,2025.0,41.38,22.87,61.77
+Serratia marcescens,United States,2026.0,42.89,22.96,62.96
+Serratia marcescens,United States,2027.0,44.41,23.1,62.87
+Serratia marcescens,United States,2028.0,45.92,25.26,65.53
+Serratia marcescens,United States,2029.0,47.44,29.05,68.64
+Serratia marcescens,United States,2030.0,48.96,30.55,68.3
+Streptococcus pneumoniae,Australia,2025.0,5.93,0.0,13.53
+Streptococcus pneumoniae,Australia,2026.0,6.03,0.0,13.12
+Streptococcus pneumoniae,Australia,2027.0,6.14,0.0,13.38
+Streptococcus pneumoniae,Australia,2028.0,6.24,0.0,13.46
+Streptococcus pneumoniae,Australia,2029.0,6.34,0.0,13.02
+Streptococcus pneumoniae,Australia,2030.0,6.45,0.0,14.24
+Streptococcus pneumoniae,Belgium,2025.0,7.9,0.0,16.56
+Streptococcus pneumoniae,Belgium,2026.0,7.98,0.0,16.86
+Streptococcus pneumoniae,Belgium,2027.0,8.07,0.0,16.23
+Streptococcus pneumoniae,Belgium,2028.0,8.15,0.0,17.02
+Streptococcus pneumoniae,Belgium,2029.0,8.23,0.0,16.7
+Streptococcus pneumoniae,Belgium,2030.0,8.31,0.44,17.78
+Streptococcus pneumoniae,Canada,2025.0,9.71,1.51,17.75
+Streptococcus pneumoniae,Canada,2026.0,9.92,1.47,17.89
+Streptococcus pneumoniae,Canada,2027.0,10.13,2.43,18.03
+Streptococcus pneumoniae,Canada,2028.0,10.34,1.53,17.19
+Streptococcus pneumoniae,Canada,2029.0,10.55,1.63,18.24
+Streptococcus pneumoniae,Canada,2030.0,10.76,2.14,19.74
+Streptococcus pneumoniae,Croatia,2025.0,5.22,0.0,15.37
+Streptococcus pneumoniae,Croatia,2026.0,4.1,0.0,13.52
+Streptococcus pneumoniae,Croatia,2027.0,2.99,0.0,13.27
+Streptococcus pneumoniae,Croatia,2028.0,1.87,0.0,11.46
+Streptococcus pneumoniae,Croatia,2029.0,0.76,0.0,10.13
+Streptococcus pneumoniae,Croatia,2030.0,0.0,0.0,10.2
+Streptococcus pneumoniae,France,2025.0,20.67,7.27,33.62
+Streptococcus pneumoniae,France,2026.0,20.38,6.14,34.25
+Streptococcus pneumoniae,France,2027.0,20.08,4.9,34.38
+Streptococcus pneumoniae,France,2028.0,19.79,5.15,32.43
+Streptococcus pneumoniae,France,2029.0,19.49,5.38,34.28
+Streptococcus pneumoniae,France,2030.0,19.2,3.95,32.94
+Streptococcus pneumoniae,Germany,2025.0,1.73,0.0,5.5
+Streptococcus pneumoniae,Germany,2026.0,1.58,0.0,5.46
+Streptococcus pneumoniae,Germany,2027.0,1.43,0.0,5.18
+Streptococcus pneumoniae,Germany,2028.0,1.29,0.0,5.3
+Streptococcus pneumoniae,Germany,2029.0,1.14,0.0,4.91
+Streptococcus pneumoniae,Germany,2030.0,0.99,0.0,4.41
+Streptococcus pneumoniae,Israel,2025.0,14.27,4.29,22.93
+Streptococcus pneumoniae,Israel,2026.0,14.45,4.25,23.89
+Streptococcus pneumoniae,Israel,2027.0,14.62,5.31,23.92
+Streptococcus pneumoniae,Israel,2028.0,14.79,5.45,24.2
+Streptococcus pneumoniae,Israel,2029.0,14.96,5.33,24.28
+Streptococcus pneumoniae,Israel,2030.0,15.14,5.56,24.11
+Streptococcus pneumoniae,Italy,2025.0,9.01,0.91,16.36
+Streptococcus pneumoniae,Italy,2026.0,9.09,2.11,15.58
+Streptococcus pneumoniae,Italy,2027.0,9.18,1.43,15.97
+Streptococcus pneumoniae,Italy,2028.0,9.26,2.22,16.81
+Streptococcus pneumoniae,Italy,2029.0,9.35,2.68,17.12
+Streptococcus pneumoniae,Italy,2030.0,9.44,2.34,17.02
+Streptococcus pneumoniae,Portugal,2025.0,12.44,5.1,19.09
+Streptococcus pneumoniae,Portugal,2026.0,12.93,6.51,20.28
+Streptococcus pneumoniae,Portugal,2027.0,13.41,5.88,20.39
+Streptococcus pneumoniae,Portugal,2028.0,13.9,6.29,21.15
+Streptococcus pneumoniae,Portugal,2029.0,14.39,7.04,21.4
+Streptococcus pneumoniae,Portugal,2030.0,14.87,7.7,21.0
+Streptococcus pneumoniae,Spain,2025.0,11.43,3.97,18.3
+Streptococcus pneumoniae,Spain,2026.0,11.1,3.95,19.29
+Streptococcus pneumoniae,Spain,2027.0,10.76,2.65,17.76
+Streptococcus pneumoniae,Spain,2028.0,10.43,3.02,17.7
+Streptococcus pneumoniae,Spain,2029.0,10.1,2.7,17.54
+Streptococcus pneumoniae,Spain,2030.0,9.76,2.08,17.44
+Streptococcus pneumoniae,United Kingdom,2025.0,0.08,0.0,1.98
+Streptococcus pneumoniae,United Kingdom,2026.0,0.0,0.0,1.73
+Streptococcus pneumoniae,United Kingdom,2027.0,0.0,0.0,1.53
+Streptococcus pneumoniae,United Kingdom,2028.0,0.0,0.0,1.81
+Streptococcus pneumoniae,United Kingdom,2029.0,0.0,0.0,1.45
+Streptococcus pneumoniae,United Kingdom,2030.0,0.0,0.0,1.4
+Streptococcus pneumoniae,United States,2025.0,11.34,5.07,17.08
+Streptococcus pneumoniae,United States,2026.0,11.1,4.04,18.11
+Streptococcus pneumoniae,United States,2027.0,10.85,4.61,17.66
+Streptococcus pneumoniae,United States,2028.0,10.61,4.01,17.15
+Streptococcus pneumoniae,United States,2029.0,10.37,3.07,17.48
+Streptococcus pneumoniae,United States,2030.0,10.12,2.77,16.82
+Haemophilus influenzae,United States,2025.0,0.0,0.0,1.24
+Haemophilus influenzae,United States,2026.0,0.0,0.0,0.82
+Haemophilus influenzae,United States,2027.0,0.0,0.0,0.74
+Haemophilus influenzae,United States,2028.0,0.0,0.0,0.57
+Haemophilus influenzae,United States,2029.0,0.0,0.0,0.56
+Haemophilus influenzae,United States,2030.0,0.0,0.0,0.58
