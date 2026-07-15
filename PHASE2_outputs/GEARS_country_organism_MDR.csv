@@ -1,0 +1,227 @@
+Dataset,Country,WHO_Region,Organism,Total_N,MDR_Count,MDR_Rate_%,Sufficient
+GEARS,Argentina,AMRO,Klebsiella pneumoniae,6,5,83.33,NO
+GEARS,Argentina,AMRO,Escherichia coli,5,1,20.0,NO
+GEARS,Argentina,AMRO,Pseudomonas aeruginosa,1,1,100.0,NO
+GEARS,Argentina,AMRO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Argentina,AMRO,Serratia marcescens,2,0,0.0,NO
+GEARS,Argentina,AMRO,Citrobacter koseri,1,0,0.0,NO
+GEARS,Australia,WPRO,Klebsiella pneumoniae,4,0,0.0,NO
+GEARS,Australia,WPRO,Escherichia coli,4,0,0.0,NO
+GEARS,Australia,WPRO,Pseudomonas aeruginosa,5,1,20.0,NO
+GEARS,Australia,WPRO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Australia,WPRO,Serratia marcescens,1,0,0.0,NO
+GEARS,Belgium,EURO,Klebsiella pneumoniae,11,2,18.18,YES
+GEARS,Belgium,EURO,Escherichia coli,12,0,0.0,YES
+GEARS,Belgium,EURO,Pseudomonas aeruginosa,4,0,0.0,NO
+GEARS,Belgium,EURO,Serratia marcescens,1,1,100.0,NO
+GEARS,Belgium,EURO,Citrobacter koseri,1,0,0.0,NO
+GEARS,Brazil,AMRO,Klebsiella pneumoniae,5,3,60.0,NO
+GEARS,Brazil,AMRO,Escherichia coli,2,0,0.0,NO
+GEARS,Brazil,AMRO,Pseudomonas aeruginosa,6,0,0.0,NO
+GEARS,Brazil,AMRO,Enterobacter cloacae,2,1,50.0,NO
+GEARS,Brazil,AMRO,Serratia marcescens,3,3,100.0,NO
+GEARS,Cameroon,AFRO,Escherichia coli,1,1,100.0,NO
+GEARS,Canada,AMRO,Klebsiella pneumoniae,29,3,10.34,YES
+GEARS,Canada,AMRO,Escherichia coli,50,4,8.0,YES
+GEARS,Canada,AMRO,Pseudomonas aeruginosa,12,1,8.33,YES
+GEARS,Canada,AMRO,Enterobacter cloacae,3,0,0.0,NO
+GEARS,Canada,AMRO,Serratia marcescens,2,0,0.0,NO
+GEARS,Chile,AMRO,Klebsiella pneumoniae,4,3,75.0,NO
+GEARS,Chile,AMRO,Escherichia coli,5,0,0.0,NO
+GEARS,Chile,AMRO,Pseudomonas aeruginosa,3,1,33.33,NO
+GEARS,Chile,AMRO,Enterobacter cloacae,2,0,0.0,NO
+GEARS,Chile,AMRO,Serratia marcescens,1,0,0.0,NO
+GEARS,Chile,AMRO,Citrobacter koseri,1,0,0.0,NO
+GEARS,Colombia,AMRO,Klebsiella pneumoniae,18,8,44.44,YES
+GEARS,Colombia,AMRO,Escherichia coli,18,4,22.22,YES
+GEARS,Colombia,AMRO,Pseudomonas aeruginosa,8,5,62.5,NO
+GEARS,Colombia,AMRO,Enterobacter cloacae,4,0,0.0,NO
+GEARS,Colombia,AMRO,Serratia marcescens,5,2,40.0,NO
+GEARS,Costa Rica,AMRO,Klebsiella pneumoniae,5,1,20.0,NO
+GEARS,Costa Rica,AMRO,Escherichia coli,5,1,20.0,NO
+GEARS,Costa Rica,AMRO,Pseudomonas aeruginosa,1,0,0.0,NO
+GEARS,Costa Rica,AMRO,Serratia marcescens,2,0,0.0,NO
+GEARS,Croatia,EURO,Klebsiella pneumoniae,13,7,53.85,YES
+GEARS,Croatia,EURO,Escherichia coli,10,2,20.0,YES
+GEARS,Croatia,EURO,Pseudomonas aeruginosa,10,2,20.0,YES
+GEARS,Croatia,EURO,Enterobacter cloacae,3,1,33.33,NO
+GEARS,Croatia,EURO,Serratia marcescens,1,0,0.0,NO
+GEARS,Croatia,EURO,Citrobacter koseri,2,0,0.0,NO
+GEARS,Czech Republic,EURO,Klebsiella pneumoniae,8,6,75.0,NO
+GEARS,Czech Republic,EURO,Escherichia coli,13,2,15.38,YES
+GEARS,Czech Republic,EURO,Pseudomonas aeruginosa,3,0,0.0,NO
+GEARS,Denmark,EURO,Klebsiella pneumoniae,6,0,0.0,NO
+GEARS,Denmark,EURO,Escherichia coli,4,0,0.0,NO
+GEARS,Denmark,EURO,Pseudomonas aeruginosa,2,0,0.0,NO
+GEARS,Denmark,EURO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Denmark,EURO,Serratia marcescens,2,0,0.0,NO
+GEARS,France,EURO,Klebsiella pneumoniae,6,4,66.67,NO
+GEARS,France,EURO,Escherichia coli,19,0,0.0,YES
+GEARS,France,EURO,Pseudomonas aeruginosa,12,1,8.33,YES
+GEARS,France,EURO,Enterobacter cloacae,2,1,50.0,NO
+GEARS,France,EURO,Serratia marcescens,6,0,0.0,NO
+GEARS,France,EURO,Citrobacter koseri,6,1,16.67,NO
+GEARS,Germany,EURO,Klebsiella pneumoniae,7,3,42.86,NO
+GEARS,Germany,EURO,Escherichia coli,18,2,11.11,YES
+GEARS,Germany,EURO,Pseudomonas aeruginosa,2,0,0.0,NO
+GEARS,Germany,EURO,Enterobacter cloacae,2,1,50.0,NO
+GEARS,Greece,EURO,Klebsiella pneumoniae,7,4,57.14,NO
+GEARS,Greece,EURO,Escherichia coli,4,0,0.0,NO
+GEARS,Greece,EURO,Pseudomonas aeruginosa,9,4,44.44,NO
+GEARS,Greece,EURO,Enterobacter cloacae,2,2,100.0,NO
+GEARS,Guatemala,AMRO,Klebsiella pneumoniae,3,3,100.0,NO
+GEARS,Guatemala,AMRO,Pseudomonas aeruginosa,1,0,0.0,NO
+GEARS,Hong Kong,WPRO,Klebsiella pneumoniae,1,1,100.0,NO
+GEARS,Hong Kong,WPRO,Pseudomonas aeruginosa,1,0,0.0,NO
+GEARS,Hong Kong,WPRO,Serratia marcescens,1,0,0.0,NO
+GEARS,Hungary,EURO,Klebsiella pneumoniae,3,0,0.0,NO
+GEARS,Hungary,EURO,Escherichia coli,11,1,9.09,YES
+GEARS,Hungary,EURO,Pseudomonas aeruginosa,5,0,0.0,NO
+GEARS,Hungary,EURO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Hungary,EURO,Serratia marcescens,1,0,0.0,NO
+GEARS,Hungary,EURO,Citrobacter koseri,1,0,0.0,NO
+GEARS,India,SEARO,Klebsiella pneumoniae,12,7,58.33,YES
+GEARS,India,SEARO,Escherichia coli,17,8,47.06,YES
+GEARS,India,SEARO,Pseudomonas aeruginosa,4,3,75.0,NO
+GEARS,India,SEARO,Enterobacter cloacae,6,4,66.67,NO
+GEARS,India,SEARO,Serratia marcescens,4,2,50.0,NO
+GEARS,India,SEARO,Citrobacter koseri,2,0,0.0,NO
+GEARS,Ireland,EURO,Klebsiella pneumoniae,2,0,0.0,NO
+GEARS,Ireland,EURO,Escherichia coli,1,0,0.0,NO
+GEARS,Ireland,EURO,Pseudomonas aeruginosa,2,0,0.0,NO
+GEARS,Israel,EURO,Klebsiella pneumoniae,13,4,30.77,YES
+GEARS,Israel,EURO,Escherichia coli,18,1,5.56,YES
+GEARS,Israel,EURO,Pseudomonas aeruginosa,3,1,33.33,NO
+GEARS,Israel,EURO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Israel,EURO,Serratia marcescens,1,0,0.0,NO
+GEARS,Israel,EURO,Citrobacter koseri,1,0,0.0,NO
+GEARS,Italy,EURO,Klebsiella pneumoniae,25,12,48.0,YES
+GEARS,Italy,EURO,Escherichia coli,23,5,21.74,YES
+GEARS,Italy,EURO,Pseudomonas aeruginosa,15,1,6.67,YES
+GEARS,Italy,EURO,Enterobacter cloacae,5,0,0.0,NO
+GEARS,Italy,EURO,Serratia marcescens,7,0,0.0,NO
+GEARS,Italy,EURO,Citrobacter koseri,1,0,0.0,NO
+GEARS,Japan,WPRO,Klebsiella pneumoniae,6,0,0.0,NO
+GEARS,Japan,WPRO,Escherichia coli,2,0,0.0,NO
+GEARS,Japan,WPRO,Pseudomonas aeruginosa,2,1,50.0,NO
+GEARS,"Korea, South",WPRO,Klebsiella pneumoniae,4,0,0.0,NO
+GEARS,"Korea, South",WPRO,Escherichia coli,39,3,7.69,YES
+GEARS,"Korea, South",WPRO,Pseudomonas aeruginosa,5,1,20.0,NO
+GEARS,"Korea, South",WPRO,Enterobacter cloacae,3,0,0.0,NO
+GEARS,Kuwait,EMRO,Klebsiella pneumoniae,14,7,50.0,YES
+GEARS,Kuwait,EMRO,Escherichia coli,3,0,0.0,NO
+GEARS,Kuwait,EMRO,Pseudomonas aeruginosa,14,2,14.29,YES
+GEARS,Kuwait,EMRO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Kuwait,EMRO,Serratia marcescens,2,0,0.0,NO
+GEARS,Latvia,EURO,Klebsiella pneumoniae,1,0,0.0,NO
+GEARS,Latvia,EURO,Pseudomonas aeruginosa,5,0,0.0,NO
+GEARS,Latvia,EURO,Serratia marcescens,2,0,0.0,NO
+GEARS,Lithuania,EURO,Klebsiella pneumoniae,12,4,33.33,YES
+GEARS,Lithuania,EURO,Escherichia coli,11,2,18.18,YES
+GEARS,Lithuania,EURO,Pseudomonas aeruginosa,7,1,14.29,NO
+GEARS,Lithuania,EURO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Lithuania,EURO,Serratia marcescens,1,0,0.0,NO
+GEARS,Malaysia,WPRO,Klebsiella pneumoniae,2,1,50.0,NO
+GEARS,Malaysia,WPRO,Escherichia coli,1,1,100.0,NO
+GEARS,Malaysia,WPRO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Mexico,AMRO,Klebsiella pneumoniae,21,13,61.9,YES
+GEARS,Mexico,AMRO,Escherichia coli,16,1,6.25,YES
+GEARS,Mexico,AMRO,Pseudomonas aeruginosa,7,2,28.57,NO
+GEARS,Mexico,AMRO,Enterobacter cloacae,4,0,0.0,NO
+GEARS,Mexico,AMRO,Serratia marcescens,5,0,0.0,NO
+GEARS,Morocco,EMRO,Klebsiella pneumoniae,9,3,33.33,NO
+GEARS,Morocco,EMRO,Escherichia coli,4,0,0.0,NO
+GEARS,Morocco,EMRO,Pseudomonas aeruginosa,4,2,50.0,NO
+GEARS,Morocco,EMRO,Serratia marcescens,3,1,33.33,NO
+GEARS,Netherlands,EURO,Klebsiella pneumoniae,5,1,20.0,NO
+GEARS,Netherlands,EURO,Escherichia coli,11,0,0.0,YES
+GEARS,Netherlands,EURO,Pseudomonas aeruginosa,2,0,0.0,NO
+GEARS,Netherlands,EURO,Enterobacter cloacae,2,0,0.0,NO
+GEARS,New Zealand,WPRO,Klebsiella pneumoniae,1,0,0.0,NO
+GEARS,New Zealand,WPRO,Escherichia coli,3,0,0.0,NO
+GEARS,Nigeria,AFRO,Klebsiella pneumoniae,13,8,61.54,YES
+GEARS,Nigeria,AFRO,Escherichia coli,5,2,40.0,NO
+GEARS,Nigeria,AFRO,Pseudomonas aeruginosa,3,1,33.33,NO
+GEARS,Nigeria,AFRO,Serratia marcescens,2,0,0.0,NO
+GEARS,Panama,AMRO,Klebsiella pneumoniae,1,0,0.0,NO
+GEARS,Panama,AMRO,Escherichia coli,4,0,0.0,NO
+GEARS,Panama,AMRO,Pseudomonas aeruginosa,2,1,50.0,NO
+GEARS,Panama,AMRO,Serratia marcescens,1,0,0.0,NO
+GEARS,Philippines,WPRO,Klebsiella pneumoniae,1,0,0.0,NO
+GEARS,Philippines,WPRO,Escherichia coli,3,0,0.0,NO
+GEARS,Philippines,WPRO,Pseudomonas aeruginosa,1,1,100.0,NO
+GEARS,Philippines,WPRO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Philippines,WPRO,Citrobacter koseri,1,0,0.0,NO
+GEARS,Poland,EURO,Klebsiella pneumoniae,5,4,80.0,NO
+GEARS,Poland,EURO,Escherichia coli,8,1,12.5,NO
+GEARS,Poland,EURO,Pseudomonas aeruginosa,4,1,25.0,NO
+GEARS,Poland,EURO,Enterobacter cloacae,2,1,50.0,NO
+GEARS,Poland,EURO,Serratia marcescens,1,0,0.0,NO
+GEARS,Portugal,EURO,Klebsiella pneumoniae,5,4,80.0,NO
+GEARS,Portugal,EURO,Escherichia coli,2,0,0.0,NO
+GEARS,Portugal,EURO,Pseudomonas aeruginosa,5,1,20.0,NO
+GEARS,Portugal,EURO,Serratia marcescens,2,0,0.0,NO
+GEARS,Qatar,EMRO,Escherichia coli,1,0,0.0,NO
+GEARS,Romania,EURO,Klebsiella pneumoniae,11,6,54.55,YES
+GEARS,Romania,EURO,Escherichia coli,10,2,20.0,YES
+GEARS,Romania,EURO,Pseudomonas aeruginosa,6,1,16.67,NO
+GEARS,Romania,EURO,Enterobacter cloacae,2,1,50.0,NO
+GEARS,Romania,EURO,Serratia marcescens,3,0,0.0,NO
+GEARS,Russia,EURO,Klebsiella pneumoniae,18,13,72.22,YES
+GEARS,Russia,EURO,Escherichia coli,20,6,30.0,YES
+GEARS,Russia,EURO,Pseudomonas aeruginosa,14,5,35.71,YES
+GEARS,Russia,EURO,Enterobacter cloacae,2,0,0.0,NO
+GEARS,Russia,EURO,Serratia marcescens,2,1,50.0,NO
+GEARS,Saudi Arabia,EMRO,Klebsiella pneumoniae,5,2,40.0,NO
+GEARS,Saudi Arabia,EMRO,Escherichia coli,2,0,0.0,NO
+GEARS,Saudi Arabia,EMRO,Pseudomonas aeruginosa,1,0,0.0,NO
+GEARS,Saudi Arabia,EMRO,Enterobacter cloacae,3,0,0.0,NO
+GEARS,Slovenia,EURO,Serratia marcescens,1,0,0.0,NO
+GEARS,South Africa,AFRO,Klebsiella pneumoniae,9,5,55.56,NO
+GEARS,South Africa,AFRO,Escherichia coli,17,6,35.29,YES
+GEARS,South Africa,AFRO,Pseudomonas aeruginosa,3,1,33.33,NO
+GEARS,South Africa,AFRO,Serratia marcescens,1,0,0.0,NO
+GEARS,Spain,EURO,Klebsiella pneumoniae,31,6,19.35,YES
+GEARS,Spain,EURO,Escherichia coli,30,3,10.0,YES
+GEARS,Spain,EURO,Pseudomonas aeruginosa,13,0,0.0,YES
+GEARS,Spain,EURO,Enterobacter cloacae,8,0,0.0,NO
+GEARS,Spain,EURO,Serratia marcescens,3,0,0.0,NO
+GEARS,Sweden,EURO,Klebsiella pneumoniae,6,1,16.67,NO
+GEARS,Sweden,EURO,Pseudomonas aeruginosa,6,1,16.67,NO
+GEARS,Sweden,EURO,Enterobacter cloacae,4,0,0.0,NO
+GEARS,Sweden,EURO,Serratia marcescens,2,0,0.0,NO
+GEARS,Switzerland,EURO,Klebsiella pneumoniae,3,0,0.0,NO
+GEARS,Switzerland,EURO,Escherichia coli,5,0,0.0,NO
+GEARS,Switzerland,EURO,Pseudomonas aeruginosa,2,0,0.0,NO
+GEARS,Switzerland,EURO,Citrobacter koseri,2,0,0.0,NO
+GEARS,Taiwan,WPRO,Klebsiella pneumoniae,6,2,33.33,NO
+GEARS,Taiwan,WPRO,Escherichia coli,3,0,0.0,NO
+GEARS,Taiwan,WPRO,Pseudomonas aeruginosa,2,0,0.0,NO
+GEARS,Taiwan,WPRO,Citrobacter koseri,3,0,0.0,NO
+GEARS,Thailand,SEARO,Klebsiella pneumoniae,10,1,10.0,YES
+GEARS,Thailand,SEARO,Escherichia coli,4,1,25.0,NO
+GEARS,Thailand,SEARO,Pseudomonas aeruginosa,2,1,50.0,NO
+GEARS,Turkey,EURO,Klebsiella pneumoniae,7,5,71.43,NO
+GEARS,Turkey,EURO,Escherichia coli,6,3,50.0,NO
+GEARS,Turkey,EURO,Pseudomonas aeruginosa,6,2,33.33,NO
+GEARS,Turkey,EURO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Ukraine,EURO,Klebsiella pneumoniae,8,7,87.5,NO
+GEARS,Ukraine,EURO,Escherichia coli,4,0,0.0,NO
+GEARS,Ukraine,EURO,Pseudomonas aeruginosa,6,5,83.33,NO
+GEARS,United Kingdom,EURO,Klebsiella pneumoniae,18,4,22.22,YES
+GEARS,United Kingdom,EURO,Escherichia coli,18,0,0.0,YES
+GEARS,United Kingdom,EURO,Pseudomonas aeruginosa,12,1,8.33,YES
+GEARS,United Kingdom,EURO,Enterobacter cloacae,2,0,0.0,NO
+GEARS,United Kingdom,EURO,Serratia marcescens,2,0,0.0,NO
+GEARS,United Kingdom,EURO,Citrobacter koseri,3,0,0.0,NO
+GEARS,United States,AMRO,Klebsiella pneumoniae,120,16,13.33,YES
+GEARS,United States,AMRO,Escherichia coli,214,20,9.35,YES
+GEARS,United States,AMRO,Pseudomonas aeruginosa,39,0,0.0,YES
+GEARS,United States,AMRO,Enterobacter cloacae,11,0,0.0,YES
+GEARS,United States,AMRO,Serratia marcescens,10,0,0.0,YES
+GEARS,United States,AMRO,Citrobacter koseri,3,0,0.0,NO
+GEARS,Venezuela,AMRO,Klebsiella pneumoniae,6,3,50.0,NO
+GEARS,Venezuela,AMRO,Escherichia coli,3,0,0.0,NO
+GEARS,Venezuela,AMRO,Pseudomonas aeruginosa,1,1,100.0,NO
+GEARS,Venezuela,AMRO,Enterobacter cloacae,1,0,0.0,NO
+GEARS,Venezuela,AMRO,Serratia marcescens,1,0,0.0,NO

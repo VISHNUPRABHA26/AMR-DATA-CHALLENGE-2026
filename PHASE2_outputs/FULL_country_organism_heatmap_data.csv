@@ -1,0 +1,820 @@
+Country,WHO_Region,Organism,Total_Isolates,MDR_Count,XDR_Count,MDR_Rate_%,XDR_Rate_%,Sufficient_Data,Ceftriaxone_Cephalosporins_Rate_%,Meropenem_Carbapenems_Rate_%,Levofloxacin_Fluoroquinolones_Rate_%,Amikacin_Aminoglycosides_Rate_%,Vancomycin_Glycopeptides_Rate_%,Colistin_Polymyxins_Rate_%,Piperacillin tazobactam_Penicillins_Rate_%,Tigecycline_Tetracyclines_Rate_%,Trimethoprim sulfa_Trimethoprim_Rate_%,Linezolid_Oxazolidinones_Rate_%
+Argentina,AMRO,Klebsiella pneumoniae,354,214,138,60.45,38.98,YES,50.48,22.15,42.94,22.6,,11.73,50.0,0.56,66.67,
+Argentina,AMRO,Acinetobacter baumannii,129,119,115,92.25,89.15,YES,89.02,86.84,73.64,55.81,,6.25,88.37,,89.13,
+Argentina,AMRO,Escherichia coli,405,161,41,39.75,10.12,YES,16.47,0.56,35.56,3.46,,1.49,4.69,0.0,47.86,
+Argentina,AMRO,Staphylococcus aureus,361,28,0,7.76,0.0,YES,,,16.9,,0.0,,,0.0,0.0,0.0
+Argentina,AMRO,Pseudomonas aeruginosa,156,53,44,33.97,28.21,YES,,25.19,35.26,19.87,,1.3,26.92,,,
+Argentina,AMRO,Enterobacter cloacae,123,53,22,43.09,17.89,YES,47.62,4.0,20.33,8.94,,0.0,33.33,0.0,50.0,
+Argentina,AMRO,Enterococcus faecium,43,33,23,76.74,53.49,YES,,,86.05,,51.16,,,0.0,,0.0
+Argentina,AMRO,Staphylococcus epidermidis,79,64,0,81.01,0.0,YES,,,59.49,,0.0,,,0.0,58.23,0.0
+Argentina,AMRO,Serratia marcescens,89,42,21,47.19,23.6,YES,38.33,10.39,20.22,22.47,,90.62,26.97,0.0,17.24,
+Argentina,AMRO,Citrobacter koseri,6,2,0,33.33,0.0,NO,,,,,,,,,,
+Argentina,AMRO,Streptococcus pneumoniae,151,14,0,9.27,0.0,YES,0.66,4.72,0.0,,0.0,,,0.0,,0.0
+Argentina,AMRO,Haemophilus influenzae,25,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Australia,WPRO,Klebsiella pneumoniae,216,29,8,13.43,3.7,YES,7.76,0.97,4.17,0.46,,0.0,3.7,0.0,12.5,
+Australia,WPRO,Acinetobacter baumannii,23,2,2,8.7,8.7,YES,7.14,5.26,4.35,0.0,,0.0,8.7,,,
+Australia,WPRO,Escherichia coli,348,73,12,20.98,3.45,YES,9.91,0.0,12.64,0.29,,0.59,4.89,0.0,28.71,
+Australia,WPRO,Staphylococcus aureus,137,7,0,5.11,0.0,YES,,,12.41,,0.0,,,0.0,4.94,0.0
+Australia,WPRO,Pseudomonas aeruginosa,144,20,9,13.89,6.25,YES,,4.26,11.11,0.0,,0.0,7.64,,,
+Australia,WPRO,Enterobacter cloacae,60,19,4,31.67,6.67,YES,43.75,0.0,8.33,0.0,,8.33,30.0,1.67,,
+Australia,WPRO,Enterococcus faecium,45,32,16,71.11,35.56,YES,,,86.67,,15.56,,,0.0,,0.0
+Australia,WPRO,Staphylococcus epidermidis,37,28,0,75.68,0.0,YES,,,43.24,,0.0,,,0.0,59.46,0.0
+Australia,WPRO,Serratia marcescens,42,10,1,23.81,2.38,YES,12.9,0.0,2.38,0.0,,90.91,2.38,0.0,0.0,
+Australia,WPRO,Citrobacter koseri,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Australia,WPRO,Streptococcus pneumoniae,190,12,0,6.32,0.0,YES,0.53,1.69,0.0,,0.0,,,0.0,,0.0
+Australia,WPRO,Haemophilus influenzae,14,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Australia,WPRO,Salmonella spp,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Austria,EURO,Klebsiella pneumoniae,30,8,3,26.67,10.0,YES,0.0,7.41,23.33,6.67,,5.88,13.33,0.0,,
+Austria,EURO,Acinetobacter baumannii,4,1,1,25.0,25.0,NO,,,,,,,,,,
+Austria,EURO,Escherichia coli,64,15,3,23.44,4.69,YES,7.32,0.0,26.56,3.12,,0.0,3.12,0.0,,
+Austria,EURO,Staphylococcus aureus,65,6,0,9.23,0.0,YES,,,18.46,,0.0,,,0.0,0.0,0.0
+Austria,EURO,Pseudomonas aeruginosa,12,1,1,8.33,8.33,YES,,0.0,8.33,8.33,,,0.0,,,
+Austria,EURO,Enterobacter cloacae,7,6,0,85.71,0.0,NO,,,,,,,,,,
+Austria,EURO,Enterococcus faecium,7,1,0,14.29,0.0,NO,,,,,,,,,,
+Austria,EURO,Staphylococcus epidermidis,12,6,0,50.0,0.0,YES,,,58.33,,0.0,,,0.0,25.0,0.0
+Austria,EURO,Serratia marcescens,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Austria,EURO,Streptococcus pneumoniae,25,0,0,0.0,0.0,YES,4.0,0.0,0.0,,0.0,,,0.0,,0.0
+Austria,EURO,Haemophilus influenzae,6,0,0,0.0,0.0,NO,,,,,,,,,,
+Belgium,EURO,Klebsiella pneumoniae,295,108,34,36.61,11.53,YES,22.6,2.84,17.63,2.71,,2.34,14.58,0.34,39.85,
+Belgium,EURO,Acinetobacter baumannii,33,6,6,18.18,18.18,YES,26.92,11.54,21.21,18.18,,,15.15,,,
+Belgium,EURO,Escherichia coli,621,211,31,33.98,4.99,YES,7.19,0.17,26.57,2.09,,0.0,8.05,0.0,35.71,
+Belgium,EURO,Staphylococcus aureus,370,31,0,8.38,0.0,YES,,,17.3,,0.0,,,0.0,0.78,0.0
+Belgium,EURO,Pseudomonas aeruginosa,193,38,22,19.69,11.4,YES,,12.17,18.65,3.11,,1.48,11.92,,,
+Belgium,EURO,Enterobacter cloacae,76,22,5,28.95,6.58,YES,32.76,0.0,3.95,1.32,,4.55,18.42,1.32,18.75,
+Belgium,EURO,Enterococcus faecium,115,79,15,68.7,13.04,YES,,,80.0,,5.22,,,0.0,,0.0
+Belgium,EURO,Staphylococcus epidermidis,179,112,0,62.57,0.0,YES,,,68.16,,0.0,,,0.0,46.79,0.0
+Belgium,EURO,Serratia marcescens,61,21,4,34.43,6.56,YES,17.07,0.0,6.56,3.28,,90.48,11.48,0.0,0.0,
+Belgium,EURO,Citrobacter koseri,15,0,0,0.0,0.0,YES,,0.0,0.0,0.0,,0.0,0.0,0.0,,
+Belgium,EURO,Streptococcus pneumoniae,233,18,0,7.73,0.0,YES,0.0,0.44,0.43,,0.0,,,0.0,,0.0
+Belgium,EURO,Haemophilus influenzae,25,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Brazil,AMRO,Klebsiella pneumoniae,342,244,150,71.35,43.86,YES,66.07,30.36,54.09,15.5,,11.11,49.42,0.0,61.35,
+Brazil,AMRO,Acinetobacter baumannii,163,139,138,85.28,84.66,YES,72.22,84.47,81.6,69.94,,2.7,84.66,,80.95,
+Brazil,AMRO,Escherichia coli,358,182,33,50.84,9.22,YES,28.57,1.14,36.03,4.75,,0.37,7.26,0.0,51.13,
+Brazil,AMRO,Staphylococcus aureus,563,112,0,19.89,0.0,YES,,,26.11,,0.0,,,0.0,1.69,0.0
+Brazil,AMRO,Pseudomonas aeruginosa,229,79,54,34.5,23.58,YES,,22.87,25.76,13.54,,0.58,21.83,,,
+Brazil,AMRO,Enterobacter cloacae,108,44,23,40.74,21.3,YES,45.0,3.16,22.22,11.11,,6.06,27.78,0.0,40.0,
+Brazil,AMRO,Enterococcus faecium,57,47,34,82.46,59.65,YES,,,75.44,,57.89,,,0.0,,0.0
+Brazil,AMRO,Staphylococcus epidermidis,105,72,0,68.57,0.0,YES,,,56.19,,0.0,,,0.0,50.48,1.9
+Brazil,AMRO,Serratia marcescens,101,59,24,58.42,23.76,YES,27.08,11.46,20.79,16.83,,96.61,14.85,0.0,11.54,
+Brazil,AMRO,Citrobacter koseri,16,3,0,18.75,0.0,YES,,0.0,0.0,0.0,,0.0,6.25,0.0,7.14,
+Brazil,AMRO,Streptococcus pneumoniae,88,25,0,28.41,0.0,YES,0.0,17.86,0.0,,0.0,,,0.0,,0.0
+Brazil,AMRO,Haemophilus influenzae,16,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Bulgaria,EURO,Klebsiella pneumoniae,35,34,30,97.14,85.71,YES,90.0,65.71,88.57,68.57,,16.0,85.71,0.0,88.0,
+Bulgaria,EURO,Acinetobacter baumannii,20,20,19,100.0,95.0,YES,,75.0,80.0,100.0,,9.09,90.0,,90.91,
+Bulgaria,EURO,Escherichia coli,21,12,2,57.14,9.52,YES,,0.0,47.62,0.0,,0.0,4.76,0.0,31.25,
+Bulgaria,EURO,Staphylococcus aureus,29,0,0,0.0,0.0,YES,,,3.45,,0.0,,,0.0,0.0,0.0
+Bulgaria,EURO,Pseudomonas aeruginosa,4,1,1,25.0,25.0,NO,,,,,,,,,,
+Bulgaria,EURO,Enterobacter cloacae,6,4,3,66.67,50.0,NO,,,,,,,,,,
+Bulgaria,EURO,Enterococcus faecium,6,4,0,66.67,0.0,NO,,,,,,,,,,
+Bulgaria,EURO,Staphylococcus epidermidis,5,4,0,80.0,0.0,NO,,,,,,,,,,
+Bulgaria,EURO,Serratia marcescens,7,3,1,42.86,14.29,NO,,,,,,,,,,
+Bulgaria,EURO,Streptococcus pneumoniae,16,1,0,6.25,0.0,YES,0.0,6.25,0.0,,0.0,,,0.0,,0.0
+Bulgaria,EURO,Haemophilus influenzae,6,0,0,0.0,0.0,NO,,,,,,,,,,
+Cameroon,AFRO,Klebsiella pneumoniae,38,35,19,92.11,50.0,YES,,5.26,34.21,7.89,,0.0,34.21,0.0,89.47,
+Cameroon,AFRO,Acinetobacter baumannii,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Cameroon,AFRO,Escherichia coli,21,16,5,76.19,23.81,YES,,0.0,42.86,0.0,,4.76,0.0,0.0,76.19,
+Cameroon,AFRO,Staphylococcus aureus,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Cameroon,AFRO,Pseudomonas aeruginosa,6,4,3,66.67,50.0,NO,,,,,,,,,,
+Cameroon,AFRO,Enterobacter cloacae,1,1,0,100.0,0.0,NO,,,,,,,,,,
+Cameroon,AFRO,Serratia marcescens,6,1,0,16.67,0.0,NO,,,,,,,,,,
+Canada,AMRO,Klebsiella pneumoniae,649,119,24,18.34,3.7,YES,7.21,0.49,7.55,0.62,,1.21,5.24,0.0,15.15,
+Canada,AMRO,Acinetobacter baumannii,90,15,3,16.67,3.33,YES,10.0,3.7,5.56,4.44,,0.0,11.11,,22.5,
+Canada,AMRO,Escherichia coli,1018,255,31,25.05,3.05,YES,11.74,0.1,25.15,1.38,,0.22,2.16,0.0,25.22,
+Canada,AMRO,Staphylococcus aureus,678,57,0,8.41,0.0,YES,,,18.29,,0.0,,,0.0,1.13,0.0
+Canada,AMRO,Pseudomonas aeruginosa,366,57,28,15.57,7.65,YES,,7.1,10.68,0.55,,0.0,9.29,,,
+Canada,AMRO,Enterobacter cloacae,254,38,7,14.96,2.76,YES,24.51,1.75,3.54,0.79,,18.0,18.11,0.39,14.0,
+Canada,AMRO,Enterococcus faecium,154,92,45,59.74,29.22,YES,,,83.12,,26.62,,,0.0,,0.0
+Canada,AMRO,Staphylococcus epidermidis,84,42,0,50.0,0.0,YES,,,50.0,,0.0,,,0.0,41.67,0.0
+Canada,AMRO,Serratia marcescens,138,37,5,26.81,3.62,YES,5.43,0.0,3.62,1.45,,95.65,1.45,0.72,8.7,
+Canada,AMRO,Citrobacter koseri,15,3,0,20.0,0.0,YES,,0.0,0.0,0.0,,0.0,6.67,0.0,6.67,
+Canada,AMRO,Streptococcus pneumoniae,331,28,0,8.46,0.0,YES,0.0,4.52,0.3,,0.0,,,0.0,,0.0
+Canada,AMRO,Haemophilus influenzae,126,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Chile,AMRO,Klebsiella pneumoniae,191,130,85,68.06,44.5,YES,52.94,6.55,53.4,12.04,,0.86,46.6,0.52,69.15,
+Chile,AMRO,Acinetobacter baumannii,36,22,20,61.11,55.56,YES,91.3,41.38,61.11,44.44,,7.69,52.78,,0.0,
+Chile,AMRO,Escherichia coli,211,94,36,44.55,17.06,YES,40.62,0.55,39.34,1.9,,0.0,6.16,0.0,34.91,
+Chile,AMRO,Staphylococcus aureus,245,33,0,13.47,0.0,YES,,,33.06,,0.0,,,0.0,0.0,0.0
+Chile,AMRO,Pseudomonas aeruginosa,123,53,38,43.09,30.89,YES,,29.66,39.84,9.76,,0.0,23.58,,,
+Chile,AMRO,Enterobacter cloacae,62,26,13,41.94,20.97,YES,40.0,0.0,19.35,16.13,,0.0,29.03,0.0,14.29,
+Chile,AMRO,Enterococcus faecium,42,31,30,73.81,71.43,YES,,,90.48,,66.67,,,0.0,,2.38
+Chile,AMRO,Staphylococcus epidermidis,71,47,0,66.2,0.0,YES,,,60.56,,0.0,,,0.0,40.85,0.0
+Chile,AMRO,Serratia marcescens,38,17,10,44.74,26.32,YES,36.36,0.0,26.32,26.32,,88.24,23.68,0.0,6.67,
+Chile,AMRO,Citrobacter koseri,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Chile,AMRO,Streptococcus pneumoniae,141,27,0,19.15,0.0,YES,0.0,9.16,0.0,,0.0,,,0.0,,0.0
+Chile,AMRO,Haemophilus influenzae,15,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+China,WPRO,Klebsiella pneumoniae,471,259,122,54.99,25.9,YES,41.49,20.94,33.76,13.16,,3.84,28.66,1.06,35.48,
+China,WPRO,Acinetobacter baumannii,124,91,87,73.39,70.16,YES,44.0,70.73,61.29,57.26,,0.97,70.16,,48.48,
+China,WPRO,Escherichia coli,688,545,144,79.22,20.93,YES,62.86,2.77,56.98,6.69,,2.49,9.3,0.15,53.76,
+China,WPRO,Staphylococcus aureus,401,116,0,28.93,0.0,YES,,,22.69,,0.0,,,0.0,3.02,0.0
+China,WPRO,Pseudomonas aeruginosa,224,80,45,35.71,20.09,YES,,15.84,14.73,3.57,,5.94,23.66,,,
+China,WPRO,Enterobacter cloacae,72,35,11,48.61,15.28,YES,41.94,5.8,18.06,2.78,,32.61,27.78,0.0,29.27,
+China,WPRO,Enterococcus faecium,113,92,25,81.42,22.12,YES,,,87.61,,7.08,,,0.0,,0.0
+China,WPRO,Staphylococcus epidermidis,119,75,0,63.03,0.0,YES,,,50.42,,0.0,,,0.0,29.41,0.84
+China,WPRO,Serratia marcescens,62,44,4,70.97,6.45,YES,18.75,8.06,9.68,6.45,,93.62,9.68,0.0,4.44,
+China,WPRO,Citrobacter koseri,7,2,0,28.57,0.0,NO,,,,,,,,,,
+China,WPRO,Streptococcus pneumoniae,54,31,0,57.41,0.0,YES,9.26,20.37,3.7,,0.0,,,0.0,,0.0
+China,WPRO,Haemophilus influenzae,5,0,0,0.0,0.0,NO,,,,,,,,,,
+China,WPRO,Salmonella spp,4,1,1,25.0,25.0,NO,,,,,,,,,,
+Colombia,AMRO,Klebsiella pneumoniae,295,161,74,54.58,25.08,YES,33.91,19.05,22.37,14.24,,3.96,36.61,0.68,52.83,
+Colombia,AMRO,Acinetobacter baumannii,76,25,19,32.89,25.0,YES,50.0,29.33,19.74,17.11,,0.0,27.63,,14.29,
+Colombia,AMRO,Escherichia coli,347,202,40,58.21,11.53,YES,25.95,1.76,39.48,5.19,,0.0,8.93,0.0,59.09,
+Colombia,AMRO,Staphylococcus aureus,342,6,0,1.75,0.0,YES,,,7.6,,0.0,,,0.0,0.0,0.0
+Colombia,AMRO,Pseudomonas aeruginosa,219,79,56,36.07,25.57,YES,,26.51,23.29,12.79,,0.64,23.74,,,
+Colombia,AMRO,Enterobacter cloacae,96,39,23,40.62,23.96,YES,49.06,16.3,12.5,13.54,,23.4,28.12,0.0,15.38,
+Colombia,AMRO,Enterococcus faecium,26,17,9,65.38,34.62,YES,,,46.15,,34.62,,,0.0,,0.0
+Colombia,AMRO,Staphylococcus epidermidis,86,56,0,65.12,0.0,YES,,,46.51,,0.0,,,0.0,43.02,0.0
+Colombia,AMRO,Serratia marcescens,88,55,13,62.5,14.77,YES,41.18,10.34,11.36,15.91,,96.36,17.05,2.27,9.43,
+Colombia,AMRO,Citrobacter koseri,4,4,0,100.0,0.0,NO,,,,,,,,,,
+Colombia,AMRO,Streptococcus pneumoniae,96,22,0,22.92,0.0,YES,1.04,19.1,0.0,,0.0,,,0.0,,0.0
+Colombia,AMRO,Haemophilus influenzae,13,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Costa Rica,AMRO,Klebsiella pneumoniae,36,16,6,44.44,16.67,YES,,11.11,13.89,11.11,,0.0,11.11,0.0,36.11,
+Costa Rica,AMRO,Acinetobacter baumannii,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Costa Rica,AMRO,Escherichia coli,70,41,5,58.57,7.14,YES,,0.0,14.29,0.0,,0.0,0.0,0.0,51.43,
+Costa Rica,AMRO,Staphylococcus aureus,55,6,0,10.91,0.0,YES,,,10.91,,0.0,,,0.0,1.82,0.0
+Costa Rica,AMRO,Pseudomonas aeruginosa,19,2,1,10.53,5.26,YES,,5.26,10.53,0.0,,0.0,0.0,,,
+Costa Rica,AMRO,Enterobacter cloacae,2,1,0,50.0,0.0,NO,,,,,,,,,,
+Costa Rica,AMRO,Enterococcus faecium,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Costa Rica,AMRO,Staphylococcus epidermidis,13,9,0,69.23,0.0,YES,,,53.85,,0.0,,,0.0,30.77,0.0
+Costa Rica,AMRO,Serratia marcescens,5,4,0,80.0,0.0,NO,,,,,,,,,,
+Costa Rica,AMRO,Citrobacter koseri,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Costa Rica,AMRO,Streptococcus pneumoniae,2,1,0,50.0,0.0,NO,,,,,,,,,,
+Costa Rica,AMRO,Haemophilus influenzae,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Croatia,EURO,Klebsiella pneumoniae,388,276,170,71.13,43.81,YES,55.15,19.33,53.87,11.08,,6.75,47.68,0.26,55.95,
+Croatia,EURO,Acinetobacter baumannii,169,167,160,98.82,94.67,YES,100.0,93.49,78.11,89.94,,0.0,92.9,,73.21,
+Croatia,EURO,Escherichia coli,498,198,49,39.76,9.84,YES,16.34,0.4,32.13,2.81,,0.58,5.22,0.0,37.68,
+Croatia,EURO,Staphylococcus aureus,525,97,0,18.48,0.0,YES,,,30.1,,0.0,,,0.0,0.0,0.0
+Croatia,EURO,Pseudomonas aeruginosa,299,128,87,42.81,29.1,YES,,29.1,33.44,8.7,,0.0,22.74,,,
+Croatia,EURO,Enterobacter cloacae,72,41,23,56.94,31.94,YES,51.06,9.72,27.78,8.33,,4.0,41.67,1.39,40.0,
+Croatia,EURO,Enterococcus faecium,80,56,32,70.0,40.0,YES,,,88.75,,33.75,,,0.0,,1.25
+Croatia,EURO,Staphylococcus epidermidis,63,38,0,60.32,0.0,YES,,,53.97,,0.0,,,0.0,43.55,0.0
+Croatia,EURO,Serratia marcescens,54,22,5,40.74,9.26,YES,18.52,1.85,3.7,7.41,,100.0,9.26,0.0,14.81,
+Croatia,EURO,Citrobacter koseri,8,0,0,0.0,0.0,NO,,,,,,,,,,
+Croatia,EURO,Streptococcus pneumoniae,129,18,0,13.95,0.0,YES,0.0,7.75,0.0,,0.0,,,0.0,,0.0
+Croatia,EURO,Haemophilus influenzae,12,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Czech Republic,EURO,Klebsiella pneumoniae,202,120,50,59.41,24.75,YES,50.7,0.0,22.77,3.96,,2.5,21.78,0.99,58.33,
+Czech Republic,EURO,Acinetobacter baumannii,23,10,9,43.48,39.13,YES,,31.82,39.13,34.78,,0.0,39.13,,44.44,
+Czech Republic,EURO,Escherichia coli,313,101,19,32.27,6.07,YES,13.68,0.0,24.6,3.83,,0.85,5.75,0.0,28.33,
+Czech Republic,EURO,Staphylococcus aureus,231,49,0,21.21,0.0,YES,,,28.57,,0.0,,,0.0,0.51,0.0
+Czech Republic,EURO,Pseudomonas aeruginosa,101,27,16,26.73,15.84,YES,,17.0,25.74,5.94,,0.0,10.89,,,
+Czech Republic,EURO,Enterobacter cloacae,36,10,3,27.78,8.33,YES,54.17,0.0,5.56,0.0,,0.0,19.44,0.0,25.0,
+Czech Republic,EURO,Enterococcus faecium,33,28,10,84.85,30.3,YES,,,90.91,,27.27,,,0.0,,0.0
+Czech Republic,EURO,Staphylococcus epidermidis,32,22,0,68.75,0.0,YES,,,59.38,,0.0,,,0.0,46.88,0.0
+Czech Republic,EURO,Serratia marcescens,15,3,1,20.0,6.67,YES,,0.0,13.33,0.0,,,0.0,0.0,,
+Czech Republic,EURO,Citrobacter koseri,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Czech Republic,EURO,Streptococcus pneumoniae,67,2,0,2.99,0.0,YES,0.0,0.0,0.0,,0.0,,,0.0,,0.0
+Czech Republic,EURO,Haemophilus influenzae,9,0,0,0.0,0.0,NO,,,,,,,,,,
+Denmark,EURO,Klebsiella pneumoniae,262,48,7,18.32,2.67,YES,10.61,0.0,6.11,0.0,,0.0,5.34,0.0,11.88,
+Denmark,EURO,Acinetobacter baumannii,29,6,4,20.69,13.79,YES,11.11,16.67,17.24,6.9,,,20.69,,,
+Denmark,EURO,Escherichia coli,374,76,10,20.32,2.67,YES,9.71,0.31,13.37,0.53,,0.0,5.08,0.0,18.62,
+Denmark,EURO,Staphylococcus aureus,263,2,0,0.76,0.0,YES,,,1.14,,0.0,,,0.0,1.71,0.0
+Denmark,EURO,Pseudomonas aeruginosa,175,18,6,10.29,3.43,YES,,2.65,6.29,0.0,,0.0,2.29,,,
+Denmark,EURO,Enterobacter cloacae,109,10,1,9.17,0.92,YES,14.0,0.0,0.92,0.0,,0.0,10.09,0.0,,
+Denmark,EURO,Enterococcus faecium,39,21,6,53.85,15.38,YES,,,87.18,,5.13,,,0.0,,2.56
+Denmark,EURO,Staphylococcus epidermidis,35,21,0,60.0,0.0,YES,,,60.0,,0.0,,,0.0,42.42,0.0
+Denmark,EURO,Serratia marcescens,47,14,0,29.79,0.0,YES,3.23,0.0,0.0,0.0,,100.0,2.13,0.0,6.67,
+Denmark,EURO,Citrobacter koseri,15,1,0,6.67,0.0,YES,,0.0,0.0,0.0,,0.0,0.0,0.0,,
+Denmark,EURO,Streptococcus pneumoniae,103,3,0,2.91,0.0,YES,0.0,1.04,0.0,,0.0,,,0.0,,0.0
+Denmark,EURO,Haemophilus influenzae,15,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Dominican Republic,AMRO,Klebsiella pneumoniae,6,1,0,16.67,0.0,NO,,,,,,,,,,
+Dominican Republic,AMRO,Acinetobacter baumannii,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Dominican Republic,AMRO,Escherichia coli,3,2,1,66.67,33.33,NO,,,,,,,,,,
+Dominican Republic,AMRO,Staphylococcus aureus,6,0,0,0.0,0.0,NO,,,,,,,,,,
+Dominican Republic,AMRO,Pseudomonas aeruginosa,9,3,1,33.33,11.11,NO,,,,,,,,,,
+Dominican Republic,AMRO,Enterococcus faecium,2,2,1,100.0,50.0,NO,,,,,,,,,,
+Dominican Republic,AMRO,Staphylococcus epidermidis,5,3,0,60.0,0.0,NO,,,,,,,,,,
+Dominican Republic,AMRO,Streptococcus pneumoniae,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Egypt,EMRO,Klebsiella pneumoniae,4,4,4,100.0,100.0,NO,,,,,,,,,,
+Egypt,EMRO,Escherichia coli,4,3,1,75.0,25.0,NO,,,,,,,,,,
+Egypt,EMRO,Pseudomonas aeruginosa,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Egypt,EMRO,Enterobacter cloacae,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Egypt,EMRO,Staphylococcus epidermidis,1,0,0,0.0,0.0,NO,,,,,,,,,,
+El Salvador,AMRO,Klebsiella pneumoniae,4,3,3,75.0,75.0,NO,,,,,,,,,,
+El Salvador,AMRO,Escherichia coli,2,2,2,100.0,100.0,NO,,,,,,,,,,
+El Salvador,AMRO,Staphylococcus aureus,1,0,0,0.0,0.0,NO,,,,,,,,,,
+El Salvador,AMRO,Enterobacter cloacae,2,2,2,100.0,100.0,NO,,,,,,,,,,
+Finland,EURO,Klebsiella pneumoniae,12,0,0,0.0,0.0,YES,0.0,0.0,0.0,0.0,,,0.0,0.0,,
+Finland,EURO,Escherichia coli,27,2,1,7.41,3.7,YES,3.7,0.0,14.81,0.0,,,7.41,0.0,,
+Finland,EURO,Staphylococcus aureus,10,0,0,0.0,0.0,YES,,,0.0,,0.0,,,0.0,,0.0
+Finland,EURO,Pseudomonas aeruginosa,5,1,1,20.0,20.0,NO,,,,,,,,,,
+Finland,EURO,Enterobacter cloacae,3,1,0,33.33,0.0,NO,,,,,,,,,,
+Finland,EURO,Enterococcus faecium,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Finland,EURO,Streptococcus pneumoniae,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Finland,EURO,Haemophilus influenzae,2,0,0,0.0,0.0,NO,,,,,,,,,,
+France,EURO,Klebsiella pneumoniae,823,289,108,35.12,13.12,YES,26.3,0.26,17.86,1.82,,0.79,14.34,0.12,35.17,
+France,EURO,Acinetobacter baumannii,191,52,41,27.23,21.47,YES,19.01,15.7,28.27,15.18,,0.0,23.56,,17.46,
+France,EURO,Escherichia coli,1608,420,62,26.12,3.86,YES,13.09,0.0,14.93,0.87,,0.15,6.28,0.0,32.18,
+France,EURO,Staphylococcus aureus,1323,59,0,4.46,0.0,YES,,,25.32,,0.0,,,0.0,0.28,0.0
+France,EURO,Pseudomonas aeruginosa,639,152,104,23.79,16.28,YES,,11.75,20.34,1.72,,0.34,17.21,,,
+France,EURO,Enterobacter cloacae,462,167,91,36.15,19.7,YES,45.86,0.47,24.46,3.25,,1.52,30.74,0.22,26.67,
+France,EURO,Enterococcus faecium,202,95,23,47.03,11.39,YES,,,70.3,,1.49,,,0.0,,0.0
+France,EURO,Staphylococcus epidermidis,306,119,1,38.89,0.33,YES,,,50.98,,0.0,,,0.0,38.71,2.29
+France,EURO,Serratia marcescens,264,71,16,26.89,6.06,YES,14.57,0.0,8.33,1.89,,90.77,5.3,0.0,3.08,
+France,EURO,Citrobacter koseri,72,3,0,4.17,0.0,YES,0.0,0.0,1.39,0.0,,0.0,1.39,0.0,3.12,
+France,EURO,Streptococcus pneumoniae,624,134,0,21.47,0.0,YES,0.48,5.18,0.0,,0.0,,,0.0,,0.0
+France,EURO,Haemophilus influenzae,81,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Germany,EURO,Klebsiella pneumoniae,440,113,26,25.68,5.91,YES,13.71,1.86,14.55,1.59,,2.8,10.0,0.45,27.54,
+Germany,EURO,Acinetobacter baumannii,60,14,10,23.33,16.67,YES,19.61,18.52,15.0,11.67,,0.0,21.67,,,
+Germany,EURO,Escherichia coli,733,229,39,31.24,5.32,YES,16.97,0.14,24.83,1.91,,0.0,6.41,0.0,32.85,
+Germany,EURO,Staphylococcus aureus,733,68,0,9.28,0.0,YES,,,31.24,,0.0,,,0.0,0.0,0.0
+Germany,EURO,Pseudomonas aeruginosa,274,50,33,18.25,12.04,YES,,13.86,18.98,0.36,,1.5,9.49,,,
+Germany,EURO,Enterobacter cloacae,194,42,19,21.65,9.79,YES,36.9,1.63,11.34,2.06,,7.14,18.56,0.52,20.83,
+Germany,EURO,Enterococcus faecium,166,83,34,50.0,20.48,YES,,,93.37,,9.64,,,0.0,,0.0
+Germany,EURO,Staphylococcus epidermidis,255,75,0,29.41,0.0,YES,,,65.49,,0.0,,,0.0,40.15,1.96
+Germany,EURO,Serratia marcescens,96,22,3,22.92,3.12,YES,9.59,1.11,4.17,0.0,,95.83,5.21,0.0,4.76,
+Germany,EURO,Citrobacter koseri,27,2,0,7.41,0.0,YES,0.0,0.0,0.0,3.7,,0.0,3.7,0.0,0.0,
+Germany,EURO,Streptococcus pneumoniae,434,18,0,4.15,0.0,YES,0.23,0.99,0.23,,0.0,,,0.0,,0.0
+Germany,EURO,Haemophilus influenzae,48,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,2.08,0.0,,
+Ghana,AFRO,Klebsiella pneumoniae,2,2,1,100.0,50.0,NO,,,,,,,,,,
+Ghana,AFRO,Escherichia coli,3,2,0,66.67,0.0,NO,,,,,,,,,,
+Ghana,AFRO,Staphylococcus aureus,8,2,0,25.0,0.0,NO,,,,,,,,,,
+Ghana,AFRO,Pseudomonas aeruginosa,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Greece,EURO,Klebsiella pneumoniae,213,160,137,75.12,64.32,YES,73.33,58.92,68.08,40.38,,28.57,65.26,0.47,67.5,
+Greece,EURO,Acinetobacter baumannii,123,119,118,96.75,95.93,YES,96.83,92.98,85.37,95.12,,45.0,95.12,,84.62,
+Greece,EURO,Escherichia coli,187,49,6,26.2,3.21,YES,8.49,0.0,21.39,2.14,,0.0,3.74,0.0,28.17,
+Greece,EURO,Staphylococcus aureus,220,45,0,20.45,0.0,YES,,,28.18,,0.0,,,0.0,1.8,0.0
+Greece,EURO,Pseudomonas aeruginosa,154,69,51,44.81,33.12,YES,,35.42,40.26,19.48,,0.0,24.68,,,
+Greece,EURO,Enterobacter cloacae,61,29,18,47.54,29.51,YES,48.89,7.69,24.59,13.11,,0.0,37.7,0.0,25.0,
+Greece,EURO,Enterococcus faecium,38,25,20,65.79,52.63,YES,,,89.47,,44.74,,,0.0,,0.0
+Greece,EURO,Staphylococcus epidermidis,64,53,0,82.81,0.0,YES,,,73.44,,0.0,,,0.0,28.12,6.25
+Greece,EURO,Serratia marcescens,52,16,6,30.77,11.54,YES,13.64,2.17,9.62,5.77,,100.0,7.69,3.85,,
+Greece,EURO,Citrobacter koseri,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Greece,EURO,Streptococcus pneumoniae,75,8,0,10.67,0.0,YES,0.0,3.03,0.0,,0.0,,,0.0,,0.0
+Greece,EURO,Haemophilus influenzae,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Guatemala,AMRO,Klebsiella pneumoniae,58,47,33,81.03,56.9,YES,93.33,31.03,36.21,34.48,,6.98,50.0,0.0,55.81,
+Guatemala,AMRO,Acinetobacter baumannii,31,27,24,87.1,77.42,YES,90.0,74.19,58.06,74.19,,0.0,77.42,,80.95,
+Guatemala,AMRO,Escherichia coli,27,17,7,62.96,25.93,YES,50.0,0.0,48.15,14.81,,0.0,22.22,0.0,73.33,
+Guatemala,AMRO,Staphylococcus aureus,83,10,0,12.05,0.0,YES,,,18.07,,0.0,,,0.0,0.0,0.0
+Guatemala,AMRO,Pseudomonas aeruginosa,41,18,16,43.9,39.02,YES,,21.95,34.15,17.07,,0.0,29.27,,,
+Guatemala,AMRO,Enterobacter cloacae,10,9,5,90.0,50.0,YES,,10.0,50.0,20.0,,,30.0,0.0,,
+Guatemala,AMRO,Enterococcus faecium,5,5,1,100.0,20.0,NO,,,,,,,,,,
+Guatemala,AMRO,Staphylococcus epidermidis,17,11,0,64.71,0.0,YES,,,35.29,,0.0,,,0.0,29.41,0.0
+Guatemala,AMRO,Serratia marcescens,18,5,3,27.78,16.67,YES,30.0,0.0,5.56,16.67,,,11.11,0.0,,
+Guatemala,AMRO,Streptococcus pneumoniae,21,0,0,0.0,0.0,YES,0.0,0.0,9.52,,0.0,,,0.0,,0.0
+Guatemala,AMRO,Haemophilus influenzae,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Honduras,AMRO,Klebsiella pneumoniae,10,10,6,100.0,60.0,YES,100.0,0.0,30.0,70.0,,,50.0,0.0,,
+Honduras,AMRO,Acinetobacter baumannii,2,2,2,100.0,100.0,NO,,,,,,,,,,
+Honduras,AMRO,Escherichia coli,2,1,1,50.0,50.0,NO,,,,,,,,,,
+Honduras,AMRO,Staphylococcus aureus,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Honduras,AMRO,Pseudomonas aeruginosa,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Honduras,AMRO,Enterobacter cloacae,2,1,1,50.0,50.0,NO,,,,,,,,,,
+Honduras,AMRO,Streptococcus pneumoniae,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Honduras,AMRO,Haemophilus influenzae,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Hong Kong,WPRO,Klebsiella pneumoniae,90,17,3,18.89,3.33,YES,10.81,0.0,8.89,0.0,,0.0,5.56,0.0,33.33,
+Hong Kong,WPRO,Acinetobacter baumannii,42,22,22,52.38,52.38,YES,36.11,54.84,28.57,14.29,,,52.38,,,
+Hong Kong,WPRO,Escherichia coli,122,43,10,35.25,8.2,YES,32.73,0.0,37.7,3.28,,8.33,1.64,0.0,40.0,
+Hong Kong,WPRO,Staphylococcus aureus,77,2,0,2.6,0.0,YES,,,37.66,,0.0,,,0.0,,0.0
+Hong Kong,WPRO,Pseudomonas aeruginosa,61,5,4,8.2,6.56,YES,,19.67,9.84,1.64,,,9.84,,,
+Hong Kong,WPRO,Enterobacter cloacae,44,4,0,9.09,0.0,YES,14.63,0.0,2.27,0.0,,,13.64,0.0,,
+Hong Kong,WPRO,Enterococcus faecium,20,13,10,65.0,50.0,YES,,,100.0,,0.0,,,0.0,,0.0
+Hong Kong,WPRO,Staphylococcus epidermidis,4,3,0,75.0,0.0,NO,,,,,,,,,,
+Hong Kong,WPRO,Serratia marcescens,19,4,1,21.05,5.26,YES,14.29,0.0,15.79,0.0,,,15.79,0.0,,
+Hong Kong,WPRO,Streptococcus pneumoniae,12,4,0,33.33,0.0,YES,0.0,9.09,0.0,,0.0,,,0.0,,0.0
+Hong Kong,WPRO,Haemophilus influenzae,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Hungary,EURO,Klebsiella pneumoniae,182,98,49,53.85,26.92,YES,58.14,0.0,37.91,2.2,,1.28,16.48,0.0,42.86,
+Hungary,EURO,Acinetobacter baumannii,62,44,41,70.97,66.13,YES,,60.66,61.29,46.77,,0.0,66.13,,68.0,
+Hungary,EURO,Escherichia coli,233,93,9,39.91,3.86,YES,20.97,0.0,32.19,4.29,,0.0,3.86,0.0,31.58,
+Hungary,EURO,Staphylococcus aureus,252,50,0,19.84,0.0,YES,,,27.78,,0.0,,,0.0,0.44,0.0
+Hungary,EURO,Pseudomonas aeruginosa,177,52,24,29.38,13.56,YES,,13.56,14.69,1.69,,0.0,19.21,,,
+Hungary,EURO,Enterobacter cloacae,42,17,6,40.48,14.29,YES,45.0,0.0,14.29,9.52,,15.38,26.19,0.0,9.09,
+Hungary,EURO,Enterococcus faecium,47,41,19,87.23,40.43,YES,,,93.62,,34.04,,,0.0,,0.0
+Hungary,EURO,Staphylococcus epidermidis,100,69,0,69.0,0.0,YES,,,69.0,,0.0,,,0.0,35.0,0.0
+Hungary,EURO,Serratia marcescens,33,12,1,36.36,3.03,YES,0.0,3.03,3.03,3.03,,95.83,3.03,0.0,0.0,
+Hungary,EURO,Citrobacter koseri,13,1,0,7.69,0.0,YES,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,
+Hungary,EURO,Streptococcus pneumoniae,80,10,0,12.5,0.0,YES,0.0,5.0,0.0,,0.0,,,0.0,,0.0
+Hungary,EURO,Haemophilus influenzae,9,0,0,0.0,0.0,NO,,,,,,,,,,
+India,SEARO,Klebsiella pneumoniae,418,336,267,80.38,63.88,YES,90.41,53.4,64.59,51.91,,6.96,63.64,0.48,60.0,
+India,SEARO,Acinetobacter baumannii,165,138,135,83.64,81.82,YES,59.09,82.72,70.91,77.58,,0.7,80.61,,64.34,
+India,SEARO,Escherichia coli,428,377,140,88.08,32.71,YES,76.19,11.35,78.27,10.75,,0.0,25.23,0.23,54.25,
+India,SEARO,Staphylococcus aureus,233,89,0,38.2,0.0,YES,,,80.26,,0.0,,,0.0,3.35,0.43
+India,SEARO,Pseudomonas aeruginosa,184,83,64,45.11,34.78,YES,,31.15,36.96,30.98,,3.29,29.35,,,
+India,SEARO,Enterobacter cloacae,66,35,19,53.03,28.79,YES,71.43,12.9,21.21,24.24,,35.56,31.82,0.0,20.0,
+India,SEARO,Enterococcus faecium,51,47,26,92.16,50.98,YES,,,96.08,,39.22,,,0.0,,7.84
+India,SEARO,Staphylococcus epidermidis,73,43,0,58.9,0.0,YES,,,61.64,,0.0,,,0.0,26.03,0.0
+India,SEARO,Serratia marcescens,56,37,12,66.07,21.43,YES,8.33,12.96,17.86,19.64,,97.73,23.21,0.0,31.82,
+India,SEARO,Citrobacter koseri,11,2,0,18.18,0.0,YES,,0.0,0.0,9.09,,9.09,0.0,0.0,0.0,
+India,SEARO,Streptococcus pneumoniae,49,23,0,46.94,0.0,YES,0.0,10.42,4.08,,0.0,,,0.0,,0.0
+India,SEARO,Haemophilus influenzae,11,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Indonesia,SEARO,Acinetobacter baumannii,2,1,1,50.0,50.0,NO,,,,,,,,,,
+Indonesia,SEARO,Serratia marcescens,4,4,4,100.0,100.0,NO,,,,,,,,,,
+Ireland,EURO,Klebsiella pneumoniae,209,48,21,22.97,10.05,YES,22.64,1.56,9.57,2.87,,0.0,14.83,0.0,24.0,
+Ireland,EURO,Acinetobacter baumannii,21,11,9,52.38,42.86,YES,43.75,58.33,47.62,19.05,,,47.62,,,
+Ireland,EURO,Escherichia coli,374,87,13,23.26,3.48,YES,9.79,0.29,22.19,1.34,,1.14,7.22,0.0,38.64,
+Ireland,EURO,Staphylococcus aureus,252,4,0,1.59,0.0,YES,,,24.6,,0.0,,,0.0,0.0,0.0
+Ireland,EURO,Pseudomonas aeruginosa,126,18,10,14.29,7.94,YES,,8.55,12.7,3.17,,0.0,5.56,,,
+Ireland,EURO,Enterobacter cloacae,79,30,19,37.97,24.05,YES,56.94,1.54,25.32,2.53,,,31.65,6.33,,
+Ireland,EURO,Enterococcus faecium,98,69,60,70.41,61.22,YES,,,94.9,,34.69,,,0.0,,0.0
+Ireland,EURO,Staphylococcus epidermidis,19,8,0,42.11,0.0,YES,,,31.58,,0.0,,,0.0,15.79,0.0
+Ireland,EURO,Serratia marcescens,33,13,5,39.39,15.15,YES,36.67,0.0,12.12,0.0,,,30.3,0.0,,
+Ireland,EURO,Citrobacter koseri,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Ireland,EURO,Streptococcus pneumoniae,79,6,0,7.59,0.0,YES,0.0,0.0,0.0,,0.0,,,0.0,,0.0
+Ireland,EURO,Haemophilus influenzae,8,0,0,0.0,0.0,NO,,,,,,,,,,
+Israel,EURO,Klebsiella pneumoniae,307,174,87,56.68,28.34,YES,46.57,9.12,35.18,13.36,,0.78,29.32,0.65,53.61,
+Israel,EURO,Acinetobacter baumannii,102,79,75,77.45,73.53,YES,66.67,65.69,65.69,50.98,,2.22,73.53,,57.5,
+Israel,EURO,Escherichia coli,367,179,63,48.77,17.17,YES,30.83,0.27,42.23,3.27,,0.0,6.27,0.0,44.34,
+Israel,EURO,Staphylococcus aureus,330,63,0,19.09,0.0,YES,,,44.24,,0.0,,,0.0,0.53,0.0
+Israel,EURO,Pseudomonas aeruginosa,131,37,29,28.24,22.14,YES,,12.21,28.24,2.29,,0.0,23.66,,,
+Israel,EURO,Enterobacter cloacae,91,29,14,31.87,15.38,YES,39.76,2.2,12.09,1.1,,,27.47,1.1,,
+Israel,EURO,Enterococcus faecium,62,46,22,74.19,35.48,YES,,,82.26,,16.13,,,0.0,,0.0
+Israel,EURO,Staphylococcus epidermidis,63,37,0,58.73,0.0,YES,,,53.97,,0.0,,,0.0,45.16,0.0
+Israel,EURO,Serratia marcescens,49,19,3,38.78,6.12,YES,10.26,2.04,8.16,4.08,,100.0,4.08,2.04,0.0,
+Israel,EURO,Citrobacter koseri,5,1,0,20.0,0.0,NO,,,,,,,,,,
+Israel,EURO,Streptococcus pneumoniae,229,26,0,11.35,0.0,YES,3.49,6.55,1.75,,0.0,,,0.0,,0.0
+Israel,EURO,Haemophilus influenzae,57,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Italy,EURO,Klebsiella pneumoniae,945,555,388,58.73,41.06,YES,52.43,29.39,47.09,22.86,,4.57,42.33,0.95,49.38,
+Italy,EURO,Acinetobacter baumannii,350,295,288,84.29,82.29,YES,75.85,82.42,80.57,72.86,,3.45,81.14,,77.62,
+Italy,EURO,Escherichia coli,1449,666,208,45.96,14.35,YES,36.62,0.37,45.62,4.9,,0.8,10.28,0.0,36.52,
+Italy,EURO,Staphylococcus aureus,1331,136,0,10.22,0.0,YES,,,40.05,,0.0,,,0.0,0.92,0.0
+Italy,EURO,Pseudomonas aeruginosa,635,179,144,28.19,22.68,YES,,20.42,24.09,3.31,,0.33,19.06,,,
+Italy,EURO,Enterobacter cloacae,420,135,62,32.14,14.76,YES,44.51,4.74,19.52,4.52,,6.35,35.95,0.95,17.31,
+Italy,EURO,Enterococcus faecium,264,149,77,56.44,29.17,YES,,,88.26,,16.29,,,0.0,,0.38
+Italy,EURO,Staphylococcus epidermidis,376,129,0,34.31,0.0,YES,,,62.77,,0.0,,,0.0,32.49,2.39
+Italy,EURO,Serratia marcescens,231,58,15,25.11,6.49,YES,8.7,1.88,3.46,3.9,,95.74,6.93,0.87,6.38,
+Italy,EURO,Citrobacter koseri,40,5,0,12.5,0.0,YES,0.0,0.0,0.0,0.0,,0.0,7.5,0.0,3.85,
+Italy,EURO,Streptococcus pneumoniae,611,48,0,7.86,0.0,YES,0.33,3.23,0.16,,0.0,,,0.0,,0.0
+Italy,EURO,Haemophilus influenzae,56,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Ivory Coast,AFRO,Klebsiella pneumoniae,59,53,27,89.83,45.76,YES,,0.0,20.34,5.08,,0.0,11.86,0.0,71.19,
+Ivory Coast,AFRO,Acinetobacter baumannii,8,1,1,12.5,12.5,NO,,,,,,,,,,
+Ivory Coast,AFRO,Escherichia coli,36,36,13,100.0,36.11,YES,,8.33,61.11,0.0,,0.0,13.89,0.0,75.0,
+Ivory Coast,AFRO,Staphylococcus aureus,23,4,0,17.39,0.0,YES,,,21.74,,0.0,,,0.0,0.0,0.0
+Ivory Coast,AFRO,Pseudomonas aeruginosa,6,1,1,16.67,16.67,NO,,,,,,,,,,
+Ivory Coast,AFRO,Enterobacter cloacae,9,7,3,77.78,33.33,NO,,,,,,,,,,
+Ivory Coast,AFRO,Enterococcus faecium,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Ivory Coast,AFRO,Staphylococcus epidermidis,18,14,0,77.78,0.0,YES,,,22.22,,0.0,,,0.0,55.56,0.0
+Jamaica,AMRO,Klebsiella pneumoniae,3,3,2,100.0,66.67,NO,,,,,,,,,,
+Jamaica,AMRO,Acinetobacter baumannii,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Jamaica,AMRO,Escherichia coli,4,3,1,75.0,25.0,NO,,,,,,,,,,
+Jamaica,AMRO,Staphylococcus aureus,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Jamaica,AMRO,Serratia marcescens,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Jamaica,AMRO,Streptococcus pneumoniae,7,2,0,28.57,0.0,NO,,,,,,,,,,
+Japan,WPRO,Klebsiella pneumoniae,108,24,1,22.22,0.93,YES,13.95,0.93,7.41,0.0,,1.22,0.93,0.0,25.86,
+Japan,WPRO,Acinetobacter baumannii,18,0,0,0.0,0.0,YES,,0.0,0.0,0.0,,0.0,0.0,,0.0,
+Japan,WPRO,Escherichia coli,146,59,4,40.41,2.74,YES,25.45,0.0,39.04,2.05,,0.0,3.42,0.0,20.93,
+Japan,WPRO,Staphylococcus aureus,212,78,0,36.79,0.0,YES,,,49.06,,0.0,,,0.0,0.0,0.0
+Japan,WPRO,Pseudomonas aeruginosa,75,17,6,22.67,8.0,YES,,8.0,13.33,0.0,,0.0,10.67,,,
+Japan,WPRO,Enterobacter cloacae,15,7,0,46.67,0.0,YES,,0.0,6.67,0.0,,7.69,26.67,0.0,,
+Japan,WPRO,Enterococcus faecium,40,36,8,90.0,20.0,YES,,,92.5,,0.0,,,0.0,,0.0
+Japan,WPRO,Staphylococcus epidermidis,52,30,0,57.69,0.0,YES,,,65.38,,0.0,,,0.0,28.85,0.0
+Japan,WPRO,Serratia marcescens,11,4,0,36.36,0.0,YES,,0.0,0.0,0.0,,,0.0,0.0,,
+Japan,WPRO,Citrobacter koseri,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Japan,WPRO,Streptococcus pneumoniae,15,8,0,53.33,0.0,YES,6.67,6.67,6.67,,0.0,,,0.0,,0.0
+Japan,WPRO,Haemophilus influenzae,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Jordan,EMRO,Klebsiella pneumoniae,37,20,11,54.05,29.73,YES,55.0,16.22,24.32,13.51,,11.76,24.32,0.0,76.47,
+Jordan,EMRO,Acinetobacter baumannii,31,29,29,93.55,93.55,YES,94.12,90.32,80.65,87.1,,0.0,90.32,,85.71,
+Jordan,EMRO,Escherichia coli,51,34,9,66.67,17.65,YES,61.29,1.96,60.78,0.0,,0.0,7.84,0.0,40.0,
+Jordan,EMRO,Staphylococcus aureus,52,9,0,17.31,0.0,YES,,,19.23,,0.0,,,0.0,0.0,0.0
+Jordan,EMRO,Pseudomonas aeruginosa,18,6,4,33.33,22.22,YES,,22.22,38.89,16.67,,0.0,22.22,,,
+Jordan,EMRO,Enterobacter cloacae,20,11,2,55.0,10.0,YES,26.32,0.0,30.0,5.0,,,10.0,0.0,,
+Jordan,EMRO,Enterococcus faecium,6,4,2,66.67,33.33,NO,,,,,,,,,,
+Jordan,EMRO,Staphylococcus epidermidis,9,6,0,66.67,0.0,NO,,,,,,,,,,
+Jordan,EMRO,Serratia marcescens,10,2,0,20.0,0.0,YES,,0.0,0.0,10.0,,,0.0,0.0,,
+Jordan,EMRO,Streptococcus pneumoniae,28,16,0,57.14,0.0,YES,0.0,28.57,3.57,,0.0,,,0.0,,0.0
+Jordan,EMRO,Haemophilus influenzae,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Jordan,EMRO,Salmonella spp,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Kenya,AFRO,Klebsiella pneumoniae,13,12,5,92.31,38.46,YES,,15.38,23.08,7.69,,0.0,46.15,0.0,,
+Kenya,AFRO,Acinetobacter baumannii,2,1,1,50.0,50.0,NO,,,,,,,,,,
+Kenya,AFRO,Escherichia coli,10,9,4,90.0,40.0,YES,,0.0,60.0,20.0,,0.0,0.0,0.0,,
+Kenya,AFRO,Staphylococcus aureus,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Kenya,AFRO,Pseudomonas aeruginosa,4,1,1,25.0,25.0,NO,,,,,,,,,,
+Kenya,AFRO,Enterobacter cloacae,2,1,0,50.0,0.0,NO,,,,,,,,,,
+Kenya,AFRO,Enterococcus faecium,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Kenya,AFRO,Staphylococcus epidermidis,5,4,0,80.0,0.0,NO,,,,,,,,,,
+Kenya,AFRO,Serratia marcescens,1,1,0,100.0,0.0,NO,,,,,,,,,,
+Kenya,AFRO,Streptococcus pneumoniae,5,1,0,20.0,0.0,NO,,,,,,,,,,
+"Korea, South",WPRO,Klebsiella pneumoniae,212,72,34,33.96,16.04,YES,25.41,2.65,27.36,3.77,,0.0,16.51,0.47,23.38,
+"Korea, South",WPRO,Acinetobacter baumannii,70,57,54,81.43,77.14,YES,70.0,80.0,70.0,57.14,,0.0,72.86,,79.31,
+"Korea, South",WPRO,Escherichia coli,526,268,39,50.95,7.41,YES,25.34,0.2,40.87,2.28,,0.53,3.99,0.0,38.19,
+"Korea, South",WPRO,Staphylococcus aureus,327,74,0,22.63,0.0,YES,,,37.61,,0.0,,,0.0,0.0,0.0
+"Korea, South",WPRO,Pseudomonas aeruginosa,136,46,37,33.82,27.21,YES,,24.8,31.62,9.56,,1.32,29.41,,,
+"Korea, South",WPRO,Enterobacter cloacae,78,31,11,39.74,14.1,YES,45.59,0.0,15.38,7.69,,0.0,29.49,0.0,,
+"Korea, South",WPRO,Enterococcus faecium,92,66,31,71.74,33.7,YES,,,91.3,,31.52,,,0.0,,0.0
+"Korea, South",WPRO,Staphylococcus epidermidis,44,33,0,75.0,0.0,YES,,,63.64,,0.0,,,0.0,36.36,0.0
+"Korea, South",WPRO,Serratia marcescens,42,27,15,64.29,35.71,YES,55.88,0.0,23.81,16.67,,,30.95,11.9,,
+"Korea, South",WPRO,Streptococcus pneumoniae,70,45,0,64.29,0.0,YES,7.14,36.51,4.29,,0.0,,,0.0,,0.0
+"Korea, South",WPRO,Haemophilus influenzae,10,1,1,10.0,10.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Kuwait,EMRO,Klebsiella pneumoniae,125,95,31,76.0,24.8,YES,90.0,16.0,32.8,11.2,,5.65,40.0,0.0,59.3,
+Kuwait,EMRO,Acinetobacter baumannii,63,38,36,60.32,57.14,YES,,55.56,25.4,33.33,,1.69,55.56,,42.31,
+Kuwait,EMRO,Escherichia coli,70,48,10,68.57,14.29,YES,36.36,0.0,44.29,5.71,,0.0,14.29,0.0,51.85,
+Kuwait,EMRO,Staphylococcus aureus,99,12,0,12.12,0.0,YES,,,31.31,,0.0,,,0.0,2.04,0.0
+Kuwait,EMRO,Pseudomonas aeruginosa,67,22,11,32.84,16.42,YES,,14.93,10.45,5.97,,0.0,10.45,,,
+Kuwait,EMRO,Enterobacter cloacae,17,8,0,47.06,0.0,YES,,0.0,17.65,0.0,,0.0,29.41,0.0,,
+Kuwait,EMRO,Enterococcus faecium,24,21,5,87.5,20.83,YES,,,79.17,,16.67,,,0.0,,0.0
+Kuwait,EMRO,Staphylococcus epidermidis,83,72,0,86.75,0.0,YES,,,72.29,,0.0,,,0.0,55.42,0.0
+Kuwait,EMRO,Serratia marcescens,25,12,1,48.0,4.0,YES,9.09,0.0,8.0,4.0,,100.0,4.0,0.0,0.0,
+Kuwait,EMRO,Citrobacter koseri,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Kuwait,EMRO,Streptococcus pneumoniae,96,28,0,29.17,0.0,YES,2.08,11.46,0.0,,0.0,,,0.0,,0.0
+Kuwait,EMRO,Haemophilus influenzae,10,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Latvia,EURO,Klebsiella pneumoniae,34,18,9,52.94,26.47,YES,,0.0,23.53,8.82,,0.0,23.53,0.0,37.93,
+Latvia,EURO,Acinetobacter baumannii,12,11,11,91.67,91.67,YES,,91.67,91.67,83.33,,,91.67,,,
+Latvia,EURO,Escherichia coli,84,36,8,42.86,9.52,YES,45.0,0.0,33.33,5.95,,0.0,8.33,0.0,25.0,
+Latvia,EURO,Staphylococcus aureus,95,4,0,4.21,0.0,YES,,,6.32,,0.0,,,0.0,0.0,0.0
+Latvia,EURO,Pseudomonas aeruginosa,29,10,8,34.48,27.59,YES,,28.57,31.03,10.34,,0.0,17.24,,,
+Latvia,EURO,Enterobacter cloacae,11,4,1,36.36,9.09,YES,,,9.09,9.09,,,45.45,0.0,,
+Latvia,EURO,Enterococcus faecium,18,15,5,83.33,27.78,YES,,,100.0,,27.78,,,0.0,,0.0
+Latvia,EURO,Staphylococcus epidermidis,21,8,0,38.1,0.0,YES,,,28.57,,0.0,,,0.0,33.33,0.0
+Latvia,EURO,Serratia marcescens,7,2,1,28.57,14.29,NO,,,,,,,,,,
+Latvia,EURO,Citrobacter koseri,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Latvia,EURO,Streptococcus pneumoniae,47,3,0,6.38,0.0,YES,0.0,2.44,0.0,,0.0,,,0.0,,0.0
+Latvia,EURO,Haemophilus influenzae,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Lebanon,EMRO,Escherichia coli,3,2,1,66.67,33.33,NO,,,,,,,,,,
+Lithuania,EURO,Klebsiella pneumoniae,102,62,29,60.78,28.43,YES,,0.0,30.39,2.94,,2.08,38.24,0.0,48.96,
+Lithuania,EURO,Acinetobacter baumannii,75,72,68,96.0,90.67,YES,,86.67,82.67,85.33,,10.61,93.33,,45.45,
+Lithuania,EURO,Escherichia coli,192,69,10,35.94,5.21,YES,7.41,0.0,20.31,1.56,,0.0,5.21,0.0,30.91,
+Lithuania,EURO,Staphylococcus aureus,199,26,0,13.07,0.0,YES,,,16.58,,0.0,,,0.0,0.56,0.0
+Lithuania,EURO,Pseudomonas aeruginosa,54,19,13,35.19,24.07,YES,,11.11,20.37,7.41,,0.0,14.81,,,
+Lithuania,EURO,Enterobacter cloacae,16,10,7,62.5,43.75,YES,,0.0,18.75,12.5,,0.0,31.25,0.0,40.0,
+Lithuania,EURO,Enterococcus faecium,26,19,9,73.08,34.62,YES,,,80.77,,30.77,,,0.0,,0.0
+Lithuania,EURO,Staphylococcus epidermidis,51,29,0,56.86,0.0,YES,,,56.86,,0.0,,,0.0,35.29,5.88
+Lithuania,EURO,Serratia marcescens,12,9,1,75.0,8.33,YES,,0.0,16.67,8.33,,100.0,8.33,0.0,0.0,
+Lithuania,EURO,Citrobacter koseri,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Lithuania,EURO,Streptococcus pneumoniae,46,6,0,13.04,0.0,YES,2.17,2.17,2.17,,0.0,,,0.0,,0.0
+Lithuania,EURO,Haemophilus influenzae,6,0,0,0.0,0.0,NO,,,,,,,,,,
+Malawi,AFRO,Klebsiella pneumoniae,22,21,14,95.45,63.64,YES,,18.18,31.82,22.73,,4.55,45.45,0.0,95.45,
+Malawi,AFRO,Acinetobacter baumannii,15,15,15,100.0,100.0,YES,,40.0,80.0,13.33,,0.0,86.67,,86.67,
+Malawi,AFRO,Escherichia coli,11,11,8,100.0,72.73,YES,,0.0,72.73,9.09,,9.09,36.36,0.0,100.0,
+Malawi,AFRO,Staphylococcus aureus,6,1,0,16.67,0.0,NO,,,,,,,,,,
+Malawi,AFRO,Pseudomonas aeruginosa,2,1,0,50.0,0.0,NO,,,,,,,,,,
+Malaysia,WPRO,Klebsiella pneumoniae,89,43,11,48.31,12.36,YES,50.0,6.74,14.61,5.62,,0.0,22.47,0.0,28.99,
+Malaysia,WPRO,Acinetobacter baumannii,45,30,27,66.67,60.0,YES,,60.0,33.33,51.11,,0.0,62.22,,38.89,
+Malaysia,WPRO,Escherichia coli,110,58,10,52.73,9.09,YES,38.46,0.91,25.45,1.82,,2.06,3.64,0.0,39.53,
+Malaysia,WPRO,Staphylococcus aureus,128,34,0,26.56,0.0,YES,,,32.81,,0.0,,,0.0,4.96,0.0
+Malaysia,WPRO,Pseudomonas aeruginosa,47,11,7,23.4,14.89,YES,,19.15,17.02,2.13,,2.86,21.28,,,
+Malaysia,WPRO,Enterobacter cloacae,14,6,0,42.86,0.0,YES,,0.0,0.0,0.0,,,7.14,0.0,,
+Malaysia,WPRO,Enterococcus faecium,22,16,2,72.73,9.09,YES,,,90.91,,9.09,,,0.0,,0.0
+Malaysia,WPRO,Staphylococcus epidermidis,17,7,0,41.18,0.0,YES,,,17.65,,0.0,,,0.0,11.76,0.0
+Malaysia,WPRO,Serratia marcescens,13,3,0,23.08,0.0,YES,,0.0,0.0,0.0,,,0.0,0.0,,
+Malaysia,WPRO,Citrobacter koseri,6,0,0,0.0,0.0,NO,,,,,,,,,,
+Malaysia,WPRO,Streptococcus pneumoniae,49,13,0,26.53,0.0,YES,0.0,10.2,0.0,,0.0,,,0.0,,0.0
+Malaysia,WPRO,Haemophilus influenzae,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Mauritius,AFRO,Klebsiella pneumoniae,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Mauritius,AFRO,Acinetobacter baumannii,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Mauritius,AFRO,Escherichia coli,4,2,2,50.0,50.0,NO,,,,,,,,,,
+Mauritius,AFRO,Staphylococcus aureus,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Mauritius,AFRO,Enterobacter cloacae,4,3,2,75.0,50.0,NO,,,,,,,,,,
+Mauritius,AFRO,Serratia marcescens,1,1,0,100.0,0.0,NO,,,,,,,,,,
+Mauritius,AFRO,Streptococcus pneumoniae,3,2,0,66.67,0.0,NO,,,,,,,,,,
+Mexico,AMRO,Klebsiella pneumoniae,344,220,116,63.95,33.72,YES,45.0,6.43,26.16,24.13,,1.83,26.16,0.87,61.82,
+Mexico,AMRO,Acinetobacter baumannii,100,71,68,71.0,68.0,YES,57.63,63.27,65.0,53.0,,2.38,69.0,,87.18,
+Mexico,AMRO,Escherichia coli,412,282,90,68.45,21.84,YES,44.62,1.72,54.61,7.77,,0.0,15.29,0.0,56.18,
+Mexico,AMRO,Staphylococcus aureus,392,92,0,23.47,0.0,YES,,,36.73,,0.0,,,0.0,1.66,0.0
+Mexico,AMRO,Pseudomonas aeruginosa,263,88,58,33.46,22.05,YES,,26.27,21.67,15.21,,0.0,16.73,,,
+Mexico,AMRO,Enterobacter cloacae,144,48,15,33.33,10.42,YES,35.29,1.4,9.72,11.11,,13.51,26.39,1.39,9.09,
+Mexico,AMRO,Enterococcus faecium,52,37,24,71.15,46.15,YES,,,63.46,,44.23,,,0.0,,0.0
+Mexico,AMRO,Staphylococcus epidermidis,47,37,1,78.72,2.13,YES,,,55.32,,0.0,,,0.0,65.96,2.13
+Mexico,AMRO,Serratia marcescens,81,35,13,43.21,16.05,YES,30.16,3.75,11.11,20.99,,95.0,7.41,1.23,0.0,
+Mexico,AMRO,Citrobacter koseri,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Mexico,AMRO,Streptococcus pneumoniae,74,21,0,28.38,0.0,YES,0.0,13.7,0.0,,0.0,,,0.0,,0.0
+Mexico,AMRO,Haemophilus influenzae,10,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Morocco,EMRO,Klebsiella pneumoniae,133,98,53,73.68,39.85,YES,78.95,9.77,26.32,5.26,,2.63,37.59,0.0,62.28,
+Morocco,EMRO,Acinetobacter baumannii,62,54,52,87.1,83.87,YES,60.0,79.03,77.42,61.29,,0.0,83.87,,84.62,
+Morocco,EMRO,Escherichia coli,61,37,4,60.66,6.56,YES,,1.64,39.34,1.64,,0.0,6.56,0.0,40.68,
+Morocco,EMRO,Staphylococcus aureus,99,5,0,5.05,0.0,YES,,,10.1,,0.0,,,0.0,1.14,0.0
+Morocco,EMRO,Pseudomonas aeruginosa,63,18,6,28.57,9.52,YES,,11.11,20.63,4.76,,0.0,11.11,,,
+Morocco,EMRO,Enterobacter cloacae,38,19,11,50.0,28.95,YES,64.29,2.63,18.42,5.26,,4.17,31.58,0.0,50.0,
+Morocco,EMRO,Enterococcus faecium,23,16,3,69.57,13.04,YES,,,60.87,,4.35,,,0.0,,0.0
+Morocco,EMRO,Staphylococcus epidermidis,19,5,0,26.32,0.0,YES,,,10.53,,0.0,,,0.0,26.32,0.0
+Morocco,EMRO,Serratia marcescens,40,20,8,50.0,20.0,YES,12.5,7.5,7.5,2.5,,100.0,15.0,2.5,37.5,
+Morocco,EMRO,Citrobacter koseri,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Morocco,EMRO,Streptococcus pneumoniae,37,6,0,16.22,0.0,YES,0.0,8.11,0.0,,0.0,,,0.0,,0.0
+Morocco,EMRO,Haemophilus influenzae,12,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Namibia,AFRO,Staphylococcus aureus,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Netherlands,EURO,Klebsiella pneumoniae,64,9,3,14.06,4.69,YES,13.64,0.0,4.69,0.0,,1.96,7.81,0.0,11.76,
+Netherlands,EURO,Acinetobacter baumannii,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Netherlands,EURO,Escherichia coli,188,44,2,23.4,1.06,YES,4.0,0.0,11.17,1.06,,0.0,2.66,0.0,24.18,
+Netherlands,EURO,Staphylococcus aureus,86,3,0,3.49,0.0,YES,,,13.95,,0.0,,,0.0,1.43,0.0
+Netherlands,EURO,Pseudomonas aeruginosa,46,6,3,13.04,6.52,YES,,0.0,13.04,0.0,,0.0,0.0,,,
+Netherlands,EURO,Enterobacter cloacae,27,5,1,18.52,3.7,YES,26.32,0.0,3.7,0.0,,0.0,29.63,0.0,,
+Netherlands,EURO,Enterococcus faecium,23,13,2,56.52,8.7,YES,,,100.0,,0.0,,,0.0,,0.0
+Netherlands,EURO,Staphylococcus epidermidis,62,20,0,32.26,0.0,YES,,,50.0,,0.0,,,0.0,28.57,0.0
+Netherlands,EURO,Serratia marcescens,14,4,0,28.57,0.0,YES,,0.0,0.0,7.14,,,0.0,0.0,,
+Netherlands,EURO,Citrobacter koseri,9,1,0,11.11,0.0,NO,,,,,,,,,,
+Netherlands,EURO,Streptococcus pneumoniae,147,0,0,0.0,0.0,YES,0.68,0.0,0.0,,0.0,,,0.0,,0.0
+Netherlands,EURO,Haemophilus influenzae,14,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+New Zealand,WPRO,Klebsiella pneumoniae,78,23,5,29.49,6.41,YES,,0.0,2.56,1.28,,0.0,2.56,0.0,19.23,
+New Zealand,WPRO,Acinetobacter baumannii,3,0,0,0.0,0.0,NO,,,,,,,,,,
+New Zealand,WPRO,Escherichia coli,87,38,2,43.68,2.3,YES,,0.0,11.49,0.0,,0.0,1.15,0.0,27.59,
+New Zealand,WPRO,Staphylococcus aureus,83,3,0,3.61,0.0,YES,,,4.82,,0.0,,,0.0,0.0,0.0
+New Zealand,WPRO,Pseudomonas aeruginosa,28,5,1,17.86,3.57,YES,,0.0,3.57,0.0,,0.0,3.57,,,
+New Zealand,WPRO,Enterobacter cloacae,8,0,0,0.0,0.0,NO,,,,,,,,,,
+New Zealand,WPRO,Enterococcus faecium,11,9,0,81.82,0.0,YES,,,81.82,,0.0,,,0.0,,0.0
+New Zealand,WPRO,Staphylococcus epidermidis,15,10,0,66.67,0.0,YES,,,26.67,,0.0,,,0.0,66.67,0.0
+New Zealand,WPRO,Serratia marcescens,12,5,0,41.67,0.0,YES,,0.0,0.0,0.0,,100.0,0.0,0.0,0.0,
+New Zealand,WPRO,Citrobacter koseri,8,0,0,0.0,0.0,NO,,,,,,,,,,
+New Zealand,WPRO,Streptococcus pneumoniae,45,3,0,6.67,0.0,YES,0.0,2.22,0.0,,0.0,,,0.0,,0.0
+New Zealand,WPRO,Haemophilus influenzae,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Nicaragua,AMRO,Acinetobacter baumannii,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Nicaragua,AMRO,Escherichia coli,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Nigeria,AFRO,Klebsiella pneumoniae,176,168,119,95.45,67.61,YES,,20.45,48.86,28.98,,0.57,32.39,0.0,91.72,
+Nigeria,AFRO,Acinetobacter baumannii,17,10,9,58.82,52.94,YES,,41.18,47.06,47.06,,0.0,52.94,,47.06,
+Nigeria,AFRO,Escherichia coli,51,47,18,92.16,35.29,YES,,1.96,62.75,3.92,,0.0,13.73,0.0,78.0,
+Nigeria,AFRO,Staphylococcus aureus,57,16,0,28.07,0.0,YES,,,36.84,,0.0,,,0.0,8.77,0.0
+Nigeria,AFRO,Pseudomonas aeruginosa,20,7,6,35.0,30.0,YES,,25.0,40.0,25.0,,0.0,30.0,,,
+Nigeria,AFRO,Enterobacter cloacae,14,9,7,64.29,50.0,YES,,21.43,7.14,14.29,,42.86,21.43,0.0,53.85,
+Nigeria,AFRO,Enterococcus faecium,5,5,1,100.0,20.0,NO,,,,,,,,,,
+Nigeria,AFRO,Staphylococcus epidermidis,50,31,0,62.0,0.0,YES,,,40.0,,0.0,,,0.0,50.0,0.0
+Nigeria,AFRO,Serratia marcescens,18,10,3,55.56,16.67,YES,,0.0,0.0,0.0,,94.44,5.56,0.0,29.41,
+Nigeria,AFRO,Citrobacter koseri,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Nigeria,AFRO,Salmonella spp,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Norway,EURO,Staphylococcus aureus,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Norway,EURO,Serratia marcescens,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Oman,EMRO,Acinetobacter baumannii,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Oman,EMRO,Escherichia coli,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Oman,EMRO,Staphylococcus aureus,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Oman,EMRO,Pseudomonas aeruginosa,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Oman,EMRO,Streptococcus pneumoniae,5,1,0,20.0,0.0,NO,,,,,,,,,,
+Oman,EMRO,Haemophilus influenzae,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Pakistan,EMRO,Klebsiella pneumoniae,24,19,13,79.17,54.17,YES,83.33,,37.5,37.5,,,37.5,0.0,,
+Pakistan,EMRO,Acinetobacter baumannii,10,8,7,80.0,70.0,YES,80.0,,60.0,40.0,,,90.0,,,
+Pakistan,EMRO,Escherichia coli,17,10,10,58.82,58.82,YES,64.71,,70.59,11.76,,,41.18,0.0,,
+Pakistan,EMRO,Staphylococcus aureus,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Pakistan,EMRO,Pseudomonas aeruginosa,7,2,2,28.57,28.57,NO,,,,,,,,,,
+Pakistan,EMRO,Enterobacter cloacae,15,7,3,46.67,20.0,YES,66.67,,26.67,6.67,,,26.67,0.0,,
+Pakistan,EMRO,Enterococcus faecium,7,6,6,85.71,85.71,NO,,,,,,,,,,
+Pakistan,EMRO,Serratia marcescens,6,4,1,66.67,16.67,NO,,,,,,,,,,
+Pakistan,EMRO,Streptococcus pneumoniae,10,2,0,20.0,0.0,YES,0.0,,10.0,,0.0,,,0.0,,0.0
+Pakistan,EMRO,Haemophilus influenzae,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Panama,AMRO,Klebsiella pneumoniae,88,49,20,55.68,22.73,YES,50.0,7.95,25.0,5.68,,1.35,25.0,1.14,39.19,
+Panama,AMRO,Acinetobacter baumannii,39,23,20,58.97,51.28,YES,,43.59,61.54,35.9,,0.0,51.28,,60.0,
+Panama,AMRO,Escherichia coli,53,35,4,66.04,7.55,YES,41.67,1.89,47.17,0.0,,2.44,5.66,0.0,56.1,
+Panama,AMRO,Staphylococcus aureus,92,10,0,10.87,0.0,YES,,,17.39,,0.0,,,0.0,0.0,0.0
+Panama,AMRO,Pseudomonas aeruginosa,61,16,10,26.23,16.39,YES,,19.67,19.67,9.84,,0.0,9.84,,,
+Panama,AMRO,Enterobacter cloacae,24,9,3,37.5,12.5,YES,,8.33,25.0,4.17,,33.33,8.33,0.0,13.33,
+Panama,AMRO,Enterococcus faecium,11,7,3,63.64,27.27,YES,,,45.45,,27.27,,,0.0,,0.0
+Panama,AMRO,Staphylococcus epidermidis,31,23,0,74.19,0.0,YES,,,67.74,,0.0,,,0.0,64.52,0.0
+Panama,AMRO,Serratia marcescens,19,11,1,57.89,5.26,YES,,0.0,5.26,10.53,,100.0,5.26,5.26,7.69,
+Panama,AMRO,Citrobacter koseri,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Panama,AMRO,Streptococcus pneumoniae,37,11,0,29.73,0.0,YES,0.0,8.11,2.7,,0.0,,,0.0,,0.0
+Panama,AMRO,Haemophilus influenzae,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Philippines,WPRO,Klebsiella pneumoniae,81,47,20,58.02,24.69,YES,53.57,17.11,28.4,4.94,,2.99,33.33,0.0,45.24,
+Philippines,WPRO,Acinetobacter baumannii,28,14,14,50.0,50.0,YES,31.25,61.9,50.0,46.43,,7.69,50.0,,63.64,
+Philippines,WPRO,Escherichia coli,125,70,12,56.0,9.6,YES,25.0,0.87,39.2,0.8,,0.0,3.2,0.0,53.23,
+Philippines,WPRO,Staphylococcus aureus,127,12,0,9.45,0.0,YES,,,7.87,,0.0,,,0.0,7.41,0.0
+Philippines,WPRO,Pseudomonas aeruginosa,58,13,7,22.41,12.07,YES,,7.55,17.24,1.72,,2.13,15.52,,,
+Philippines,WPRO,Enterobacter cloacae,30,10,3,33.33,10.0,YES,50.0,11.11,20.0,3.33,,33.33,16.67,3.33,18.75,
+Philippines,WPRO,Enterococcus faecium,6,5,0,83.33,0.0,NO,,,,,,,,,,
+Philippines,WPRO,Staphylococcus epidermidis,35,23,0,65.71,0.0,YES,,,65.71,,0.0,,,0.0,60.0,0.0
+Philippines,WPRO,Serratia marcescens,16,5,1,31.25,6.25,YES,,8.33,0.0,12.5,,,6.25,0.0,,
+Philippines,WPRO,Citrobacter koseri,8,5,0,62.5,0.0,NO,,,,,,,,,,
+Philippines,WPRO,Streptococcus pneumoniae,53,1,0,1.89,0.0,YES,0.0,0.0,0.0,,0.0,,,0.0,,0.0
+Philippines,WPRO,Haemophilus influenzae,8,0,0,0.0,0.0,NO,,,,,,,,,,
+Poland,EURO,Klebsiella pneumoniae,161,123,68,76.4,42.24,YES,71.11,18.24,57.14,16.15,,12.0,49.07,0.0,70.71,
+Poland,EURO,Acinetobacter baumannii,75,66,63,88.0,84.0,YES,83.33,70.42,77.33,53.33,,1.92,80.0,,86.0,
+Poland,EURO,Escherichia coli,215,86,14,40.0,6.51,YES,19.23,0.47,28.84,2.79,,1.3,5.12,0.0,31.93,
+Poland,EURO,Staphylococcus aureus,266,33,0,12.41,0.0,YES,,,17.67,,0.0,,,0.0,0.0,0.0
+Poland,EURO,Pseudomonas aeruginosa,81,43,33,53.09,40.74,YES,,36.25,32.1,17.28,,0.0,40.74,,,
+Poland,EURO,Enterobacter cloacae,58,42,25,72.41,43.1,YES,84.62,3.57,37.93,27.59,,4.0,58.62,0.0,50.0,
+Poland,EURO,Enterococcus faecium,54,43,24,79.63,44.44,YES,,,98.15,,37.04,,,0.0,,0.0
+Poland,EURO,Staphylococcus epidermidis,84,56,0,66.67,0.0,YES,,,53.57,,0.0,,,0.0,32.14,0.0
+Poland,EURO,Serratia marcescens,27,12,6,44.44,22.22,YES,42.86,7.41,22.22,18.52,,,7.41,0.0,,
+Poland,EURO,Citrobacter koseri,3,1,0,33.33,0.0,NO,,,,,,,,,,
+Poland,EURO,Streptococcus pneumoniae,122,15,0,12.3,0.0,YES,1.64,4.92,0.82,,0.0,,,0.0,,0.0
+Poland,EURO,Haemophilus influenzae,33,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Portugal,EURO,Klebsiella pneumoniae,359,196,80,54.6,22.28,YES,41.18,6.74,30.64,1.11,,0.0,30.08,0.56,45.37,
+Portugal,EURO,Acinetobacter baumannii,73,45,41,61.64,56.16,YES,84.44,58.57,46.58,35.62,,0.0,61.64,,3.85,
+Portugal,EURO,Escherichia coli,563,172,43,30.55,7.64,YES,16.14,0.0,28.6,4.97,,0.58,6.22,0.0,29.96,
+Portugal,EURO,Staphylococcus aureus,625,134,0,21.44,0.0,YES,,,42.08,,0.0,,,0.0,0.21,0.0
+Portugal,EURO,Pseudomonas aeruginosa,294,74,45,25.17,15.31,YES,,12.29,20.75,0.68,,0.0,17.69,,,
+Portugal,EURO,Enterobacter cloacae,87,40,14,45.98,16.09,YES,54.1,5.88,13.79,2.3,,3.45,36.78,0.0,18.18,
+Portugal,EURO,Enterococcus faecium,52,36,13,69.23,25.0,YES,,,90.38,,21.15,,,0.0,,0.0
+Portugal,EURO,Staphylococcus epidermidis,125,80,0,64.0,0.0,YES,,,59.2,,0.0,,,0.0,45.6,0.8
+Portugal,EURO,Serratia marcescens,60,18,1,30.0,1.67,YES,20.59,1.75,10.0,1.67,,100.0,10.0,0.0,4.17,
+Portugal,EURO,Citrobacter koseri,14,1,0,7.14,0.0,YES,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,
+Portugal,EURO,Streptococcus pneumoniae,241,25,0,10.37,0.0,YES,0.41,5.02,0.0,,0.0,,,0.0,,0.0
+Portugal,EURO,Haemophilus influenzae,24,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Puerto Rico,AMRO,Klebsiella pneumoniae,1,1,0,100.0,0.0,NO,,,,,,,,,,
+Puerto Rico,AMRO,Acinetobacter baumannii,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Puerto Rico,AMRO,Staphylococcus aureus,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Puerto Rico,AMRO,Enterobacter cloacae,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Puerto Rico,AMRO,Serratia marcescens,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Qatar,EMRO,Klebsiella pneumoniae,26,15,6,57.69,23.08,YES,,11.54,38.46,0.0,,0.0,30.77,0.0,30.77,
+Qatar,EMRO,Acinetobacter baumannii,8,2,2,25.0,25.0,NO,,,,,,,,,,
+Qatar,EMRO,Escherichia coli,46,39,8,84.78,17.39,YES,,0.0,52.17,4.35,,0.0,17.39,0.0,56.52,
+Qatar,EMRO,Staphylococcus aureus,23,4,0,17.39,0.0,YES,,,39.13,,0.0,,,0.0,8.7,0.0
+Qatar,EMRO,Pseudomonas aeruginosa,27,12,7,44.44,25.93,YES,,29.63,3.7,0.0,,0.0,25.93,,,
+Qatar,EMRO,Enterobacter cloacae,1,1,0,100.0,0.0,NO,,,,,,,,,,
+Qatar,EMRO,Enterococcus faecium,9,8,1,88.89,11.11,NO,,,,,,,,,,
+Qatar,EMRO,Staphylococcus epidermidis,12,9,0,75.0,0.0,YES,,,75.0,,0.0,,,0.0,50.0,0.0
+Qatar,EMRO,Serratia marcescens,4,2,0,50.0,0.0,NO,,,,,,,,,,
+Qatar,EMRO,Citrobacter koseri,3,1,0,33.33,0.0,NO,,,,,,,,,,
+Qatar,EMRO,Streptococcus pneumoniae,11,5,0,45.45,0.0,YES,0.0,9.09,0.0,,0.0,,,0.0,,0.0
+Qatar,EMRO,Haemophilus influenzae,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Romania,EURO,Klebsiella pneumoniae,187,131,93,70.05,49.73,YES,82.5,26.2,49.73,24.6,,17.01,55.08,0.0,52.14,
+Romania,EURO,Acinetobacter baumannii,83,74,74,89.16,89.16,YES,68.18,85.54,73.49,81.93,,0.0,90.36,,93.1,
+Romania,EURO,Escherichia coli,204,100,24,49.02,11.76,YES,38.1,0.0,25.49,4.41,,0.61,7.84,0.0,38.85,
+Romania,EURO,Staphylococcus aureus,168,7,0,4.17,0.0,YES,,,15.48,,0.0,,,0.0,0.0,0.0
+Romania,EURO,Pseudomonas aeruginosa,86,44,32,51.16,37.21,YES,,38.37,39.53,25.58,,0.0,30.23,,,
+Romania,EURO,Enterobacter cloacae,34,20,7,58.82,20.59,YES,41.18,0.0,14.71,2.94,,0.0,17.65,0.0,29.41,
+Romania,EURO,Enterococcus faecium,39,22,8,56.41,20.51,YES,,,79.49,,17.95,,,0.0,,0.0
+Romania,EURO,Staphylococcus epidermidis,62,41,0,66.13,0.0,YES,,,59.68,,1.61,,,0.0,12.9,3.23
+Romania,EURO,Serratia marcescens,26,13,5,50.0,19.23,YES,64.71,7.69,7.69,15.38,,,19.23,0.0,,
+Romania,EURO,Streptococcus pneumoniae,17,7,0,41.18,0.0,YES,5.88,17.65,0.0,,0.0,,,0.0,,0.0
+Romania,EURO,Haemophilus influenzae,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Russia,EURO,Klebsiella pneumoniae,81,74,47,91.36,58.02,YES,,33.33,80.25,43.21,,1.23,67.9,0.0,81.54,
+Russia,EURO,Acinetobacter baumannii,48,46,46,95.83,95.83,YES,,87.5,81.25,83.33,,0.0,95.83,,68.29,
+Russia,EURO,Escherichia coli,50,37,6,74.0,12.0,YES,,0.0,62.0,4.0,,0.0,6.0,0.0,36.59,
+Russia,EURO,Staphylococcus aureus,116,22,0,18.97,0.0,YES,,,25.0,,0.0,,,0.0,0.0,0.0
+Russia,EURO,Pseudomonas aeruginosa,26,10,8,38.46,30.77,YES,,26.92,30.77,23.08,,0.0,19.23,,,
+Russia,EURO,Enterobacter cloacae,24,13,6,54.17,25.0,YES,,12.5,12.5,12.5,,0.0,33.33,0.0,23.81,
+Russia,EURO,Enterococcus faecium,20,20,1,100.0,5.0,YES,,,95.0,,10.0,,,0.0,,0.0
+Russia,EURO,Staphylococcus epidermidis,37,18,0,48.65,0.0,YES,,,35.14,,0.0,,,0.0,21.62,0.0
+Russia,EURO,Serratia marcescens,14,10,3,71.43,21.43,YES,,14.29,7.14,42.86,,100.0,50.0,0.0,21.43,
+Russia,EURO,Citrobacter koseri,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Russia,EURO,Streptococcus pneumoniae,7,1,0,14.29,0.0,NO,,,,,,,,,,
+Russia,EURO,Haemophilus influenzae,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Saudi Arabia,EMRO,Klebsiella pneumoniae,58,29,17,50.0,29.31,YES,57.78,6.9,31.03,22.41,,0.0,24.14,3.45,30.77,
+Saudi Arabia,EMRO,Acinetobacter baumannii,30,26,22,86.67,73.33,YES,88.89,80.0,46.67,40.0,,,86.67,,,
+Saudi Arabia,EMRO,Escherichia coli,45,23,10,51.11,22.22,YES,35.9,0.0,44.44,4.44,,,8.89,0.0,,
+Saudi Arabia,EMRO,Staphylococcus aureus,50,1,0,2.0,0.0,YES,,,22.0,,0.0,,,0.0,,0.0
+Saudi Arabia,EMRO,Pseudomonas aeruginosa,42,11,11,26.19,26.19,YES,,16.67,28.57,9.52,,,19.05,,,
+Saudi Arabia,EMRO,Enterobacter cloacae,52,10,2,19.23,3.85,YES,27.91,1.92,3.85,1.92,,,21.15,1.92,,
+Saudi Arabia,EMRO,Enterococcus faecium,15,12,10,80.0,66.67,YES,,,86.67,,40.0,,,0.0,,0.0
+Saudi Arabia,EMRO,Staphylococcus epidermidis,9,6,0,66.67,0.0,NO,,,,,,,,,,
+Saudi Arabia,EMRO,Serratia marcescens,29,8,4,27.59,13.79,YES,42.31,6.9,3.45,6.9,,,27.59,0.0,,
+Saudi Arabia,EMRO,Streptococcus pneumoniae,18,7,0,38.89,0.0,YES,0.0,11.11,0.0,,0.0,,,0.0,,0.0
+Saudi Arabia,EMRO,Haemophilus influenzae,8,0,0,0.0,0.0,NO,,,,,,,,,,
+Serbia,EURO,Klebsiella pneumoniae,6,5,5,83.33,83.33,NO,,,,,,,,,,
+Serbia,EURO,Acinetobacter baumannii,2,2,2,100.0,100.0,NO,,,,,,,,,,
+Serbia,EURO,Staphylococcus aureus,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Serbia,EURO,Pseudomonas aeruginosa,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Serbia,EURO,Enterobacter cloacae,7,5,5,71.43,71.43,NO,,,,,,,,,,
+Serbia,EURO,Serratia marcescens,5,4,2,80.0,40.0,NO,,,,,,,,,,
+Serbia,EURO,Streptococcus pneumoniae,8,4,0,50.0,0.0,NO,,,,,,,,,,
+Serbia,EURO,Haemophilus influenzae,4,0,0,0.0,0.0,NO,,,,,,,,,,
+Singapore,WPRO,Klebsiella pneumoniae,88,25,6,28.41,6.82,YES,20.0,0.0,14.77,0.0,,0.0,13.64,0.0,38.89,
+Singapore,WPRO,Acinetobacter baumannii,23,11,11,47.83,47.83,YES,47.62,58.82,26.09,39.13,,,52.17,,,
+Singapore,WPRO,Escherichia coli,115,33,9,28.7,7.83,YES,19.15,0.0,31.3,3.48,,0.0,3.48,0.0,42.86,
+Singapore,WPRO,Staphylococcus aureus,73,0,0,0.0,0.0,YES,,,30.14,,0.0,,,0.0,0.0,0.0
+Singapore,WPRO,Pseudomonas aeruginosa,44,9,9,20.45,20.45,YES,,11.76,22.73,2.27,,,13.64,,,
+Singapore,WPRO,Enterobacter cloacae,43,14,8,32.56,18.6,YES,46.15,2.86,11.63,2.33,,,20.93,0.0,,
+Singapore,WPRO,Enterococcus faecium,8,7,7,87.5,87.5,NO,,,,,,,,,,
+Singapore,WPRO,Staphylococcus epidermidis,2,1,0,50.0,0.0,NO,,,,,,,,,,
+Singapore,WPRO,Serratia marcescens,15,5,1,33.33,6.67,YES,23.08,0.0,20.0,0.0,,,6.67,6.67,,
+Singapore,WPRO,Citrobacter koseri,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Singapore,WPRO,Streptococcus pneumoniae,34,4,0,11.76,0.0,YES,0.0,6.45,0.0,,0.0,,,0.0,,0.0
+Singapore,WPRO,Haemophilus influenzae,13,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Slovak Republic,EURO,Klebsiella pneumoniae,15,10,8,66.67,53.33,YES,66.67,0.0,60.0,40.0,,,60.0,0.0,,
+Slovak Republic,EURO,Acinetobacter baumannii,4,3,1,75.0,25.0,NO,,,,,,,,,,
+Slovak Republic,EURO,Escherichia coli,12,6,4,50.0,33.33,YES,41.67,0.0,50.0,0.0,,,16.67,0.0,,
+Slovak Republic,EURO,Staphylococcus aureus,10,0,0,0.0,0.0,YES,,,10.0,,0.0,,,0.0,,0.0
+Slovak Republic,EURO,Pseudomonas aeruginosa,3,2,2,66.67,66.67,NO,,,,,,,,,,
+Slovak Republic,EURO,Enterobacter cloacae,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Slovak Republic,EURO,Serratia marcescens,3,0,0,0.0,0.0,NO,,,,,,,,,,
+Slovak Republic,EURO,Streptococcus pneumoniae,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Slovenia,EURO,Klebsiella pneumoniae,38,14,4,36.84,10.53,YES,20.83,0.0,13.16,5.26,,0.0,23.68,2.63,35.71,
+Slovenia,EURO,Acinetobacter baumannii,15,11,11,73.33,73.33,YES,,60.0,66.67,73.33,,0.0,66.67,,70.0,
+Slovenia,EURO,Escherichia coli,54,17,7,31.48,12.96,YES,21.74,1.85,29.63,5.56,,,7.41,0.0,,
+Slovenia,EURO,Staphylococcus aureus,92,1,0,1.09,0.0,YES,,,9.78,,0.0,,,0.0,0.0,0.0
+Slovenia,EURO,Pseudomonas aeruginosa,55,15,6,27.27,10.91,YES,,5.45,7.27,0.0,,0.0,14.55,,,
+Slovenia,EURO,Enterobacter cloacae,11,4,3,36.36,27.27,YES,60.0,0.0,27.27,9.09,,,27.27,0.0,,
+Slovenia,EURO,Enterococcus faecium,7,4,1,57.14,14.29,NO,,,,,,,,,,
+Slovenia,EURO,Staphylococcus epidermidis,10,8,0,80.0,0.0,YES,,,50.0,,0.0,,,0.0,30.0,0.0
+Slovenia,EURO,Serratia marcescens,8,2,0,25.0,0.0,NO,,,,,,,,,,
+Slovenia,EURO,Streptococcus pneumoniae,32,3,0,9.38,0.0,YES,0.0,3.12,0.0,,0.0,,,0.0,,0.0
+Slovenia,EURO,Haemophilus influenzae,1,0,0,0.0,0.0,NO,,,,,,,,,,
+South Africa,AFRO,Klebsiella pneumoniae,202,140,81,69.31,40.1,YES,70.18,21.83,36.63,15.35,,3.39,42.08,0.5,63.89,
+South Africa,AFRO,Acinetobacter baumannii,55,42,42,76.36,76.36,YES,,77.36,43.64,69.09,,2.08,76.36,,79.17,
+South Africa,AFRO,Escherichia coli,166,103,15,62.05,9.04,YES,26.92,0.61,28.92,4.22,,0.0,6.63,0.0,59.26,
+South Africa,AFRO,Staphylococcus aureus,197,28,0,14.21,0.0,YES,,,17.26,,0.0,,,0.0,12.21,0.0
+South Africa,AFRO,Pseudomonas aeruginosa,102,31,14,30.39,13.73,YES,,18.81,13.73,6.86,,1.05,13.73,,,
+South Africa,AFRO,Enterobacter cloacae,28,9,6,32.14,21.43,YES,37.5,3.85,10.71,10.71,,0.0,17.86,0.0,9.09,
+South Africa,AFRO,Enterococcus faecium,32,24,5,75.0,15.62,YES,,,81.25,,9.38,,,0.0,,0.0
+South Africa,AFRO,Staphylococcus epidermidis,60,36,0,60.0,0.0,YES,,,45.0,,0.0,,,0.0,50.0,1.67
+South Africa,AFRO,Serratia marcescens,30,12,1,40.0,3.33,YES,20.0,3.45,6.67,3.33,,100.0,3.33,0.0,10.0,
+South Africa,AFRO,Citrobacter koseri,4,0,0,0.0,0.0,NO,,,,,,,,,,
+South Africa,AFRO,Streptococcus pneumoniae,70,14,0,20.0,0.0,YES,0.0,7.69,0.0,,0.0,,,0.0,,0.0
+South Africa,AFRO,Haemophilus influenzae,6,0,0,0.0,0.0,NO,,,,,,,,,,
+Spain,EURO,Klebsiella pneumoniae,1250,435,168,34.8,13.44,YES,24.94,3.14,24.88,2.08,,1.98,20.08,0.48,28.41,
+Spain,EURO,Acinetobacter baumannii,196,133,120,67.86,61.22,YES,67.52,54.4,55.1,23.47,,0.0,63.78,,40.54,
+Spain,EURO,Escherichia coli,1890,632,144,33.44,7.62,YES,20.41,0.16,37.25,1.64,,0.31,7.35,0.0,33.21,
+Spain,EURO,Staphylococcus aureus,1173,132,0,11.25,0.0,YES,,,32.91,,0.0,,,0.0,0.74,0.0
+Spain,EURO,Pseudomonas aeruginosa,676,154,121,22.78,17.9,YES,,18.3,25.0,3.4,,0.36,15.53,,,
+Spain,EURO,Enterobacter cloacae,497,113,50,22.74,10.06,YES,32.95,2.43,12.47,3.02,,9.68,24.55,0.2,14.29,
+Spain,EURO,Enterococcus faecium,290,118,50,40.69,17.24,YES,,,83.79,,1.03,,,0.0,,0.0
+Spain,EURO,Staphylococcus epidermidis,266,122,1,45.86,0.38,YES,,,67.67,,0.0,,,0.0,47.02,7.89
+Spain,EURO,Serratia marcescens,297,55,8,18.52,2.69,YES,5.65,0.71,3.37,1.68,,90.0,2.02,0.0,4.17,
+Spain,EURO,Citrobacter koseri,33,2,0,6.06,0.0,YES,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,
+Spain,EURO,Streptococcus pneumoniae,925,141,0,15.24,0.0,YES,0.54,8.44,0.86,,0.0,,,0.0,,0.0
+Spain,EURO,Haemophilus influenzae,146,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.68,0.0,,
+Sweden,EURO,Klebsiella pneumoniae,126,26,3,20.63,2.38,YES,6.67,0.0,6.35,0.0,,0.0,7.94,0.79,23.26,
+Sweden,EURO,Acinetobacter baumannii,14,1,1,7.14,7.14,YES,10.0,8.33,7.14,7.14,,,7.14,,,
+Sweden,EURO,Escherichia coli,171,20,1,11.7,0.58,YES,3.1,0.0,11.7,0.0,,1.89,1.17,0.0,17.07,
+Sweden,EURO,Staphylococcus aureus,133,1,0,0.75,0.0,YES,,,3.01,,0.0,,,0.0,0.0,0.0
+Sweden,EURO,Pseudomonas aeruginosa,73,6,4,8.22,5.48,YES,,6.25,4.11,0.0,,0.0,8.22,,,
+Sweden,EURO,Enterobacter cloacae,61,12,1,19.67,1.64,YES,17.78,1.72,1.64,0.0,,0.0,19.67,0.0,0.0,
+Sweden,EURO,Enterococcus faecium,29,21,11,72.41,37.93,YES,,,93.1,,0.0,,,0.0,,0.0
+Sweden,EURO,Staphylococcus epidermidis,18,11,1,61.11,5.56,YES,,,72.22,,0.0,,,0.0,61.11,0.0
+Sweden,EURO,Serratia marcescens,30,15,0,50.0,0.0,YES,11.11,0.0,10.0,0.0,,100.0,13.33,0.0,0.0,
+Sweden,EURO,Citrobacter koseri,8,0,0,0.0,0.0,NO,,,,,,,,,,
+Sweden,EURO,Streptococcus pneumoniae,59,3,0,5.08,0.0,YES,1.69,1.79,0.0,,0.0,,,0.0,,0.0
+Sweden,EURO,Haemophilus influenzae,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Switzerland,EURO,Klebsiella pneumoniae,127,18,4,14.17,3.15,YES,12.33,0.86,7.87,0.79,,0.0,2.36,0.79,7.41,
+Switzerland,EURO,Acinetobacter baumannii,11,3,3,27.27,27.27,YES,,,27.27,18.18,,,27.27,,,
+Switzerland,EURO,Escherichia coli,337,89,13,26.41,3.86,YES,10.7,0.0,17.8,0.89,,0.67,2.37,0.0,34.67,
+Switzerland,EURO,Staphylococcus aureus,147,6,0,4.08,0.0,YES,,,13.61,,0.0,,,0.0,0.0,0.0
+Switzerland,EURO,Pseudomonas aeruginosa,88,13,6,14.77,6.82,YES,,5.19,5.68,0.0,,0.0,12.5,,,
+Switzerland,EURO,Enterobacter cloacae,38,1,0,2.63,0.0,YES,36.36,0.0,0.0,0.0,,,18.42,0.0,,
+Switzerland,EURO,Enterococcus faecium,41,15,3,36.59,7.32,YES,,,70.73,,0.0,,,0.0,,0.0
+Switzerland,EURO,Staphylococcus epidermidis,63,11,0,17.46,0.0,YES,,,55.56,,0.0,,,0.0,33.33,0.0
+Switzerland,EURO,Serratia marcescens,26,5,0,19.23,0.0,YES,16.67,0.0,0.0,0.0,,,7.69,0.0,,
+Switzerland,EURO,Citrobacter koseri,8,0,0,0.0,0.0,NO,,,,,,,,,,
+Switzerland,EURO,Streptococcus pneumoniae,94,7,0,7.45,0.0,YES,0.0,0.0,0.0,,0.0,,,0.0,,0.0
+Switzerland,EURO,Haemophilus influenzae,17,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+Taiwan,WPRO,Klebsiella pneumoniae,260,116,40,44.62,15.38,YES,24.0,3.66,23.08,7.69,,3.75,19.23,1.54,45.51,
+Taiwan,WPRO,Acinetobacter baumannii,96,42,38,43.75,39.58,YES,37.25,37.66,28.12,34.38,,0.0,34.38,,46.67,
+Taiwan,WPRO,Escherichia coli,373,204,40,54.69,10.72,YES,27.66,1.18,39.14,2.95,,1.29,6.7,0.0,45.54,
+Taiwan,WPRO,Staphylococcus aureus,441,130,0,29.48,0.0,YES,,,39.0,,0.0,,,0.0,10.07,0.0
+Taiwan,WPRO,Pseudomonas aeruginosa,215,54,33,25.12,15.35,YES,,11.71,18.14,1.4,,0.0,17.67,,,
+Taiwan,WPRO,Enterobacter cloacae,84,25,10,29.76,11.9,YES,41.67,1.3,13.1,1.19,,58.33,20.24,0.0,8.33,
+Taiwan,WPRO,Enterococcus faecium,74,45,28,60.81,37.84,YES,,,89.19,,33.78,,,0.0,,0.0
+Taiwan,WPRO,Staphylococcus epidermidis,66,41,0,62.12,0.0,YES,,,48.48,,0.0,,,0.0,46.97,0.0
+Taiwan,WPRO,Serratia marcescens,62,29,7,46.77,11.29,YES,41.86,0.0,24.19,4.84,,100.0,8.06,11.29,41.18,
+Taiwan,WPRO,Citrobacter koseri,8,1,0,12.5,0.0,NO,,,,,,,,,,
+Taiwan,WPRO,Streptococcus pneumoniae,58,45,0,77.59,0.0,YES,8.62,34.48,5.17,,0.0,,,0.0,,0.0
+Taiwan,WPRO,Haemophilus influenzae,12,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,8.33,0.0,,
+Thailand,SEARO,Klebsiella pneumoniae,128,80,36,62.5,28.12,YES,41.67,21.09,40.62,4.69,,6.35,35.94,0.0,51.33,
+Thailand,SEARO,Acinetobacter baumannii,56,46,46,82.14,82.14,YES,,82.14,71.43,60.71,,0.0,78.57,,60.0,
+Thailand,SEARO,Escherichia coli,180,133,21,73.89,11.67,YES,36.84,3.33,52.22,2.78,,3.11,10.0,0.0,56.2,
+Thailand,SEARO,Staphylococcus aureus,179,50,0,27.93,0.0,YES,,,31.28,,0.0,,,0.0,2.35,0.0
+Thailand,SEARO,Pseudomonas aeruginosa,81,35,21,43.21,25.93,YES,,23.46,25.93,9.88,,1.25,24.69,,,
+Thailand,SEARO,Enterobacter cloacae,23,9,2,39.13,8.7,YES,,0.0,0.0,0.0,,33.33,8.7,0.0,17.65,
+Thailand,SEARO,Enterococcus faecium,39,36,9,92.31,23.08,YES,,,87.18,,17.95,,,0.0,,2.56
+Thailand,SEARO,Staphylococcus epidermidis,40,25,0,62.5,0.0,YES,,,27.5,,0.0,,,0.0,42.5,0.0
+Thailand,SEARO,Serratia marcescens,20,10,1,50.0,5.0,YES,,0.0,5.0,0.0,,94.12,0.0,0.0,12.5,
+Thailand,SEARO,Citrobacter koseri,11,2,0,18.18,0.0,YES,,0.0,0.0,0.0,,0.0,9.09,0.0,0.0,
+Thailand,SEARO,Streptococcus pneumoniae,47,11,0,23.4,0.0,YES,2.13,10.64,0.0,,0.0,,,0.0,,0.0
+Thailand,SEARO,Haemophilus influenzae,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Tunisia,EMRO,Klebsiella pneumoniae,7,4,2,57.14,28.57,NO,,,,,,,,,,
+Tunisia,EMRO,Acinetobacter baumannii,2,2,2,100.0,100.0,NO,,,,,,,,,,
+Tunisia,EMRO,Escherichia coli,9,2,1,22.22,11.11,NO,,,,,,,,,,
+Tunisia,EMRO,Staphylococcus aureus,9,0,0,0.0,0.0,NO,,,,,,,,,,
+Tunisia,EMRO,Pseudomonas aeruginosa,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Tunisia,EMRO,Enterobacter cloacae,7,2,1,28.57,14.29,NO,,,,,,,,,,
+Tunisia,EMRO,Enterococcus faecium,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Tunisia,EMRO,Serratia marcescens,5,0,0,0.0,0.0,NO,,,,,,,,,,
+Tunisia,EMRO,Streptococcus pneumoniae,6,4,0,66.67,0.0,NO,,,,,,,,,,
+Turkey,EURO,Klebsiella pneumoniae,173,116,74,67.05,42.77,YES,38.6,38.31,45.09,23.7,,20.16,53.76,0.0,70.09,
+Turkey,EURO,Acinetobacter baumannii,125,119,116,95.2,92.8,YES,83.87,92.92,86.4,83.2,,3.12,95.2,,91.67,
+Turkey,EURO,Escherichia coli,185,124,42,67.03,22.7,YES,38.71,1.16,49.19,8.11,,0.0,19.46,0.54,46.49,
+Turkey,EURO,Staphylococcus aureus,281,20,0,7.12,0.0,YES,,,14.95,,0.0,,,0.0,2.09,0.0
+Turkey,EURO,Pseudomonas aeruginosa,114,54,41,47.37,35.96,YES,,34.0,35.09,14.91,,1.22,27.19,,,
+Turkey,EURO,Enterobacter cloacae,27,8,4,29.63,14.81,YES,50.0,0.0,11.11,3.7,,,29.63,0.0,,
+Turkey,EURO,Enterococcus faecium,61,41,14,67.21,22.95,YES,,,83.33,,9.84,,,0.0,,0.0
+Turkey,EURO,Staphylococcus epidermidis,52,34,1,65.38,1.92,YES,,,67.31,,0.0,,,0.0,32.69,0.0
+Turkey,EURO,Serratia marcescens,34,19,7,55.88,20.59,YES,50.0,4.35,11.76,8.82,,100.0,26.47,0.0,0.0,
+Turkey,EURO,Citrobacter koseri,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Turkey,EURO,Streptococcus pneumoniae,19,7,0,36.84,0.0,YES,5.26,18.75,0.0,,0.0,,,0.0,,0.0
+Uganda,AFRO,Klebsiella pneumoniae,10,9,5,90.0,50.0,YES,,0.0,40.0,0.0,,0.0,50.0,0.0,80.0,
+Uganda,AFRO,Acinetobacter baumannii,2,2,2,100.0,100.0,NO,,,,,,,,,,
+Uganda,AFRO,Escherichia coli,5,5,4,100.0,80.0,NO,,,,,,,,,,
+Uganda,AFRO,Staphylococcus aureus,5,1,0,20.0,0.0,NO,,,,,,,,,,
+Uganda,AFRO,Pseudomonas aeruginosa,3,2,2,66.67,66.67,NO,,,,,,,,,,
+Ukraine,EURO,Klebsiella pneumoniae,64,64,54,100.0,84.38,YES,,75.0,85.94,79.69,,20.31,84.38,0.0,68.75,
+Ukraine,EURO,Acinetobacter baumannii,33,31,31,93.94,93.94,YES,,87.88,90.91,84.85,,3.03,93.94,,81.82,
+Ukraine,EURO,Escherichia coli,34,23,4,67.65,11.76,YES,,2.94,23.53,5.88,,0.0,11.76,0.0,52.94,
+Ukraine,EURO,Staphylococcus aureus,41,3,0,7.32,0.0,YES,,,7.32,,0.0,,,0.0,0.0,0.0
+Ukraine,EURO,Pseudomonas aeruginosa,25,17,15,68.0,60.0,YES,,68.0,48.0,52.0,,0.0,60.0,,,
+Ukraine,EURO,Enterobacter cloacae,6,6,5,100.0,83.33,NO,,,,,,,,,,
+Ukraine,EURO,Enterococcus faecium,19,18,4,94.74,21.05,YES,,,89.47,,21.05,,,0.0,,0.0
+Ukraine,EURO,Staphylococcus epidermidis,29,27,0,93.1,0.0,YES,,,82.76,,0.0,,,0.0,13.79,6.9
+Ukraine,EURO,Serratia marcescens,1,1,1,100.0,100.0,NO,,,,,,,,,,
+Ukraine,EURO,Citrobacter koseri,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Ukraine,EURO,Streptococcus pneumoniae,2,2,0,100.0,0.0,NO,,,,,,,,,,
+United Kingdom,EURO,Klebsiella pneumoniae,426,147,33,34.51,7.75,YES,16.22,1.22,9.62,1.88,,0.66,12.91,0.0,37.26,
+United Kingdom,EURO,Acinetobacter baumannii,23,2,2,8.7,8.7,YES,0.0,15.0,13.04,4.35,,0.0,8.7,,20.0,
+United Kingdom,EURO,Escherichia coli,605,206,35,34.05,5.79,YES,14.29,0.0,19.5,2.81,,0.51,6.61,0.0,36.97,
+United Kingdom,EURO,Staphylococcus aureus,350,20,0,5.71,0.0,YES,,,14.57,,0.0,,,0.0,1.21,0.0
+United Kingdom,EURO,Pseudomonas aeruginosa,278,33,18,11.87,6.47,YES,,7.39,4.68,0.36,,0.0,7.91,,,
+United Kingdom,EURO,Enterobacter cloacae,128,23,4,17.97,3.12,YES,23.47,0.0,4.69,0.0,,5.71,13.28,0.78,13.33,
+United Kingdom,EURO,Enterococcus faecium,82,63,34,76.83,41.46,YES,,,86.59,,21.95,,,0.0,,0.0
+United Kingdom,EURO,Staphylococcus epidermidis,38,28,0,73.68,0.0,YES,,,63.16,,0.0,,,0.0,47.37,0.0
+United Kingdom,EURO,Serratia marcescens,83,25,2,30.12,2.41,YES,17.39,0.0,6.02,0.0,,89.19,4.82,2.41,0.0,
+United Kingdom,EURO,Citrobacter koseri,23,1,0,4.35,0.0,YES,,0.0,0.0,0.0,,0.0,0.0,0.0,4.76,
+United Kingdom,EURO,Streptococcus pneumoniae,204,4,0,1.96,0.0,YES,0.0,0.5,0.0,,0.0,,,0.0,,0.0
+United Kingdom,EURO,Haemophilus influenzae,38,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,0.0,0.0,,
+United States,AMRO,Klebsiella pneumoniae,2379,493,237,20.72,9.96,YES,12.98,3.07,12.82,4.54,,1.67,9.63,1.01,25.34,
+United States,AMRO,Acinetobacter baumannii,467,229,183,49.04,39.19,YES,46.5,38.08,46.47,18.2,,2.94,37.69,,39.06,
+United States,AMRO,Escherichia coli,4100,888,200,21.66,4.88,YES,7.8,0.13,27.17,1.46,,0.09,2.59,0.02,32.51,
+United States,AMRO,Staphylococcus aureus,2400,281,0,11.71,0.0,YES,,,45.17,,0.0,,,0.0,3.72,0.0
+United States,AMRO,Pseudomonas aeruginosa,1216,212,152,17.43,12.5,YES,,9.84,24.18,0.9,,0.24,10.86,,,
+United States,AMRO,Enterobacter cloacae,914,186,78,20.35,8.53,YES,29.76,0.81,9.96,1.53,,20.0,20.24,1.64,17.86,
+United States,AMRO,Enterococcus faecium,615,458,429,74.47,69.76,YES,,,84.55,,64.72,,,0.0,,0.33
+United States,AMRO,Staphylococcus epidermidis,333,202,0,60.66,0.0,YES,,,51.05,,0.0,,,0.0,42.77,0.0
+United States,AMRO,Serratia marcescens,513,106,29,20.66,5.65,YES,14.29,2.47,8.58,2.92,,94.83,5.07,0.78,3.57,
+United States,AMRO,Citrobacter koseri,29,2,0,6.9,0.0,YES,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,
+United States,AMRO,Streptococcus pneumoniae,1433,212,0,14.79,0.0,YES,0.63,7.88,0.49,,0.0,,,0.0,,0.0
+United States,AMRO,Haemophilus influenzae,322,3,3,0.93,0.93,YES,0.0,0.0,0.0,,,,0.62,0.0,,
+Venezuela,AMRO,Klebsiella pneumoniae,107,51,20,47.66,18.69,YES,27.08,9.52,31.78,17.76,,0.0,23.36,0.0,40.82,
+Venezuela,AMRO,Acinetobacter baumannii,25,18,17,72.0,68.0,YES,69.23,69.57,68.0,60.0,,0.0,68.0,,60.0,
+Venezuela,AMRO,Escherichia coli,142,90,16,63.38,11.27,YES,44.64,1.44,57.75,3.52,,0.0,6.34,0.0,66.67,
+Venezuela,AMRO,Staphylococcus aureus,97,13,0,13.4,0.0,YES,,,13.4,,0.0,,,0.0,0.0,0.0
+Venezuela,AMRO,Pseudomonas aeruginosa,95,42,24,44.21,25.26,YES,,27.37,32.63,17.89,,1.3,21.05,,,
+Venezuela,AMRO,Enterobacter cloacae,44,10,3,22.73,6.82,YES,22.22,0.0,2.27,6.82,,0.0,13.64,0.0,21.43,
+Venezuela,AMRO,Enterococcus faecium,19,11,5,57.89,26.32,YES,,,52.63,,26.32,,,0.0,,0.0
+Venezuela,AMRO,Staphylococcus epidermidis,62,30,0,48.39,0.0,YES,,,48.39,,0.0,,,0.0,30.65,1.61
+Venezuela,AMRO,Serratia marcescens,35,16,8,45.71,22.86,YES,19.05,5.88,11.43,20.0,,100.0,14.29,0.0,38.46,
+Venezuela,AMRO,Citrobacter koseri,2,0,0,0.0,0.0,NO,,,,,,,,,,
+Venezuela,AMRO,Streptococcus pneumoniae,30,11,0,36.67,0.0,YES,0.0,13.79,0.0,,0.0,,,0.0,,0.0
+Venezuela,AMRO,Haemophilus influenzae,12,0,0,0.0,0.0,YES,0.0,0.0,0.0,,,,8.33,0.0,,
+Venezuela,AMRO,Salmonella spp,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Vietnam,WPRO,Klebsiella pneumoniae,1,1,0,100.0,0.0,NO,,,,,,,,,,
+Vietnam,WPRO,Escherichia coli,5,1,0,20.0,0.0,NO,,,,,,,,,,
+Vietnam,WPRO,Staphylococcus aureus,1,0,0,0.0,0.0,NO,,,,,,,,,,
+Vietnam,WPRO,Enterobacter cloacae,2,1,1,50.0,50.0,NO,,,,,,,,,,

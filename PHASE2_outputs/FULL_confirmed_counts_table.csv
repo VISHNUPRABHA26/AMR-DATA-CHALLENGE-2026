@@ -1,0 +1,14 @@
+Organism,Gram_Type,Total_Isolates,Pediatric_N,Elderly_N,Countries_Covered,Years_Covered,MDR_Count,XDR_Count,PDR_Count,MDR_Rate_%,XDR_Rate_%,PDR_Rate_%,Blood_N,CSF_N,Brain_SpinalCord_N
+Klebsiella pneumoniae,Gram-Negative,15600,2410,13190,76,2004-2024,7038,3668,187,45.12,23.51,1.2,15506,59,30
+Acinetobacter baumannii,Gram-Negative,4147,756,3391,74,2004-2024,2819,2639,1406,67.98,63.64,33.9,4060,60,23
+Escherichia coli,Gram-Negative,22675,1905,20770,77,2004-2024,8585,1946,14,37.86,8.58,0.06,22548,67,53
+Staphylococcus aureus,Gram-Positive,18112,2724,15388,78,2004-2024,2348,0,0,12.96,0.0,0.0,17926,84,59
+Pseudomonas aeruginosa,Gram-Negative,9328,1151,8177,72,2004-2024,2470,1678,435,26.48,17.99,4.66,9234,53,28
+Enterobacter cloacae,Gram-Negative,5227,1080,4147,71,2004-2024,1600,699,33,30.61,13.37,0.63,5139,48,34
+Enterococcus faecium,Gram-Positive,3598,352,3246,63,2004-2024,2386,1297,5,66.31,36.05,0.14,3560,20,18
+Staphylococcus epidermidis,Gram-Positive,4130,965,3165,61,2010-2024,2284,5,0,55.3,0.12,0.0,4105,12,13
+Serratia marcescens,Gram-Negative,3270,612,2658,68,2004-2024,1116,290,17,34.13,8.87,0.52,3218,27,20
+Citrobacter koseri,Gram-Negative,474,16,458,48,2006-2024,46,0,0,9.7,0.0,0.0,472,1,0
+Streptococcus pneumoniae,Gram-Positive,8064,1893,6171,67,2004-2024,1180,0,0,14.63,0.0,0.0,7696,274,83
+Haemophilus influenzae,Gram-Negative,1312,420,892,59,2004-2024,4,4,0,0.3,0.3,0.0,1218,55,29
+Salmonella spp,Gram-Negative,8,5,3,5,2018-2024,2,2,0,25.0,25.0,0.0,8,0,0

@@ -1,0 +1,560 @@
+Organism,Antibiotic,Resistant,Susceptible,Intermediate,NA,Total_Tested,Resistance_Rate_%,Sufficient_Data
+Klebsiella pneumoniae,Amikacin,1639,13341,620,0,15600,10.51,YES
+Klebsiella pneumoniae,Amoxycillin clavulanate,3302,10366,1932,0,15600,21.17,YES
+Klebsiella pneumoniae,Ampicillin sulbactam,3131,3721,735,8013,7587,41.27,YES
+Klebsiella pneumoniae,Ampicillin,14039,291,1264,6,15594,90.03,YES
+Klebsiella pneumoniae,Azithromycin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Aztreonam,3676,4977,99,6848,8752,42.0,YES
+Klebsiella pneumoniae,Cefepime,4605,10052,943,0,15600,29.52,YES
+Klebsiella pneumoniae,Cefiderocol,0,1176,4,14420,1180,0.0,YES
+Klebsiella pneumoniae,Cefixime,1475,1859,16,12250,3350,44.03,YES
+Klebsiella pneumoniae,Cefoxitin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Cefpodoxime,1494,1844,12,12250,3350,44.6,YES
+Klebsiella pneumoniae,Ceftaroline,4161,4424,167,6848,8752,47.54,YES
+Klebsiella pneumoniae,Ceftazidime avibactam,555,8197,0,6848,8752,6.34,YES
+Klebsiella pneumoniae,Ceftazidime,4354,7162,486,3598,12002,36.28,YES
+Klebsiella pneumoniae,Ceftibuten,721,2451,178,12250,3350,21.52,YES
+Klebsiella pneumoniae,Ceftolozane tazobactam,1358,4584,135,9523,6077,22.35,YES
+Klebsiella pneumoniae,Ceftriaxone,2258,5194,58,8090,7510,30.07,YES
+Klebsiella pneumoniae,Ciprofloxacin,3102,3984,501,8013,7587,40.89,YES
+Klebsiella pneumoniae,Clarithromycin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Clindamycin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Colistin,344,0,8408,6848,8752,3.93,YES
+Klebsiella pneumoniae,Daptomycin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Doripenem,82,1077,6,14435,1165,7.04,YES
+Klebsiella pneumoniae,Ertapenem,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Erythromycin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Gentamicin,2155,5402,30,8013,7587,28.4,YES
+Klebsiella pneumoniae,Imipenem,1416,8090,242,5852,9748,14.53,YES
+Klebsiella pneumoniae,Levofloxacin,4327,10204,1069,0,15600,27.74,YES
+Klebsiella pneumoniae,Linezolid,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Meropenem vaborbactam,583,5111,45,9861,5739,10.16,YES
+Klebsiella pneumoniae,Meropenem,1688,12735,181,996,14604,11.56,YES
+Klebsiella pneumoniae,Metronidazole,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Minocycline,1086,5144,618,8752,6848,15.86,YES
+Klebsiella pneumoniae,Moxifloxacin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Oxacillin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Penicillin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Piperacillin tazobactam,3983,10747,870,0,15600,25.53,YES
+Klebsiella pneumoniae,Quinupristin dalfopristin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Teicoplanin,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Tetracycline,0,0,0,15600,0,,NO
+Klebsiella pneumoniae,Tigecycline,78,15072,450,0,15600,0.5,YES
+Klebsiella pneumoniae,Trimethoprim sulfa,3386,4200,0,8014,7586,44.63,YES
+Klebsiella pneumoniae,Vancomycin,0,0,0,15600,0,,NO
+Acinetobacter baumannii,Amikacin,2046,1926,175,0,4147,49.34,YES
+Acinetobacter baumannii,Amoxycillin clavulanate,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Ampicillin sulbactam,1080,640,308,2119,2028,53.25,YES
+Acinetobacter baumannii,Ampicillin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Azithromycin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Aztreonam,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Cefepime,2450,1390,307,0,4147,59.08,YES
+Acinetobacter baumannii,Cefiderocol,12,203,6,3926,221,5.43,YES
+Acinetobacter baumannii,Cefixime,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Cefoxitin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Cefpodoxime,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Ceftaroline,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Ceftazidime avibactam,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Ceftazidime,2646,1351,150,0,4147,63.81,YES
+Acinetobacter baumannii,Ceftibuten,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Ceftolozane tazobactam,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Ceftriaxone,1166,451,423,2107,2040,57.16,YES
+Acinetobacter baumannii,Ciprofloxacin,1481,531,16,2119,2028,73.03,YES
+Acinetobacter baumannii,Clarithromycin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Clindamycin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Colistin,63,0,2077,2007,2140,2.94,YES
+Acinetobacter baumannii,Daptomycin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Doripenem,72,40,0,4035,112,64.29,YES
+Acinetobacter baumannii,Ertapenem,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Erythromycin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Gentamicin,1286,684,58,2119,2028,63.41,YES
+Acinetobacter baumannii,Imipenem,1600,897,41,1609,2538,63.04,YES
+Acinetobacter baumannii,Levofloxacin,2395,1427,325,0,4147,57.75,YES
+Acinetobacter baumannii,Linezolid,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Meropenem vaborbactam,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Meropenem,2367,1312,70,398,3749,63.14,YES
+Acinetobacter baumannii,Metronidazole,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Minocycline,118,1663,226,2140,2007,5.88,YES
+Acinetobacter baumannii,Moxifloxacin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Oxacillin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Penicillin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Piperacillin tazobactam,2645,1320,182,0,4147,63.78,YES
+Acinetobacter baumannii,Quinupristin dalfopristin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Teicoplanin,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Tetracycline,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Tigecycline,0,0,0,4147,0,,NO
+Acinetobacter baumannii,Trimethoprim sulfa,1250,778,0,2119,2028,61.64,YES
+Acinetobacter baumannii,Vancomycin,0,0,0,4147,0,,NO
+Escherichia coli,Amikacin,630,20226,1819,0,22675,2.78,YES
+Escherichia coli,Amoxycillin clavulanate,2027,17232,3416,0,22675,8.94,YES
+Escherichia coli,Ampicillin sulbactam,1672,6421,1702,12880,9795,17.07,YES
+Escherichia coli,Ampicillin,14115,8368,192,0,22675,62.25,YES
+Escherichia coli,Azithromycin,0,2,0,22673,2,,NO
+Escherichia coli,Aztreonam,2277,8546,466,11386,11289,20.17,YES
+Escherichia coli,Cefepime,3033,18310,1332,0,22675,13.38,YES
+Escherichia coli,Cefiderocol,3,1364,5,21303,1372,0.22,YES
+Escherichia coli,Cefixime,1220,2965,93,18397,4278,28.52,YES
+Escherichia coli,Cefoxitin,0,0,0,22675,0,,NO
+Escherichia coli,Cefpodoxime,1225,3022,31,18397,4278,28.63,YES
+Escherichia coli,Ceftaroline,3270,7781,238,11386,11289,28.97,YES
+Escherichia coli,Ceftazidime avibactam,91,11198,0,11386,11289,0.81,YES
+Escherichia coli,Ceftazidime,2368,13583,911,5813,16862,14.04,YES
+Escherichia coli,Ceftibuten,315,3814,149,18397,4278,7.36,YES
+Escherichia coli,Ceftolozane tazobactam,206,7370,48,15051,7624,2.7,YES
+Escherichia coli,Ceftriaxone,2221,9909,94,10451,12224,18.17,YES
+Escherichia coli,Ciprofloxacin,3285,6115,395,12880,9795,33.54,YES
+Escherichia coli,Clarithromycin,0,0,0,22675,0,,NO
+Escherichia coli,Clindamycin,0,0,0,22675,0,,NO
+Escherichia coli,Colistin,59,0,11230,11386,11289,0.52,YES
+Escherichia coli,Daptomycin,0,0,0,22675,0,,NO
+Escherichia coli,Doripenem,8,1485,1,21181,1494,0.54,YES
+Escherichia coli,Ertapenem,0,0,0,22675,0,,NO
+Escherichia coli,Erythromycin,0,0,0,22675,0,,NO
+Escherichia coli,Gentamicin,1494,8239,62,12880,9795,15.25,YES
+Escherichia coli,Imipenem,130,12917,58,9570,13105,0.99,YES
+Escherichia coli,Levofloxacin,7293,14921,461,0,22675,32.16,YES
+Escherichia coli,Linezolid,0,0,0,22675,0,,NO
+Escherichia coli,Meropenem vaborbactam,57,7167,7,15444,7231,0.79,YES
+Escherichia coli,Meropenem,139,20688,32,1816,20859,0.67,YES
+Escherichia coli,Metronidazole,0,0,0,22675,0,,NO
+Escherichia coli,Minocycline,1048,9355,983,11289,11386,9.2,YES
+Escherichia coli,Moxifloxacin,0,0,0,22675,0,,NO
+Escherichia coli,Oxacillin,0,0,0,22675,0,,NO
+Escherichia coli,Penicillin,0,0,0,22675,0,,NO
+Escherichia coli,Piperacillin tazobactam,1450,20531,694,0,22675,6.39,YES
+Escherichia coli,Quinupristin dalfopristin,0,0,0,22675,0,,NO
+Escherichia coli,Teicoplanin,0,0,0,22675,0,,NO
+Escherichia coli,Tetracycline,0,0,0,22675,0,,NO
+Escherichia coli,Tigecycline,4,22658,13,0,22675,0.02,YES
+Escherichia coli,Trimethoprim sulfa,3819,5976,0,12880,9795,38.99,YES
+Escherichia coli,Vancomycin,0,0,0,22675,0,,NO
+Staphylococcus aureus,Amikacin,0,0,0,18112,0,,NO
+Staphylococcus aureus,Amoxycillin clavulanate,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ampicillin sulbactam,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ampicillin,0,0,0,18112,0,,NO
+Staphylococcus aureus,Azithromycin,21,60,2,18029,83,25.3,YES
+Staphylococcus aureus,Aztreonam,0,0,0,18112,0,,NO
+Staphylococcus aureus,Cefepime,0,0,0,18112,0,,NO
+Staphylococcus aureus,Cefiderocol,0,0,0,18112,0,,NO
+Staphylococcus aureus,Cefixime,0,0,0,18112,0,,NO
+Staphylococcus aureus,Cefoxitin,0,0,0,18112,0,,NO
+Staphylococcus aureus,Cefpodoxime,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ceftaroline,5,11050,288,6769,11343,0.04,YES
+Staphylococcus aureus,Ceftazidime avibactam,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ceftazidime,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ceftibuten,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ceftolozane tazobactam,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ceftriaxone,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ciprofloxacin,0,0,0,18112,0,,NO
+Staphylococcus aureus,Clarithromycin,0,0,0,18112,0,,NO
+Staphylococcus aureus,Clindamycin,1289,10028,26,6769,11343,11.36,YES
+Staphylococcus aureus,Colistin,0,0,0,18112,0,,NO
+Staphylococcus aureus,Daptomycin,0,11321,22,6769,11343,0.0,YES
+Staphylococcus aureus,Doripenem,0,0,0,18112,0,,NO
+Staphylococcus aureus,Ertapenem,0,0,0,18112,0,,NO
+Staphylococcus aureus,Erythromycin,4215,6828,300,6769,11343,37.16,YES
+Staphylococcus aureus,Gentamicin,934,10251,158,6769,11343,8.23,YES
+Staphylococcus aureus,Imipenem,0,0,0,18112,0,,NO
+Staphylococcus aureus,Levofloxacin,5395,12582,135,0,18112,29.79,YES
+Staphylococcus aureus,Linezolid,2,18110,0,0,18112,0.01,YES
+Staphylococcus aureus,Meropenem vaborbactam,0,0,0,18112,0,,NO
+Staphylococcus aureus,Meropenem,0,0,0,18112,0,,NO
+Staphylococcus aureus,Metronidazole,0,0,0,18112,0,,NO
+Staphylococcus aureus,Minocycline,107,8726,147,9132,8980,1.19,YES
+Staphylococcus aureus,Moxifloxacin,970,1191,50,15901,2211,43.87,YES
+Staphylococcus aureus,Oxacillin,3681,7662,0,6769,11343,32.45,YES
+Staphylococcus aureus,Penicillin,0,0,0,18112,0,,NO
+Staphylococcus aureus,Piperacillin tazobactam,0,0,0,18112,0,,NO
+Staphylococcus aureus,Quinupristin dalfopristin,0,0,0,18112,0,,NO
+Staphylococcus aureus,Teicoplanin,2,11340,1,6769,11343,0.02,YES
+Staphylococcus aureus,Tetracycline,0,0,0,18112,0,,NO
+Staphylococcus aureus,Tigecycline,0,18075,37,0,18112,0.0,YES
+Staphylococcus aureus,Trimethoprim sulfa,188,11155,0,6769,11343,1.66,YES
+Staphylococcus aureus,Vancomycin,1,18111,0,0,18112,0.01,YES
+Pseudomonas aeruginosa,Amikacin,527,8606,195,0,9328,5.65,YES
+Pseudomonas aeruginosa,Amoxycillin clavulanate,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Ampicillin sulbactam,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Ampicillin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Azithromycin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Aztreonam,920,3973,586,3849,5479,16.79,YES
+Pseudomonas aeruginosa,Cefepime,951,7577,800,0,9328,10.2,YES
+Pseudomonas aeruginosa,Cefiderocol,1,561,4,8762,566,0.18,YES
+Pseudomonas aeruginosa,Cefixime,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Cefoxitin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Cefpodoxime,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Ceftaroline,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Ceftazidime avibactam,431,5048,0,3849,5479,7.87,YES
+Pseudomonas aeruginosa,Ceftazidime,1403,7455,470,0,9328,15.04,YES
+Pseudomonas aeruginosa,Ceftibuten,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Ceftolozane tazobactam,275,3509,71,5473,3855,7.13,YES
+Pseudomonas aeruginosa,Ceftriaxone,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Ciprofloxacin,728,3996,163,4441,4887,14.9,YES
+Pseudomonas aeruginosa,Clarithromycin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Clindamycin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Colistin,37,0,5442,3849,5479,0.68,YES
+Pseudomonas aeruginosa,Daptomycin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Doripenem,86,467,39,8736,592,14.53,YES
+Pseudomonas aeruginosa,Ertapenem,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Erythromycin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Gentamicin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Imipenem,1292,4205,562,3269,6059,21.32,YES
+Pseudomonas aeruginosa,Levofloxacin,2059,6557,711,1,9327,22.08,YES
+Pseudomonas aeruginosa,Linezolid,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Meropenem vaborbactam,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Meropenem,1471,6776,501,580,8748,16.82,YES
+Pseudomonas aeruginosa,Metronidazole,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Minocycline,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Moxifloxacin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Oxacillin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Penicillin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Piperacillin tazobactam,1541,7249,538,0,9328,16.52,YES
+Pseudomonas aeruginosa,Quinupristin dalfopristin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Teicoplanin,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Tetracycline,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Tigecycline,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Trimethoprim sulfa,0,0,0,9328,0,,NO
+Pseudomonas aeruginosa,Vancomycin,0,0,0,9328,0,,NO
+Enterobacter cloacae,Amikacin,233,4828,166,0,5227,4.46,YES
+Enterobacter cloacae,Amoxycillin clavulanate,4870,175,182,0,5227,93.17,YES
+Enterobacter cloacae,Ampicillin sulbactam,521,271,150,4285,942,55.31,YES
+Enterobacter cloacae,Ampicillin,4582,254,383,8,5219,87.79,YES
+Enterobacter cloacae,Azithromycin,0,4,0,5223,4,,NO
+Enterobacter cloacae,Aztreonam,384,777,9,4057,1170,32.82,YES
+Enterobacter cloacae,Cefepime,578,4106,543,0,5227,11.06,YES
+Enterobacter cloacae,Cefiderocol,0,28,0,5199,28,0.0,YES
+Enterobacter cloacae,Cefixime,65,14,28,5120,107,60.75,YES
+Enterobacter cloacae,Cefoxitin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Cefpodoxime,47,40,20,5120,107,43.93,YES
+Enterobacter cloacae,Ceftaroline,462,665,43,4057,1170,39.49,YES
+Enterobacter cloacae,Ceftazidime avibactam,42,1128,0,4057,1170,3.59,YES
+Enterobacter cloacae,Ceftazidime,947,1864,141,2275,2952,32.08,YES
+Enterobacter cloacae,Ceftibuten,27,75,5,5120,107,25.23,YES
+Enterobacter cloacae,Ceftolozane tazobactam,67,368,27,4765,462,14.5,YES
+Enterobacter cloacae,Ceftriaxone,1588,2503,92,1044,4183,37.96,YES
+Enterobacter cloacae,Ciprofloxacin,178,725,39,4285,942,18.9,YES
+Enterobacter cloacae,Clarithromycin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Clindamycin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Colistin,144,0,1026,4057,1170,12.31,YES
+Enterobacter cloacae,Daptomycin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Doripenem,9,218,1,4999,228,3.95,YES
+Enterobacter cloacae,Ertapenem,0,0,0,5227,0,,NO
+Enterobacter cloacae,Erythromycin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Gentamicin,142,793,7,4285,942,15.07,YES
+Enterobacter cloacae,Imipenem,70,1704,59,3394,1833,3.82,YES
+Enterobacter cloacae,Levofloxacin,722,4307,198,0,5227,13.81,YES
+Enterobacter cloacae,Linezolid,0,0,0,5227,0,,NO
+Enterobacter cloacae,Meropenem vaborbactam,5,394,5,4823,404,1.24,YES
+Enterobacter cloacae,Meropenem,125,4408,31,663,4564,2.74,YES
+Enterobacter cloacae,Metronidazole,0,0,0,5227,0,,NO
+Enterobacter cloacae,Minocycline,477,3053,527,1170,4057,11.76,YES
+Enterobacter cloacae,Moxifloxacin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Oxacillin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Penicillin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Piperacillin tazobactam,1326,3668,233,0,5227,25.37,YES
+Enterobacter cloacae,Quinupristin dalfopristin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Teicoplanin,0,0,0,5227,0,,NO
+Enterobacter cloacae,Tetracycline,0,0,0,5227,0,,NO
+Enterobacter cloacae,Tigecycline,37,5044,146,0,5227,0.71,YES
+Enterobacter cloacae,Trimethoprim sulfa,208,734,0,4285,942,22.08,YES
+Enterobacter cloacae,Vancomycin,0,0,0,5227,0,,NO
+Enterococcus faecium,Amikacin,0,0,0,3598,0,,NO
+Enterococcus faecium,Amoxycillin clavulanate,0,0,0,3598,0,,NO
+Enterococcus faecium,Ampicillin sulbactam,0,0,0,3598,0,,NO
+Enterococcus faecium,Ampicillin,3093,505,0,0,3598,85.96,YES
+Enterococcus faecium,Azithromycin,0,0,0,3598,0,,NO
+Enterococcus faecium,Aztreonam,0,0,0,3598,0,,NO
+Enterococcus faecium,Cefepime,0,0,0,3598,0,,NO
+Enterococcus faecium,Cefiderocol,0,0,0,3598,0,,NO
+Enterococcus faecium,Cefixime,0,0,0,3598,0,,NO
+Enterococcus faecium,Cefoxitin,0,0,0,3598,0,,NO
+Enterococcus faecium,Cefpodoxime,0,0,0,3598,0,,NO
+Enterococcus faecium,Ceftaroline,0,0,0,3598,0,,NO
+Enterococcus faecium,Ceftazidime avibactam,0,0,0,3598,0,,NO
+Enterococcus faecium,Ceftazidime,0,0,0,3598,0,,NO
+Enterococcus faecium,Ceftibuten,0,0,0,3598,0,,NO
+Enterococcus faecium,Ceftolozane tazobactam,0,0,0,3598,0,,NO
+Enterococcus faecium,Ceftriaxone,0,0,0,3598,0,,NO
+Enterococcus faecium,Ciprofloxacin,0,0,0,3598,0,,NO
+Enterococcus faecium,Clarithromycin,0,0,0,3598,0,,NO
+Enterococcus faecium,Clindamycin,0,0,0,3598,0,,NO
+Enterococcus faecium,Colistin,0,0,0,3598,0,,NO
+Enterococcus faecium,Daptomycin,123,0,1609,1866,1732,7.1,YES
+Enterococcus faecium,Doripenem,0,0,0,3598,0,,NO
+Enterococcus faecium,Ertapenem,0,0,0,3598,0,,NO
+Enterococcus faecium,Erythromycin,1433,90,209,1866,1732,82.74,YES
+Enterococcus faecium,Gentamicin,0,0,0,3598,0,,NO
+Enterococcus faecium,Imipenem,0,0,0,3598,0,,NO
+Enterococcus faecium,Levofloxacin,3038,462,97,1,3597,84.46,YES
+Enterococcus faecium,Linezolid,12,3551,35,0,3598,0.33,YES
+Enterococcus faecium,Meropenem vaborbactam,0,0,0,3598,0,,NO
+Enterococcus faecium,Meropenem,0,0,0,3598,0,,NO
+Enterococcus faecium,Metronidazole,0,0,0,3598,0,,NO
+Enterococcus faecium,Minocycline,265,1335,367,1631,1967,13.47,YES
+Enterococcus faecium,Moxifloxacin,0,0,0,3598,0,,NO
+Enterococcus faecium,Oxacillin,0,0,0,3598,0,,NO
+Enterococcus faecium,Penicillin,1585,281,0,1732,1866,84.94,YES
+Enterococcus faecium,Piperacillin tazobactam,0,0,0,3598,0,,NO
+Enterococcus faecium,Quinupristin dalfopristin,0,0,0,3598,0,,NO
+Enterococcus faecium,Teicoplanin,342,1371,19,1866,1732,19.75,YES
+Enterococcus faecium,Tetracycline,0,0,0,3598,0,,NO
+Enterococcus faecium,Tigecycline,0,3558,40,0,3598,0.0,YES
+Enterococcus faecium,Trimethoprim sulfa,0,0,0,3598,0,,NO
+Enterococcus faecium,Vancomycin,952,2612,34,0,3598,26.46,YES
+Staphylococcus epidermidis,Amikacin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Amoxycillin clavulanate,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ampicillin sulbactam,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ampicillin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Azithromycin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Aztreonam,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Cefepime,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Cefiderocol,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Cefixime,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Cefoxitin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Cefpodoxime,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ceftaroline,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ceftazidime avibactam,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ceftazidime,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ceftibuten,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ceftolozane tazobactam,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ceftriaxone,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ciprofloxacin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Clarithromycin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Clindamycin,1344,2064,107,615,3515,38.24,YES
+Staphylococcus epidermidis,Colistin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Daptomycin,0,3512,3,615,3515,0.0,YES
+Staphylococcus epidermidis,Doripenem,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Ertapenem,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Erythromycin,2373,1079,63,615,3515,67.51,YES
+Staphylococcus epidermidis,Gentamicin,1451,1797,267,615,3515,41.28,YES
+Staphylococcus epidermidis,Imipenem,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Levofloxacin,2361,1651,118,0,4130,57.17,YES
+Staphylococcus epidermidis,Linezolid,60,4070,0,0,4130,1.45,YES
+Staphylococcus epidermidis,Meropenem vaborbactam,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Meropenem,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Metronidazole,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Minocycline,1,1527,2,2600,1530,0.07,YES
+Staphylococcus epidermidis,Moxifloxacin,367,352,196,3215,915,40.11,YES
+Staphylococcus epidermidis,Oxacillin,2687,828,0,615,3515,76.44,YES
+Staphylococcus epidermidis,Penicillin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Piperacillin tazobactam,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Quinupristin dalfopristin,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Teicoplanin,5,3466,44,615,3515,0.14,YES
+Staphylococcus epidermidis,Tetracycline,0,0,0,4130,0,,NO
+Staphylococcus epidermidis,Tigecycline,0,4104,26,0,4130,0.0,YES
+Staphylococcus epidermidis,Trimethoprim sulfa,1424,2091,0,615,3515,40.51,YES
+Staphylococcus epidermidis,Vancomycin,1,4127,2,0,4130,0.02,YES
+Serratia marcescens,Amikacin,204,2899,167,0,3270,6.24,YES
+Serratia marcescens,Amoxycillin clavulanate,2997,105,168,0,3270,91.65,YES
+Serratia marcescens,Ampicillin sulbactam,475,299,245,2251,1019,46.61,YES
+Serratia marcescens,Ampicillin,2805,165,295,5,3265,85.91,YES
+Serratia marcescens,Azithromycin,0,0,0,3270,0,,NO
+Serratia marcescens,Aztreonam,110,980,4,2176,1094,10.05,YES
+Serratia marcescens,Cefepime,229,2940,101,0,3270,7.0,YES
+Serratia marcescens,Cefiderocol,0,118,0,3152,118,0.0,YES
+Serratia marcescens,Cefixime,56,274,26,2914,356,15.73,YES
+Serratia marcescens,Cefoxitin,0,0,0,3270,0,,NO
+Serratia marcescens,Cefpodoxime,71,230,55,2914,356,19.94,YES
+Serratia marcescens,Ceftaroline,283,482,329,2176,1094,25.87,YES
+Serratia marcescens,Ceftazidime avibactam,18,1076,0,2176,1094,1.65,YES
+Serratia marcescens,Ceftazidime,122,1927,69,1152,2118,5.76,YES
+Serratia marcescens,Ceftibuten,13,332,11,2914,356,3.65,YES
+Serratia marcescens,Ceftolozane tazobactam,36,649,17,2568,702,5.13,YES
+Serratia marcescens,Ceftriaxone,394,1743,86,1047,2223,17.72,YES
+Serratia marcescens,Ciprofloxacin,112,868,39,2251,1019,10.99,YES
+Serratia marcescens,Clarithromycin,0,0,0,3270,0,,NO
+Serratia marcescens,Clindamycin,0,0,0,3270,0,,NO
+Serratia marcescens,Colistin,1044,0,50,2176,1094,95.43,YES
+Serratia marcescens,Daptomycin,0,0,0,3270,0,,NO
+Serratia marcescens,Doripenem,2,73,0,3195,75,2.67,YES
+Serratia marcescens,Ertapenem,0,0,0,3270,0,,NO
+Serratia marcescens,Erythromycin,0,0,0,3270,0,,NO
+Serratia marcescens,Gentamicin,78,924,17,2251,1019,7.65,YES
+Serratia marcescens,Imipenem,66,1269,95,1840,1430,4.62,YES
+Serratia marcescens,Levofloxacin,284,2820,166,0,3270,8.69,YES
+Serratia marcescens,Linezolid,0,0,0,3270,0,,NO
+Serratia marcescens,Meropenem vaborbactam,6,673,2,2589,681,0.88,YES
+Serratia marcescens,Meropenem,84,2836,14,336,2934,2.86,YES
+Serratia marcescens,Metronidazole,0,0,0,3270,0,,NO
+Serratia marcescens,Minocycline,157,1683,336,1094,2176,7.22,YES
+Serratia marcescens,Moxifloxacin,0,0,0,3270,0,,NO
+Serratia marcescens,Oxacillin,0,0,0,3270,0,,NO
+Serratia marcescens,Penicillin,0,0,0,3270,0,,NO
+Serratia marcescens,Piperacillin tazobactam,284,2898,88,0,3270,8.69,YES
+Serratia marcescens,Quinupristin dalfopristin,0,0,0,3270,0,,NO
+Serratia marcescens,Teicoplanin,0,0,0,3270,0,,NO
+Serratia marcescens,Tetracycline,0,0,0,3270,0,,NO
+Serratia marcescens,Tigecycline,33,3156,81,0,3270,1.01,YES
+Serratia marcescens,Trimethoprim sulfa,92,927,0,2251,1019,9.03,YES
+Serratia marcescens,Vancomycin,0,0,0,3270,0,,NO
+Citrobacter koseri,Amikacin,3,470,1,0,474,0.63,YES
+Citrobacter koseri,Amoxycillin clavulanate,13,456,5,0,474,2.74,YES
+Citrobacter koseri,Ampicillin sulbactam,15,311,3,145,329,4.56,YES
+Citrobacter koseri,Ampicillin,447,3,24,0,474,94.3,YES
+Citrobacter koseri,Azithromycin,0,0,0,474,0,,NO
+Citrobacter koseri,Aztreonam,14,366,2,92,382,3.66,YES
+Citrobacter koseri,Cefepime,3,463,8,0,474,0.63,YES
+Citrobacter koseri,Cefiderocol,0,59,0,415,59,0.0,YES
+Citrobacter koseri,Cefixime,8,161,1,304,170,4.71,YES
+Citrobacter koseri,Cefoxitin,0,0,0,474,0,,NO
+Citrobacter koseri,Cefpodoxime,9,159,2,304,170,5.29,YES
+Citrobacter koseri,Ceftaroline,22,352,8,92,382,5.76,YES
+Citrobacter koseri,Ceftazidime avibactam,2,380,0,92,382,0.52,YES
+Citrobacter koseri,Ceftazidime,13,457,4,0,474,2.74,YES
+Citrobacter koseri,Ceftibuten,1,168,1,304,170,0.59,YES
+Citrobacter koseri,Ceftolozane tazobactam,2,279,0,193,281,0.71,YES
+Citrobacter koseri,Ceftriaxone,3,124,0,347,127,2.36,YES
+Citrobacter koseri,Ciprofloxacin,7,318,4,145,329,2.13,YES
+Citrobacter koseri,Clarithromycin,0,0,0,474,0,,NO
+Citrobacter koseri,Clindamycin,0,0,0,474,0,,NO
+Citrobacter koseri,Colistin,3,0,379,92,382,0.79,YES
+Citrobacter koseri,Daptomycin,0,0,0,474,0,,NO
+Citrobacter koseri,Doripenem,0,53,0,421,53,0.0,YES
+Citrobacter koseri,Ertapenem,0,0,0,474,0,,NO
+Citrobacter koseri,Erythromycin,0,0,0,474,0,,NO
+Citrobacter koseri,Gentamicin,2,327,0,145,329,0.61,YES
+Citrobacter koseri,Imipenem,2,379,3,90,384,0.52,YES
+Citrobacter koseri,Levofloxacin,4,459,11,0,474,0.84,YES
+Citrobacter koseri,Linezolid,0,0,0,474,0,,NO
+Citrobacter koseri,Meropenem vaborbactam,0,262,0,212,262,0.0,YES
+Citrobacter koseri,Meropenem,0,471,1,2,472,0.0,YES
+Citrobacter koseri,Metronidazole,0,0,0,474,0,,NO
+Citrobacter koseri,Minocycline,0,92,0,382,92,0.0,YES
+Citrobacter koseri,Moxifloxacin,0,0,0,474,0,,NO
+Citrobacter koseri,Oxacillin,0,0,0,474,0,,NO
+Citrobacter koseri,Penicillin,0,0,0,474,0,,NO
+Citrobacter koseri,Piperacillin tazobactam,11,453,10,0,474,2.32,YES
+Citrobacter koseri,Quinupristin dalfopristin,0,0,0,474,0,,NO
+Citrobacter koseri,Teicoplanin,0,0,0,474,0,,NO
+Citrobacter koseri,Tetracycline,0,0,0,474,0,,NO
+Citrobacter koseri,Tigecycline,0,474,0,0,474,0.0,YES
+Citrobacter koseri,Trimethoprim sulfa,6,323,0,145,329,1.82,YES
+Citrobacter koseri,Vancomycin,0,0,0,474,0,,NO
+Streptococcus pneumoniae,Amikacin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Amoxycillin clavulanate,118,5299,132,2515,5549,2.13,YES
+Streptococcus pneumoniae,Ampicillin sulbactam,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Ampicillin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Azithromycin,996,2956,33,4079,3985,24.99,YES
+Streptococcus pneumoniae,Aztreonam,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Cefepime,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Cefiderocol,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Cefixime,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Cefoxitin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Cefpodoxime,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Ceftaroline,0,3725,6,4333,3731,0.0,YES
+Streptococcus pneumoniae,Ceftazidime avibactam,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Ceftazidime,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Ceftibuten,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Ceftolozane tazobactam,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Ceftriaxone,60,7779,225,0,8064,0.74,YES
+Streptococcus pneumoniae,Ciprofloxacin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Clarithromycin,991,2985,9,4079,3985,24.87,YES
+Streptococcus pneumoniae,Clindamycin,1198,6497,21,348,7716,15.53,YES
+Streptococcus pneumoniae,Colistin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Daptomycin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Doripenem,0,1201,15,6848,1216,0.0,YES
+Streptococcus pneumoniae,Ertapenem,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Erythromycin,1920,5775,21,348,7716,24.88,YES
+Streptococcus pneumoniae,Gentamicin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Imipenem,16,494,120,7434,630,2.54,YES
+Streptococcus pneumoniae,Levofloxacin,42,8007,15,0,8064,0.52,YES
+Streptococcus pneumoniae,Linezolid,0,8064,0,0,8064,0.0,YES
+Streptococcus pneumoniae,Meropenem vaborbactam,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Meropenem,478,6532,424,630,7434,6.43,YES
+Streptococcus pneumoniae,Metronidazole,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Minocycline,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Moxifloxacin,6,1205,5,6848,1216,0.49,YES
+Streptococcus pneumoniae,Oxacillin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Penicillin,807,5684,1573,0,8064,10.01,YES
+Streptococcus pneumoniae,Piperacillin tazobactam,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Quinupristin dalfopristin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Teicoplanin,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Tetracycline,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Tigecycline,0,8020,44,0,8064,0.0,YES
+Streptococcus pneumoniae,Trimethoprim sulfa,0,0,0,8064,0,,NO
+Streptococcus pneumoniae,Vancomycin,0,8064,0,0,8064,0.0,YES
+Haemophilus influenzae,Amikacin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Amoxycillin clavulanate,1,1288,23,0,1312,0.08,YES
+Haemophilus influenzae,Ampicillin sulbactam,7,426,0,879,433,1.62,YES
+Haemophilus influenzae,Ampicillin,260,1011,41,0,1312,19.82,YES
+Haemophilus influenzae,Azithromycin,0,363,1,948,364,0.0,YES
+Haemophilus influenzae,Aztreonam,0,12,0,1300,12,0.0,YES
+Haemophilus influenzae,Cefepime,0,869,10,433,879,0.0,YES
+Haemophilus influenzae,Cefiderocol,0,0,0,1312,0,,NO
+Haemophilus influenzae,Cefixime,0,0,0,1312,0,,NO
+Haemophilus influenzae,Cefoxitin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Cefpodoxime,0,0,0,1312,0,,NO
+Haemophilus influenzae,Ceftaroline,0,432,1,879,433,0.0,YES
+Haemophilus influenzae,Ceftazidime avibactam,0,0,0,1312,0,,NO
+Haemophilus influenzae,Ceftazidime,0,862,0,450,862,0.0,YES
+Haemophilus influenzae,Ceftibuten,0,0,0,1312,0,,NO
+Haemophilus influenzae,Ceftolozane tazobactam,0,0,0,1312,0,,NO
+Haemophilus influenzae,Ceftriaxone,0,1312,0,0,1312,0.0,YES
+Haemophilus influenzae,Ciprofloxacin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Clarithromycin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Clindamycin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Colistin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Daptomycin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Doripenem,0,73,0,1239,73,0.0,YES
+Haemophilus influenzae,Ertapenem,0,0,0,1312,0,,NO
+Haemophilus influenzae,Erythromycin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Gentamicin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Imipenem,0,190,0,1122,190,0.0,YES
+Haemophilus influenzae,Levofloxacin,0,1304,8,0,1312,0.0,YES
+Haemophilus influenzae,Linezolid,0,0,0,1312,0,,NO
+Haemophilus influenzae,Meropenem vaborbactam,0,0,0,1312,0,,NO
+Haemophilus influenzae,Meropenem,0,1193,2,117,1195,0.0,YES
+Haemophilus influenzae,Metronidazole,0,0,0,1312,0,,NO
+Haemophilus influenzae,Minocycline,5,936,11,360,952,0.53,YES
+Haemophilus influenzae,Moxifloxacin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Oxacillin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Penicillin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Piperacillin tazobactam,6,1306,0,0,1312,0.46,YES
+Haemophilus influenzae,Quinupristin dalfopristin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Teicoplanin,0,0,0,1312,0,,NO
+Haemophilus influenzae,Tetracycline,0,0,0,1312,0,,NO
+Haemophilus influenzae,Tigecycline,0,1310,2,0,1312,0.0,YES
+Haemophilus influenzae,Trimethoprim sulfa,0,0,0,1312,0,,NO
+Haemophilus influenzae,Vancomycin,0,0,0,1312,0,,NO
+Salmonella spp,Amikacin,0,0,0,8,0,,NO
+Salmonella spp,Amoxycillin clavulanate,0,0,0,8,0,,NO
+Salmonella spp,Ampicillin sulbactam,0,0,0,8,0,,NO
+Salmonella spp,Ampicillin,4,4,0,0,8,,NO
+Salmonella spp,Azithromycin,0,0,0,8,0,,NO
+Salmonella spp,Aztreonam,0,0,0,8,0,,NO
+Salmonella spp,Cefepime,0,0,0,8,0,,NO
+Salmonella spp,Cefiderocol,0,0,0,8,0,,NO
+Salmonella spp,Cefixime,0,0,0,8,0,,NO
+Salmonella spp,Cefoxitin,0,0,0,8,0,,NO
+Salmonella spp,Cefpodoxime,0,0,0,8,0,,NO
+Salmonella spp,Ceftaroline,0,0,0,8,0,,NO
+Salmonella spp,Ceftazidime avibactam,0,0,0,8,0,,NO
+Salmonella spp,Ceftazidime,0,0,0,8,0,,NO
+Salmonella spp,Ceftibuten,0,0,0,8,0,,NO
+Salmonella spp,Ceftolozane tazobactam,0,0,0,8,0,,NO
+Salmonella spp,Ceftriaxone,0,0,0,8,0,,NO
+Salmonella spp,Ciprofloxacin,0,2,6,0,8,,NO
+Salmonella spp,Clarithromycin,0,0,0,8,0,,NO
+Salmonella spp,Clindamycin,0,0,0,8,0,,NO
+Salmonella spp,Colistin,0,0,0,8,0,,NO
+Salmonella spp,Daptomycin,0,0,0,8,0,,NO
+Salmonella spp,Doripenem,0,0,0,8,0,,NO
+Salmonella spp,Ertapenem,0,0,0,8,0,,NO
+Salmonella spp,Erythromycin,0,0,0,8,0,,NO
+Salmonella spp,Gentamicin,0,0,0,8,0,,NO
+Salmonella spp,Imipenem,0,8,0,0,8,,NO
+Salmonella spp,Levofloxacin,0,0,8,0,8,,NO
+Salmonella spp,Linezolid,0,0,0,8,0,,NO
+Salmonella spp,Meropenem vaborbactam,0,0,0,8,0,,NO
+Salmonella spp,Meropenem,0,8,0,0,8,,NO
+Salmonella spp,Metronidazole,0,0,0,8,0,,NO
+Salmonella spp,Minocycline,0,0,0,8,0,,NO
+Salmonella spp,Moxifloxacin,0,0,0,8,0,,NO
+Salmonella spp,Oxacillin,0,0,0,8,0,,NO
+Salmonella spp,Penicillin,0,0,0,8,0,,NO
+Salmonella spp,Piperacillin tazobactam,0,0,0,8,0,,NO
+Salmonella spp,Quinupristin dalfopristin,0,0,0,8,0,,NO
+Salmonella spp,Teicoplanin,0,0,0,8,0,,NO
+Salmonella spp,Tetracycline,0,0,0,8,0,,NO
+Salmonella spp,Tigecycline,0,0,0,8,0,,NO
+Salmonella spp,Trimethoprim sulfa,2,6,0,0,8,,NO
+Salmonella spp,Vancomycin,0,0,0,8,0,,NO

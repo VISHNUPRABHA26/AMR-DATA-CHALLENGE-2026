@@ -1,0 +1,2731 @@
+Organism,Year,Antibiotic,Antibiotic_Class,Resistant,Susceptible,Intermediate,Total_Tested,Resistance_Rate_%,Sufficient_Data
+Klebsiella pneumoniae,2004,Ceftriaxone,Cephalosporins,65,291,4,360,18.06,YES
+Klebsiella pneumoniae,2004,Meropenem,Carbapenems,1,20,1,22,4.55,YES
+Klebsiella pneumoniae,2004,Levofloxacin,Fluoroquinolones,51,299,10,360,14.17,YES
+Klebsiella pneumoniae,2004,Amikacin,Aminoglycosides,24,311,25,360,6.67,YES
+Klebsiella pneumoniae,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2004,Piperacillin tazobactam,Penicillins,38,315,7,360,10.56,YES
+Klebsiella pneumoniae,2004,Tigecycline,Tetracyclines,3,340,17,360,0.83,YES
+Klebsiella pneumoniae,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2005,Ceftriaxone,Cephalosporins,71,316,1,388,18.3,YES
+Klebsiella pneumoniae,2005,Meropenem,Carbapenems,2,25,1,28,7.14,YES
+Klebsiella pneumoniae,2005,Levofloxacin,Fluoroquinolones,60,313,15,388,15.46,YES
+Klebsiella pneumoniae,2005,Amikacin,Aminoglycosides,32,340,16,388,8.25,YES
+Klebsiella pneumoniae,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2005,Piperacillin tazobactam,Penicillins,52,328,8,388,13.4,YES
+Klebsiella pneumoniae,2005,Tigecycline,Tetracyclines,1,374,13,388,0.26,YES
+Klebsiella pneumoniae,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2006,Ceftriaxone,Cephalosporins,145,351,2,498,29.12,YES
+Klebsiella pneumoniae,2006,Meropenem,Carbapenems,10,201,6,217,4.61,YES
+Klebsiella pneumoniae,2006,Levofloxacin,Fluoroquinolones,122,360,16,498,24.5,YES
+Klebsiella pneumoniae,2006,Amikacin,Aminoglycosides,61,404,33,498,12.25,YES
+Klebsiella pneumoniae,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2006,Piperacillin tazobactam,Penicillins,114,374,10,498,22.89,YES
+Klebsiella pneumoniae,2006,Tigecycline,Tetracyclines,1,475,22,498,0.2,YES
+Klebsiella pneumoniae,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2007,Ceftriaxone,Cephalosporins,193,537,10,740,26.08,YES
+Klebsiella pneumoniae,2007,Meropenem,Carbapenems,25,686,12,723,3.46,YES
+Klebsiella pneumoniae,2007,Levofloxacin,Fluoroquinolones,148,560,32,740,20.0,YES
+Klebsiella pneumoniae,2007,Amikacin,Aminoglycosides,81,626,33,740,10.95,YES
+Klebsiella pneumoniae,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2007,Piperacillin tazobactam,Penicillins,124,587,29,740,16.76,YES
+Klebsiella pneumoniae,2007,Tigecycline,Tetracyclines,4,711,25,740,0.54,YES
+Klebsiella pneumoniae,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2008,Ceftriaxone,Cephalosporins,221,424,5,650,34.0,YES
+Klebsiella pneumoniae,2008,Meropenem,Carbapenems,34,606,10,650,5.23,YES
+Klebsiella pneumoniae,2008,Levofloxacin,Fluoroquinolones,173,458,19,650,26.62,YES
+Klebsiella pneumoniae,2008,Amikacin,Aminoglycosides,90,526,34,650,13.85,YES
+Klebsiella pneumoniae,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2008,Piperacillin tazobactam,Penicillins,183,443,24,650,28.15,YES
+Klebsiella pneumoniae,2008,Tigecycline,Tetracyclines,2,629,19,650,0.31,YES
+Klebsiella pneumoniae,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2009,Ceftriaxone,Cephalosporins,248,495,8,751,33.02,YES
+Klebsiella pneumoniae,2009,Meropenem,Carbapenems,46,697,8,751,6.13,YES
+Klebsiella pneumoniae,2009,Levofloxacin,Fluoroquinolones,191,515,45,751,25.43,YES
+Klebsiella pneumoniae,2009,Amikacin,Aminoglycosides,93,614,44,751,12.38,YES
+Klebsiella pneumoniae,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2009,Piperacillin tazobactam,Penicillins,190,530,31,751,25.3,YES
+Klebsiella pneumoniae,2009,Tigecycline,Tetracyclines,13,711,27,751,1.73,YES
+Klebsiella pneumoniae,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2010,Ceftriaxone,Cephalosporins,182,388,2,572,31.82,YES
+Klebsiella pneumoniae,2010,Meropenem,Carbapenems,26,539,7,572,4.55,YES
+Klebsiella pneumoniae,2010,Levofloxacin,Fluoroquinolones,144,391,37,572,25.17,YES
+Klebsiella pneumoniae,2010,Amikacin,Aminoglycosides,52,495,25,572,9.09,YES
+Klebsiella pneumoniae,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2010,Piperacillin tazobactam,Penicillins,142,394,36,572,24.83,YES
+Klebsiella pneumoniae,2010,Tigecycline,Tetracyclines,4,547,21,572,0.7,YES
+Klebsiella pneumoniae,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2011,Ceftriaxone,Cephalosporins,94,302,2,398,23.62,YES
+Klebsiella pneumoniae,2011,Meropenem,Carbapenems,18,378,2,398,4.52,YES
+Klebsiella pneumoniae,2011,Levofloxacin,Fluoroquinolones,89,301,8,398,22.36,YES
+Klebsiella pneumoniae,2011,Amikacin,Aminoglycosides,30,352,16,398,7.54,YES
+Klebsiella pneumoniae,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2011,Piperacillin tazobactam,Penicillins,69,307,22,398,17.34,YES
+Klebsiella pneumoniae,2011,Tigecycline,Tetracyclines,3,382,13,398,0.75,YES
+Klebsiella pneumoniae,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2012,Ceftriaxone,Cephalosporins,111,280,1,392,28.32,YES
+Klebsiella pneumoniae,2012,Meropenem,Carbapenems,25,366,1,392,6.38,YES
+Klebsiella pneumoniae,2012,Levofloxacin,Fluoroquinolones,92,288,12,392,23.47,YES
+Klebsiella pneumoniae,2012,Amikacin,Aminoglycosides,38,346,8,392,9.69,YES
+Klebsiella pneumoniae,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2012,Piperacillin tazobactam,Penicillins,62,323,7,392,15.82,YES
+Klebsiella pneumoniae,2012,Tigecycline,Tetracyclines,3,381,8,392,0.77,YES
+Klebsiella pneumoniae,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2013,Ceftriaxone,Cephalosporins,93,313,5,411,22.63,YES
+Klebsiella pneumoniae,2013,Meropenem,Carbapenems,22,386,3,411,5.35,YES
+Klebsiella pneumoniae,2013,Levofloxacin,Fluoroquinolones,89,310,12,411,21.65,YES
+Klebsiella pneumoniae,2013,Amikacin,Aminoglycosides,18,381,12,411,4.38,YES
+Klebsiella pneumoniae,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Klebsiella pneumoniae,2013,Piperacillin tazobactam,Penicillins,66,332,13,411,16.06,YES
+Klebsiella pneumoniae,2013,Tigecycline,Tetracyclines,2,391,18,411,0.49,YES
+Klebsiella pneumoniae,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2014,Ceftriaxone,Cephalosporins,134,300,5,439,30.52,YES
+Klebsiella pneumoniae,2014,Meropenem,Carbapenems,57,625,10,692,8.24,YES
+Klebsiella pneumoniae,2014,Levofloxacin,Fluoroquinolones,175,477,40,692,25.29,YES
+Klebsiella pneumoniae,2014,Amikacin,Aminoglycosides,64,598,30,692,9.25,YES
+Klebsiella pneumoniae,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2014,Colistin,Polymyxins,10,0,243,253,3.95,YES
+Klebsiella pneumoniae,2014,Piperacillin tazobactam,Penicillins,152,493,47,692,21.97,YES
+Klebsiella pneumoniae,2014,Tigecycline,Tetracyclines,0,664,28,692,0.0,YES
+Klebsiella pneumoniae,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2015,Ceftriaxone,Cephalosporins,136,316,6,458,29.69,YES
+Klebsiella pneumoniae,2015,Meropenem,Carbapenems,47,653,8,708,6.64,YES
+Klebsiella pneumoniae,2015,Levofloxacin,Fluoroquinolones,174,492,42,708,24.58,YES
+Klebsiella pneumoniae,2015,Amikacin,Aminoglycosides,33,651,24,708,4.66,YES
+Klebsiella pneumoniae,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2015,Colistin,Polymyxins,8,0,246,254,3.15,YES
+Klebsiella pneumoniae,2015,Piperacillin tazobactam,Penicillins,141,535,32,708,19.92,YES
+Klebsiella pneumoniae,2015,Tigecycline,Tetracyclines,9,670,29,708,1.27,YES
+Klebsiella pneumoniae,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2016,Ceftriaxone,Cephalosporins,277,464,3,744,37.23,YES
+Klebsiella pneumoniae,2016,Meropenem,Carbapenems,60,678,6,744,8.06,YES
+Klebsiella pneumoniae,2016,Levofloxacin,Fluoroquinolones,194,505,45,744,26.08,YES
+Klebsiella pneumoniae,2016,Amikacin,Aminoglycosides,46,673,25,744,6.18,YES
+Klebsiella pneumoniae,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2016,Colistin,Polymyxins,10,0,300,310,3.23,YES
+Klebsiella pneumoniae,2016,Piperacillin tazobactam,Penicillins,156,550,38,744,20.97,YES
+Klebsiella pneumoniae,2016,Tigecycline,Tetracyclines,4,719,21,744,0.54,YES
+Klebsiella pneumoniae,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2017,Ceftriaxone,Cephalosporins,288,417,4,709,40.62,YES
+Klebsiella pneumoniae,2017,Meropenem,Carbapenems,60,637,12,709,8.46,YES
+Klebsiella pneumoniae,2017,Levofloxacin,Fluoroquinolones,194,477,38,709,27.36,YES
+Klebsiella pneumoniae,2017,Amikacin,Aminoglycosides,44,635,30,709,6.21,YES
+Klebsiella pneumoniae,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2017,Colistin,Polymyxins,11,0,337,348,3.16,YES
+Klebsiella pneumoniae,2017,Piperacillin tazobactam,Penicillins,182,488,39,709,25.67,YES
+Klebsiella pneumoniae,2017,Tigecycline,Tetracyclines,2,684,23,709,0.28,YES
+Klebsiella pneumoniae,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Klebsiella pneumoniae,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Klebsiella pneumoniae,2018,Meropenem,Carbapenems,97,636,9,742,13.07,YES
+Klebsiella pneumoniae,2018,Levofloxacin,Fluoroquinolones,258,416,68,742,34.77,YES
+Klebsiella pneumoniae,2018,Amikacin,Aminoglycosides,75,633,34,742,10.11,YES
+Klebsiella pneumoniae,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2018,Colistin,Polymyxins,34,0,708,742,4.58,YES
+Klebsiella pneumoniae,2018,Piperacillin tazobactam,Penicillins,217,438,87,742,29.25,YES
+Klebsiella pneumoniae,2018,Tigecycline,Tetracyclines,1,729,12,742,0.13,YES
+Klebsiella pneumoniae,2018,Trimethoprim sulfa,Trimethoprim,373,368,0,741,50.34,YES
+Klebsiella pneumoniae,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Klebsiella pneumoniae,2019,Meropenem,Carbapenems,174,916,16,1106,15.73,YES
+Klebsiella pneumoniae,2019,Levofloxacin,Fluoroquinolones,371,642,93,1106,33.54,YES
+Klebsiella pneumoniae,2019,Amikacin,Aminoglycosides,136,918,52,1106,12.3,YES
+Klebsiella pneumoniae,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2019,Colistin,Polymyxins,36,0,1070,1106,3.25,YES
+Klebsiella pneumoniae,2019,Piperacillin tazobactam,Penicillins,361,648,97,1106,32.64,YES
+Klebsiella pneumoniae,2019,Tigecycline,Tetracyclines,5,1080,21,1106,0.45,YES
+Klebsiella pneumoniae,2019,Trimethoprim sulfa,Trimethoprim,484,622,0,1106,43.76,YES
+Klebsiella pneumoniae,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Klebsiella pneumoniae,2020,Meropenem,Carbapenems,183,976,12,1171,15.63,YES
+Klebsiella pneumoniae,2020,Levofloxacin,Fluoroquinolones,369,684,118,1171,31.51,YES
+Klebsiella pneumoniae,2020,Amikacin,Aminoglycosides,152,979,40,1171,12.98,YES
+Klebsiella pneumoniae,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2020,Colistin,Polymyxins,37,0,1134,1171,3.16,YES
+Klebsiella pneumoniae,2020,Piperacillin tazobactam,Penicillins,343,751,77,1171,29.29,YES
+Klebsiella pneumoniae,2020,Tigecycline,Tetracyclines,3,1133,35,1171,0.26,YES
+Klebsiella pneumoniae,2020,Trimethoprim sulfa,Trimethoprim,523,648,0,1171,44.66,YES
+Klebsiella pneumoniae,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Klebsiella pneumoniae,2021,Meropenem,Carbapenems,218,1016,14,1248,17.47,YES
+Klebsiella pneumoniae,2021,Levofloxacin,Fluoroquinolones,435,699,114,1248,34.86,YES
+Klebsiella pneumoniae,2021,Amikacin,Aminoglycosides,182,1011,55,1248,14.58,YES
+Klebsiella pneumoniae,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2021,Colistin,Polymyxins,48,0,1200,1248,3.85,YES
+Klebsiella pneumoniae,2021,Piperacillin tazobactam,Penicillins,393,763,92,1248,31.49,YES
+Klebsiella pneumoniae,2021,Tigecycline,Tetracyclines,2,1215,31,1248,0.16,YES
+Klebsiella pneumoniae,2021,Trimethoprim sulfa,Trimethoprim,596,652,0,1248,47.76,YES
+Klebsiella pneumoniae,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Klebsiella pneumoniae,2022,Meropenem,Carbapenems,181,957,15,1153,15.7,YES
+Klebsiella pneumoniae,2022,Levofloxacin,Fluoroquinolones,331,719,103,1153,28.71,YES
+Klebsiella pneumoniae,2022,Amikacin,Aminoglycosides,113,1006,34,1153,9.8,YES
+Klebsiella pneumoniae,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2022,Colistin,Polymyxins,41,0,1112,1153,3.56,YES
+Klebsiella pneumoniae,2022,Piperacillin tazobactam,Penicillins,350,745,58,1153,30.36,YES
+Klebsiella pneumoniae,2022,Tigecycline,Tetracyclines,7,1119,27,1153,0.61,YES
+Klebsiella pneumoniae,2022,Trimethoprim sulfa,Trimethoprim,452,701,0,1153,39.2,YES
+Klebsiella pneumoniae,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Klebsiella pneumoniae,2023,Meropenem,Carbapenems,183,793,11,987,18.54,YES
+Klebsiella pneumoniae,2023,Levofloxacin,Fluoroquinolones,320,588,79,987,32.42,YES
+Klebsiella pneumoniae,2023,Amikacin,Aminoglycosides,124,842,21,987,12.56,YES
+Klebsiella pneumoniae,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2023,Colistin,Polymyxins,59,0,928,987,5.98,YES
+Klebsiella pneumoniae,2023,Piperacillin tazobactam,Penicillins,289,634,64,987,29.28,YES
+Klebsiella pneumoniae,2023,Tigecycline,Tetracyclines,7,955,25,987,0.71,YES
+Klebsiella pneumoniae,2023,Trimethoprim sulfa,Trimethoprim,439,548,0,987,44.48,YES
+Klebsiella pneumoniae,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Klebsiella pneumoniae,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Klebsiella pneumoniae,2024,Meropenem,Carbapenems,219,944,17,1180,18.56,YES
+Klebsiella pneumoniae,2024,Levofloxacin,Fluoroquinolones,347,710,123,1180,29.41,YES
+Klebsiella pneumoniae,2024,Amikacin,Aminoglycosides,151,1000,29,1180,12.8,YES
+Klebsiella pneumoniae,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Klebsiella pneumoniae,2024,Colistin,Polymyxins,50,0,1130,1180,4.24,YES
+Klebsiella pneumoniae,2024,Piperacillin tazobactam,Penicillins,359,769,52,1180,30.42,YES
+Klebsiella pneumoniae,2024,Tigecycline,Tetracyclines,2,1163,15,1180,0.17,YES
+Klebsiella pneumoniae,2024,Trimethoprim sulfa,Trimethoprim,519,661,0,1180,43.98,YES
+Klebsiella pneumoniae,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2004,Ceftriaxone,Cephalosporins,67,39,36,142,47.18,YES
+Acinetobacter baumannii,2004,Meropenem,Carbapenems,0,2,0,2,,NO
+Acinetobacter baumannii,2004,Levofloxacin,Fluoroquinolones,61,70,11,142,42.96,YES
+Acinetobacter baumannii,2004,Amikacin,Aminoglycosides,27,105,10,142,19.01,YES
+Acinetobacter baumannii,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2004,Piperacillin tazobactam,Penicillins,50,79,13,142,35.21,YES
+Acinetobacter baumannii,2004,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2005,Ceftriaxone,Cephalosporins,57,40,37,134,42.54,YES
+Acinetobacter baumannii,2005,Meropenem,Carbapenems,2,1,0,3,,NO
+Acinetobacter baumannii,2005,Levofloxacin,Fluoroquinolones,52,70,12,134,38.81,YES
+Acinetobacter baumannii,2005,Amikacin,Aminoglycosides,27,99,8,134,20.15,YES
+Acinetobacter baumannii,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2005,Piperacillin tazobactam,Penicillins,45,75,14,134,33.58,YES
+Acinetobacter baumannii,2005,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2006,Ceftriaxone,Cephalosporins,100,51,39,190,52.63,YES
+Acinetobacter baumannii,2006,Meropenem,Carbapenems,32,34,6,72,44.44,YES
+Acinetobacter baumannii,2006,Levofloxacin,Fluoroquinolones,76,87,27,190,40.0,YES
+Acinetobacter baumannii,2006,Amikacin,Aminoglycosides,54,122,14,190,28.42,YES
+Acinetobacter baumannii,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2006,Piperacillin tazobactam,Penicillins,78,92,20,190,41.05,YES
+Acinetobacter baumannii,2006,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2007,Ceftriaxone,Cephalosporins,127,50,55,232,54.74,YES
+Acinetobacter baumannii,2007,Meropenem,Carbapenems,76,134,13,223,34.08,YES
+Acinetobacter baumannii,2007,Levofloxacin,Fluoroquinolones,90,109,33,232,38.79,YES
+Acinetobacter baumannii,2007,Amikacin,Aminoglycosides,79,141,12,232,34.05,YES
+Acinetobacter baumannii,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2007,Piperacillin tazobactam,Penicillins,97,110,25,232,41.81,YES
+Acinetobacter baumannii,2007,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2008,Ceftriaxone,Cephalosporins,157,51,45,253,62.06,YES
+Acinetobacter baumannii,2008,Meropenem,Carbapenems,133,112,8,253,52.57,YES
+Acinetobacter baumannii,2008,Levofloxacin,Fluoroquinolones,128,98,27,253,50.59,YES
+Acinetobacter baumannii,2008,Amikacin,Aminoglycosides,113,120,20,253,44.66,YES
+Acinetobacter baumannii,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2008,Piperacillin tazobactam,Penicillins,155,84,14,253,61.26,YES
+Acinetobacter baumannii,2008,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2009,Ceftriaxone,Cephalosporins,147,43,53,243,60.49,YES
+Acinetobacter baumannii,2009,Meropenem,Carbapenems,119,113,11,243,48.97,YES
+Acinetobacter baumannii,2009,Levofloxacin,Fluoroquinolones,124,101,18,243,51.03,YES
+Acinetobacter baumannii,2009,Amikacin,Aminoglycosides,110,117,16,243,45.27,YES
+Acinetobacter baumannii,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2009,Piperacillin tazobactam,Penicillins,142,90,11,243,58.44,YES
+Acinetobacter baumannii,2009,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2010,Ceftriaxone,Cephalosporins,125,34,43,202,61.88,YES
+Acinetobacter baumannii,2010,Meropenem,Carbapenems,98,96,8,202,48.51,YES
+Acinetobacter baumannii,2010,Levofloxacin,Fluoroquinolones,111,72,19,202,54.95,YES
+Acinetobacter baumannii,2010,Amikacin,Aminoglycosides,86,104,12,202,42.57,YES
+Acinetobacter baumannii,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2010,Piperacillin tazobactam,Penicillins,120,63,19,202,59.41,YES
+Acinetobacter baumannii,2010,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2011,Ceftriaxone,Cephalosporins,52,36,25,113,46.02,YES
+Acinetobacter baumannii,2011,Meropenem,Carbapenems,48,62,3,113,42.48,YES
+Acinetobacter baumannii,2011,Levofloxacin,Fluoroquinolones,39,63,11,113,34.51,YES
+Acinetobacter baumannii,2011,Amikacin,Aminoglycosides,31,76,6,113,27.43,YES
+Acinetobacter baumannii,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2011,Piperacillin tazobactam,Penicillins,53,57,3,113,46.9,YES
+Acinetobacter baumannii,2011,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2012,Ceftriaxone,Cephalosporins,48,12,13,73,65.75,YES
+Acinetobacter baumannii,2012,Meropenem,Carbapenems,42,28,3,73,57.53,YES
+Acinetobacter baumannii,2012,Levofloxacin,Fluoroquinolones,42,23,8,73,57.53,YES
+Acinetobacter baumannii,2012,Amikacin,Aminoglycosides,27,40,6,73,36.99,YES
+Acinetobacter baumannii,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2012,Piperacillin tazobactam,Penicillins,48,23,2,73,65.75,YES
+Acinetobacter baumannii,2012,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2013,Ceftriaxone,Cephalosporins,58,14,10,82,70.73,YES
+Acinetobacter baumannii,2013,Meropenem,Carbapenems,57,24,1,82,69.51,YES
+Acinetobacter baumannii,2013,Levofloxacin,Fluoroquinolones,58,19,5,82,70.73,YES
+Acinetobacter baumannii,2013,Amikacin,Aminoglycosides,48,33,1,82,58.54,YES
+Acinetobacter baumannii,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2013,Piperacillin tazobactam,Penicillins,59,22,1,82,71.95,YES
+Acinetobacter baumannii,2013,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2014,Ceftriaxone,Cephalosporins,75,13,10,98,76.53,YES
+Acinetobacter baumannii,2014,Meropenem,Carbapenems,107,42,2,151,70.86,YES
+Acinetobacter baumannii,2014,Levofloxacin,Fluoroquinolones,104,37,10,151,68.87,YES
+Acinetobacter baumannii,2014,Amikacin,Aminoglycosides,88,56,7,151,58.28,YES
+Acinetobacter baumannii,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2014,Colistin,Polymyxins,3,0,50,53,5.66,YES
+Acinetobacter baumannii,2014,Piperacillin tazobactam,Penicillins,109,35,7,151,72.19,YES
+Acinetobacter baumannii,2014,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2015,Ceftriaxone,Cephalosporins,54,24,11,89,60.67,YES
+Acinetobacter baumannii,2015,Meropenem,Carbapenems,76,38,1,115,66.09,YES
+Acinetobacter baumannii,2015,Levofloxacin,Fluoroquinolones,66,39,10,115,57.39,YES
+Acinetobacter baumannii,2015,Amikacin,Aminoglycosides,56,55,4,115,48.7,YES
+Acinetobacter baumannii,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2015,Colistin,Polymyxins,2,0,25,27,7.41,YES
+Acinetobacter baumannii,2015,Piperacillin tazobactam,Penicillins,78,35,2,115,67.83,YES
+Acinetobacter baumannii,2015,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2016,Ceftriaxone,Cephalosporins,54,28,37,119,45.38,YES
+Acinetobacter baumannii,2016,Meropenem,Carbapenems,80,38,1,119,67.23,YES
+Acinetobacter baumannii,2016,Levofloxacin,Fluoroquinolones,66,38,15,119,55.46,YES
+Acinetobacter baumannii,2016,Amikacin,Aminoglycosides,49,62,8,119,41.18,YES
+Acinetobacter baumannii,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2016,Colistin,Polymyxins,0,0,32,32,0.0,YES
+Acinetobacter baumannii,2016,Piperacillin tazobactam,Penicillins,80,35,4,119,67.23,YES
+Acinetobacter baumannii,2016,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2017,Ceftriaxone,Cephalosporins,45,16,9,70,64.29,YES
+Acinetobacter baumannii,2017,Meropenem,Carbapenems,49,21,0,70,70.0,YES
+Acinetobacter baumannii,2017,Levofloxacin,Fluoroquinolones,47,22,1,70,67.14,YES
+Acinetobacter baumannii,2017,Amikacin,Aminoglycosides,30,35,5,70,42.86,YES
+Acinetobacter baumannii,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2017,Colistin,Polymyxins,0,0,0,0,,NO
+Acinetobacter baumannii,2017,Piperacillin tazobactam,Penicillins,48,22,0,70,68.57,YES
+Acinetobacter baumannii,2017,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Acinetobacter baumannii,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Acinetobacter baumannii,2018,Meropenem,Carbapenems,119,55,0,174,68.39,YES
+Acinetobacter baumannii,2018,Levofloxacin,Fluoroquinolones,109,57,8,174,62.64,YES
+Acinetobacter baumannii,2018,Amikacin,Aminoglycosides,96,71,7,174,55.17,YES
+Acinetobacter baumannii,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2018,Colistin,Polymyxins,4,0,170,174,2.3,YES
+Acinetobacter baumannii,2018,Piperacillin tazobactam,Penicillins,125,49,0,174,71.84,YES
+Acinetobacter baumannii,2018,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2018,Trimethoprim sulfa,Trimethoprim,107,67,0,174,61.49,YES
+Acinetobacter baumannii,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Acinetobacter baumannii,2019,Meropenem,Carbapenems,259,93,4,356,72.75,YES
+Acinetobacter baumannii,2019,Levofloxacin,Fluoroquinolones,231,101,24,356,64.89,YES
+Acinetobacter baumannii,2019,Amikacin,Aminoglycosides,221,124,11,356,62.08,YES
+Acinetobacter baumannii,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2019,Colistin,Polymyxins,9,0,347,356,2.53,YES
+Acinetobacter baumannii,2019,Piperacillin tazobactam,Penicillins,272,77,7,356,76.4,YES
+Acinetobacter baumannii,2019,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2019,Trimethoprim sulfa,Trimethoprim,218,138,0,356,61.24,YES
+Acinetobacter baumannii,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Acinetobacter baumannii,2020,Meropenem,Carbapenems,234,111,1,346,67.63,YES
+Acinetobacter baumannii,2020,Levofloxacin,Fluoroquinolones,222,107,17,346,64.16,YES
+Acinetobacter baumannii,2020,Amikacin,Aminoglycosides,192,149,5,346,55.49,YES
+Acinetobacter baumannii,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2020,Colistin,Polymyxins,17,0,329,346,4.91,YES
+Acinetobacter baumannii,2020,Piperacillin tazobactam,Penicillins,236,99,11,346,68.21,YES
+Acinetobacter baumannii,2020,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2020,Trimethoprim sulfa,Trimethoprim,197,149,0,346,56.94,YES
+Acinetobacter baumannii,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Acinetobacter baumannii,2021,Meropenem,Carbapenems,243,106,6,355,68.45,YES
+Acinetobacter baumannii,2021,Levofloxacin,Fluoroquinolones,224,112,19,355,63.1,YES
+Acinetobacter baumannii,2021,Amikacin,Aminoglycosides,200,143,12,355,56.34,YES
+Acinetobacter baumannii,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2021,Colistin,Polymyxins,11,0,344,355,3.1,YES
+Acinetobacter baumannii,2021,Piperacillin tazobactam,Penicillins,247,88,20,355,69.58,YES
+Acinetobacter baumannii,2021,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2021,Trimethoprim sulfa,Trimethoprim,203,152,0,355,57.18,YES
+Acinetobacter baumannii,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Acinetobacter baumannii,2022,Meropenem,Carbapenems,242,94,1,337,71.81,YES
+Acinetobacter baumannii,2022,Levofloxacin,Fluoroquinolones,228,91,18,337,67.66,YES
+Acinetobacter baumannii,2022,Amikacin,Aminoglycosides,213,120,4,337,63.2,YES
+Acinetobacter baumannii,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2022,Colistin,Polymyxins,8,0,329,337,2.37,YES
+Acinetobacter baumannii,2022,Piperacillin tazobactam,Penicillins,249,84,4,337,73.89,YES
+Acinetobacter baumannii,2022,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2022,Trimethoprim sulfa,Trimethoprim,218,119,0,337,64.69,YES
+Acinetobacter baumannii,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Acinetobacter baumannii,2023,Meropenem,Carbapenems,177,61,1,239,74.06,YES
+Acinetobacter baumannii,2023,Levofloxacin,Fluoroquinolones,157,62,20,239,65.69,YES
+Acinetobacter baumannii,2023,Amikacin,Aminoglycosides,144,90,5,239,60.25,YES
+Acinetobacter baumannii,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2023,Colistin,Polymyxins,8,0,231,239,3.35,YES
+Acinetobacter baumannii,2023,Piperacillin tazobactam,Penicillins,180,56,3,239,75.31,YES
+Acinetobacter baumannii,2023,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2023,Trimethoprim sulfa,Trimethoprim,151,88,0,239,63.18,YES
+Acinetobacter baumannii,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Acinetobacter baumannii,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Acinetobacter baumannii,2024,Meropenem,Carbapenems,174,47,0,221,78.73,YES
+Acinetobacter baumannii,2024,Levofloxacin,Fluoroquinolones,160,49,12,221,72.4,YES
+Acinetobacter baumannii,2024,Amikacin,Aminoglycosides,155,64,2,221,70.14,YES
+Acinetobacter baumannii,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Acinetobacter baumannii,2024,Colistin,Polymyxins,1,0,220,221,0.45,YES
+Acinetobacter baumannii,2024,Piperacillin tazobactam,Penicillins,174,45,2,221,78.73,YES
+Acinetobacter baumannii,2024,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Acinetobacter baumannii,2024,Trimethoprim sulfa,Trimethoprim,156,65,0,221,70.59,YES
+Acinetobacter baumannii,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2004,Ceftriaxone,Cephalosporins,57,481,6,544,10.48,YES
+Escherichia coli,2004,Meropenem,Carbapenems,0,4,0,4,,NO
+Escherichia coli,2004,Levofloxacin,Fluoroquinolones,128,413,3,544,23.53,YES
+Escherichia coli,2004,Amikacin,Aminoglycosides,9,497,38,544,1.65,YES
+Escherichia coli,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2004,Piperacillin tazobactam,Penicillins,18,516,10,544,3.31,YES
+Escherichia coli,2004,Tigecycline,Tetracyclines,0,544,0,544,0.0,YES
+Escherichia coli,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2005,Ceftriaxone,Cephalosporins,48,611,7,666,7.21,YES
+Escherichia coli,2005,Meropenem,Carbapenems,0,16,0,16,0.0,YES
+Escherichia coli,2005,Levofloxacin,Fluoroquinolones,133,532,1,666,19.97,YES
+Escherichia coli,2005,Amikacin,Aminoglycosides,7,631,28,666,1.05,YES
+Escherichia coli,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2005,Piperacillin tazobactam,Penicillins,22,624,20,666,3.3,YES
+Escherichia coli,2005,Tigecycline,Tetracyclines,0,666,0,666,0.0,YES
+Escherichia coli,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2006,Ceftriaxone,Cephalosporins,94,758,10,862,10.9,YES
+Escherichia coli,2006,Meropenem,Carbapenems,0,275,1,276,0.0,YES
+Escherichia coli,2006,Levofloxacin,Fluoroquinolones,231,630,1,862,26.8,YES
+Escherichia coli,2006,Amikacin,Aminoglycosides,16,806,40,862,1.86,YES
+Escherichia coli,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2006,Piperacillin tazobactam,Penicillins,35,817,10,862,4.06,YES
+Escherichia coli,2006,Tigecycline,Tetracyclines,0,860,2,862,0.0,YES
+Escherichia coli,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2007,Ceftriaxone,Cephalosporins,152,963,10,1125,13.51,YES
+Escherichia coli,2007,Meropenem,Carbapenems,4,1072,9,1085,0.37,YES
+Escherichia coli,2007,Levofloxacin,Fluoroquinolones,321,794,10,1125,28.53,YES
+Escherichia coli,2007,Amikacin,Aminoglycosides,37,990,98,1125,3.29,YES
+Escherichia coli,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2007,Piperacillin tazobactam,Penicillins,64,1034,27,1125,5.69,YES
+Escherichia coli,2007,Tigecycline,Tetracyclines,0,1125,0,1125,0.0,YES
+Escherichia coli,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2008,Ceftriaxone,Cephalosporins,203,856,12,1071,18.95,YES
+Escherichia coli,2008,Meropenem,Carbapenems,6,1063,2,1071,0.56,YES
+Escherichia coli,2008,Levofloxacin,Fluoroquinolones,367,690,14,1071,34.27,YES
+Escherichia coli,2008,Amikacin,Aminoglycosides,46,935,90,1071,4.3,YES
+Escherichia coli,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2008,Piperacillin tazobactam,Penicillins,109,915,47,1071,10.18,YES
+Escherichia coli,2008,Tigecycline,Tetracyclines,0,1070,1,1071,0.0,YES
+Escherichia coli,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2009,Ceftriaxone,Cephalosporins,255,887,11,1153,22.12,YES
+Escherichia coli,2009,Meropenem,Carbapenems,3,1147,3,1153,0.26,YES
+Escherichia coli,2009,Levofloxacin,Fluoroquinolones,398,739,16,1153,34.52,YES
+Escherichia coli,2009,Amikacin,Aminoglycosides,58,1004,91,1153,5.03,YES
+Escherichia coli,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2009,Piperacillin tazobactam,Penicillins,122,981,50,1153,10.58,YES
+Escherichia coli,2009,Tigecycline,Tetracyclines,0,1153,0,1153,0.0,YES
+Escherichia coli,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2010,Ceftriaxone,Cephalosporins,168,732,2,902,18.63,YES
+Escherichia coli,2010,Meropenem,Carbapenems,2,898,2,902,0.22,YES
+Escherichia coli,2010,Levofloxacin,Fluoroquinolones,274,615,13,902,30.38,YES
+Escherichia coli,2010,Amikacin,Aminoglycosides,38,785,79,902,4.21,YES
+Escherichia coli,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2010,Piperacillin tazobactam,Penicillins,78,795,29,902,8.65,YES
+Escherichia coli,2010,Tigecycline,Tetracyclines,0,902,0,902,0.0,YES
+Escherichia coli,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2011,Ceftriaxone,Cephalosporins,114,587,3,704,16.19,YES
+Escherichia coli,2011,Meropenem,Carbapenems,0,704,0,704,0.0,YES
+Escherichia coli,2011,Levofloxacin,Fluoroquinolones,232,461,11,704,32.95,YES
+Escherichia coli,2011,Amikacin,Aminoglycosides,13,631,60,704,1.85,YES
+Escherichia coli,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2011,Piperacillin tazobactam,Penicillins,43,637,24,704,6.11,YES
+Escherichia coli,2011,Tigecycline,Tetracyclines,0,704,0,704,0.0,YES
+Escherichia coli,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2012,Ceftriaxone,Cephalosporins,119,548,2,669,17.79,YES
+Escherichia coli,2012,Meropenem,Carbapenems,2,666,1,669,0.3,YES
+Escherichia coli,2012,Levofloxacin,Fluoroquinolones,217,440,12,669,32.44,YES
+Escherichia coli,2012,Amikacin,Aminoglycosides,10,603,56,669,1.49,YES
+Escherichia coli,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2012,Piperacillin tazobactam,Penicillins,40,607,22,669,5.98,YES
+Escherichia coli,2012,Tigecycline,Tetracyclines,0,668,1,669,0.0,YES
+Escherichia coli,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2013,Ceftriaxone,Cephalosporins,134,680,7,821,16.32,YES
+Escherichia coli,2013,Meropenem,Carbapenems,5,816,0,821,0.61,YES
+Escherichia coli,2013,Levofloxacin,Fluoroquinolones,259,559,3,821,31.55,YES
+Escherichia coli,2013,Amikacin,Aminoglycosides,12,739,70,821,1.46,YES
+Escherichia coli,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Escherichia coli,2013,Piperacillin tazobactam,Penicillins,46,757,18,821,5.6,YES
+Escherichia coli,2013,Tigecycline,Tetracyclines,1,820,0,821,0.12,YES
+Escherichia coli,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2014,Ceftriaxone,Cephalosporins,149,619,4,772,19.3,YES
+Escherichia coli,2014,Meropenem,Carbapenems,1,1086,0,1087,0.09,YES
+Escherichia coli,2014,Levofloxacin,Fluoroquinolones,408,663,16,1087,37.53,YES
+Escherichia coli,2014,Amikacin,Aminoglycosides,36,945,106,1087,3.31,YES
+Escherichia coli,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2014,Colistin,Polymyxins,3,0,312,315,0.95,YES
+Escherichia coli,2014,Piperacillin tazobactam,Penicillins,64,973,50,1087,5.89,YES
+Escherichia coli,2014,Tigecycline,Tetracyclines,0,1087,0,1087,0.0,YES
+Escherichia coli,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2015,Ceftriaxone,Cephalosporins,191,595,9,795,24.03,YES
+Escherichia coli,2015,Meropenem,Carbapenems,4,1132,0,1136,0.35,YES
+Escherichia coli,2015,Levofloxacin,Fluoroquinolones,409,703,24,1136,36.0,YES
+Escherichia coli,2015,Amikacin,Aminoglycosides,25,1036,75,1136,2.2,YES
+Escherichia coli,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2015,Colistin,Polymyxins,2,0,355,357,0.56,YES
+Escherichia coli,2015,Piperacillin tazobactam,Penicillins,55,1052,29,1136,4.84,YES
+Escherichia coli,2015,Tigecycline,Tetracyclines,0,1136,0,1136,0.0,YES
+Escherichia coli,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2016,Ceftriaxone,Cephalosporins,292,856,6,1154,25.3,YES
+Escherichia coli,2016,Meropenem,Carbapenems,4,1148,2,1154,0.35,YES
+Escherichia coli,2016,Levofloxacin,Fluoroquinolones,415,708,31,1154,35.96,YES
+Escherichia coli,2016,Amikacin,Aminoglycosides,16,1059,79,1154,1.39,YES
+Escherichia coli,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2016,Colistin,Polymyxins,3,0,408,411,0.73,YES
+Escherichia coli,2016,Piperacillin tazobactam,Penicillins,72,1055,27,1154,6.24,YES
+Escherichia coli,2016,Tigecycline,Tetracyclines,0,1154,0,1154,0.0,YES
+Escherichia coli,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2017,Ceftriaxone,Cephalosporins,245,736,5,986,24.85,YES
+Escherichia coli,2017,Meropenem,Carbapenems,5,979,2,986,0.51,YES
+Escherichia coli,2017,Levofloxacin,Fluoroquinolones,341,636,9,986,34.58,YES
+Escherichia coli,2017,Amikacin,Aminoglycosides,13,893,80,986,1.32,YES
+Escherichia coli,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2017,Colistin,Polymyxins,1,0,410,411,0.24,YES
+Escherichia coli,2017,Piperacillin tazobactam,Penicillins,54,903,29,986,5.48,YES
+Escherichia coli,2017,Tigecycline,Tetracyclines,0,983,3,986,0.0,YES
+Escherichia coli,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Escherichia coli,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Escherichia coli,2018,Meropenem,Carbapenems,13,1224,1,1238,1.05,YES
+Escherichia coli,2018,Levofloxacin,Fluoroquinolones,443,768,27,1238,35.78,YES
+Escherichia coli,2018,Amikacin,Aminoglycosides,39,1072,127,1238,3.15,YES
+Escherichia coli,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2018,Colistin,Polymyxins,11,0,1227,1238,0.89,YES
+Escherichia coli,2018,Piperacillin tazobactam,Penicillins,67,1136,35,1238,5.41,YES
+Escherichia coli,2018,Tigecycline,Tetracyclines,0,1238,0,1238,0.0,YES
+Escherichia coli,2018,Trimethoprim sulfa,Trimethoprim,527,711,0,1238,42.57,YES
+Escherichia coli,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Escherichia coli,2019,Meropenem,Carbapenems,13,1313,0,1326,0.98,YES
+Escherichia coli,2019,Levofloxacin,Fluoroquinolones,486,801,39,1326,36.65,YES
+Escherichia coli,2019,Amikacin,Aminoglycosides,53,1113,160,1326,4.0,YES
+Escherichia coli,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2019,Colistin,Polymyxins,10,0,1316,1326,0.75,YES
+Escherichia coli,2019,Piperacillin tazobactam,Penicillins,94,1158,74,1326,7.09,YES
+Escherichia coli,2019,Tigecycline,Tetracyclines,2,1321,3,1326,0.15,YES
+Escherichia coli,2019,Trimethoprim sulfa,Trimethoprim,552,774,0,1326,41.63,YES
+Escherichia coli,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Escherichia coli,2020,Meropenem,Carbapenems,16,1487,3,1506,1.06,YES
+Escherichia coli,2020,Levofloxacin,Fluoroquinolones,460,984,62,1506,30.54,YES
+Escherichia coli,2020,Amikacin,Aminoglycosides,46,1323,137,1506,3.05,YES
+Escherichia coli,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2020,Colistin,Polymyxins,6,0,1500,1506,0.4,YES
+Escherichia coli,2020,Piperacillin tazobactam,Penicillins,97,1365,44,1506,6.44,YES
+Escherichia coli,2020,Tigecycline,Tetracyclines,0,1505,1,1506,0.0,YES
+Escherichia coli,2020,Trimethoprim sulfa,Trimethoprim,598,908,0,1506,39.71,YES
+Escherichia coli,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Escherichia coli,2021,Meropenem,Carbapenems,15,1520,1,1536,0.98,YES
+Escherichia coli,2021,Levofloxacin,Fluoroquinolones,459,1040,37,1536,29.88,YES
+Escherichia coli,2021,Amikacin,Aminoglycosides,55,1356,125,1536,3.58,YES
+Escherichia coli,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2021,Colistin,Polymyxins,10,0,1526,1536,0.65,YES
+Escherichia coli,2021,Piperacillin tazobactam,Penicillins,103,1396,37,1536,6.71,YES
+Escherichia coli,2021,Tigecycline,Tetracyclines,1,1534,1,1536,0.07,YES
+Escherichia coli,2021,Trimethoprim sulfa,Trimethoprim,560,976,0,1536,36.46,YES
+Escherichia coli,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Escherichia coli,2022,Meropenem,Carbapenems,12,1528,4,1544,0.78,YES
+Escherichia coli,2022,Levofloxacin,Fluoroquinolones,459,1036,49,1544,29.73,YES
+Escherichia coli,2022,Amikacin,Aminoglycosides,37,1399,108,1544,2.4,YES
+Escherichia coli,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2022,Colistin,Polymyxins,6,0,1538,1544,0.39,YES
+Escherichia coli,2022,Piperacillin tazobactam,Penicillins,89,1410,45,1544,5.76,YES
+Escherichia coli,2022,Tigecycline,Tetracyclines,0,1543,1,1544,0.0,YES
+Escherichia coli,2022,Trimethoprim sulfa,Trimethoprim,559,985,0,1544,36.2,YES
+Escherichia coli,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Escherichia coli,2023,Meropenem,Carbapenems,17,1256,0,1273,1.34,YES
+Escherichia coli,2023,Levofloxacin,Fluoroquinolones,409,822,42,1273,32.13,YES
+Escherichia coli,2023,Amikacin,Aminoglycosides,34,1166,73,1273,2.67,YES
+Escherichia coli,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2023,Colistin,Polymyxins,1,0,1272,1273,0.08,YES
+Escherichia coli,2023,Piperacillin tazobactam,Penicillins,96,1149,28,1273,7.54,YES
+Escherichia coli,2023,Tigecycline,Tetracyclines,0,1273,0,1273,0.0,YES
+Escherichia coli,2023,Trimethoprim sulfa,Trimethoprim,504,769,0,1273,39.59,YES
+Escherichia coli,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Escherichia coli,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Escherichia coli,2024,Meropenem,Carbapenems,17,1354,1,1372,1.24,YES
+Escherichia coli,2024,Levofloxacin,Fluoroquinolones,444,887,41,1372,32.36,YES
+Escherichia coli,2024,Amikacin,Aminoglycosides,30,1243,99,1372,2.19,YES
+Escherichia coli,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Escherichia coli,2024,Colistin,Polymyxins,6,0,1366,1372,0.44,YES
+Escherichia coli,2024,Piperacillin tazobactam,Penicillins,82,1251,39,1372,5.98,YES
+Escherichia coli,2024,Tigecycline,Tetracyclines,0,1372,0,1372,0.0,YES
+Escherichia coli,2024,Trimethoprim sulfa,Trimethoprim,519,853,0,1372,37.83,YES
+Escherichia coli,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Staphylococcus aureus,2004,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2004,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2004,Levofloxacin,Fluoroquinolones,135,167,8,310,43.55,YES
+Staphylococcus aureus,2004,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2004,Vancomycin,Glycopeptides,0,310,0,310,0.0,YES
+Staphylococcus aureus,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2004,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2004,Tigecycline,Tetracyclines,0,310,0,310,0.0,YES
+Staphylococcus aureus,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2004,Linezolid,Oxazolidinones,0,310,0,310,0.0,YES
+Staphylococcus aureus,2005,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2005,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2005,Levofloxacin,Fluoroquinolones,179,213,11,403,44.42,YES
+Staphylococcus aureus,2005,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2005,Vancomycin,Glycopeptides,0,403,0,403,0.0,YES
+Staphylococcus aureus,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2005,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2005,Tigecycline,Tetracyclines,0,403,0,403,0.0,YES
+Staphylococcus aureus,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2005,Linezolid,Oxazolidinones,0,403,0,403,0.0,YES
+Staphylococcus aureus,2006,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2006,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2006,Levofloxacin,Fluoroquinolones,201,308,17,526,38.21,YES
+Staphylococcus aureus,2006,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2006,Vancomycin,Glycopeptides,0,526,0,526,0.0,YES
+Staphylococcus aureus,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2006,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2006,Tigecycline,Tetracyclines,0,523,3,526,0.0,YES
+Staphylococcus aureus,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2006,Linezolid,Oxazolidinones,0,526,0,526,0.0,YES
+Staphylococcus aureus,2007,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2007,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2007,Levofloxacin,Fluoroquinolones,272,415,9,696,39.08,YES
+Staphylococcus aureus,2007,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2007,Vancomycin,Glycopeptides,0,696,0,696,0.0,YES
+Staphylococcus aureus,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2007,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2007,Tigecycline,Tetracyclines,0,693,3,696,0.0,YES
+Staphylococcus aureus,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2007,Linezolid,Oxazolidinones,0,696,0,696,0.0,YES
+Staphylococcus aureus,2008,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2008,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2008,Levofloxacin,Fluoroquinolones,245,435,5,685,35.77,YES
+Staphylococcus aureus,2008,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2008,Vancomycin,Glycopeptides,0,685,0,685,0.0,YES
+Staphylococcus aureus,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2008,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2008,Tigecycline,Tetracyclines,0,685,0,685,0.0,YES
+Staphylococcus aureus,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2008,Linezolid,Oxazolidinones,0,685,0,685,0.0,YES
+Staphylococcus aureus,2009,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2009,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2009,Levofloxacin,Fluoroquinolones,283,456,10,749,37.78,YES
+Staphylococcus aureus,2009,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2009,Vancomycin,Glycopeptides,0,749,0,749,0.0,YES
+Staphylococcus aureus,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2009,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2009,Tigecycline,Tetracyclines,0,747,2,749,0.0,YES
+Staphylococcus aureus,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2009,Linezolid,Oxazolidinones,0,749,0,749,0.0,YES
+Staphylococcus aureus,2010,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2010,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2010,Levofloxacin,Fluoroquinolones,173,331,5,509,33.99,YES
+Staphylococcus aureus,2010,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2010,Vancomycin,Glycopeptides,0,509,0,509,0.0,YES
+Staphylococcus aureus,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2010,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2010,Tigecycline,Tetracyclines,0,508,1,509,0.0,YES
+Staphylococcus aureus,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2010,Linezolid,Oxazolidinones,0,509,0,509,0.0,YES
+Staphylococcus aureus,2011,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2011,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2011,Levofloxacin,Fluoroquinolones,139,300,6,445,31.24,YES
+Staphylococcus aureus,2011,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2011,Vancomycin,Glycopeptides,0,445,0,445,0.0,YES
+Staphylococcus aureus,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2011,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2011,Tigecycline,Tetracyclines,0,445,0,445,0.0,YES
+Staphylococcus aureus,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2011,Linezolid,Oxazolidinones,0,445,0,445,0.0,YES
+Staphylococcus aureus,2012,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2012,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2012,Levofloxacin,Fluoroquinolones,124,232,5,361,34.35,YES
+Staphylococcus aureus,2012,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2012,Vancomycin,Glycopeptides,0,361,0,361,0.0,YES
+Staphylococcus aureus,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2012,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2012,Tigecycline,Tetracyclines,0,361,0,361,0.0,YES
+Staphylococcus aureus,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2012,Linezolid,Oxazolidinones,0,361,0,361,0.0,YES
+Staphylococcus aureus,2013,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2013,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2013,Levofloxacin,Fluoroquinolones,135,284,5,424,31.84,YES
+Staphylococcus aureus,2013,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2013,Vancomycin,Glycopeptides,0,424,0,424,0.0,YES
+Staphylococcus aureus,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2013,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2013,Tigecycline,Tetracyclines,0,424,0,424,0.0,YES
+Staphylococcus aureus,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus aureus,2013,Linezolid,Oxazolidinones,0,424,0,424,0.0,YES
+Staphylococcus aureus,2014,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2014,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2014,Levofloxacin,Fluoroquinolones,394,540,9,943,41.78,YES
+Staphylococcus aureus,2014,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2014,Vancomycin,Glycopeptides,0,943,0,943,0.0,YES
+Staphylococcus aureus,2014,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2014,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2014,Tigecycline,Tetracyclines,0,939,4,943,0.0,YES
+Staphylococcus aureus,2014,Trimethoprim sulfa,Trimethoprim,13,508,0,521,2.5,YES
+Staphylococcus aureus,2014,Linezolid,Oxazolidinones,0,943,0,943,0.0,YES
+Staphylococcus aureus,2015,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2015,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2015,Levofloxacin,Fluoroquinolones,407,564,4,975,41.74,YES
+Staphylococcus aureus,2015,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2015,Vancomycin,Glycopeptides,0,975,0,975,0.0,YES
+Staphylococcus aureus,2015,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2015,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2015,Tigecycline,Tetracyclines,0,974,1,975,0.0,YES
+Staphylococcus aureus,2015,Trimethoprim sulfa,Trimethoprim,8,512,0,520,1.54,YES
+Staphylococcus aureus,2015,Linezolid,Oxazolidinones,0,975,0,975,0.0,YES
+Staphylococcus aureus,2016,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2016,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2016,Levofloxacin,Fluoroquinolones,446,627,8,1081,41.26,YES
+Staphylococcus aureus,2016,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2016,Vancomycin,Glycopeptides,0,1081,0,1081,0.0,YES
+Staphylococcus aureus,2016,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2016,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2016,Tigecycline,Tetracyclines,0,1081,0,1081,0.0,YES
+Staphylococcus aureus,2016,Trimethoprim sulfa,Trimethoprim,22,614,0,636,3.46,YES
+Staphylococcus aureus,2016,Linezolid,Oxazolidinones,0,1081,0,1081,0.0,YES
+Staphylococcus aureus,2017,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2017,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2017,Levofloxacin,Fluoroquinolones,308,560,5,873,35.28,YES
+Staphylococcus aureus,2017,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2017,Vancomycin,Glycopeptides,0,873,0,873,0.0,YES
+Staphylococcus aureus,2017,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2017,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2017,Tigecycline,Tetracyclines,0,871,2,873,0.0,YES
+Staphylococcus aureus,2017,Trimethoprim sulfa,Trimethoprim,20,514,0,534,3.75,YES
+Staphylococcus aureus,2017,Linezolid,Oxazolidinones,0,873,0,873,0.0,YES
+Staphylococcus aureus,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2018,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2018,Levofloxacin,Fluoroquinolones,211,709,0,920,22.93,YES
+Staphylococcus aureus,2018,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2018,Vancomycin,Glycopeptides,0,920,0,920,0.0,YES
+Staphylococcus aureus,2018,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2018,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2018,Tigecycline,Tetracyclines,0,920,0,920,0.0,YES
+Staphylococcus aureus,2018,Trimethoprim sulfa,Trimethoprim,13,907,0,920,1.41,YES
+Staphylococcus aureus,2018,Linezolid,Oxazolidinones,1,919,0,920,0.11,YES
+Staphylococcus aureus,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2019,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2019,Levofloxacin,Fluoroquinolones,294,1015,7,1316,22.34,YES
+Staphylococcus aureus,2019,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2019,Vancomycin,Glycopeptides,0,1316,0,1316,0.0,YES
+Staphylococcus aureus,2019,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2019,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2019,Tigecycline,Tetracyclines,0,1309,7,1316,0.0,YES
+Staphylococcus aureus,2019,Trimethoprim sulfa,Trimethoprim,15,1301,0,1316,1.14,YES
+Staphylococcus aureus,2019,Linezolid,Oxazolidinones,0,1316,0,1316,0.0,YES
+Staphylococcus aureus,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2020,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2020,Levofloxacin,Fluoroquinolones,294,1077,4,1375,21.38,YES
+Staphylococcus aureus,2020,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2020,Vancomycin,Glycopeptides,0,1375,0,1375,0.0,YES
+Staphylococcus aureus,2020,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2020,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2020,Tigecycline,Tetracyclines,0,1372,3,1375,0.0,YES
+Staphylococcus aureus,2020,Trimethoprim sulfa,Trimethoprim,32,1343,0,1375,2.33,YES
+Staphylococcus aureus,2020,Linezolid,Oxazolidinones,0,1375,0,1375,0.0,YES
+Staphylococcus aureus,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2021,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2021,Levofloxacin,Fluoroquinolones,359,1234,7,1600,22.44,YES
+Staphylococcus aureus,2021,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2021,Vancomycin,Glycopeptides,0,1600,0,1600,0.0,YES
+Staphylococcus aureus,2021,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2021,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2021,Tigecycline,Tetracyclines,0,1598,2,1600,0.0,YES
+Staphylococcus aureus,2021,Trimethoprim sulfa,Trimethoprim,25,1575,0,1600,1.56,YES
+Staphylococcus aureus,2021,Linezolid,Oxazolidinones,0,1600,0,1600,0.0,YES
+Staphylococcus aureus,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2022,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2022,Levofloxacin,Fluoroquinolones,314,1268,5,1587,19.79,YES
+Staphylococcus aureus,2022,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2022,Vancomycin,Glycopeptides,1,1586,0,1587,0.06,YES
+Staphylococcus aureus,2022,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2022,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2022,Tigecycline,Tetracyclines,0,1580,7,1587,0.0,YES
+Staphylococcus aureus,2022,Trimethoprim sulfa,Trimethoprim,17,1570,0,1587,1.07,YES
+Staphylococcus aureus,2022,Linezolid,Oxazolidinones,1,1586,0,1587,0.06,YES
+Staphylococcus aureus,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2023,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2023,Levofloxacin,Fluoroquinolones,264,986,1,1251,21.1,YES
+Staphylococcus aureus,2023,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2023,Vancomycin,Glycopeptides,0,1251,0,1251,0.0,YES
+Staphylococcus aureus,2023,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2023,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2023,Tigecycline,Tetracyclines,0,1249,2,1251,0.0,YES
+Staphylococcus aureus,2023,Trimethoprim sulfa,Trimethoprim,17,1234,0,1251,1.36,YES
+Staphylococcus aureus,2023,Linezolid,Oxazolidinones,0,1251,0,1251,0.0,YES
+Staphylococcus aureus,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus aureus,2024,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus aureus,2024,Levofloxacin,Fluoroquinolones,218,861,4,1083,20.13,YES
+Staphylococcus aureus,2024,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus aureus,2024,Vancomycin,Glycopeptides,0,1083,0,1083,0.0,YES
+Staphylococcus aureus,2024,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus aureus,2024,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus aureus,2024,Tigecycline,Tetracyclines,0,1083,0,1083,0.0,YES
+Staphylococcus aureus,2024,Trimethoprim sulfa,Trimethoprim,6,1077,0,1083,0.55,YES
+Staphylococcus aureus,2024,Linezolid,Oxazolidinones,0,1083,0,1083,0.0,YES
+Pseudomonas aeruginosa,2004,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2004,Meropenem,Carbapenems,1,0,0,1,,NO
+Pseudomonas aeruginosa,2004,Levofloxacin,Fluoroquinolones,64,124,16,204,31.37,YES
+Pseudomonas aeruginosa,2004,Amikacin,Aminoglycosides,3,199,2,204,1.47,YES
+Pseudomonas aeruginosa,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2004,Piperacillin tazobactam,Penicillins,31,161,12,204,15.2,YES
+Pseudomonas aeruginosa,2004,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2005,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2005,Meropenem,Carbapenems,1,1,0,2,,NO
+Pseudomonas aeruginosa,2005,Levofloxacin,Fluoroquinolones,67,129,10,206,32.52,YES
+Pseudomonas aeruginosa,2005,Amikacin,Aminoglycosides,10,191,5,206,4.85,YES
+Pseudomonas aeruginosa,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2005,Piperacillin tazobactam,Penicillins,28,172,6,206,13.59,YES
+Pseudomonas aeruginosa,2005,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2006,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2006,Meropenem,Carbapenems,11,88,14,113,9.73,YES
+Pseudomonas aeruginosa,2006,Levofloxacin,Fluoroquinolones,69,174,23,266,25.94,YES
+Pseudomonas aeruginosa,2006,Amikacin,Aminoglycosides,7,249,10,266,2.63,YES
+Pseudomonas aeruginosa,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2006,Piperacillin tazobactam,Penicillins,27,218,21,266,10.15,YES
+Pseudomonas aeruginosa,2006,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2007,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2007,Meropenem,Carbapenems,57,287,38,382,14.92,YES
+Pseudomonas aeruginosa,2007,Levofloxacin,Fluoroquinolones,130,240,32,402,32.34,YES
+Pseudomonas aeruginosa,2007,Amikacin,Aminoglycosides,23,369,10,402,5.72,YES
+Pseudomonas aeruginosa,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2007,Piperacillin tazobactam,Penicillins,61,320,21,402,15.17,YES
+Pseudomonas aeruginosa,2007,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2008,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2008,Meropenem,Carbapenems,78,290,24,392,19.9,YES
+Pseudomonas aeruginosa,2008,Levofloxacin,Fluoroquinolones,133,226,33,392,33.93,YES
+Pseudomonas aeruginosa,2008,Amikacin,Aminoglycosides,32,340,20,392,8.16,YES
+Pseudomonas aeruginosa,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2008,Piperacillin tazobactam,Penicillins,89,269,34,392,22.7,YES
+Pseudomonas aeruginosa,2008,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2009,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2009,Meropenem,Carbapenems,100,337,34,471,21.23,YES
+Pseudomonas aeruginosa,2009,Levofloxacin,Fluoroquinolones,172,268,31,471,36.52,YES
+Pseudomonas aeruginosa,2009,Amikacin,Aminoglycosides,48,407,16,471,10.19,YES
+Pseudomonas aeruginosa,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2009,Piperacillin tazobactam,Penicillins,127,308,36,471,26.96,YES
+Pseudomonas aeruginosa,2009,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2010,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2010,Meropenem,Carbapenems,50,230,22,302,16.56,YES
+Pseudomonas aeruginosa,2010,Levofloxacin,Fluoroquinolones,77,192,33,302,25.5,YES
+Pseudomonas aeruginosa,2010,Amikacin,Aminoglycosides,11,286,5,302,3.64,YES
+Pseudomonas aeruginosa,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2010,Piperacillin tazobactam,Penicillins,71,207,24,302,23.51,YES
+Pseudomonas aeruginosa,2010,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2011,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2011,Meropenem,Carbapenems,46,198,20,264,17.42,YES
+Pseudomonas aeruginosa,2011,Levofloxacin,Fluoroquinolones,72,166,26,264,27.27,YES
+Pseudomonas aeruginosa,2011,Amikacin,Aminoglycosides,10,249,5,264,3.79,YES
+Pseudomonas aeruginosa,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2011,Piperacillin tazobactam,Penicillins,31,217,16,264,11.74,YES
+Pseudomonas aeruginosa,2011,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2012,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2012,Meropenem,Carbapenems,43,151,12,206,20.87,YES
+Pseudomonas aeruginosa,2012,Levofloxacin,Fluoroquinolones,44,145,17,206,21.36,YES
+Pseudomonas aeruginosa,2012,Amikacin,Aminoglycosides,5,194,7,206,2.43,YES
+Pseudomonas aeruginosa,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2012,Piperacillin tazobactam,Penicillins,25,170,11,206,12.14,YES
+Pseudomonas aeruginosa,2012,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2013,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2013,Meropenem,Carbapenems,44,181,15,240,18.33,YES
+Pseudomonas aeruginosa,2013,Levofloxacin,Fluoroquinolones,53,167,20,240,22.08,YES
+Pseudomonas aeruginosa,2013,Amikacin,Aminoglycosides,3,231,6,240,1.25,YES
+Pseudomonas aeruginosa,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2013,Piperacillin tazobactam,Penicillins,31,203,6,240,12.92,YES
+Pseudomonas aeruginosa,2013,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2014,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2014,Meropenem,Carbapenems,58,263,20,341,17.01,YES
+Pseudomonas aeruginosa,2014,Levofloxacin,Fluoroquinolones,72,238,31,341,21.11,YES
+Pseudomonas aeruginosa,2014,Amikacin,Aminoglycosides,9,328,4,341,2.64,YES
+Pseudomonas aeruginosa,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2014,Colistin,Polymyxins,11,0,102,113,9.73,YES
+Pseudomonas aeruginosa,2014,Piperacillin tazobactam,Penicillins,40,266,35,341,11.73,YES
+Pseudomonas aeruginosa,2014,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2015,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2015,Meropenem,Carbapenems,100,283,27,410,24.39,YES
+Pseudomonas aeruginosa,2015,Levofloxacin,Fluoroquinolones,102,274,34,410,24.88,YES
+Pseudomonas aeruginosa,2015,Amikacin,Aminoglycosides,20,378,12,410,4.88,YES
+Pseudomonas aeruginosa,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2015,Colistin,Polymyxins,0,0,141,141,0.0,YES
+Pseudomonas aeruginosa,2015,Piperacillin tazobactam,Penicillins,58,329,23,410,14.15,YES
+Pseudomonas aeruginosa,2015,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2016,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2016,Meropenem,Carbapenems,66,296,19,381,17.32,YES
+Pseudomonas aeruginosa,2016,Levofloxacin,Fluoroquinolones,78,282,21,381,20.47,YES
+Pseudomonas aeruginosa,2016,Amikacin,Aminoglycosides,9,366,6,381,2.36,YES
+Pseudomonas aeruginosa,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2016,Colistin,Polymyxins,1,0,146,147,0.68,YES
+Pseudomonas aeruginosa,2016,Piperacillin tazobactam,Penicillins,49,308,24,381,12.86,YES
+Pseudomonas aeruginosa,2016,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2017,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2017,Meropenem,Carbapenems,62,276,18,356,17.42,YES
+Pseudomonas aeruginosa,2017,Levofloxacin,Fluoroquinolones,78,249,29,356,21.91,YES
+Pseudomonas aeruginosa,2017,Amikacin,Aminoglycosides,21,330,5,356,5.9,YES
+Pseudomonas aeruginosa,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2017,Colistin,Polymyxins,3,0,188,191,1.57,YES
+Pseudomonas aeruginosa,2017,Piperacillin tazobactam,Penicillins,55,285,16,356,15.45,YES
+Pseudomonas aeruginosa,2017,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2018,Meropenem,Carbapenems,95,360,21,476,19.96,YES
+Pseudomonas aeruginosa,2018,Levofloxacin,Fluoroquinolones,101,337,38,476,21.22,YES
+Pseudomonas aeruginosa,2018,Amikacin,Aminoglycosides,38,427,11,476,7.98,YES
+Pseudomonas aeruginosa,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2018,Colistin,Polymyxins,7,0,469,476,1.47,YES
+Pseudomonas aeruginosa,2018,Piperacillin tazobactam,Penicillins,78,370,28,476,16.39,YES
+Pseudomonas aeruginosa,2018,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2018,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2019,Meropenem,Carbapenems,123,587,35,745,16.51,YES
+Pseudomonas aeruginosa,2019,Levofloxacin,Fluoroquinolones,126,543,76,745,16.91,YES
+Pseudomonas aeruginosa,2019,Amikacin,Aminoglycosides,34,696,15,745,4.56,YES
+Pseudomonas aeruginosa,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2019,Colistin,Polymyxins,4,0,741,745,0.54,YES
+Pseudomonas aeruginosa,2019,Piperacillin tazobactam,Penicillins,152,560,33,745,20.4,YES
+Pseudomonas aeruginosa,2019,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2019,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2020,Meropenem,Carbapenems,130,666,47,843,15.42,YES
+Pseudomonas aeruginosa,2020,Levofloxacin,Fluoroquinolones,163,622,58,843,19.34,YES
+Pseudomonas aeruginosa,2020,Amikacin,Aminoglycosides,55,776,12,843,6.52,YES
+Pseudomonas aeruginosa,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2020,Colistin,Polymyxins,2,0,841,843,0.24,YES
+Pseudomonas aeruginosa,2020,Piperacillin tazobactam,Penicillins,128,669,46,843,15.18,YES
+Pseudomonas aeruginosa,2020,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2020,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2021,Meropenem,Carbapenems,121,704,46,871,13.89,YES
+Pseudomonas aeruginosa,2021,Levofloxacin,Fluoroquinolones,151,658,62,871,17.34,YES
+Pseudomonas aeruginosa,2021,Amikacin,Aminoglycosides,58,800,13,871,6.66,YES
+Pseudomonas aeruginosa,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2021,Colistin,Polymyxins,2,0,869,871,0.23,YES
+Pseudomonas aeruginosa,2021,Piperacillin tazobactam,Penicillins,145,673,53,871,16.65,YES
+Pseudomonas aeruginosa,2021,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2021,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2022,Meropenem,Carbapenems,130,690,38,858,15.15,YES
+Pseudomonas aeruginosa,2022,Levofloxacin,Fluoroquinolones,127,672,58,857,14.82,YES
+Pseudomonas aeruginosa,2022,Amikacin,Aminoglycosides,55,791,12,858,6.41,YES
+Pseudomonas aeruginosa,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2022,Colistin,Polymyxins,1,0,857,858,0.12,YES
+Pseudomonas aeruginosa,2022,Piperacillin tazobactam,Penicillins,148,670,40,858,17.25,YES
+Pseudomonas aeruginosa,2022,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2022,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2023,Meropenem,Carbapenems,89,419,20,528,16.86,YES
+Pseudomonas aeruginosa,2023,Levofloxacin,Fluoroquinolones,97,406,25,528,18.37,YES
+Pseudomonas aeruginosa,2023,Amikacin,Aminoglycosides,47,471,10,528,8.9,YES
+Pseudomonas aeruginosa,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2023,Colistin,Polymyxins,3,0,525,528,0.57,YES
+Pseudomonas aeruginosa,2023,Piperacillin tazobactam,Penicillins,89,415,24,528,16.86,YES
+Pseudomonas aeruginosa,2023,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2023,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Pseudomonas aeruginosa,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Pseudomonas aeruginosa,2024,Meropenem,Carbapenems,66,469,31,566,11.66,YES
+Pseudomonas aeruginosa,2024,Levofloxacin,Fluoroquinolones,83,445,38,566,14.66,YES
+Pseudomonas aeruginosa,2024,Amikacin,Aminoglycosides,29,528,9,566,5.12,YES
+Pseudomonas aeruginosa,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Pseudomonas aeruginosa,2024,Colistin,Polymyxins,3,0,563,566,0.53,YES
+Pseudomonas aeruginosa,2024,Piperacillin tazobactam,Penicillins,78,459,29,566,13.78,YES
+Pseudomonas aeruginosa,2024,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Pseudomonas aeruginosa,2024,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Pseudomonas aeruginosa,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2004,Ceftriaxone,Cephalosporins,71,150,8,229,31.0,YES
+Enterobacter cloacae,2004,Meropenem,Carbapenems,0,9,0,9,,NO
+Enterobacter cloacae,2004,Levofloxacin,Fluoroquinolones,24,199,6,229,10.48,YES
+Enterobacter cloacae,2004,Amikacin,Aminoglycosides,6,213,10,229,2.62,YES
+Enterobacter cloacae,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2004,Piperacillin tazobactam,Penicillins,45,178,6,229,19.65,YES
+Enterobacter cloacae,2004,Tigecycline,Tetracyclines,2,222,5,229,0.87,YES
+Enterobacter cloacae,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2005,Ceftriaxone,Cephalosporins,113,145,3,261,43.3,YES
+Enterobacter cloacae,2005,Meropenem,Carbapenems,0,4,0,4,,NO
+Enterobacter cloacae,2005,Levofloxacin,Fluoroquinolones,37,219,5,261,14.18,YES
+Enterobacter cloacae,2005,Amikacin,Aminoglycosides,10,244,7,261,3.83,YES
+Enterobacter cloacae,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2005,Piperacillin tazobactam,Penicillins,74,177,10,261,28.35,YES
+Enterobacter cloacae,2005,Tigecycline,Tetracyclines,11,242,8,261,4.21,YES
+Enterobacter cloacae,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2006,Ceftriaxone,Cephalosporins,110,187,4,301,36.54,YES
+Enterobacter cloacae,2006,Meropenem,Carbapenems,2,124,2,128,1.56,YES
+Enterobacter cloacae,2006,Levofloxacin,Fluoroquinolones,44,246,11,301,14.62,YES
+Enterobacter cloacae,2006,Amikacin,Aminoglycosides,16,273,12,301,5.32,YES
+Enterobacter cloacae,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2006,Piperacillin tazobactam,Penicillins,72,218,11,301,23.92,YES
+Enterobacter cloacae,2006,Tigecycline,Tetracyclines,4,286,11,301,1.33,YES
+Enterobacter cloacae,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2007,Ceftriaxone,Cephalosporins,165,283,9,457,36.11,YES
+Enterobacter cloacae,2007,Meropenem,Carbapenems,7,435,2,444,1.58,YES
+Enterobacter cloacae,2007,Levofloxacin,Fluoroquinolones,72,370,15,457,15.75,YES
+Enterobacter cloacae,2007,Amikacin,Aminoglycosides,24,424,9,457,5.25,YES
+Enterobacter cloacae,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2007,Piperacillin tazobactam,Penicillins,125,315,17,457,27.35,YES
+Enterobacter cloacae,2007,Tigecycline,Tetracyclines,3,443,11,457,0.66,YES
+Enterobacter cloacae,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2008,Ceftriaxone,Cephalosporins,160,242,13,415,38.55,YES
+Enterobacter cloacae,2008,Meropenem,Carbapenems,20,392,3,415,4.82,YES
+Enterobacter cloacae,2008,Levofloxacin,Fluoroquinolones,61,339,15,415,14.7,YES
+Enterobacter cloacae,2008,Amikacin,Aminoglycosides,33,365,17,415,7.95,YES
+Enterobacter cloacae,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2008,Piperacillin tazobactam,Penicillins,113,280,22,415,27.23,YES
+Enterobacter cloacae,2008,Tigecycline,Tetracyclines,1,404,10,415,0.24,YES
+Enterobacter cloacae,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2009,Ceftriaxone,Cephalosporins,201,267,9,477,42.14,YES
+Enterobacter cloacae,2009,Meropenem,Carbapenems,11,462,4,477,2.31,YES
+Enterobacter cloacae,2009,Levofloxacin,Fluoroquinolones,81,379,17,477,16.98,YES
+Enterobacter cloacae,2009,Amikacin,Aminoglycosides,39,421,17,477,8.18,YES
+Enterobacter cloacae,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2009,Piperacillin tazobactam,Penicillins,147,307,23,477,30.82,YES
+Enterobacter cloacae,2009,Tigecycline,Tetracyclines,1,456,20,477,0.21,YES
+Enterobacter cloacae,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2010,Ceftriaxone,Cephalosporins,148,194,11,353,41.93,YES
+Enterobacter cloacae,2010,Meropenem,Carbapenems,1,349,3,353,0.28,YES
+Enterobacter cloacae,2010,Levofloxacin,Fluoroquinolones,58,278,17,353,16.43,YES
+Enterobacter cloacae,2010,Amikacin,Aminoglycosides,15,316,22,353,4.25,YES
+Enterobacter cloacae,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2010,Piperacillin tazobactam,Penicillins,105,230,18,353,29.75,YES
+Enterobacter cloacae,2010,Tigecycline,Tetracyclines,0,342,11,353,0.0,YES
+Enterobacter cloacae,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2011,Ceftriaxone,Cephalosporins,96,168,11,275,34.91,YES
+Enterobacter cloacae,2011,Meropenem,Carbapenems,11,264,0,275,4.0,YES
+Enterobacter cloacae,2011,Levofloxacin,Fluoroquinolones,45,215,15,275,16.36,YES
+Enterobacter cloacae,2011,Amikacin,Aminoglycosides,9,252,14,275,3.27,YES
+Enterobacter cloacae,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2011,Piperacillin tazobactam,Penicillins,60,200,15,275,21.82,YES
+Enterobacter cloacae,2011,Tigecycline,Tetracyclines,4,260,11,275,1.45,YES
+Enterobacter cloacae,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2012,Ceftriaxone,Cephalosporins,79,130,3,212,37.26,YES
+Enterobacter cloacae,2012,Meropenem,Carbapenems,0,212,0,212,0.0,YES
+Enterobacter cloacae,2012,Levofloxacin,Fluoroquinolones,37,170,5,212,17.45,YES
+Enterobacter cloacae,2012,Amikacin,Aminoglycosides,3,201,8,212,1.42,YES
+Enterobacter cloacae,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2012,Piperacillin tazobactam,Penicillins,48,159,5,212,22.64,YES
+Enterobacter cloacae,2012,Tigecycline,Tetracyclines,1,206,5,212,0.47,YES
+Enterobacter cloacae,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2013,Ceftriaxone,Cephalosporins,91,164,7,262,34.73,YES
+Enterobacter cloacae,2013,Meropenem,Carbapenems,4,257,1,262,1.53,YES
+Enterobacter cloacae,2013,Levofloxacin,Fluoroquinolones,26,229,7,262,9.92,YES
+Enterobacter cloacae,2013,Amikacin,Aminoglycosides,4,255,3,262,1.53,YES
+Enterobacter cloacae,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Enterobacter cloacae,2013,Piperacillin tazobactam,Penicillins,56,189,17,262,21.37,YES
+Enterobacter cloacae,2013,Tigecycline,Tetracyclines,3,251,8,262,1.15,YES
+Enterobacter cloacae,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2014,Ceftriaxone,Cephalosporins,70,128,5,203,34.48,YES
+Enterobacter cloacae,2014,Meropenem,Carbapenems,4,254,1,259,1.54,YES
+Enterobacter cloacae,2014,Levofloxacin,Fluoroquinolones,39,211,9,259,15.06,YES
+Enterobacter cloacae,2014,Amikacin,Aminoglycosides,6,245,8,259,2.32,YES
+Enterobacter cloacae,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2014,Colistin,Polymyxins,3,0,53,56,5.36,YES
+Enterobacter cloacae,2014,Piperacillin tazobactam,Penicillins,57,186,16,259,22.01,YES
+Enterobacter cloacae,2014,Tigecycline,Tetracyclines,0,252,7,259,0.0,YES
+Enterobacter cloacae,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2015,Ceftriaxone,Cephalosporins,77,147,2,226,34.07,YES
+Enterobacter cloacae,2015,Meropenem,Carbapenems,7,263,2,272,2.57,YES
+Enterobacter cloacae,2015,Levofloxacin,Fluoroquinolones,27,233,12,272,9.93,YES
+Enterobacter cloacae,2015,Amikacin,Aminoglycosides,8,258,6,272,2.94,YES
+Enterobacter cloacae,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2015,Colistin,Polymyxins,2,0,46,48,4.17,YES
+Enterobacter cloacae,2015,Piperacillin tazobactam,Penicillins,58,204,10,272,21.32,YES
+Enterobacter cloacae,2015,Tigecycline,Tetracyclines,1,260,11,272,0.37,YES
+Enterobacter cloacae,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2016,Ceftriaxone,Cephalosporins,118,167,5,290,40.69,YES
+Enterobacter cloacae,2016,Meropenem,Carbapenems,7,278,5,290,2.41,YES
+Enterobacter cloacae,2016,Levofloxacin,Fluoroquinolones,35,245,10,290,12.07,YES
+Enterobacter cloacae,2016,Amikacin,Aminoglycosides,12,273,5,290,4.14,YES
+Enterobacter cloacae,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2016,Colistin,Polymyxins,2,0,63,65,3.08,YES
+Enterobacter cloacae,2016,Piperacillin tazobactam,Penicillins,72,211,7,290,24.83,YES
+Enterobacter cloacae,2016,Tigecycline,Tetracyclines,2,280,8,290,0.69,YES
+Enterobacter cloacae,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2017,Ceftriaxone,Cephalosporins,89,131,2,222,40.09,YES
+Enterobacter cloacae,2017,Meropenem,Carbapenems,8,212,2,222,3.6,YES
+Enterobacter cloacae,2017,Levofloxacin,Fluoroquinolones,31,181,10,222,13.96,YES
+Enterobacter cloacae,2017,Amikacin,Aminoglycosides,12,201,9,222,5.41,YES
+Enterobacter cloacae,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2017,Colistin,Polymyxins,5,0,54,59,8.47,YES
+Enterobacter cloacae,2017,Piperacillin tazobactam,Penicillins,59,156,7,222,26.58,YES
+Enterobacter cloacae,2017,Tigecycline,Tetracyclines,2,217,3,222,0.9,YES
+Enterobacter cloacae,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterobacter cloacae,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterobacter cloacae,2018,Meropenem,Carbapenems,19,298,3,320,5.94,YES
+Enterobacter cloacae,2018,Levofloxacin,Fluoroquinolones,40,261,19,320,12.5,YES
+Enterobacter cloacae,2018,Amikacin,Aminoglycosides,13,296,11,320,4.06,YES
+Enterobacter cloacae,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2018,Colistin,Polymyxins,34,0,286,320,10.62,YES
+Enterobacter cloacae,2018,Piperacillin tazobactam,Penicillins,86,216,18,320,26.88,YES
+Enterobacter cloacae,2018,Tigecycline,Tetracyclines,1,315,4,320,0.31,YES
+Enterobacter cloacae,2018,Trimethoprim sulfa,Trimethoprim,81,239,0,320,25.31,YES
+Enterobacter cloacae,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterobacter cloacae,2019,Meropenem,Carbapenems,9,207,2,218,4.13,YES
+Enterobacter cloacae,2019,Levofloxacin,Fluoroquinolones,30,180,8,218,13.76,YES
+Enterobacter cloacae,2019,Amikacin,Aminoglycosides,8,206,4,218,3.67,YES
+Enterobacter cloacae,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2019,Colistin,Polymyxins,18,0,200,218,8.26,YES
+Enterobacter cloacae,2019,Piperacillin tazobactam,Penicillins,56,145,17,218,25.69,YES
+Enterobacter cloacae,2019,Tigecycline,Tetracyclines,0,214,4,218,0.0,YES
+Enterobacter cloacae,2019,Trimethoprim sulfa,Trimethoprim,53,165,0,218,24.31,YES
+Enterobacter cloacae,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterobacter cloacae,2020,Meropenem,Carbapenems,8,174,0,182,4.4,YES
+Enterobacter cloacae,2020,Levofloxacin,Fluoroquinolones,16,158,8,182,8.79,YES
+Enterobacter cloacae,2020,Amikacin,Aminoglycosides,6,174,2,182,3.3,YES
+Enterobacter cloacae,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2020,Colistin,Polymyxins,20,0,162,182,10.99,YES
+Enterobacter cloacae,2020,Piperacillin tazobactam,Penicillins,49,126,7,182,26.92,YES
+Enterobacter cloacae,2020,Tigecycline,Tetracyclines,0,178,4,182,0.0,YES
+Enterobacter cloacae,2020,Trimethoprim sulfa,Trimethoprim,32,150,0,182,17.58,YES
+Enterobacter cloacae,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterobacter cloacae,2021,Meropenem,Carbapenems,3,117,0,120,2.5,YES
+Enterobacter cloacae,2021,Levofloxacin,Fluoroquinolones,10,105,5,120,8.33,YES
+Enterobacter cloacae,2021,Amikacin,Aminoglycosides,4,114,2,120,3.33,YES
+Enterobacter cloacae,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2021,Colistin,Polymyxins,17,0,103,120,14.17,YES
+Enterobacter cloacae,2021,Piperacillin tazobactam,Penicillins,23,92,5,120,19.17,YES
+Enterobacter cloacae,2021,Tigecycline,Tetracyclines,0,119,1,120,0.0,YES
+Enterobacter cloacae,2021,Trimethoprim sulfa,Trimethoprim,22,98,0,120,18.33,YES
+Enterobacter cloacae,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterobacter cloacae,2022,Meropenem,Carbapenems,0,57,1,58,0.0,YES
+Enterobacter cloacae,2022,Levofloxacin,Fluoroquinolones,6,50,2,58,10.34,YES
+Enterobacter cloacae,2022,Amikacin,Aminoglycosides,2,56,0,58,3.45,YES
+Enterobacter cloacae,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2022,Colistin,Polymyxins,11,0,47,58,18.97,YES
+Enterobacter cloacae,2022,Piperacillin tazobactam,Penicillins,12,45,1,58,20.69,YES
+Enterobacter cloacae,2022,Tigecycline,Tetracyclines,1,53,4,58,1.72,YES
+Enterobacter cloacae,2022,Trimethoprim sulfa,Trimethoprim,12,46,0,58,20.69,YES
+Enterobacter cloacae,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterobacter cloacae,2023,Meropenem,Carbapenems,1,15,0,16,6.25,YES
+Enterobacter cloacae,2023,Levofloxacin,Fluoroquinolones,0,15,1,16,0.0,YES
+Enterobacter cloacae,2023,Amikacin,Aminoglycosides,1,15,0,16,6.25,YES
+Enterobacter cloacae,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2023,Colistin,Polymyxins,13,0,3,16,81.25,YES
+Enterobacter cloacae,2023,Piperacillin tazobactam,Penicillins,5,11,0,16,31.25,YES
+Enterobacter cloacae,2023,Tigecycline,Tetracyclines,0,16,0,16,0.0,YES
+Enterobacter cloacae,2023,Trimethoprim sulfa,Trimethoprim,2,14,0,16,12.5,YES
+Enterobacter cloacae,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterobacter cloacae,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterobacter cloacae,2024,Meropenem,Carbapenems,3,25,0,28,10.71,YES
+Enterobacter cloacae,2024,Levofloxacin,Fluoroquinolones,3,24,1,28,10.71,YES
+Enterobacter cloacae,2024,Amikacin,Aminoglycosides,2,26,0,28,7.14,YES
+Enterobacter cloacae,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Enterobacter cloacae,2024,Colistin,Polymyxins,19,0,9,28,67.86,YES
+Enterobacter cloacae,2024,Piperacillin tazobactam,Penicillins,4,23,1,28,14.29,YES
+Enterobacter cloacae,2024,Tigecycline,Tetracyclines,0,28,0,28,0.0,YES
+Enterobacter cloacae,2024,Trimethoprim sulfa,Trimethoprim,6,22,0,28,21.43,YES
+Enterobacter cloacae,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Enterococcus faecium,2004,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2004,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2004,Levofloxacin,Fluoroquinolones,75,11,2,88,85.23,YES
+Enterococcus faecium,2004,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2004,Vancomycin,Glycopeptides,51,36,1,88,57.95,YES
+Enterococcus faecium,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2004,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2004,Tigecycline,Tetracyclines,0,88,0,88,0.0,YES
+Enterococcus faecium,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2004,Linezolid,Oxazolidinones,1,87,0,88,1.14,YES
+Enterococcus faecium,2005,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2005,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2005,Levofloxacin,Fluoroquinolones,79,15,0,94,84.04,YES
+Enterococcus faecium,2005,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2005,Vancomycin,Glycopeptides,45,49,0,94,47.87,YES
+Enterococcus faecium,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2005,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2005,Tigecycline,Tetracyclines,0,94,0,94,0.0,YES
+Enterococcus faecium,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2005,Linezolid,Oxazolidinones,0,94,0,94,0.0,YES
+Enterococcus faecium,2006,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2006,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2006,Levofloxacin,Fluoroquinolones,123,20,3,146,84.25,YES
+Enterococcus faecium,2006,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2006,Vancomycin,Glycopeptides,47,96,3,146,32.19,YES
+Enterococcus faecium,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2006,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2006,Tigecycline,Tetracyclines,0,146,0,146,0.0,YES
+Enterococcus faecium,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2006,Linezolid,Oxazolidinones,0,145,1,146,0.0,YES
+Enterococcus faecium,2007,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2007,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2007,Levofloxacin,Fluoroquinolones,102,27,2,131,77.86,YES
+Enterococcus faecium,2007,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2007,Vancomycin,Glycopeptides,39,88,4,131,29.77,YES
+Enterococcus faecium,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2007,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2007,Tigecycline,Tetracyclines,0,131,0,131,0.0,YES
+Enterococcus faecium,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2007,Linezolid,Oxazolidinones,1,129,1,131,0.76,YES
+Enterococcus faecium,2008,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2008,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2008,Levofloxacin,Fluoroquinolones,146,26,5,177,82.49,YES
+Enterococcus faecium,2008,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2008,Vancomycin,Glycopeptides,53,122,2,177,29.94,YES
+Enterococcus faecium,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2008,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2008,Tigecycline,Tetracyclines,0,176,1,177,0.0,YES
+Enterococcus faecium,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2008,Linezolid,Oxazolidinones,1,176,0,177,0.56,YES
+Enterococcus faecium,2009,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2009,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2009,Levofloxacin,Fluoroquinolones,187,14,7,208,89.9,YES
+Enterococcus faecium,2009,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2009,Vancomycin,Glycopeptides,58,148,2,208,27.88,YES
+Enterococcus faecium,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2009,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2009,Tigecycline,Tetracyclines,0,207,1,208,0.0,YES
+Enterococcus faecium,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2009,Linezolid,Oxazolidinones,0,204,4,208,0.0,YES
+Enterococcus faecium,2010,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2010,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2010,Levofloxacin,Fluoroquinolones,135,19,5,159,84.91,YES
+Enterococcus faecium,2010,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2010,Vancomycin,Glycopeptides,38,118,3,159,23.9,YES
+Enterococcus faecium,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2010,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2010,Tigecycline,Tetracyclines,0,158,1,159,0.0,YES
+Enterococcus faecium,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2010,Linezolid,Oxazolidinones,0,159,0,159,0.0,YES
+Enterococcus faecium,2011,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2011,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2011,Levofloxacin,Fluoroquinolones,97,16,4,117,82.91,YES
+Enterococcus faecium,2011,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2011,Vancomycin,Glycopeptides,27,87,3,117,23.08,YES
+Enterococcus faecium,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2011,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2011,Tigecycline,Tetracyclines,0,117,0,117,0.0,YES
+Enterococcus faecium,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2011,Linezolid,Oxazolidinones,0,116,1,117,0.0,YES
+Enterococcus faecium,2012,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2012,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2012,Levofloxacin,Fluoroquinolones,97,11,4,112,86.61,YES
+Enterococcus faecium,2012,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2012,Vancomycin,Glycopeptides,36,75,1,112,32.14,YES
+Enterococcus faecium,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2012,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2012,Tigecycline,Tetracyclines,0,111,1,112,0.0,YES
+Enterococcus faecium,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2012,Linezolid,Oxazolidinones,0,112,0,112,0.0,YES
+Enterococcus faecium,2013,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2013,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2013,Levofloxacin,Fluoroquinolones,111,18,3,132,84.09,YES
+Enterococcus faecium,2013,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2013,Vancomycin,Glycopeptides,30,100,2,132,22.73,YES
+Enterococcus faecium,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2013,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2013,Tigecycline,Tetracyclines,0,132,0,132,0.0,YES
+Enterococcus faecium,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2013,Linezolid,Oxazolidinones,1,130,1,132,0.76,YES
+Enterococcus faecium,2014,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2014,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2014,Levofloxacin,Fluoroquinolones,196,32,5,233,84.12,YES
+Enterococcus faecium,2014,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2014,Vancomycin,Glycopeptides,48,182,3,233,20.6,YES
+Enterococcus faecium,2014,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2014,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2014,Tigecycline,Tetracyclines,0,232,1,233,0.0,YES
+Enterococcus faecium,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2014,Linezolid,Oxazolidinones,0,230,3,233,0.0,YES
+Enterococcus faecium,2015,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2015,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2015,Levofloxacin,Fluoroquinolones,113,12,4,129,87.6,YES
+Enterococcus faecium,2015,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2015,Vancomycin,Glycopeptides,25,103,1,129,19.38,YES
+Enterococcus faecium,2015,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2015,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2015,Tigecycline,Tetracyclines,0,129,0,129,0.0,YES
+Enterococcus faecium,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2015,Linezolid,Oxazolidinones,0,129,0,129,0.0,YES
+Enterococcus faecium,2016,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2016,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2016,Levofloxacin,Fluoroquinolones,110,24,7,141,78.01,YES
+Enterococcus faecium,2016,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2016,Vancomycin,Glycopeptides,31,109,1,141,21.99,YES
+Enterococcus faecium,2016,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2016,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2016,Tigecycline,Tetracyclines,0,141,0,141,0.0,YES
+Enterococcus faecium,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2016,Linezolid,Oxazolidinones,0,140,1,141,0.0,YES
+Enterococcus faecium,2017,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2017,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2017,Levofloxacin,Fluoroquinolones,87,11,2,100,87.0,YES
+Enterococcus faecium,2017,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2017,Vancomycin,Glycopeptides,24,75,1,100,24.0,YES
+Enterococcus faecium,2017,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2017,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2017,Tigecycline,Tetracyclines,0,99,1,100,0.0,YES
+Enterococcus faecium,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2017,Linezolid,Oxazolidinones,1,99,0,100,1.0,YES
+Enterococcus faecium,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2018,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2018,Levofloxacin,Fluoroquinolones,154,20,6,180,85.56,YES
+Enterococcus faecium,2018,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2018,Vancomycin,Glycopeptides,46,132,2,180,25.56,YES
+Enterococcus faecium,2018,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2018,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2018,Tigecycline,Tetracyclines,0,179,1,180,0.0,YES
+Enterococcus faecium,2018,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2018,Linezolid,Oxazolidinones,0,178,2,180,0.0,YES
+Enterococcus faecium,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2019,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2019,Levofloxacin,Fluoroquinolones,193,27,5,225,85.78,YES
+Enterococcus faecium,2019,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2019,Vancomycin,Glycopeptides,60,164,1,225,26.67,YES
+Enterococcus faecium,2019,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2019,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2019,Tigecycline,Tetracyclines,0,222,3,225,0.0,YES
+Enterococcus faecium,2019,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2019,Linezolid,Oxazolidinones,1,222,2,225,0.44,YES
+Enterococcus faecium,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2020,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2020,Levofloxacin,Fluoroquinolones,179,28,4,211,84.83,YES
+Enterococcus faecium,2020,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2020,Vancomycin,Glycopeptides,62,147,2,211,29.38,YES
+Enterococcus faecium,2020,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2020,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2020,Tigecycline,Tetracyclines,0,208,3,211,0.0,YES
+Enterococcus faecium,2020,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2020,Linezolid,Oxazolidinones,0,204,7,211,0.0,YES
+Enterococcus faecium,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2021,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2021,Levofloxacin,Fluoroquinolones,225,34,9,268,83.96,YES
+Enterococcus faecium,2021,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2021,Vancomycin,Glycopeptides,66,201,2,269,24.54,YES
+Enterococcus faecium,2021,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2021,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2021,Tigecycline,Tetracyclines,0,268,1,269,0.0,YES
+Enterococcus faecium,2021,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2021,Linezolid,Oxazolidinones,2,265,2,269,0.74,YES
+Enterococcus faecium,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2022,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2022,Levofloxacin,Fluoroquinolones,235,39,11,285,82.46,YES
+Enterococcus faecium,2022,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2022,Vancomycin,Glycopeptides,63,222,0,285,22.11,YES
+Enterococcus faecium,2022,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2022,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2022,Tigecycline,Tetracyclines,0,275,10,285,0.0,YES
+Enterococcus faecium,2022,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2022,Linezolid,Oxazolidinones,3,281,1,285,1.05,YES
+Enterococcus faecium,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2023,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2023,Levofloxacin,Fluoroquinolones,185,28,2,215,86.05,YES
+Enterococcus faecium,2023,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2023,Vancomycin,Glycopeptides,48,167,0,215,22.33,YES
+Enterococcus faecium,2023,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2023,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2023,Tigecycline,Tetracyclines,0,213,2,215,0.0,YES
+Enterococcus faecium,2023,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2023,Linezolid,Oxazolidinones,1,213,1,215,0.47,YES
+Enterococcus faecium,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Enterococcus faecium,2024,Meropenem,Carbapenems,0,0,0,0,,NO
+Enterococcus faecium,2024,Levofloxacin,Fluoroquinolones,209,30,7,246,84.96,YES
+Enterococcus faecium,2024,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Enterococcus faecium,2024,Vancomycin,Glycopeptides,55,191,0,246,22.36,YES
+Enterococcus faecium,2024,Colistin,Polymyxins,0,0,0,0,,NO
+Enterococcus faecium,2024,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Enterococcus faecium,2024,Tigecycline,Tetracyclines,0,232,14,246,0.0,YES
+Enterococcus faecium,2024,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Enterococcus faecium,2024,Linezolid,Oxazolidinones,0,238,8,246,0.0,YES
+Staphylococcus epidermidis,2004,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Staphylococcus epidermidis,2010,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2010,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2010,Levofloxacin,Fluoroquinolones,1,0,0,1,,NO
+Staphylococcus epidermidis,2010,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2010,Vancomycin,Glycopeptides,0,1,0,1,,NO
+Staphylococcus epidermidis,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2010,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2010,Tigecycline,Tetracyclines,0,1,0,1,,NO
+Staphylococcus epidermidis,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2010,Linezolid,Oxazolidinones,0,1,0,1,,NO
+Staphylococcus epidermidis,2011,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2011,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2011,Levofloxacin,Fluoroquinolones,1,1,0,2,,NO
+Staphylococcus epidermidis,2011,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2011,Vancomycin,Glycopeptides,0,2,0,2,,NO
+Staphylococcus epidermidis,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2011,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2011,Tigecycline,Tetracyclines,0,2,0,2,,NO
+Staphylococcus epidermidis,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2011,Linezolid,Oxazolidinones,0,2,0,2,,NO
+Staphylococcus epidermidis,2012,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2012,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2012,Levofloxacin,Fluoroquinolones,50,25,3,78,64.1,YES
+Staphylococcus epidermidis,2012,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2012,Vancomycin,Glycopeptides,0,78,0,78,0.0,YES
+Staphylococcus epidermidis,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2012,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2012,Tigecycline,Tetracyclines,0,78,0,78,0.0,YES
+Staphylococcus epidermidis,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2012,Linezolid,Oxazolidinones,0,78,0,78,0.0,YES
+Staphylococcus epidermidis,2013,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2013,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2013,Levofloxacin,Fluoroquinolones,65,40,7,112,58.04,YES
+Staphylococcus epidermidis,2013,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2013,Vancomycin,Glycopeptides,0,112,0,112,0.0,YES
+Staphylococcus epidermidis,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2013,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2013,Tigecycline,Tetracyclines,0,112,0,112,0.0,YES
+Staphylococcus epidermidis,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Staphylococcus epidermidis,2013,Linezolid,Oxazolidinones,0,112,0,112,0.0,YES
+Staphylococcus epidermidis,2014,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2014,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2014,Levofloxacin,Fluoroquinolones,196,117,11,324,60.49,YES
+Staphylococcus epidermidis,2014,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2014,Vancomycin,Glycopeptides,0,322,2,324,0.0,YES
+Staphylococcus epidermidis,2014,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2014,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2014,Tigecycline,Tetracyclines,0,323,1,324,0.0,YES
+Staphylococcus epidermidis,2014,Trimethoprim sulfa,Trimethoprim,97,128,0,225,43.11,YES
+Staphylococcus epidermidis,2014,Linezolid,Oxazolidinones,2,322,0,324,0.62,YES
+Staphylococcus epidermidis,2015,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2015,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2015,Levofloxacin,Fluoroquinolones,245,138,15,398,61.56,YES
+Staphylococcus epidermidis,2015,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2015,Vancomycin,Glycopeptides,0,398,0,398,0.0,YES
+Staphylococcus epidermidis,2015,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2015,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2015,Tigecycline,Tetracyclines,0,395,3,398,0.0,YES
+Staphylococcus epidermidis,2015,Trimethoprim sulfa,Trimethoprim,97,121,0,218,44.5,YES
+Staphylococcus epidermidis,2015,Linezolid,Oxazolidinones,7,391,0,398,1.76,YES
+Staphylococcus epidermidis,2016,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2016,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2016,Levofloxacin,Fluoroquinolones,173,119,14,306,56.54,YES
+Staphylococcus epidermidis,2016,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2016,Vancomycin,Glycopeptides,0,306,0,306,0.0,YES
+Staphylococcus epidermidis,2016,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2016,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2016,Tigecycline,Tetracyclines,0,306,0,306,0.0,YES
+Staphylococcus epidermidis,2016,Trimethoprim sulfa,Trimethoprim,94,131,0,225,41.78,YES
+Staphylococcus epidermidis,2016,Linezolid,Oxazolidinones,1,305,0,306,0.33,YES
+Staphylococcus epidermidis,2017,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2017,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2017,Levofloxacin,Fluoroquinolones,199,97,13,309,64.4,YES
+Staphylococcus epidermidis,2017,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2017,Vancomycin,Glycopeptides,0,309,0,309,0.0,YES
+Staphylococcus epidermidis,2017,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2017,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2017,Tigecycline,Tetracyclines,0,308,1,309,0.0,YES
+Staphylococcus epidermidis,2017,Trimethoprim sulfa,Trimethoprim,133,114,0,247,53.85,YES
+Staphylococcus epidermidis,2017,Linezolid,Oxazolidinones,6,303,0,309,1.94,YES
+Staphylococcus epidermidis,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2018,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2018,Levofloxacin,Fluoroquinolones,215,166,4,385,55.84,YES
+Staphylococcus epidermidis,2018,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2018,Vancomycin,Glycopeptides,0,385,0,385,0.0,YES
+Staphylococcus epidermidis,2018,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2018,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2018,Tigecycline,Tetracyclines,0,383,2,385,0.0,YES
+Staphylococcus epidermidis,2018,Trimethoprim sulfa,Trimethoprim,165,220,0,385,42.86,YES
+Staphylococcus epidermidis,2018,Linezolid,Oxazolidinones,4,381,0,385,1.04,YES
+Staphylococcus epidermidis,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2019,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2019,Levofloxacin,Fluoroquinolones,186,168,7,361,51.52,YES
+Staphylococcus epidermidis,2019,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2019,Vancomycin,Glycopeptides,0,361,0,361,0.0,YES
+Staphylococcus epidermidis,2019,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2019,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2019,Tigecycline,Tetracyclines,0,358,3,361,0.0,YES
+Staphylococcus epidermidis,2019,Trimethoprim sulfa,Trimethoprim,136,225,0,361,37.67,YES
+Staphylococcus epidermidis,2019,Linezolid,Oxazolidinones,12,349,0,361,3.32,YES
+Staphylococcus epidermidis,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2020,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2020,Levofloxacin,Fluoroquinolones,237,192,15,444,53.38,YES
+Staphylococcus epidermidis,2020,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2020,Vancomycin,Glycopeptides,1,443,0,444,0.23,YES
+Staphylococcus epidermidis,2020,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2020,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2020,Tigecycline,Tetracyclines,0,441,3,444,0.0,YES
+Staphylococcus epidermidis,2020,Trimethoprim sulfa,Trimethoprim,184,260,0,444,41.44,YES
+Staphylococcus epidermidis,2020,Linezolid,Oxazolidinones,6,438,0,444,1.35,YES
+Staphylococcus epidermidis,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2021,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2021,Levofloxacin,Fluoroquinolones,272,166,7,445,61.12,YES
+Staphylococcus epidermidis,2021,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2021,Vancomycin,Glycopeptides,0,445,0,445,0.0,YES
+Staphylococcus epidermidis,2021,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2021,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2021,Tigecycline,Tetracyclines,0,439,6,445,0.0,YES
+Staphylococcus epidermidis,2021,Trimethoprim sulfa,Trimethoprim,178,267,0,445,40.0,YES
+Staphylococcus epidermidis,2021,Linezolid,Oxazolidinones,10,435,0,445,2.25,YES
+Staphylococcus epidermidis,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2022,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2022,Levofloxacin,Fluoroquinolones,164,136,7,307,53.42,YES
+Staphylococcus epidermidis,2022,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2022,Vancomycin,Glycopeptides,0,307,0,307,0.0,YES
+Staphylococcus epidermidis,2022,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2022,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2022,Tigecycline,Tetracyclines,0,306,1,307,0.0,YES
+Staphylococcus epidermidis,2022,Trimethoprim sulfa,Trimethoprim,106,201,0,307,34.53,YES
+Staphylococcus epidermidis,2022,Linezolid,Oxazolidinones,2,305,0,307,0.65,YES
+Staphylococcus epidermidis,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2023,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2023,Levofloxacin,Fluoroquinolones,159,123,4,286,55.59,YES
+Staphylococcus epidermidis,2023,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2023,Vancomycin,Glycopeptides,0,286,0,286,0.0,YES
+Staphylococcus epidermidis,2023,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2023,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2023,Tigecycline,Tetracyclines,0,286,0,286,0.0,YES
+Staphylococcus epidermidis,2023,Trimethoprim sulfa,Trimethoprim,96,190,0,286,33.57,YES
+Staphylococcus epidermidis,2023,Linezolid,Oxazolidinones,4,282,0,286,1.4,YES
+Staphylococcus epidermidis,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Staphylococcus epidermidis,2024,Meropenem,Carbapenems,0,0,0,0,,NO
+Staphylococcus epidermidis,2024,Levofloxacin,Fluoroquinolones,198,163,11,372,53.23,YES
+Staphylococcus epidermidis,2024,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Staphylococcus epidermidis,2024,Vancomycin,Glycopeptides,0,372,0,372,0.0,YES
+Staphylococcus epidermidis,2024,Colistin,Polymyxins,0,0,0,0,,NO
+Staphylococcus epidermidis,2024,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Staphylococcus epidermidis,2024,Tigecycline,Tetracyclines,0,366,6,372,0.0,YES
+Staphylococcus epidermidis,2024,Trimethoprim sulfa,Trimethoprim,138,234,0,372,37.1,YES
+Staphylococcus epidermidis,2024,Linezolid,Oxazolidinones,6,366,0,372,1.61,YES
+Serratia marcescens,2004,Ceftriaxone,Cephalosporins,22,95,5,122,18.03,YES
+Serratia marcescens,2004,Meropenem,Carbapenems,0,5,0,5,,NO
+Serratia marcescens,2004,Levofloxacin,Fluoroquinolones,11,104,7,122,9.02,YES
+Serratia marcescens,2004,Amikacin,Aminoglycosides,4,112,6,122,3.28,YES
+Serratia marcescens,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2004,Piperacillin tazobactam,Penicillins,9,112,1,122,7.38,YES
+Serratia marcescens,2004,Tigecycline,Tetracyclines,1,115,6,122,0.82,YES
+Serratia marcescens,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2005,Ceftriaxone,Cephalosporins,32,87,7,126,25.4,YES
+Serratia marcescens,2005,Meropenem,Carbapenems,0,3,1,4,,NO
+Serratia marcescens,2005,Levofloxacin,Fluoroquinolones,15,101,10,126,11.9,YES
+Serratia marcescens,2005,Amikacin,Aminoglycosides,10,107,9,126,7.94,YES
+Serratia marcescens,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2005,Piperacillin tazobactam,Penicillins,15,107,4,126,11.9,YES
+Serratia marcescens,2005,Tigecycline,Tetracyclines,1,118,7,126,0.79,YES
+Serratia marcescens,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2006,Ceftriaxone,Cephalosporins,38,110,8,156,24.36,YES
+Serratia marcescens,2006,Meropenem,Carbapenems,3,62,0,65,4.62,YES
+Serratia marcescens,2006,Levofloxacin,Fluoroquinolones,24,122,10,156,15.38,YES
+Serratia marcescens,2006,Amikacin,Aminoglycosides,14,132,10,156,8.97,YES
+Serratia marcescens,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2006,Piperacillin tazobactam,Penicillins,24,126,6,156,15.38,YES
+Serratia marcescens,2006,Tigecycline,Tetracyclines,2,150,4,156,1.28,YES
+Serratia marcescens,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2007,Ceftriaxone,Cephalosporins,49,167,5,221,22.17,YES
+Serratia marcescens,2007,Meropenem,Carbapenems,6,207,2,215,2.79,YES
+Serratia marcescens,2007,Levofloxacin,Fluoroquinolones,24,187,10,221,10.86,YES
+Serratia marcescens,2007,Amikacin,Aminoglycosides,20,190,11,221,9.05,YES
+Serratia marcescens,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2007,Piperacillin tazobactam,Penicillins,20,197,4,221,9.05,YES
+Serratia marcescens,2007,Tigecycline,Tetracyclines,1,216,4,221,0.45,YES
+Serratia marcescens,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2008,Ceftriaxone,Cephalosporins,48,173,9,230,20.87,YES
+Serratia marcescens,2008,Meropenem,Carbapenems,9,220,1,230,3.91,YES
+Serratia marcescens,2008,Levofloxacin,Fluoroquinolones,28,190,12,230,12.17,YES
+Serratia marcescens,2008,Amikacin,Aminoglycosides,32,189,9,230,13.91,YES
+Serratia marcescens,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2008,Piperacillin tazobactam,Penicillins,29,196,5,230,12.61,YES
+Serratia marcescens,2008,Tigecycline,Tetracyclines,4,219,7,230,1.74,YES
+Serratia marcescens,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2009,Ceftriaxone,Cephalosporins,44,173,9,226,19.47,YES
+Serratia marcescens,2009,Meropenem,Carbapenems,6,220,0,226,2.65,YES
+Serratia marcescens,2009,Levofloxacin,Fluoroquinolones,30,184,12,226,13.27,YES
+Serratia marcescens,2009,Amikacin,Aminoglycosides,12,204,10,226,5.31,YES
+Serratia marcescens,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2009,Piperacillin tazobactam,Penicillins,24,188,14,226,10.62,YES
+Serratia marcescens,2009,Tigecycline,Tetracyclines,8,212,6,226,3.54,YES
+Serratia marcescens,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2010,Ceftriaxone,Cephalosporins,37,135,6,178,20.79,YES
+Serratia marcescens,2010,Meropenem,Carbapenems,5,172,1,178,2.81,YES
+Serratia marcescens,2010,Levofloxacin,Fluoroquinolones,28,140,10,178,15.73,YES
+Serratia marcescens,2010,Amikacin,Aminoglycosides,8,159,11,178,4.49,YES
+Serratia marcescens,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2010,Piperacillin tazobactam,Penicillins,14,159,5,178,7.87,YES
+Serratia marcescens,2010,Tigecycline,Tetracyclines,4,170,4,178,2.25,YES
+Serratia marcescens,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2011,Ceftriaxone,Cephalosporins,17,118,7,142,11.97,YES
+Serratia marcescens,2011,Meropenem,Carbapenems,2,139,1,142,1.41,YES
+Serratia marcescens,2011,Levofloxacin,Fluoroquinolones,11,129,2,142,7.75,YES
+Serratia marcescens,2011,Amikacin,Aminoglycosides,4,135,3,142,2.82,YES
+Serratia marcescens,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2011,Piperacillin tazobactam,Penicillins,10,126,6,142,7.04,YES
+Serratia marcescens,2011,Tigecycline,Tetracyclines,0,141,1,142,0.0,YES
+Serratia marcescens,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2012,Ceftriaxone,Cephalosporins,15,97,6,118,12.71,YES
+Serratia marcescens,2012,Meropenem,Carbapenems,1,117,0,118,0.85,YES
+Serratia marcescens,2012,Levofloxacin,Fluoroquinolones,7,105,6,118,5.93,YES
+Serratia marcescens,2012,Amikacin,Aminoglycosides,3,108,7,118,2.54,YES
+Serratia marcescens,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2012,Piperacillin tazobactam,Penicillins,7,109,2,118,5.93,YES
+Serratia marcescens,2012,Tigecycline,Tetracyclines,1,114,3,118,0.85,YES
+Serratia marcescens,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2013,Ceftriaxone,Cephalosporins,13,107,4,124,10.48,YES
+Serratia marcescens,2013,Meropenem,Carbapenems,1,123,0,124,0.81,YES
+Serratia marcescens,2013,Levofloxacin,Fluoroquinolones,7,112,5,124,5.65,YES
+Serratia marcescens,2013,Amikacin,Aminoglycosides,3,114,7,124,2.42,YES
+Serratia marcescens,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Serratia marcescens,2013,Piperacillin tazobactam,Penicillins,8,116,0,124,6.45,YES
+Serratia marcescens,2013,Tigecycline,Tetracyclines,0,121,3,124,0.0,YES
+Serratia marcescens,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2014,Ceftriaxone,Cephalosporins,12,119,6,137,8.76,YES
+Serratia marcescens,2014,Meropenem,Carbapenems,1,150,0,151,0.66,YES
+Serratia marcescens,2014,Levofloxacin,Fluoroquinolones,8,133,10,151,5.3,YES
+Serratia marcescens,2014,Amikacin,Aminoglycosides,4,139,8,151,2.65,YES
+Serratia marcescens,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2014,Colistin,Polymyxins,14,0,0,14,100.0,YES
+Serratia marcescens,2014,Piperacillin tazobactam,Penicillins,6,144,1,151,3.97,YES
+Serratia marcescens,2014,Tigecycline,Tetracyclines,2,144,5,151,1.32,YES
+Serratia marcescens,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2015,Ceftriaxone,Cephalosporins,21,106,6,133,15.79,YES
+Serratia marcescens,2015,Meropenem,Carbapenems,2,145,0,147,1.36,YES
+Serratia marcescens,2015,Levofloxacin,Fluoroquinolones,8,131,8,147,5.44,YES
+Serratia marcescens,2015,Amikacin,Aminoglycosides,12,128,7,147,8.16,YES
+Serratia marcescens,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2015,Colistin,Polymyxins,15,0,0,15,100.0,YES
+Serratia marcescens,2015,Piperacillin tazobactam,Penicillins,10,132,5,147,6.8,YES
+Serratia marcescens,2015,Tigecycline,Tetracyclines,0,142,5,147,0.0,YES
+Serratia marcescens,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2016,Ceftriaxone,Cephalosporins,25,154,5,184,13.59,YES
+Serratia marcescens,2016,Meropenem,Carbapenems,6,178,0,184,3.26,YES
+Serratia marcescens,2016,Levofloxacin,Fluoroquinolones,12,159,13,184,6.52,YES
+Serratia marcescens,2016,Amikacin,Aminoglycosides,7,168,9,184,3.8,YES
+Serratia marcescens,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2016,Colistin,Polymyxins,24,0,1,25,96.0,YES
+Serratia marcescens,2016,Piperacillin tazobactam,Penicillins,12,169,3,184,6.52,YES
+Serratia marcescens,2016,Tigecycline,Tetracyclines,1,177,6,184,0.54,YES
+Serratia marcescens,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2017,Ceftriaxone,Cephalosporins,21,102,3,126,16.67,YES
+Serratia marcescens,2017,Meropenem,Carbapenems,0,126,0,126,0.0,YES
+Serratia marcescens,2017,Levofloxacin,Fluoroquinolones,8,114,4,126,6.35,YES
+Serratia marcescens,2017,Amikacin,Aminoglycosides,5,108,13,126,3.97,YES
+Serratia marcescens,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2017,Colistin,Polymyxins,21,0,0,21,100.0,YES
+Serratia marcescens,2017,Piperacillin tazobactam,Penicillins,5,117,4,126,3.97,YES
+Serratia marcescens,2017,Tigecycline,Tetracyclines,0,124,2,126,0.0,YES
+Serratia marcescens,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Serratia marcescens,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Serratia marcescens,2018,Meropenem,Carbapenems,12,153,1,166,7.23,YES
+Serratia marcescens,2018,Levofloxacin,Fluoroquinolones,17,143,6,166,10.24,YES
+Serratia marcescens,2018,Amikacin,Aminoglycosides,10,150,6,166,6.02,YES
+Serratia marcescens,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2018,Colistin,Polymyxins,161,0,5,166,96.99,YES
+Serratia marcescens,2018,Piperacillin tazobactam,Penicillins,22,143,1,166,13.25,YES
+Serratia marcescens,2018,Tigecycline,Tetracyclines,1,161,4,166,0.6,YES
+Serratia marcescens,2018,Trimethoprim sulfa,Trimethoprim,17,149,0,166,10.24,YES
+Serratia marcescens,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Serratia marcescens,2019,Meropenem,Carbapenems,8,163,1,172,4.65,YES
+Serratia marcescens,2019,Levofloxacin,Fluoroquinolones,15,152,5,172,8.72,YES
+Serratia marcescens,2019,Amikacin,Aminoglycosides,19,146,7,172,11.05,YES
+Serratia marcescens,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2019,Colistin,Polymyxins,164,0,8,172,95.35,YES
+Serratia marcescens,2019,Piperacillin tazobactam,Penicillins,19,149,4,172,11.05,YES
+Serratia marcescens,2019,Tigecycline,Tetracyclines,1,169,2,172,0.58,YES
+Serratia marcescens,2019,Trimethoprim sulfa,Trimethoprim,19,153,0,172,11.05,YES
+Serratia marcescens,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Serratia marcescens,2020,Meropenem,Carbapenems,9,165,1,175,5.14,YES
+Serratia marcescens,2020,Levofloxacin,Fluoroquinolones,9,154,12,175,5.14,YES
+Serratia marcescens,2020,Amikacin,Aminoglycosides,15,149,11,175,8.57,YES
+Serratia marcescens,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2020,Colistin,Polymyxins,173,0,2,175,98.86,YES
+Serratia marcescens,2020,Piperacillin tazobactam,Penicillins,13,156,6,175,7.43,YES
+Serratia marcescens,2020,Tigecycline,Tetracyclines,1,168,6,175,0.57,YES
+Serratia marcescens,2020,Trimethoprim sulfa,Trimethoprim,18,157,0,175,10.29,YES
+Serratia marcescens,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Serratia marcescens,2021,Meropenem,Carbapenems,7,149,2,158,4.43,YES
+Serratia marcescens,2021,Levofloxacin,Fluoroquinolones,10,139,9,158,6.33,YES
+Serratia marcescens,2021,Amikacin,Aminoglycosides,12,141,5,158,7.59,YES
+Serratia marcescens,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2021,Colistin,Polymyxins,142,0,16,158,89.87,YES
+Serratia marcescens,2021,Piperacillin tazobactam,Penicillins,18,136,4,158,11.39,YES
+Serratia marcescens,2021,Tigecycline,Tetracyclines,3,154,1,158,1.9,YES
+Serratia marcescens,2021,Trimethoprim sulfa,Trimethoprim,12,146,0,158,7.59,YES
+Serratia marcescens,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Serratia marcescens,2022,Meropenem,Carbapenems,3,118,1,122,2.46,YES
+Serratia marcescens,2022,Levofloxacin,Fluoroquinolones,4,110,8,122,3.28,YES
+Serratia marcescens,2022,Amikacin,Aminoglycosides,7,107,8,122,5.74,YES
+Serratia marcescens,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2022,Colistin,Polymyxins,116,0,6,122,95.08,YES
+Serratia marcescens,2022,Piperacillin tazobactam,Penicillins,10,106,6,122,8.2,YES
+Serratia marcescens,2022,Tigecycline,Tetracyclines,0,120,2,122,0.0,YES
+Serratia marcescens,2022,Trimethoprim sulfa,Trimethoprim,11,111,0,122,9.02,YES
+Serratia marcescens,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Serratia marcescens,2023,Meropenem,Carbapenems,2,105,1,108,1.85,YES
+Serratia marcescens,2023,Levofloxacin,Fluoroquinolones,4,101,3,108,3.7,YES
+Serratia marcescens,2023,Amikacin,Aminoglycosides,0,106,2,108,0.0,YES
+Serratia marcescens,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2023,Colistin,Polymyxins,103,0,5,108,95.37,YES
+Serratia marcescens,2023,Piperacillin tazobactam,Penicillins,7,98,3,108,6.48,YES
+Serratia marcescens,2023,Tigecycline,Tetracyclines,2,106,0,108,1.85,YES
+Serratia marcescens,2023,Trimethoprim sulfa,Trimethoprim,6,102,0,108,5.56,YES
+Serratia marcescens,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Serratia marcescens,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Serratia marcescens,2024,Meropenem,Carbapenems,1,116,1,118,0.85,YES
+Serratia marcescens,2024,Levofloxacin,Fluoroquinolones,4,110,4,118,3.39,YES
+Serratia marcescens,2024,Amikacin,Aminoglycosides,3,107,8,118,2.54,YES
+Serratia marcescens,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Serratia marcescens,2024,Colistin,Polymyxins,111,0,7,118,94.07,YES
+Serratia marcescens,2024,Piperacillin tazobactam,Penicillins,2,112,4,118,1.69,YES
+Serratia marcescens,2024,Tigecycline,Tetracyclines,0,115,3,118,0.0,YES
+Serratia marcescens,2024,Trimethoprim sulfa,Trimethoprim,9,109,0,118,7.63,YES
+Serratia marcescens,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2004,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2004,Meropenem,Carbapenems,0,0,0,0,,NO
+Citrobacter koseri,2004,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Citrobacter koseri,2004,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Citrobacter koseri,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2004,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Citrobacter koseri,2004,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Citrobacter koseri,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2005,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2005,Meropenem,Carbapenems,0,0,0,0,,NO
+Citrobacter koseri,2005,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Citrobacter koseri,2005,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Citrobacter koseri,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2005,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Citrobacter koseri,2005,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Citrobacter koseri,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2006,Ceftriaxone,Cephalosporins,0,2,0,2,,NO
+Citrobacter koseri,2006,Meropenem,Carbapenems,0,1,0,1,,NO
+Citrobacter koseri,2006,Levofloxacin,Fluoroquinolones,0,2,0,2,,NO
+Citrobacter koseri,2006,Amikacin,Aminoglycosides,0,2,0,2,,NO
+Citrobacter koseri,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2006,Piperacillin tazobactam,Penicillins,0,2,0,2,,NO
+Citrobacter koseri,2006,Tigecycline,Tetracyclines,0,2,0,2,,NO
+Citrobacter koseri,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2007,Ceftriaxone,Cephalosporins,0,1,0,1,,NO
+Citrobacter koseri,2007,Meropenem,Carbapenems,0,0,0,0,,NO
+Citrobacter koseri,2007,Levofloxacin,Fluoroquinolones,0,1,0,1,,NO
+Citrobacter koseri,2007,Amikacin,Aminoglycosides,0,1,0,1,,NO
+Citrobacter koseri,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2007,Piperacillin tazobactam,Penicillins,0,1,0,1,,NO
+Citrobacter koseri,2007,Tigecycline,Tetracyclines,0,1,0,1,,NO
+Citrobacter koseri,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2008,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2008,Meropenem,Carbapenems,0,0,0,0,,NO
+Citrobacter koseri,2008,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Citrobacter koseri,2008,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Citrobacter koseri,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2008,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Citrobacter koseri,2008,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Citrobacter koseri,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2009,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2009,Meropenem,Carbapenems,0,0,0,0,,NO
+Citrobacter koseri,2009,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Citrobacter koseri,2009,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Citrobacter koseri,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2009,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Citrobacter koseri,2009,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Citrobacter koseri,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2010,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2010,Meropenem,Carbapenems,0,0,0,0,,NO
+Citrobacter koseri,2010,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Citrobacter koseri,2010,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Citrobacter koseri,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2010,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Citrobacter koseri,2010,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Citrobacter koseri,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2011,Ceftriaxone,Cephalosporins,0,2,0,2,,NO
+Citrobacter koseri,2011,Meropenem,Carbapenems,0,2,0,2,,NO
+Citrobacter koseri,2011,Levofloxacin,Fluoroquinolones,0,2,0,2,,NO
+Citrobacter koseri,2011,Amikacin,Aminoglycosides,0,2,0,2,,NO
+Citrobacter koseri,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2011,Piperacillin tazobactam,Penicillins,0,2,0,2,,NO
+Citrobacter koseri,2011,Tigecycline,Tetracyclines,0,2,0,2,,NO
+Citrobacter koseri,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2012,Ceftriaxone,Cephalosporins,0,15,0,15,0.0,YES
+Citrobacter koseri,2012,Meropenem,Carbapenems,0,15,0,15,0.0,YES
+Citrobacter koseri,2012,Levofloxacin,Fluoroquinolones,0,15,0,15,0.0,YES
+Citrobacter koseri,2012,Amikacin,Aminoglycosides,0,15,0,15,0.0,YES
+Citrobacter koseri,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2012,Piperacillin tazobactam,Penicillins,0,15,0,15,0.0,YES
+Citrobacter koseri,2012,Tigecycline,Tetracyclines,0,15,0,15,0.0,YES
+Citrobacter koseri,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2013,Ceftriaxone,Cephalosporins,0,23,0,23,0.0,YES
+Citrobacter koseri,2013,Meropenem,Carbapenems,0,23,0,23,0.0,YES
+Citrobacter koseri,2013,Levofloxacin,Fluoroquinolones,0,23,0,23,0.0,YES
+Citrobacter koseri,2013,Amikacin,Aminoglycosides,0,23,0,23,0.0,YES
+Citrobacter koseri,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Citrobacter koseri,2013,Piperacillin tazobactam,Penicillins,0,23,0,23,0.0,YES
+Citrobacter koseri,2013,Tigecycline,Tetracyclines,0,23,0,23,0.0,YES
+Citrobacter koseri,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2014,Ceftriaxone,Cephalosporins,0,5,0,5,,NO
+Citrobacter koseri,2014,Meropenem,Carbapenems,0,14,0,14,0.0,YES
+Citrobacter koseri,2014,Levofloxacin,Fluoroquinolones,0,13,1,14,0.0,YES
+Citrobacter koseri,2014,Amikacin,Aminoglycosides,0,14,0,14,0.0,YES
+Citrobacter koseri,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2014,Colistin,Polymyxins,0,0,9,9,,NO
+Citrobacter koseri,2014,Piperacillin tazobactam,Penicillins,0,14,0,14,0.0,YES
+Citrobacter koseri,2014,Tigecycline,Tetracyclines,0,14,0,14,0.0,YES
+Citrobacter koseri,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2015,Ceftriaxone,Cephalosporins,0,25,0,25,0.0,YES
+Citrobacter koseri,2015,Meropenem,Carbapenems,0,34,0,34,0.0,YES
+Citrobacter koseri,2015,Levofloxacin,Fluoroquinolones,0,34,0,34,0.0,YES
+Citrobacter koseri,2015,Amikacin,Aminoglycosides,0,34,0,34,0.0,YES
+Citrobacter koseri,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2015,Colistin,Polymyxins,0,0,9,9,,NO
+Citrobacter koseri,2015,Piperacillin tazobactam,Penicillins,0,34,0,34,0.0,YES
+Citrobacter koseri,2015,Tigecycline,Tetracyclines,0,34,0,34,0.0,YES
+Citrobacter koseri,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2016,Ceftriaxone,Cephalosporins,2,28,0,30,6.67,YES
+Citrobacter koseri,2016,Meropenem,Carbapenems,0,30,0,30,0.0,YES
+Citrobacter koseri,2016,Levofloxacin,Fluoroquinolones,1,29,0,30,3.33,YES
+Citrobacter koseri,2016,Amikacin,Aminoglycosides,0,30,0,30,0.0,YES
+Citrobacter koseri,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2016,Colistin,Polymyxins,0,0,15,15,0.0,YES
+Citrobacter koseri,2016,Piperacillin tazobactam,Penicillins,1,28,1,30,3.33,YES
+Citrobacter koseri,2016,Tigecycline,Tetracyclines,0,30,0,30,0.0,YES
+Citrobacter koseri,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2017,Ceftriaxone,Cephalosporins,1,23,0,24,4.17,YES
+Citrobacter koseri,2017,Meropenem,Carbapenems,0,24,0,24,0.0,YES
+Citrobacter koseri,2017,Levofloxacin,Fluoroquinolones,0,23,1,24,0.0,YES
+Citrobacter koseri,2017,Amikacin,Aminoglycosides,0,24,0,24,0.0,YES
+Citrobacter koseri,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2017,Colistin,Polymyxins,0,0,20,20,0.0,YES
+Citrobacter koseri,2017,Piperacillin tazobactam,Penicillins,1,22,1,24,4.17,YES
+Citrobacter koseri,2017,Tigecycline,Tetracyclines,0,24,0,24,0.0,YES
+Citrobacter koseri,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Citrobacter koseri,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2018,Meropenem,Carbapenems,0,34,1,35,0.0,YES
+Citrobacter koseri,2018,Levofloxacin,Fluoroquinolones,0,35,0,35,0.0,YES
+Citrobacter koseri,2018,Amikacin,Aminoglycosides,2,33,0,35,5.71,YES
+Citrobacter koseri,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2018,Colistin,Polymyxins,2,0,33,35,5.71,YES
+Citrobacter koseri,2018,Piperacillin tazobactam,Penicillins,1,34,0,35,2.86,YES
+Citrobacter koseri,2018,Tigecycline,Tetracyclines,0,35,0,35,0.0,YES
+Citrobacter koseri,2018,Trimethoprim sulfa,Trimethoprim,1,34,0,35,2.86,YES
+Citrobacter koseri,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2019,Meropenem,Carbapenems,0,32,0,32,0.0,YES
+Citrobacter koseri,2019,Levofloxacin,Fluoroquinolones,1,29,2,32,3.12,YES
+Citrobacter koseri,2019,Amikacin,Aminoglycosides,0,32,0,32,0.0,YES
+Citrobacter koseri,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2019,Colistin,Polymyxins,0,0,32,32,0.0,YES
+Citrobacter koseri,2019,Piperacillin tazobactam,Penicillins,1,31,0,32,3.12,YES
+Citrobacter koseri,2019,Tigecycline,Tetracyclines,0,32,0,32,0.0,YES
+Citrobacter koseri,2019,Trimethoprim sulfa,Trimethoprim,1,31,0,32,3.12,YES
+Citrobacter koseri,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2020,Meropenem,Carbapenems,0,47,0,47,0.0,YES
+Citrobacter koseri,2020,Levofloxacin,Fluoroquinolones,1,45,1,47,2.13,YES
+Citrobacter koseri,2020,Amikacin,Aminoglycosides,1,46,0,47,2.13,YES
+Citrobacter koseri,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2020,Colistin,Polymyxins,0,0,47,47,0.0,YES
+Citrobacter koseri,2020,Piperacillin tazobactam,Penicillins,2,42,3,47,4.26,YES
+Citrobacter koseri,2020,Tigecycline,Tetracyclines,0,47,0,47,0.0,YES
+Citrobacter koseri,2020,Trimethoprim sulfa,Trimethoprim,0,47,0,47,0.0,YES
+Citrobacter koseri,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2021,Meropenem,Carbapenems,0,50,0,50,0.0,YES
+Citrobacter koseri,2021,Levofloxacin,Fluoroquinolones,0,50,0,50,0.0,YES
+Citrobacter koseri,2021,Amikacin,Aminoglycosides,0,49,1,50,0.0,YES
+Citrobacter koseri,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2021,Colistin,Polymyxins,0,0,50,50,0.0,YES
+Citrobacter koseri,2021,Piperacillin tazobactam,Penicillins,3,46,1,50,6.0,YES
+Citrobacter koseri,2021,Tigecycline,Tetracyclines,0,50,0,50,0.0,YES
+Citrobacter koseri,2021,Trimethoprim sulfa,Trimethoprim,0,50,0,50,0.0,YES
+Citrobacter koseri,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2022,Meropenem,Carbapenems,0,52,0,52,0.0,YES
+Citrobacter koseri,2022,Levofloxacin,Fluoroquinolones,0,52,0,52,0.0,YES
+Citrobacter koseri,2022,Amikacin,Aminoglycosides,0,52,0,52,0.0,YES
+Citrobacter koseri,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2022,Colistin,Polymyxins,0,0,52,52,0.0,YES
+Citrobacter koseri,2022,Piperacillin tazobactam,Penicillins,1,50,1,52,1.92,YES
+Citrobacter koseri,2022,Tigecycline,Tetracyclines,0,52,0,52,0.0,YES
+Citrobacter koseri,2022,Trimethoprim sulfa,Trimethoprim,2,50,0,52,3.85,YES
+Citrobacter koseri,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2023,Meropenem,Carbapenems,0,54,0,54,0.0,YES
+Citrobacter koseri,2023,Levofloxacin,Fluoroquinolones,0,52,2,54,0.0,YES
+Citrobacter koseri,2023,Amikacin,Aminoglycosides,0,54,0,54,0.0,YES
+Citrobacter koseri,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2023,Colistin,Polymyxins,1,0,53,54,1.85,YES
+Citrobacter koseri,2023,Piperacillin tazobactam,Penicillins,0,52,2,54,0.0,YES
+Citrobacter koseri,2023,Tigecycline,Tetracyclines,0,54,0,54,0.0,YES
+Citrobacter koseri,2023,Trimethoprim sulfa,Trimethoprim,0,54,0,54,0.0,YES
+Citrobacter koseri,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Citrobacter koseri,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Citrobacter koseri,2024,Meropenem,Carbapenems,0,59,0,59,0.0,YES
+Citrobacter koseri,2024,Levofloxacin,Fluoroquinolones,1,54,4,59,1.69,YES
+Citrobacter koseri,2024,Amikacin,Aminoglycosides,0,59,0,59,0.0,YES
+Citrobacter koseri,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Citrobacter koseri,2024,Colistin,Polymyxins,0,0,59,59,0.0,YES
+Citrobacter koseri,2024,Piperacillin tazobactam,Penicillins,1,57,1,59,1.69,YES
+Citrobacter koseri,2024,Tigecycline,Tetracyclines,0,59,0,59,0.0,YES
+Citrobacter koseri,2024,Trimethoprim sulfa,Trimethoprim,2,57,0,59,3.39,YES
+Citrobacter koseri,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Streptococcus pneumoniae,2004,Ceftriaxone,Cephalosporins,1,260,4,265,0.38,YES
+Streptococcus pneumoniae,2004,Meropenem,Carbapenems,6,55,6,67,8.96,YES
+Streptococcus pneumoniae,2004,Levofloxacin,Fluoroquinolones,2,262,1,265,0.75,YES
+Streptococcus pneumoniae,2004,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2004,Vancomycin,Glycopeptides,0,265,0,265,0.0,YES
+Streptococcus pneumoniae,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2004,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2004,Tigecycline,Tetracyclines,0,252,13,265,0.0,YES
+Streptococcus pneumoniae,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2004,Linezolid,Oxazolidinones,0,265,0,265,0.0,YES
+Streptococcus pneumoniae,2005,Ceftriaxone,Cephalosporins,3,294,3,300,1.0,YES
+Streptococcus pneumoniae,2005,Meropenem,Carbapenems,3,45,8,56,5.36,YES
+Streptococcus pneumoniae,2005,Levofloxacin,Fluoroquinolones,1,299,0,300,0.33,YES
+Streptococcus pneumoniae,2005,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2005,Vancomycin,Glycopeptides,0,300,0,300,0.0,YES
+Streptococcus pneumoniae,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2005,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2005,Tigecycline,Tetracyclines,0,295,5,300,0.0,YES
+Streptococcus pneumoniae,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2005,Linezolid,Oxazolidinones,0,300,0,300,0.0,YES
+Streptococcus pneumoniae,2006,Ceftriaxone,Cephalosporins,3,350,3,356,0.84,YES
+Streptococcus pneumoniae,2006,Meropenem,Carbapenems,18,141,15,174,10.34,YES
+Streptococcus pneumoniae,2006,Levofloxacin,Fluoroquinolones,1,354,1,356,0.28,YES
+Streptococcus pneumoniae,2006,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2006,Vancomycin,Glycopeptides,0,356,0,356,0.0,YES
+Streptococcus pneumoniae,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2006,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2006,Tigecycline,Tetracyclines,0,348,8,356,0.0,YES
+Streptococcus pneumoniae,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2006,Linezolid,Oxazolidinones,0,356,0,356,0.0,YES
+Streptococcus pneumoniae,2007,Ceftriaxone,Cephalosporins,3,393,5,401,0.75,YES
+Streptococcus pneumoniae,2007,Meropenem,Carbapenems,30,339,26,395,7.59,YES
+Streptococcus pneumoniae,2007,Levofloxacin,Fluoroquinolones,2,399,0,401,0.5,YES
+Streptococcus pneumoniae,2007,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2007,Vancomycin,Glycopeptides,0,401,0,401,0.0,YES
+Streptococcus pneumoniae,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2007,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2007,Tigecycline,Tetracyclines,0,397,4,401,0.0,YES
+Streptococcus pneumoniae,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2007,Linezolid,Oxazolidinones,0,401,0,401,0.0,YES
+Streptococcus pneumoniae,2008,Ceftriaxone,Cephalosporins,5,350,20,375,1.33,YES
+Streptococcus pneumoniae,2008,Meropenem,Carbapenems,21,325,29,375,5.6,YES
+Streptococcus pneumoniae,2008,Levofloxacin,Fluoroquinolones,0,373,2,375,0.0,YES
+Streptococcus pneumoniae,2008,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2008,Vancomycin,Glycopeptides,0,375,0,375,0.0,YES
+Streptococcus pneumoniae,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2008,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2008,Tigecycline,Tetracyclines,0,373,2,375,0.0,YES
+Streptococcus pneumoniae,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2008,Linezolid,Oxazolidinones,0,375,0,375,0.0,YES
+Streptococcus pneumoniae,2009,Ceftriaxone,Cephalosporins,6,403,31,440,1.36,YES
+Streptococcus pneumoniae,2009,Meropenem,Carbapenems,42,374,24,440,9.55,YES
+Streptococcus pneumoniae,2009,Levofloxacin,Fluoroquinolones,1,435,4,440,0.23,YES
+Streptococcus pneumoniae,2009,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2009,Vancomycin,Glycopeptides,0,440,0,440,0.0,YES
+Streptococcus pneumoniae,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2009,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2009,Tigecycline,Tetracyclines,0,439,1,440,0.0,YES
+Streptococcus pneumoniae,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2009,Linezolid,Oxazolidinones,0,440,0,440,0.0,YES
+Streptococcus pneumoniae,2010,Ceftriaxone,Cephalosporins,6,305,13,324,1.85,YES
+Streptococcus pneumoniae,2010,Meropenem,Carbapenems,12,294,18,324,3.7,YES
+Streptococcus pneumoniae,2010,Levofloxacin,Fluoroquinolones,0,321,3,324,0.0,YES
+Streptococcus pneumoniae,2010,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2010,Vancomycin,Glycopeptides,0,324,0,324,0.0,YES
+Streptococcus pneumoniae,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2010,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2010,Tigecycline,Tetracyclines,0,324,0,324,0.0,YES
+Streptococcus pneumoniae,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2010,Linezolid,Oxazolidinones,0,324,0,324,0.0,YES
+Streptococcus pneumoniae,2011,Ceftriaxone,Cephalosporins,0,274,8,282,0.0,YES
+Streptococcus pneumoniae,2011,Meropenem,Carbapenems,22,245,15,282,7.8,YES
+Streptococcus pneumoniae,2011,Levofloxacin,Fluoroquinolones,1,281,0,282,0.35,YES
+Streptococcus pneumoniae,2011,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2011,Vancomycin,Glycopeptides,0,282,0,282,0.0,YES
+Streptococcus pneumoniae,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2011,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2011,Tigecycline,Tetracyclines,0,278,4,282,0.0,YES
+Streptococcus pneumoniae,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2011,Linezolid,Oxazolidinones,0,282,0,282,0.0,YES
+Streptococcus pneumoniae,2012,Ceftriaxone,Cephalosporins,0,237,3,240,0.0,YES
+Streptococcus pneumoniae,2012,Meropenem,Carbapenems,16,207,17,240,6.67,YES
+Streptococcus pneumoniae,2012,Levofloxacin,Fluoroquinolones,2,238,0,240,0.83,YES
+Streptococcus pneumoniae,2012,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2012,Vancomycin,Glycopeptides,0,240,0,240,0.0,YES
+Streptococcus pneumoniae,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2012,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2012,Tigecycline,Tetracyclines,0,240,0,240,0.0,YES
+Streptococcus pneumoniae,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2012,Linezolid,Oxazolidinones,0,240,0,240,0.0,YES
+Streptococcus pneumoniae,2013,Ceftriaxone,Cephalosporins,0,286,7,293,0.0,YES
+Streptococcus pneumoniae,2013,Meropenem,Carbapenems,22,256,15,293,7.51,YES
+Streptococcus pneumoniae,2013,Levofloxacin,Fluoroquinolones,3,290,0,293,1.02,YES
+Streptococcus pneumoniae,2013,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2013,Vancomycin,Glycopeptides,0,293,0,293,0.0,YES
+Streptococcus pneumoniae,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2013,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2013,Tigecycline,Tetracyclines,0,292,1,293,0.0,YES
+Streptococcus pneumoniae,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2013,Linezolid,Oxazolidinones,0,293,0,293,0.0,YES
+Streptococcus pneumoniae,2014,Ceftriaxone,Cephalosporins,5,593,11,609,0.82,YES
+Streptococcus pneumoniae,2014,Meropenem,Carbapenems,27,566,16,609,4.43,YES
+Streptococcus pneumoniae,2014,Levofloxacin,Fluoroquinolones,2,607,0,609,0.33,YES
+Streptococcus pneumoniae,2014,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2014,Vancomycin,Glycopeptides,0,609,0,609,0.0,YES
+Streptococcus pneumoniae,2014,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2014,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2014,Tigecycline,Tetracyclines,0,609,0,609,0.0,YES
+Streptococcus pneumoniae,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2014,Linezolid,Oxazolidinones,0,609,0,609,0.0,YES
+Streptococcus pneumoniae,2015,Ceftriaxone,Cephalosporins,2,511,16,529,0.38,YES
+Streptococcus pneumoniae,2015,Meropenem,Carbapenems,41,462,26,529,7.75,YES
+Streptococcus pneumoniae,2015,Levofloxacin,Fluoroquinolones,1,526,2,529,0.19,YES
+Streptococcus pneumoniae,2015,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2015,Vancomycin,Glycopeptides,0,529,0,529,0.0,YES
+Streptococcus pneumoniae,2015,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2015,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2015,Tigecycline,Tetracyclines,0,529,0,529,0.0,YES
+Streptococcus pneumoniae,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2015,Linezolid,Oxazolidinones,0,529,0,529,0.0,YES
+Streptococcus pneumoniae,2016,Ceftriaxone,Cephalosporins,3,548,3,554,0.54,YES
+Streptococcus pneumoniae,2016,Meropenem,Carbapenems,30,495,29,554,5.42,YES
+Streptococcus pneumoniae,2016,Levofloxacin,Fluoroquinolones,5,549,0,554,0.9,YES
+Streptococcus pneumoniae,2016,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2016,Vancomycin,Glycopeptides,0,554,0,554,0.0,YES
+Streptococcus pneumoniae,2016,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2016,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2016,Tigecycline,Tetracyclines,0,552,2,554,0.0,YES
+Streptococcus pneumoniae,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2016,Linezolid,Oxazolidinones,0,554,0,554,0.0,YES
+Streptococcus pneumoniae,2017,Ceftriaxone,Cephalosporins,5,560,16,581,0.86,YES
+Streptococcus pneumoniae,2017,Meropenem,Carbapenems,42,510,29,581,7.23,YES
+Streptococcus pneumoniae,2017,Levofloxacin,Fluoroquinolones,5,574,2,581,0.86,YES
+Streptococcus pneumoniae,2017,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2017,Vancomycin,Glycopeptides,0,581,0,581,0.0,YES
+Streptococcus pneumoniae,2017,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2017,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2017,Tigecycline,Tetracyclines,0,577,4,581,0.0,YES
+Streptococcus pneumoniae,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2017,Linezolid,Oxazolidinones,0,581,0,581,0.0,YES
+Streptococcus pneumoniae,2018,Ceftriaxone,Cephalosporins,4,279,10,293,1.37,YES
+Streptococcus pneumoniae,2018,Meropenem,Carbapenems,17,268,8,293,5.8,YES
+Streptococcus pneumoniae,2018,Levofloxacin,Fluoroquinolones,4,289,0,293,1.37,YES
+Streptococcus pneumoniae,2018,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2018,Vancomycin,Glycopeptides,0,293,0,293,0.0,YES
+Streptococcus pneumoniae,2018,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2018,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2018,Tigecycline,Tetracyclines,0,293,0,293,0.0,YES
+Streptococcus pneumoniae,2018,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2018,Linezolid,Oxazolidinones,0,293,0,293,0.0,YES
+Streptococcus pneumoniae,2019,Ceftriaxone,Cephalosporins,4,463,18,485,0.82,YES
+Streptococcus pneumoniae,2019,Meropenem,Carbapenems,29,428,28,485,5.98,YES
+Streptococcus pneumoniae,2019,Levofloxacin,Fluoroquinolones,0,485,0,485,0.0,YES
+Streptococcus pneumoniae,2019,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2019,Vancomycin,Glycopeptides,0,485,0,485,0.0,YES
+Streptococcus pneumoniae,2019,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2019,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2019,Tigecycline,Tetracyclines,0,485,0,485,0.0,YES
+Streptococcus pneumoniae,2019,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2019,Linezolid,Oxazolidinones,0,485,0,485,0.0,YES
+Streptococcus pneumoniae,2020,Ceftriaxone,Cephalosporins,1,417,10,428,0.23,YES
+Streptococcus pneumoniae,2020,Meropenem,Carbapenems,20,378,30,428,4.67,YES
+Streptococcus pneumoniae,2020,Levofloxacin,Fluoroquinolones,2,426,0,428,0.47,YES
+Streptococcus pneumoniae,2020,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2020,Vancomycin,Glycopeptides,0,428,0,428,0.0,YES
+Streptococcus pneumoniae,2020,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2020,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2020,Tigecycline,Tetracyclines,0,428,0,428,0.0,YES
+Streptococcus pneumoniae,2020,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2020,Linezolid,Oxazolidinones,0,428,0,428,0.0,YES
+Streptococcus pneumoniae,2021,Ceftriaxone,Cephalosporins,4,312,9,325,1.23,YES
+Streptococcus pneumoniae,2021,Meropenem,Carbapenems,20,281,24,325,6.15,YES
+Streptococcus pneumoniae,2021,Levofloxacin,Fluoroquinolones,6,319,0,325,1.85,YES
+Streptococcus pneumoniae,2021,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2021,Vancomycin,Glycopeptides,0,325,0,325,0.0,YES
+Streptococcus pneumoniae,2021,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2021,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2021,Tigecycline,Tetracyclines,0,325,0,325,0.0,YES
+Streptococcus pneumoniae,2021,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2021,Linezolid,Oxazolidinones,0,325,0,325,0.0,YES
+Streptococcus pneumoniae,2022,Ceftriaxone,Cephalosporins,2,296,13,311,0.64,YES
+Streptococcus pneumoniae,2022,Meropenem,Carbapenems,24,267,20,311,7.72,YES
+Streptococcus pneumoniae,2022,Levofloxacin,Fluoroquinolones,3,308,0,311,0.96,YES
+Streptococcus pneumoniae,2022,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2022,Vancomycin,Glycopeptides,0,311,0,311,0.0,YES
+Streptococcus pneumoniae,2022,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2022,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2022,Tigecycline,Tetracyclines,0,311,0,311,0.0,YES
+Streptococcus pneumoniae,2022,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2022,Linezolid,Oxazolidinones,0,311,0,311,0.0,YES
+Streptococcus pneumoniae,2023,Ceftriaxone,Cephalosporins,2,351,12,365,0.55,YES
+Streptococcus pneumoniae,2023,Meropenem,Carbapenems,20,325,20,365,5.48,YES
+Streptococcus pneumoniae,2023,Levofloxacin,Fluoroquinolones,1,364,0,365,0.27,YES
+Streptococcus pneumoniae,2023,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2023,Vancomycin,Glycopeptides,0,365,0,365,0.0,YES
+Streptococcus pneumoniae,2023,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2023,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2023,Tigecycline,Tetracyclines,0,365,0,365,0.0,YES
+Streptococcus pneumoniae,2023,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2023,Linezolid,Oxazolidinones,0,365,0,365,0.0,YES
+Streptococcus pneumoniae,2024,Ceftriaxone,Cephalosporins,1,297,10,308,0.32,YES
+Streptococcus pneumoniae,2024,Meropenem,Carbapenems,16,271,21,308,5.19,YES
+Streptococcus pneumoniae,2024,Levofloxacin,Fluoroquinolones,0,308,0,308,0.0,YES
+Streptococcus pneumoniae,2024,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Streptococcus pneumoniae,2024,Vancomycin,Glycopeptides,0,308,0,308,0.0,YES
+Streptococcus pneumoniae,2024,Colistin,Polymyxins,0,0,0,0,,NO
+Streptococcus pneumoniae,2024,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Streptococcus pneumoniae,2024,Tigecycline,Tetracyclines,0,308,0,308,0.0,YES
+Streptococcus pneumoniae,2024,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Streptococcus pneumoniae,2024,Linezolid,Oxazolidinones,0,308,0,308,0.0,YES
+Haemophilus influenzae,2004,Ceftriaxone,Cephalosporins,0,41,0,41,0.0,YES
+Haemophilus influenzae,2004,Meropenem,Carbapenems,0,2,0,2,,NO
+Haemophilus influenzae,2004,Levofloxacin,Fluoroquinolones,0,41,0,41,0.0,YES
+Haemophilus influenzae,2004,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2004,Piperacillin tazobactam,Penicillins,0,41,0,41,0.0,YES
+Haemophilus influenzae,2004,Tigecycline,Tetracyclines,0,41,0,41,0.0,YES
+Haemophilus influenzae,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2005,Ceftriaxone,Cephalosporins,0,61,0,61,0.0,YES
+Haemophilus influenzae,2005,Meropenem,Carbapenems,0,4,0,4,,NO
+Haemophilus influenzae,2005,Levofloxacin,Fluoroquinolones,0,61,0,61,0.0,YES
+Haemophilus influenzae,2005,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2005,Piperacillin tazobactam,Penicillins,0,61,0,61,0.0,YES
+Haemophilus influenzae,2005,Tigecycline,Tetracyclines,0,61,0,61,0.0,YES
+Haemophilus influenzae,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2006,Ceftriaxone,Cephalosporins,0,51,0,51,0.0,YES
+Haemophilus influenzae,2006,Meropenem,Carbapenems,0,31,0,31,0.0,YES
+Haemophilus influenzae,2006,Levofloxacin,Fluoroquinolones,0,51,0,51,0.0,YES
+Haemophilus influenzae,2006,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2006,Piperacillin tazobactam,Penicillins,0,51,0,51,0.0,YES
+Haemophilus influenzae,2006,Tigecycline,Tetracyclines,0,51,0,51,0.0,YES
+Haemophilus influenzae,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2007,Ceftriaxone,Cephalosporins,0,94,0,94,0.0,YES
+Haemophilus influenzae,2007,Meropenem,Carbapenems,0,93,0,93,0.0,YES
+Haemophilus influenzae,2007,Levofloxacin,Fluoroquinolones,0,94,0,94,0.0,YES
+Haemophilus influenzae,2007,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2007,Piperacillin tazobactam,Penicillins,0,94,0,94,0.0,YES
+Haemophilus influenzae,2007,Tigecycline,Tetracyclines,0,94,0,94,0.0,YES
+Haemophilus influenzae,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2008,Ceftriaxone,Cephalosporins,0,79,0,79,0.0,YES
+Haemophilus influenzae,2008,Meropenem,Carbapenems,0,79,0,79,0.0,YES
+Haemophilus influenzae,2008,Levofloxacin,Fluoroquinolones,0,79,0,79,0.0,YES
+Haemophilus influenzae,2008,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2008,Piperacillin tazobactam,Penicillins,4,75,0,79,5.06,YES
+Haemophilus influenzae,2008,Tigecycline,Tetracyclines,0,79,0,79,0.0,YES
+Haemophilus influenzae,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2009,Ceftriaxone,Cephalosporins,0,91,0,91,0.0,YES
+Haemophilus influenzae,2009,Meropenem,Carbapenems,0,91,0,91,0.0,YES
+Haemophilus influenzae,2009,Levofloxacin,Fluoroquinolones,0,91,0,91,0.0,YES
+Haemophilus influenzae,2009,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2009,Piperacillin tazobactam,Penicillins,1,90,0,91,1.1,YES
+Haemophilus influenzae,2009,Tigecycline,Tetracyclines,0,91,0,91,0.0,YES
+Haemophilus influenzae,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2010,Ceftriaxone,Cephalosporins,0,69,0,69,0.0,YES
+Haemophilus influenzae,2010,Meropenem,Carbapenems,0,68,1,69,0.0,YES
+Haemophilus influenzae,2010,Levofloxacin,Fluoroquinolones,0,69,0,69,0.0,YES
+Haemophilus influenzae,2010,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2010,Piperacillin tazobactam,Penicillins,0,69,0,69,0.0,YES
+Haemophilus influenzae,2010,Tigecycline,Tetracyclines,0,69,0,69,0.0,YES
+Haemophilus influenzae,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2011,Ceftriaxone,Cephalosporins,0,63,0,63,0.0,YES
+Haemophilus influenzae,2011,Meropenem,Carbapenems,0,63,0,63,0.0,YES
+Haemophilus influenzae,2011,Levofloxacin,Fluoroquinolones,0,63,0,63,0.0,YES
+Haemophilus influenzae,2011,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2011,Piperacillin tazobactam,Penicillins,0,63,0,63,0.0,YES
+Haemophilus influenzae,2011,Tigecycline,Tetracyclines,0,63,0,63,0.0,YES
+Haemophilus influenzae,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2012,Ceftriaxone,Cephalosporins,0,43,0,43,0.0,YES
+Haemophilus influenzae,2012,Meropenem,Carbapenems,0,43,0,43,0.0,YES
+Haemophilus influenzae,2012,Levofloxacin,Fluoroquinolones,0,43,0,43,0.0,YES
+Haemophilus influenzae,2012,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2012,Piperacillin tazobactam,Penicillins,0,43,0,43,0.0,YES
+Haemophilus influenzae,2012,Tigecycline,Tetracyclines,0,43,0,43,0.0,YES
+Haemophilus influenzae,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2013,Ceftriaxone,Cephalosporins,0,81,0,81,0.0,YES
+Haemophilus influenzae,2013,Meropenem,Carbapenems,0,81,0,81,0.0,YES
+Haemophilus influenzae,2013,Levofloxacin,Fluoroquinolones,0,81,0,81,0.0,YES
+Haemophilus influenzae,2013,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2013,Piperacillin tazobactam,Penicillins,0,81,0,81,0.0,YES
+Haemophilus influenzae,2013,Tigecycline,Tetracyclines,0,81,0,81,0.0,YES
+Haemophilus influenzae,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2014,Ceftriaxone,Cephalosporins,0,68,0,68,0.0,YES
+Haemophilus influenzae,2014,Meropenem,Carbapenems,0,68,0,68,0.0,YES
+Haemophilus influenzae,2014,Levofloxacin,Fluoroquinolones,0,68,0,68,0.0,YES
+Haemophilus influenzae,2014,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2014,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2014,Piperacillin tazobactam,Penicillins,0,68,0,68,0.0,YES
+Haemophilus influenzae,2014,Tigecycline,Tetracyclines,0,68,0,68,0.0,YES
+Haemophilus influenzae,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2015,Ceftriaxone,Cephalosporins,0,74,0,74,0.0,YES
+Haemophilus influenzae,2015,Meropenem,Carbapenems,0,74,0,74,0.0,YES
+Haemophilus influenzae,2015,Levofloxacin,Fluoroquinolones,0,72,2,74,0.0,YES
+Haemophilus influenzae,2015,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2015,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2015,Piperacillin tazobactam,Penicillins,0,74,0,74,0.0,YES
+Haemophilus influenzae,2015,Tigecycline,Tetracyclines,0,74,0,74,0.0,YES
+Haemophilus influenzae,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2016,Ceftriaxone,Cephalosporins,0,82,0,82,0.0,YES
+Haemophilus influenzae,2016,Meropenem,Carbapenems,0,82,0,82,0.0,YES
+Haemophilus influenzae,2016,Levofloxacin,Fluoroquinolones,0,82,0,82,0.0,YES
+Haemophilus influenzae,2016,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2016,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2016,Piperacillin tazobactam,Penicillins,0,82,0,82,0.0,YES
+Haemophilus influenzae,2016,Tigecycline,Tetracyclines,0,82,0,82,0.0,YES
+Haemophilus influenzae,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2017,Ceftriaxone,Cephalosporins,0,55,0,55,0.0,YES
+Haemophilus influenzae,2017,Meropenem,Carbapenems,0,55,0,55,0.0,YES
+Haemophilus influenzae,2017,Levofloxacin,Fluoroquinolones,0,55,0,55,0.0,YES
+Haemophilus influenzae,2017,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2017,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2017,Piperacillin tazobactam,Penicillins,0,55,0,55,0.0,YES
+Haemophilus influenzae,2017,Tigecycline,Tetracyclines,0,55,0,55,0.0,YES
+Haemophilus influenzae,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2018,Ceftriaxone,Cephalosporins,0,70,0,70,0.0,YES
+Haemophilus influenzae,2018,Meropenem,Carbapenems,0,70,0,70,0.0,YES
+Haemophilus influenzae,2018,Levofloxacin,Fluoroquinolones,0,69,1,70,0.0,YES
+Haemophilus influenzae,2018,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2018,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2018,Piperacillin tazobactam,Penicillins,1,69,0,70,1.43,YES
+Haemophilus influenzae,2018,Tigecycline,Tetracyclines,0,70,0,70,0.0,YES
+Haemophilus influenzae,2018,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2019,Ceftriaxone,Cephalosporins,0,68,0,68,0.0,YES
+Haemophilus influenzae,2019,Meropenem,Carbapenems,0,68,0,68,0.0,YES
+Haemophilus influenzae,2019,Levofloxacin,Fluoroquinolones,0,68,0,68,0.0,YES
+Haemophilus influenzae,2019,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2019,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2019,Piperacillin tazobactam,Penicillins,0,68,0,68,0.0,YES
+Haemophilus influenzae,2019,Tigecycline,Tetracyclines,0,68,0,68,0.0,YES
+Haemophilus influenzae,2019,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2020,Ceftriaxone,Cephalosporins,0,57,0,57,0.0,YES
+Haemophilus influenzae,2020,Meropenem,Carbapenems,0,56,1,57,0.0,YES
+Haemophilus influenzae,2020,Levofloxacin,Fluoroquinolones,0,55,2,57,0.0,YES
+Haemophilus influenzae,2020,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2020,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2020,Piperacillin tazobactam,Penicillins,0,57,0,57,0.0,YES
+Haemophilus influenzae,2020,Tigecycline,Tetracyclines,0,57,0,57,0.0,YES
+Haemophilus influenzae,2020,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2021,Ceftriaxone,Cephalosporins,0,29,0,29,0.0,YES
+Haemophilus influenzae,2021,Meropenem,Carbapenems,0,29,0,29,0.0,YES
+Haemophilus influenzae,2021,Levofloxacin,Fluoroquinolones,0,28,1,29,0.0,YES
+Haemophilus influenzae,2021,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2021,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2021,Piperacillin tazobactam,Penicillins,0,29,0,29,0.0,YES
+Haemophilus influenzae,2021,Tigecycline,Tetracyclines,0,29,0,29,0.0,YES
+Haemophilus influenzae,2021,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2022,Ceftriaxone,Cephalosporins,0,17,0,17,0.0,YES
+Haemophilus influenzae,2022,Meropenem,Carbapenems,0,17,0,17,0.0,YES
+Haemophilus influenzae,2022,Levofloxacin,Fluoroquinolones,0,17,0,17,0.0,YES
+Haemophilus influenzae,2022,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2022,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2022,Piperacillin tazobactam,Penicillins,0,17,0,17,0.0,YES
+Haemophilus influenzae,2022,Tigecycline,Tetracyclines,0,17,0,17,0.0,YES
+Haemophilus influenzae,2022,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2023,Ceftriaxone,Cephalosporins,0,56,0,56,0.0,YES
+Haemophilus influenzae,2023,Meropenem,Carbapenems,0,56,0,56,0.0,YES
+Haemophilus influenzae,2023,Levofloxacin,Fluoroquinolones,0,54,2,56,0.0,YES
+Haemophilus influenzae,2023,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2023,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2023,Piperacillin tazobactam,Penicillins,0,56,0,56,0.0,YES
+Haemophilus influenzae,2023,Tigecycline,Tetracyclines,0,56,0,56,0.0,YES
+Haemophilus influenzae,2023,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Haemophilus influenzae,2024,Ceftriaxone,Cephalosporins,0,63,0,63,0.0,YES
+Haemophilus influenzae,2024,Meropenem,Carbapenems,0,63,0,63,0.0,YES
+Haemophilus influenzae,2024,Levofloxacin,Fluoroquinolones,0,63,0,63,0.0,YES
+Haemophilus influenzae,2024,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Haemophilus influenzae,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Haemophilus influenzae,2024,Colistin,Polymyxins,0,0,0,0,,NO
+Haemophilus influenzae,2024,Piperacillin tazobactam,Penicillins,0,63,0,63,0.0,YES
+Haemophilus influenzae,2024,Tigecycline,Tetracyclines,0,61,2,63,0.0,YES
+Haemophilus influenzae,2024,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Haemophilus influenzae,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2004,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2004,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2004,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2004,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2004,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2004,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2004,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2004,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2004,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2004,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2005,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2005,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2005,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2005,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2005,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2005,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2005,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2005,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2005,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2005,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2006,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2006,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2006,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2006,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2006,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2006,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2006,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2006,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2006,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2006,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2007,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2007,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2007,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2007,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2007,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2007,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2007,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2007,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2007,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2007,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2008,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2008,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2008,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2008,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2008,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2008,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2008,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2008,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2008,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2008,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2009,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2009,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2009,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2009,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2009,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2009,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2009,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2009,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2009,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2009,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2010,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2010,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2010,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2010,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2010,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2010,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2010,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2010,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2010,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2010,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2011,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2011,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2011,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2011,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2011,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2011,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2011,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2011,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2011,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2011,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2012,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2012,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2012,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2012,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2012,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2012,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2012,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2012,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2012,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2012,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2013,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2013,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2013,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2013,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2013,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2013,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2013,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2013,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2013,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2013,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2014,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2014,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2014,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2014,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2014,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2014,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2014,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2014,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2014,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2014,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2015,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2015,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2015,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2015,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2015,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2015,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2015,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2015,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2015,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2015,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2016,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2016,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2016,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2016,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2016,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2016,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2016,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2016,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2016,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2016,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2017,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2017,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2017,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2017,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2017,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2017,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2017,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2017,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2017,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2017,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2018,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2018,Meropenem,Carbapenems,0,1,0,1,,NO
+Salmonella spp,2018,Levofloxacin,Fluoroquinolones,0,0,1,1,,NO
+Salmonella spp,2018,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2018,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2018,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2018,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2018,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2018,Trimethoprim sulfa,Trimethoprim,0,1,0,1,,NO
+Salmonella spp,2018,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2019,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2019,Meropenem,Carbapenems,0,3,0,3,,NO
+Salmonella spp,2019,Levofloxacin,Fluoroquinolones,0,0,3,3,,NO
+Salmonella spp,2019,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2019,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2019,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2019,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2019,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2019,Trimethoprim sulfa,Trimethoprim,1,2,0,3,,NO
+Salmonella spp,2019,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2020,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2020,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2020,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2020,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2020,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2020,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2020,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2020,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2020,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2020,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2021,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2021,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2021,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2021,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2021,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2021,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2021,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2021,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2021,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2021,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2022,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2022,Meropenem,Carbapenems,0,2,0,2,,NO
+Salmonella spp,2022,Levofloxacin,Fluoroquinolones,0,0,2,2,,NO
+Salmonella spp,2022,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2022,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2022,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2022,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2022,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2022,Trimethoprim sulfa,Trimethoprim,0,2,0,2,,NO
+Salmonella spp,2022,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2023,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2023,Meropenem,Carbapenems,0,0,0,0,,NO
+Salmonella spp,2023,Levofloxacin,Fluoroquinolones,0,0,0,0,,NO
+Salmonella spp,2023,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2023,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2023,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2023,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2023,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2023,Trimethoprim sulfa,Trimethoprim,0,0,0,0,,NO
+Salmonella spp,2023,Linezolid,Oxazolidinones,0,0,0,0,,NO
+Salmonella spp,2024,Ceftriaxone,Cephalosporins,0,0,0,0,,NO
+Salmonella spp,2024,Meropenem,Carbapenems,0,2,0,2,,NO
+Salmonella spp,2024,Levofloxacin,Fluoroquinolones,0,0,2,2,,NO
+Salmonella spp,2024,Amikacin,Aminoglycosides,0,0,0,0,,NO
+Salmonella spp,2024,Vancomycin,Glycopeptides,0,0,0,0,,NO
+Salmonella spp,2024,Colistin,Polymyxins,0,0,0,0,,NO
+Salmonella spp,2024,Piperacillin tazobactam,Penicillins,0,0,0,0,,NO
+Salmonella spp,2024,Tigecycline,Tetracyclines,0,0,0,0,,NO
+Salmonella spp,2024,Trimethoprim sulfa,Trimethoprim,1,1,0,2,,NO
+Salmonella spp,2024,Linezolid,Oxazolidinones,0,0,0,0,,NO

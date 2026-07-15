@@ -1,0 +1,44 @@
+Antibiotic,Interpretation_Col,Susceptible,Intermediate,Resistant,NA,Total_Tested,Coverage_%,Resistance_Rate_%,In_MDR_Classes
+Amikacin,Amikacin_I,52296,3143,5282,35224,60721,63.29,8.7,YES
+Amoxycillin clavulanate,Amoxycillin clavulanate_I,34921,5858,13328,41838,54107,56.39,24.63,YES
+Ampicillin sulbactam,Ampicillin sulbactam_I,12089,3143,6901,73812,22133,23.07,31.18,YES
+Ampicillin,Ampicillin_I,10601,2199,39345,43800,52145,54.35,75.45,YES
+Azithromycin,Azithromycin_I,3385,36,1017,91507,4438,4.63,22.92,NO
+Aztreonam,Aztreonam_I,19631,1166,7381,67767,28178,29.37,26.19,YES
+Cefepime,Cefepime_I,45707,4044,11849,34345,61600,64.2,19.24,YES
+Cefiderocol,Cefiderocol_I,3509,19,16,92401,3544,3.69,0.45,NO
+Cefixime,Cefixime_I,5273,164,2824,87684,8261,8.61,34.18,NO
+Cefoxitin,Cefoxitin_I,0,0,0,95945,0,0.0,,NO
+Cefpodoxime,Cefpodoxime_I,5295,120,2846,87684,8261,8.61,34.45,NO
+Ceftaroline,Ceftaroline_I,28911,1080,8203,57751,38194,39.81,21.48,YES
+Ceftazidime avibactam,Ceftazidime avibactam_I,27027,0,1139,67779,28166,29.36,4.04,YES
+Ceftazidime,Ceftazidime_I,34661,2231,11853,47200,48745,50.81,24.32,YES
+Ceftibuten,Ceftibuten_I,6840,344,1077,87684,8261,8.61,13.04,NO
+Ceftolozane tazobactam,Ceftolozane tazobactam_I,16759,298,1944,76944,19001,19.8,10.23,YES
+Ceftriaxone,Ceftriaxone_I,29015,978,7690,58262,37683,39.28,20.41,YES
+Ciprofloxacin,Ciprofloxacin_I,16539,1163,8893,69350,26595,27.72,33.44,YES
+Clarithromycin,Clarithromycin_I,2985,9,991,91960,3985,4.15,24.87,NO
+Clindamycin,Clindamycin_I,18589,154,3831,73371,22574,23.53,16.97,YES
+Colistin,Colistin_I,0,28612,1694,65639,30306,31.59,5.59,YES
+Daptomycin,Daptomycin_I,14833,1634,123,79355,16590,17.29,0.74,YES
+Doripenem,Doripenem_I,4687,62,259,90937,5008,5.22,5.17,YES
+Ertapenem,Ertapenem_I,0,0,0,95945,0,0.0,,NO
+Erythromycin,Erythromycin_I,13772,593,9941,71639,24306,25.33,40.9,YES
+Gentamicin,Gentamicin_I,28417,599,7542,59387,36558,38.1,20.63,YES
+Imipenem,Imipenem_I,30153,1180,4592,60020,35925,37.44,12.78,YES
+Levofloxacin,Levofloxacin_I,64701,3322,27920,2,95943,100.0,29.1,YES
+Linezolid,Linezolid_I,33795,35,74,62041,33904,35.34,0.22,YES
+Meropenem vaborbactam,Meropenem vaborbactam_I,13607,59,651,81628,14317,14.92,4.55,NO
+Meropenem,Meropenem_I,56959,1256,6352,31378,64567,67.3,9.84,YES
+Metronidazole,Metronidazole_I,0,0,0,95945,0,0.0,,NO
+Minocycline,Minocycline_I,33514,3217,3264,55950,39995,41.69,8.16,YES
+Moxifloxacin,Moxifloxacin_I,2748,251,1343,91603,4342,4.53,30.93,NO
+Oxacillin,Oxacillin_I,8490,0,6368,81087,14858,15.49,42.86,YES
+Penicillin,Penicillin_I,5965,1573,2392,86015,9930,10.35,24.09,YES
+Piperacillin tazobactam,Piperacillin tazobactam_I,48172,2615,11246,33912,62033,64.65,18.13,YES
+Quinupristin dalfopristin,Quinupristin dalfopristin_I,0,0,0,95945,0,0.0,,NO
+Teicoplanin,Teicoplanin_I,16177,64,349,79355,16590,17.29,2.1,YES
+Tetracycline,Tetracycline_I,0,0,0,95945,0,0.0,,NO
+Tigecycline,Tigecycline_I,81471,839,152,13483,82462,85.95,0.18,YES
+Trimethoprim sulfa,Trimethoprim sulfa_I,26190,0,10375,59380,36565,38.11,28.37,YES
+Vancomycin,Vancomycin_I,32914,36,954,62041,33904,35.34,2.81,YES

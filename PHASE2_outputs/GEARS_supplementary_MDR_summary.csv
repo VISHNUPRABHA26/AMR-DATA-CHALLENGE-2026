@@ -1,0 +1,18 @@
+Dataset,Organism,Age_Group,Total_N,MDR_Count,XDR_Count,MDR_Rate_%,XDR_Rate_%,Years,Note,CAZ_Rate_%,C_Rate_%,CIP_Rate_%,CL_Rate_%,FEP_Rate_%,GM_Rate_%,IPM_Rate_%,LVX_Rate_%,MEM_Rate_%,MI_Rate_%,SXT_Rate_%,TZP_Rate_%
+GEARS,Klebsiella pneumoniae,Pediatric,112,52,52,46.43,46.43,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,63.39,,,,60.71,46.43,,24.11,14.29,,,31.25
+GEARS,Klebsiella pneumoniae,Elderly,434,140,140,32.26,32.26,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,40.78,,,,36.87,25.12,,28.8,11.98,,,29.72
+GEARS,Klebsiella pneumoniae,All,546,192,192,35.16,35.16,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,45.42,,,,41.76,29.49,,27.84,12.45,,,30.04
+GEARS,Escherichia coli,Pediatric,81,5,5,6.17,6.17,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,23.46,,,,18.52,12.35,,27.16,0.0,,,6.17
+GEARS,Escherichia coli,Elderly,608,78,78,12.83,12.83,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,22.7,,,,20.72,13.82,,34.7,0.33,,,6.91
+GEARS,Escherichia coli,All,689,83,83,12.05,12.05,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,22.79,,,,20.46,13.64,,33.82,0.29,,,6.82
+GEARS,Pseudomonas aeruginosa,Pediatric,43,12,12,27.91,27.91,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,25.58,,16.28,,23.26,20.93,34.88,,20.93,,,32.56
+GEARS,Pseudomonas aeruginosa,Elderly,240,41,41,17.08,17.08,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,19.17,,14.58,,17.5,10.83,23.75,,12.92,,,22.5
+GEARS,Pseudomonas aeruginosa,All,283,53,53,18.73,18.73,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,20.14,,14.84,,18.37,12.37,25.44,,14.13,,,24.03
+GEARS,Enterobacter cloacae,Pediatric,19,4,4,21.05,21.05,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,26.32,,,,26.32,21.05,,10.53,10.53,,,15.79
+GEARS,Enterobacter cloacae,Elderly,66,8,8,12.12,12.12,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,39.39,,,,18.18,13.64,,10.61,1.52,,,31.82
+GEARS,Enterobacter cloacae,All,85,12,12,14.12,14.12,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,36.47,,,,20.0,15.29,,10.59,3.53,,,28.24
+GEARS,Serratia marcescens,Pediatric,28,3,3,10.71,10.71,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,14.29,,,,17.86,17.86,,0.0,10.71,,,10.71
+GEARS,Serratia marcescens,Elderly,56,7,7,12.5,12.5,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,17.86,,,,17.86,12.5,,7.14,0.0,,,10.71
+GEARS,Serratia marcescens,All,84,10,10,11.9,11.9,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,16.67,,,,17.86,14.29,,4.76,3.57,,,10.71
+GEARS,Citrobacter koseri,Elderly,28,1,1,3.57,3.57,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,7.14,,,,0.0,0.0,,3.57,0.0,,,3.57
+GEARS,Citrobacter koseri,All,28,1,1,3.57,3.57,2018-2022,GEARS-derived. 8 of 15 MDR classes available.,7.14,,,,0.0,0.0,,3.57,0.0,,,3.57

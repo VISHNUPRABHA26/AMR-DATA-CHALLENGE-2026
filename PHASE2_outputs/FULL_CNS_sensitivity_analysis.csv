@@ -1,0 +1,27 @@
+Organism,Source_Group,Total_N,MDR_Count,MDR_Rate_%
+Klebsiella pneumoniae,Blood_only,15506,7002,45.16
+Klebsiella pneumoniae,CNS_direct,94,36,38.3
+Acinetobacter baumannii,Blood_only,4060,2760,67.98
+Acinetobacter baumannii,CNS_direct,87,59,67.82
+Escherichia coli,Blood_only,22548,8551,37.92
+Escherichia coli,CNS_direct,127,34,26.77
+Staphylococcus aureus,Blood_only,17926,2348,13.1
+Staphylococcus aureus,CNS_direct,186,0,0.0
+Pseudomonas aeruginosa,Blood_only,9234,2456,26.6
+Pseudomonas aeruginosa,CNS_direct,94,14,14.89
+Enterobacter cloacae,Blood_only,5139,1583,30.8
+Enterobacter cloacae,CNS_direct,88,17,19.32
+Enterococcus faecium,Blood_only,3560,2371,66.6
+Enterococcus faecium,CNS_direct,38,15,39.47
+Staphylococcus epidermidis,Blood_only,4105,2284,55.64
+Staphylococcus epidermidis,CNS_direct,25,0,0.0
+Serratia marcescens,Blood_only,3218,1110,34.49
+Serratia marcescens,CNS_direct,52,6,11.54
+Citrobacter koseri,Blood_only,472,46,9.75
+Citrobacter koseri,CNS_direct,2,0,0.0
+Streptococcus pneumoniae,Blood_only,7696,1125,14.62
+Streptococcus pneumoniae,CNS_direct,368,55,14.95
+Haemophilus influenzae,Blood_only,1218,4,0.33
+Haemophilus influenzae,CNS_direct,94,0,0.0
+Salmonella spp,Blood_only,8,2,25.0
+Salmonella spp,CNS_direct,0,0,

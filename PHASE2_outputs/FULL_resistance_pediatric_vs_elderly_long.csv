@@ -1,0 +1,1119 @@
+Organism,Age_Group,Antibiotic,Resistant,Susceptible,Intermediate,Total_Tested,Resistance_Rate_%,Sufficient_Data
+Klebsiella pneumoniae,Pediatric,Amikacin,401,1879,130,2410,16.64,YES
+Klebsiella pneumoniae,Pediatric,Amoxycillin clavulanate,565,1386,459,2410,23.44,YES
+Klebsiella pneumoniae,Pediatric,Ampicillin sulbactam,608,390,194,1192,51.01,YES
+Klebsiella pneumoniae,Pediatric,Ampicillin,2260,24,126,2410,93.78,YES
+Klebsiella pneumoniae,Pediatric,Azithromycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Aztreonam,844,525,20,1389,60.76,YES
+Klebsiella pneumoniae,Pediatric,Cefepime,981,1194,235,2410,40.71,YES
+Klebsiella pneumoniae,Pediatric,Cefiderocol,0,208,0,208,0.0,YES
+Klebsiella pneumoniae,Pediatric,Cefixime,249,137,6,392,63.52,YES
+Klebsiella pneumoniae,Pediatric,Cefoxitin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Cefpodoxime,252,139,1,392,64.29,YES
+Klebsiella pneumoniae,Pediatric,Ceftaroline,927,445,17,1389,66.74,YES
+Klebsiella pneumoniae,Pediatric,Ceftazidime avibactam,149,1240,0,1389,10.73,YES
+Klebsiella pneumoniae,Pediatric,Ceftazidime,919,797,105,1821,50.47,YES
+Klebsiella pneumoniae,Pediatric,Ceftibuten,110,262,20,392,28.06,YES
+Klebsiella pneumoniae,Pediatric,Ceftolozane tazobactam,231,671,31,933,24.76,YES
+Klebsiella pneumoniae,Pediatric,Ceftriaxone,478,652,13,1143,41.82,YES
+Klebsiella pneumoniae,Pediatric,Ciprofloxacin,592,486,114,1192,49.66,YES
+Klebsiella pneumoniae,Pediatric,Clarithromycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Clindamycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Colistin,44,0,1345,1389,3.17,YES
+Klebsiella pneumoniae,Pediatric,Daptomycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Doripenem,12,185,0,197,6.09,YES
+Klebsiella pneumoniae,Pediatric,Ertapenem,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Erythromycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Gentamicin,567,616,9,1192,47.57,YES
+Klebsiella pneumoniae,Pediatric,Imipenem,223,1279,38,1540,14.48,YES
+Klebsiella pneumoniae,Pediatric,Levofloxacin,563,1583,264,2410,23.36,YES
+Klebsiella pneumoniae,Pediatric,Linezolid,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Meropenem vaborbactam,113,744,11,868,13.02,YES
+Klebsiella pneumoniae,Pediatric,Meropenem,259,1982,18,2259,11.47,YES
+Klebsiella pneumoniae,Pediatric,Metronidazole,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Minocycline,187,737,97,1021,18.32,YES
+Klebsiella pneumoniae,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Oxacillin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Penicillin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Piperacillin tazobactam,673,1536,201,2410,27.93,YES
+Klebsiella pneumoniae,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Teicoplanin,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Tetracycline,0,0,0,0,,NO
+Klebsiella pneumoniae,Pediatric,Tigecycline,7,2347,56,2410,0.29,YES
+Klebsiella pneumoniae,Pediatric,Trimethoprim sulfa,732,460,0,1192,61.41,YES
+Klebsiella pneumoniae,Pediatric,Vancomycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Amikacin,1238,11462,490,13190,9.39,YES
+Klebsiella pneumoniae,Elderly,Amoxycillin clavulanate,2737,8980,1473,13190,20.75,YES
+Klebsiella pneumoniae,Elderly,Ampicillin sulbactam,2523,3331,541,6395,39.45,YES
+Klebsiella pneumoniae,Elderly,Ampicillin,11779,267,1138,13184,89.34,YES
+Klebsiella pneumoniae,Elderly,Azithromycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Aztreonam,2832,4452,79,7363,38.46,YES
+Klebsiella pneumoniae,Elderly,Cefepime,3624,8858,708,13190,27.48,YES
+Klebsiella pneumoniae,Elderly,Cefiderocol,0,968,4,972,0.0,YES
+Klebsiella pneumoniae,Elderly,Cefixime,1226,1722,10,2958,41.45,YES
+Klebsiella pneumoniae,Elderly,Cefoxitin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Cefpodoxime,1242,1705,11,2958,41.99,YES
+Klebsiella pneumoniae,Elderly,Ceftaroline,3234,3979,150,7363,43.92,YES
+Klebsiella pneumoniae,Elderly,Ceftazidime avibactam,406,6957,0,7363,5.51,YES
+Klebsiella pneumoniae,Elderly,Ceftazidime,3435,6365,381,10181,33.74,YES
+Klebsiella pneumoniae,Elderly,Ceftibuten,611,2189,158,2958,20.66,YES
+Klebsiella pneumoniae,Elderly,Ceftolozane tazobactam,1127,3913,104,5144,21.91,YES
+Klebsiella pneumoniae,Elderly,Ceftriaxone,1780,4542,45,6367,27.96,YES
+Klebsiella pneumoniae,Elderly,Ciprofloxacin,2510,3498,387,6395,39.25,YES
+Klebsiella pneumoniae,Elderly,Clarithromycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Clindamycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Colistin,300,0,7063,7363,4.07,YES
+Klebsiella pneumoniae,Elderly,Daptomycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Doripenem,70,892,6,968,7.23,YES
+Klebsiella pneumoniae,Elderly,Ertapenem,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Erythromycin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Gentamicin,1588,4786,21,6395,24.83,YES
+Klebsiella pneumoniae,Elderly,Imipenem,1193,6811,204,8208,14.53,YES
+Klebsiella pneumoniae,Elderly,Levofloxacin,3764,8621,805,13190,28.54,YES
+Klebsiella pneumoniae,Elderly,Linezolid,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Meropenem vaborbactam,470,4367,34,4871,9.65,YES
+Klebsiella pneumoniae,Elderly,Meropenem,1429,10753,163,12345,11.58,YES
+Klebsiella pneumoniae,Elderly,Metronidazole,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Minocycline,899,4407,521,5827,15.43,YES
+Klebsiella pneumoniae,Elderly,Moxifloxacin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Oxacillin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Penicillin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Piperacillin tazobactam,3310,9211,669,13190,25.09,YES
+Klebsiella pneumoniae,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Teicoplanin,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Tetracycline,0,0,0,0,,NO
+Klebsiella pneumoniae,Elderly,Tigecycline,71,12725,394,13190,0.54,YES
+Klebsiella pneumoniae,Elderly,Trimethoprim sulfa,2654,3740,0,6394,41.51,YES
+Klebsiella pneumoniae,Elderly,Vancomycin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Amikacin,252,475,29,756,33.33,YES
+Acinetobacter baumannii,Pediatric,Amoxycillin clavulanate,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Ampicillin sulbactam,144,178,31,353,40.79,YES
+Acinetobacter baumannii,Pediatric,Ampicillin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Azithromycin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Aztreonam,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Cefepime,298,413,45,756,39.42,YES
+Acinetobacter baumannii,Pediatric,Cefiderocol,3,38,1,42,7.14,YES
+Acinetobacter baumannii,Pediatric,Cefixime,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Cefoxitin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Cefpodoxime,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Ceftaroline,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Ceftazidime avibactam,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Ceftazidime,322,405,29,756,42.59,YES
+Acinetobacter baumannii,Pediatric,Ceftibuten,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Ceftolozane tazobactam,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Ceftriaxone,130,130,126,386,33.68,YES
+Acinetobacter baumannii,Pediatric,Ciprofloxacin,193,157,3,353,54.67,YES
+Acinetobacter baumannii,Pediatric,Clarithromycin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Clindamycin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Colistin,6,0,369,375,1.6,YES
+Acinetobacter baumannii,Pediatric,Daptomycin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Doripenem,9,13,0,22,40.91,YES
+Acinetobacter baumannii,Pediatric,Ertapenem,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Erythromycin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Gentamicin,178,173,2,353,50.42,YES
+Acinetobacter baumannii,Pediatric,Imipenem,191,245,6,442,43.21,YES
+Acinetobacter baumannii,Pediatric,Levofloxacin,272,447,37,756,35.98,YES
+Acinetobacter baumannii,Pediatric,Linezolid,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Meropenem vaborbactam,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Meropenem,289,387,13,689,41.94,YES
+Acinetobacter baumannii,Pediatric,Metronidazole,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Minocycline,8,355,18,381,2.1,YES
+Acinetobacter baumannii,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Oxacillin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Penicillin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Piperacillin tazobactam,335,395,26,756,44.31,YES
+Acinetobacter baumannii,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Teicoplanin,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Tetracycline,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Tigecycline,0,0,0,0,,NO
+Acinetobacter baumannii,Pediatric,Trimethoprim sulfa,180,173,0,353,50.99,YES
+Acinetobacter baumannii,Pediatric,Vancomycin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Amikacin,1794,1451,146,3391,52.9,YES
+Acinetobacter baumannii,Elderly,Amoxycillin clavulanate,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Ampicillin sulbactam,936,462,277,1675,55.88,YES
+Acinetobacter baumannii,Elderly,Ampicillin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Azithromycin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Aztreonam,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Cefepime,2152,977,262,3391,63.46,YES
+Acinetobacter baumannii,Elderly,Cefiderocol,9,165,5,179,5.03,YES
+Acinetobacter baumannii,Elderly,Cefixime,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Cefoxitin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Cefpodoxime,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Ceftaroline,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Ceftazidime avibactam,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Ceftazidime,2324,946,121,3391,68.53,YES
+Acinetobacter baumannii,Elderly,Ceftibuten,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Ceftolozane tazobactam,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Ceftriaxone,1036,321,297,1654,62.64,YES
+Acinetobacter baumannii,Elderly,Ciprofloxacin,1288,374,13,1675,76.9,YES
+Acinetobacter baumannii,Elderly,Clarithromycin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Clindamycin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Colistin,57,0,1708,1765,3.23,YES
+Acinetobacter baumannii,Elderly,Daptomycin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Doripenem,63,27,0,90,70.0,YES
+Acinetobacter baumannii,Elderly,Ertapenem,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Erythromycin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Gentamicin,1108,511,56,1675,66.15,YES
+Acinetobacter baumannii,Elderly,Imipenem,1409,652,35,2096,67.22,YES
+Acinetobacter baumannii,Elderly,Levofloxacin,2123,980,288,3391,62.61,YES
+Acinetobacter baumannii,Elderly,Linezolid,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Meropenem vaborbactam,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Meropenem,2078,925,57,3060,67.91,YES
+Acinetobacter baumannii,Elderly,Metronidazole,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Minocycline,110,1308,208,1626,6.77,YES
+Acinetobacter baumannii,Elderly,Moxifloxacin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Oxacillin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Penicillin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Piperacillin tazobactam,2310,925,156,3391,68.12,YES
+Acinetobacter baumannii,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Teicoplanin,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Tetracycline,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Tigecycline,0,0,0,0,,NO
+Acinetobacter baumannii,Elderly,Trimethoprim sulfa,1070,605,0,1675,63.88,YES
+Acinetobacter baumannii,Elderly,Vancomycin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Amikacin,83,1674,148,1905,4.36,YES
+Escherichia coli,Pediatric,Amoxycillin clavulanate,194,1413,298,1905,10.18,YES
+Escherichia coli,Pediatric,Ampicillin sulbactam,143,468,137,748,19.12,YES
+Escherichia coli,Pediatric,Ampicillin,1312,579,14,1905,68.87,YES
+Escherichia coli,Pediatric,Azithromycin,0,1,0,1,,NO
+Escherichia coli,Pediatric,Aztreonam,238,607,33,878,27.11,YES
+Escherichia coli,Pediatric,Cefepime,304,1457,144,1905,15.96,YES
+Escherichia coli,Pediatric,Cefiderocol,1,106,0,107,0.93,YES
+Escherichia coli,Pediatric,Cefixime,90,152,5,247,36.44,YES
+Escherichia coli,Pediatric,Cefoxitin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Cefpodoxime,89,155,3,247,36.03,YES
+Escherichia coli,Pediatric,Ceftaroline,314,547,17,878,35.76,YES
+Escherichia coli,Pediatric,Ceftazidime avibactam,11,867,0,878,1.25,YES
+Escherichia coli,Pediatric,Ceftazidime,228,971,98,1297,17.58,YES
+Escherichia coli,Pediatric,Ceftibuten,20,218,9,247,8.1,YES
+Escherichia coli,Pediatric,Ceftolozane tazobactam,22,556,7,585,3.76,YES
+Escherichia coli,Pediatric,Ceftriaxone,241,855,6,1102,21.87,YES
+Escherichia coli,Pediatric,Ciprofloxacin,236,466,46,748,31.55,YES
+Escherichia coli,Pediatric,Clarithromycin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Clindamycin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Colistin,3,0,875,878,0.34,YES
+Escherichia coli,Pediatric,Daptomycin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Doripenem,2,128,0,130,1.54,YES
+Escherichia coli,Pediatric,Ertapenem,0,0,0,0,,NO
+Escherichia coli,Pediatric,Erythromycin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Gentamicin,137,605,6,748,18.32,YES
+Escherichia coli,Pediatric,Imipenem,14,1057,4,1075,1.3,YES
+Escherichia coli,Pediatric,Levofloxacin,508,1345,52,1905,26.67,YES
+Escherichia coli,Pediatric,Linezolid,0,0,0,0,,NO
+Escherichia coli,Pediatric,Meropenem vaborbactam,6,542,2,550,1.09,YES
+Escherichia coli,Pediatric,Meropenem,20,1685,3,1708,1.17,YES
+Escherichia coli,Pediatric,Metronidazole,0,0,0,0,,NO
+Escherichia coli,Pediatric,Minocycline,96,846,85,1027,9.35,YES
+Escherichia coli,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Oxacillin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Penicillin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Piperacillin tazobactam,158,1694,53,1905,8.29,YES
+Escherichia coli,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Teicoplanin,0,0,0,0,,NO
+Escherichia coli,Pediatric,Tetracycline,0,0,0,0,,NO
+Escherichia coli,Pediatric,Tigecycline,0,1903,2,1905,0.0,YES
+Escherichia coli,Pediatric,Trimethoprim sulfa,376,372,0,748,50.27,YES
+Escherichia coli,Pediatric,Vancomycin,0,0,0,0,,NO
+Escherichia coli,Elderly,Amikacin,547,18552,1671,20770,2.63,YES
+Escherichia coli,Elderly,Amoxycillin clavulanate,1833,15819,3118,20770,8.83,YES
+Escherichia coli,Elderly,Ampicillin sulbactam,1529,5953,1565,9047,16.9,YES
+Escherichia coli,Elderly,Ampicillin,12803,7789,178,20770,61.64,YES
+Escherichia coli,Elderly,Azithromycin,0,1,0,1,,NO
+Escherichia coli,Elderly,Aztreonam,2039,7939,433,10411,19.59,YES
+Escherichia coli,Elderly,Cefepime,2729,16853,1188,20770,13.14,YES
+Escherichia coli,Elderly,Cefiderocol,2,1258,5,1265,0.16,YES
+Escherichia coli,Elderly,Cefixime,1130,2813,88,4031,28.03,YES
+Escherichia coli,Elderly,Cefoxitin,0,0,0,0,,NO
+Escherichia coli,Elderly,Cefpodoxime,1136,2867,28,4031,28.18,YES
+Escherichia coli,Elderly,Ceftaroline,2956,7234,221,10411,28.39,YES
+Escherichia coli,Elderly,Ceftazidime avibactam,80,10331,0,10411,0.77,YES
+Escherichia coli,Elderly,Ceftazidime,2140,12612,813,15565,13.75,YES
+Escherichia coli,Elderly,Ceftibuten,295,3596,140,4031,7.32,YES
+Escherichia coli,Elderly,Ceftolozane tazobactam,184,6814,41,7039,2.61,YES
+Escherichia coli,Elderly,Ceftriaxone,1980,9054,88,11122,17.8,YES
+Escherichia coli,Elderly,Ciprofloxacin,3049,5649,349,9047,33.7,YES
+Escherichia coli,Elderly,Clarithromycin,0,0,0,0,,NO
+Escherichia coli,Elderly,Clindamycin,0,0,0,0,,NO
+Escherichia coli,Elderly,Colistin,56,0,10355,10411,0.54,YES
+Escherichia coli,Elderly,Daptomycin,0,0,0,0,,NO
+Escherichia coli,Elderly,Doripenem,6,1357,1,1364,0.44,YES
+Escherichia coli,Elderly,Ertapenem,0,0,0,0,,NO
+Escherichia coli,Elderly,Erythromycin,0,0,0,0,,NO
+Escherichia coli,Elderly,Gentamicin,1357,7634,56,9047,15.0,YES
+Escherichia coli,Elderly,Imipenem,116,11860,54,12030,0.96,YES
+Escherichia coli,Elderly,Levofloxacin,6785,13576,409,20770,32.67,YES
+Escherichia coli,Elderly,Linezolid,0,0,0,0,,NO
+Escherichia coli,Elderly,Meropenem vaborbactam,51,6625,5,6681,0.76,YES
+Escherichia coli,Elderly,Meropenem,119,19003,29,19151,0.62,YES
+Escherichia coli,Elderly,Metronidazole,0,0,0,0,,NO
+Escherichia coli,Elderly,Minocycline,952,8509,898,10359,9.19,YES
+Escherichia coli,Elderly,Moxifloxacin,0,0,0,0,,NO
+Escherichia coli,Elderly,Oxacillin,0,0,0,0,,NO
+Escherichia coli,Elderly,Penicillin,0,0,0,0,,NO
+Escherichia coli,Elderly,Piperacillin tazobactam,1292,18837,641,20770,6.22,YES
+Escherichia coli,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Escherichia coli,Elderly,Teicoplanin,0,0,0,0,,NO
+Escherichia coli,Elderly,Tetracycline,0,0,0,0,,NO
+Escherichia coli,Elderly,Tigecycline,4,20755,11,20770,0.02,YES
+Escherichia coli,Elderly,Trimethoprim sulfa,3443,5604,0,9047,38.06,YES
+Escherichia coli,Elderly,Vancomycin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Amikacin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Amoxycillin clavulanate,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ampicillin sulbactam,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ampicillin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Azithromycin,11,23,1,35,31.43,YES
+Staphylococcus aureus,Pediatric,Aztreonam,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Cefepime,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Cefiderocol,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Cefixime,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Cefoxitin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Cefpodoxime,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ceftaroline,1,1642,18,1661,0.06,YES
+Staphylococcus aureus,Pediatric,Ceftazidime avibactam,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ceftazidime,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ceftibuten,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ceftolozane tazobactam,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ceftriaxone,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ciprofloxacin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Clarithromycin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Clindamycin,142,1515,4,1661,8.55,YES
+Staphylococcus aureus,Pediatric,Colistin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Daptomycin,0,1660,1,1661,0.0,YES
+Staphylococcus aureus,Pediatric,Doripenem,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Ertapenem,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Erythromycin,532,1076,53,1661,32.03,YES
+Staphylococcus aureus,Pediatric,Gentamicin,125,1501,35,1661,7.53,YES
+Staphylococcus aureus,Pediatric,Imipenem,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Levofloxacin,417,2280,27,2724,15.31,YES
+Staphylococcus aureus,Pediatric,Linezolid,2,2722,0,2724,0.07,YES
+Staphylococcus aureus,Pediatric,Meropenem vaborbactam,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Meropenem,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Metronidazole,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Minocycline,9,1375,15,1399,0.64,YES
+Staphylococcus aureus,Pediatric,Moxifloxacin,60,269,7,336,17.86,YES
+Staphylococcus aureus,Pediatric,Oxacillin,497,1164,0,1661,29.92,YES
+Staphylococcus aureus,Pediatric,Penicillin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Piperacillin tazobactam,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Teicoplanin,2,1659,0,1661,0.12,YES
+Staphylococcus aureus,Pediatric,Tetracycline,0,0,0,0,,NO
+Staphylococcus aureus,Pediatric,Tigecycline,0,2719,5,2724,0.0,YES
+Staphylococcus aureus,Pediatric,Trimethoprim sulfa,47,1614,0,1661,2.83,YES
+Staphylococcus aureus,Pediatric,Vancomycin,1,2723,0,2724,0.04,YES
+Staphylococcus aureus,Elderly,Amikacin,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Amoxycillin clavulanate,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ampicillin sulbactam,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ampicillin,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Azithromycin,10,37,1,48,20.83,YES
+Staphylococcus aureus,Elderly,Aztreonam,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Cefepime,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Cefiderocol,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Cefixime,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Cefoxitin,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Cefpodoxime,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ceftaroline,4,9408,270,9682,0.04,YES
+Staphylococcus aureus,Elderly,Ceftazidime avibactam,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ceftazidime,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ceftibuten,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ceftolozane tazobactam,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ceftriaxone,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ciprofloxacin,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Clarithromycin,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Clindamycin,1147,8513,22,9682,11.85,YES
+Staphylococcus aureus,Elderly,Colistin,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Daptomycin,0,9661,21,9682,0.0,YES
+Staphylococcus aureus,Elderly,Doripenem,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Ertapenem,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Erythromycin,3683,5752,247,9682,38.04,YES
+Staphylococcus aureus,Elderly,Gentamicin,809,8750,123,9682,8.36,YES
+Staphylococcus aureus,Elderly,Imipenem,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Levofloxacin,4978,10302,108,15388,32.35,YES
+Staphylococcus aureus,Elderly,Linezolid,0,15388,0,15388,0.0,YES
+Staphylococcus aureus,Elderly,Meropenem vaborbactam,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Meropenem,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Metronidazole,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Minocycline,98,7351,132,7581,1.29,YES
+Staphylococcus aureus,Elderly,Moxifloxacin,910,922,43,1875,48.53,YES
+Staphylococcus aureus,Elderly,Oxacillin,3184,6498,0,9682,32.89,YES
+Staphylococcus aureus,Elderly,Penicillin,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Piperacillin tazobactam,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Teicoplanin,0,9681,1,9682,0.0,YES
+Staphylococcus aureus,Elderly,Tetracycline,0,0,0,0,,NO
+Staphylococcus aureus,Elderly,Tigecycline,0,15356,32,15388,0.0,YES
+Staphylococcus aureus,Elderly,Trimethoprim sulfa,141,9541,0,9682,1.46,YES
+Staphylococcus aureus,Elderly,Vancomycin,0,15388,0,15388,0.0,YES
+Pseudomonas aeruginosa,Pediatric,Amikacin,102,1020,29,1151,8.86,YES
+Pseudomonas aeruginosa,Pediatric,Amoxycillin clavulanate,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Ampicillin sulbactam,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Ampicillin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Azithromycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Aztreonam,102,456,77,635,16.06,YES
+Pseudomonas aeruginosa,Pediatric,Cefepime,132,943,76,1151,11.47,YES
+Pseudomonas aeruginosa,Pediatric,Cefiderocol,0,61,1,62,0.0,YES
+Pseudomonas aeruginosa,Pediatric,Cefixime,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Cefoxitin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Cefpodoxime,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Ceftaroline,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Ceftazidime avibactam,64,571,0,635,10.08,YES
+Pseudomonas aeruginosa,Pediatric,Ceftazidime,183,910,58,1151,15.9,YES
+Pseudomonas aeruginosa,Pediatric,Ceftibuten,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Ceftolozane tazobactam,39,370,6,415,9.4,YES
+Pseudomonas aeruginosa,Pediatric,Ceftriaxone,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Ciprofloxacin,78,426,21,525,14.86,YES
+Pseudomonas aeruginosa,Pediatric,Clarithromycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Clindamycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Colistin,5,0,630,635,0.79,YES
+Pseudomonas aeruginosa,Pediatric,Daptomycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Doripenem,17,85,8,110,15.45,YES
+Pseudomonas aeruginosa,Pediatric,Ertapenem,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Erythromycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Gentamicin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Imipenem,183,465,73,721,25.38,YES
+Pseudomonas aeruginosa,Pediatric,Levofloxacin,201,860,90,1151,17.46,YES
+Pseudomonas aeruginosa,Pediatric,Linezolid,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Meropenem vaborbactam,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Meropenem,217,761,87,1065,20.38,YES
+Pseudomonas aeruginosa,Pediatric,Metronidazole,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Minocycline,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Oxacillin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Penicillin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Piperacillin tazobactam,181,906,64,1151,15.73,YES
+Pseudomonas aeruginosa,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Teicoplanin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Tetracycline,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Tigecycline,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Trimethoprim sulfa,0,0,0,0,,NO
+Pseudomonas aeruginosa,Pediatric,Vancomycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Amikacin,425,7586,166,8177,5.2,YES
+Pseudomonas aeruginosa,Elderly,Amoxycillin clavulanate,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Ampicillin sulbactam,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Ampicillin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Azithromycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Aztreonam,818,3517,509,4844,16.89,YES
+Pseudomonas aeruginosa,Elderly,Cefepime,819,6634,724,8177,10.02,YES
+Pseudomonas aeruginosa,Elderly,Cefiderocol,1,500,3,504,0.2,YES
+Pseudomonas aeruginosa,Elderly,Cefixime,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Cefoxitin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Cefpodoxime,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Ceftaroline,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Ceftazidime avibactam,367,4477,0,4844,7.58,YES
+Pseudomonas aeruginosa,Elderly,Ceftazidime,1220,6545,412,8177,14.92,YES
+Pseudomonas aeruginosa,Elderly,Ceftibuten,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Ceftolozane tazobactam,236,3139,65,3440,6.86,YES
+Pseudomonas aeruginosa,Elderly,Ceftriaxone,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Ciprofloxacin,650,3570,142,4362,14.9,YES
+Pseudomonas aeruginosa,Elderly,Clarithromycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Clindamycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Colistin,32,0,4812,4844,0.66,YES
+Pseudomonas aeruginosa,Elderly,Daptomycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Doripenem,69,382,31,482,14.32,YES
+Pseudomonas aeruginosa,Elderly,Ertapenem,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Erythromycin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Gentamicin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Imipenem,1109,3740,489,5338,20.78,YES
+Pseudomonas aeruginosa,Elderly,Levofloxacin,1858,5697,621,8176,22.73,YES
+Pseudomonas aeruginosa,Elderly,Linezolid,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Meropenem vaborbactam,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Meropenem,1254,6015,414,7683,16.32,YES
+Pseudomonas aeruginosa,Elderly,Metronidazole,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Minocycline,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Moxifloxacin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Oxacillin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Penicillin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Piperacillin tazobactam,1360,6343,474,8177,16.63,YES
+Pseudomonas aeruginosa,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Teicoplanin,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Tetracycline,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Tigecycline,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Trimethoprim sulfa,0,0,0,0,,NO
+Pseudomonas aeruginosa,Elderly,Vancomycin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Amikacin,70,978,32,1080,6.48,YES
+Enterobacter cloacae,Pediatric,Amoxycillin clavulanate,1001,48,31,1080,92.69,YES
+Enterobacter cloacae,Pediatric,Ampicillin sulbactam,115,58,32,205,56.1,YES
+Enterobacter cloacae,Pediatric,Ampicillin,953,56,69,1078,88.4,YES
+Enterobacter cloacae,Pediatric,Azithromycin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Aztreonam,97,153,2,252,38.49,YES
+Enterobacter cloacae,Pediatric,Cefepime,135,840,105,1080,12.5,YES
+Enterobacter cloacae,Pediatric,Cefiderocol,0,10,0,10,0.0,YES
+Enterobacter cloacae,Pediatric,Cefixime,11,1,3,15,73.33,YES
+Enterobacter cloacae,Pediatric,Cefoxitin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Cefpodoxime,8,6,1,15,53.33,YES
+Enterobacter cloacae,Pediatric,Ceftaroline,115,131,6,252,45.63,YES
+Enterobacter cloacae,Pediatric,Ceftazidime avibactam,11,241,0,252,4.37,YES
+Enterobacter cloacae,Pediatric,Ceftazidime,190,372,22,584,32.53,YES
+Enterobacter cloacae,Pediatric,Ceftibuten,4,9,2,15,26.67,YES
+Enterobacter cloacae,Pediatric,Ceftolozane tazobactam,10,85,5,100,10.0,YES
+Enterobacter cloacae,Pediatric,Ceftriaxone,333,509,9,851,39.13,YES
+Enterobacter cloacae,Pediatric,Ciprofloxacin,41,147,17,205,20.0,YES
+Enterobacter cloacae,Pediatric,Clarithromycin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Clindamycin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Colistin,25,0,227,252,9.92,YES
+Enterobacter cloacae,Pediatric,Daptomycin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Doripenem,0,47,0,47,0.0,YES
+Enterobacter cloacae,Pediatric,Ertapenem,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Erythromycin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Gentamicin,50,155,0,205,24.39,YES
+Enterobacter cloacae,Pediatric,Imipenem,16,396,10,422,3.79,YES
+Enterobacter cloacae,Pediatric,Levofloxacin,87,944,49,1080,8.06,YES
+Enterobacter cloacae,Pediatric,Linezolid,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Meropenem vaborbactam,3,86,0,89,3.37,YES
+Enterobacter cloacae,Pediatric,Meropenem,28,876,6,910,3.08,YES
+Enterobacter cloacae,Pediatric,Metronidazole,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Minocycline,88,625,115,828,10.63,YES
+Enterobacter cloacae,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Oxacillin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Penicillin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Piperacillin tazobactam,252,777,51,1080,23.33,YES
+Enterobacter cloacae,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Teicoplanin,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Tetracycline,0,0,0,0,,NO
+Enterobacter cloacae,Pediatric,Tigecycline,6,1054,20,1080,0.56,YES
+Enterobacter cloacae,Pediatric,Trimethoprim sulfa,60,145,0,205,29.27,YES
+Enterobacter cloacae,Pediatric,Vancomycin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Amikacin,163,3850,134,4147,3.93,YES
+Enterobacter cloacae,Elderly,Amoxycillin clavulanate,3869,127,151,4147,93.3,YES
+Enterobacter cloacae,Elderly,Ampicillin sulbactam,406,213,118,737,55.09,YES
+Enterobacter cloacae,Elderly,Ampicillin,3629,198,314,4141,87.64,YES
+Enterobacter cloacae,Elderly,Azithromycin,0,4,0,4,,NO
+Enterobacter cloacae,Elderly,Aztreonam,287,624,7,918,31.26,YES
+Enterobacter cloacae,Elderly,Cefepime,443,3266,438,4147,10.68,YES
+Enterobacter cloacae,Elderly,Cefiderocol,0,18,0,18,0.0,YES
+Enterobacter cloacae,Elderly,Cefixime,54,13,25,92,58.7,YES
+Enterobacter cloacae,Elderly,Cefoxitin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Cefpodoxime,39,34,19,92,42.39,YES
+Enterobacter cloacae,Elderly,Ceftaroline,347,534,37,918,37.8,YES
+Enterobacter cloacae,Elderly,Ceftazidime avibactam,31,887,0,918,3.38,YES
+Enterobacter cloacae,Elderly,Ceftazidime,757,1492,119,2368,31.97,YES
+Enterobacter cloacae,Elderly,Ceftibuten,23,66,3,92,25.0,YES
+Enterobacter cloacae,Elderly,Ceftolozane tazobactam,57,283,22,362,15.75,YES
+Enterobacter cloacae,Elderly,Ceftriaxone,1255,1994,83,3332,37.67,YES
+Enterobacter cloacae,Elderly,Ciprofloxacin,137,578,22,737,18.59,YES
+Enterobacter cloacae,Elderly,Clarithromycin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Clindamycin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Colistin,119,0,799,918,12.96,YES
+Enterobacter cloacae,Elderly,Daptomycin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Doripenem,9,171,1,181,4.97,YES
+Enterobacter cloacae,Elderly,Ertapenem,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Erythromycin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Gentamicin,92,638,7,737,12.48,YES
+Enterobacter cloacae,Elderly,Imipenem,54,1308,49,1411,3.83,YES
+Enterobacter cloacae,Elderly,Levofloxacin,635,3363,149,4147,15.31,YES
+Enterobacter cloacae,Elderly,Linezolid,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Meropenem vaborbactam,2,308,5,315,0.63,YES
+Enterobacter cloacae,Elderly,Meropenem,97,3532,25,3654,2.65,YES
+Enterobacter cloacae,Elderly,Metronidazole,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Minocycline,389,2428,412,3229,12.05,YES
+Enterobacter cloacae,Elderly,Moxifloxacin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Oxacillin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Penicillin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Piperacillin tazobactam,1074,2891,182,4147,25.9,YES
+Enterobacter cloacae,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Teicoplanin,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Tetracycline,0,0,0,0,,NO
+Enterobacter cloacae,Elderly,Tigecycline,31,3990,126,4147,0.75,YES
+Enterobacter cloacae,Elderly,Trimethoprim sulfa,148,589,0,737,20.08,YES
+Enterobacter cloacae,Elderly,Vancomycin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Amikacin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Amoxycillin clavulanate,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ampicillin sulbactam,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ampicillin,265,87,0,352,75.28,YES
+Enterococcus faecium,Pediatric,Azithromycin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Aztreonam,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Cefepime,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Cefiderocol,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Cefixime,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Cefoxitin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Cefpodoxime,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ceftaroline,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ceftazidime avibactam,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ceftazidime,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ceftibuten,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ceftolozane tazobactam,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ceftriaxone,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ciprofloxacin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Clarithromycin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Clindamycin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Colistin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Daptomycin,15,0,150,165,9.09,YES
+Enterococcus faecium,Pediatric,Doripenem,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Ertapenem,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Erythromycin,123,11,31,165,74.55,YES
+Enterococcus faecium,Pediatric,Gentamicin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Imipenem,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Levofloxacin,232,108,11,351,66.1,YES
+Enterococcus faecium,Pediatric,Linezolid,4,348,0,352,1.14,YES
+Enterococcus faecium,Pediatric,Meropenem vaborbactam,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Meropenem,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Metronidazole,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Minocycline,31,128,40,199,15.58,YES
+Enterococcus faecium,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Oxacillin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Penicillin,137,50,0,187,73.26,YES
+Enterococcus faecium,Pediatric,Piperacillin tazobactam,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Teicoplanin,33,129,3,165,20.0,YES
+Enterococcus faecium,Pediatric,Tetracycline,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Tigecycline,0,351,1,352,0.0,YES
+Enterococcus faecium,Pediatric,Trimethoprim sulfa,0,0,0,0,,NO
+Enterococcus faecium,Pediatric,Vancomycin,87,258,7,352,24.72,YES
+Enterococcus faecium,Elderly,Amikacin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Amoxycillin clavulanate,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ampicillin sulbactam,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ampicillin,2828,418,0,3246,87.12,YES
+Enterococcus faecium,Elderly,Azithromycin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Aztreonam,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Cefepime,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Cefiderocol,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Cefixime,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Cefoxitin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Cefpodoxime,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ceftaroline,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ceftazidime avibactam,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ceftazidime,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ceftibuten,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ceftolozane tazobactam,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ceftriaxone,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ciprofloxacin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Clarithromycin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Clindamycin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Colistin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Daptomycin,108,0,1459,1567,6.89,YES
+Enterococcus faecium,Elderly,Doripenem,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Ertapenem,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Erythromycin,1310,79,178,1567,83.6,YES
+Enterococcus faecium,Elderly,Gentamicin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Imipenem,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Levofloxacin,2806,354,86,3246,86.44,YES
+Enterococcus faecium,Elderly,Linezolid,8,3203,35,3246,0.25,YES
+Enterococcus faecium,Elderly,Meropenem vaborbactam,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Meropenem,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Metronidazole,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Minocycline,234,1207,327,1768,13.24,YES
+Enterococcus faecium,Elderly,Moxifloxacin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Oxacillin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Penicillin,1448,231,0,1679,86.24,YES
+Enterococcus faecium,Elderly,Piperacillin tazobactam,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Teicoplanin,309,1242,16,1567,19.72,YES
+Enterococcus faecium,Elderly,Tetracycline,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Tigecycline,0,3207,39,3246,0.0,YES
+Enterococcus faecium,Elderly,Trimethoprim sulfa,0,0,0,0,,NO
+Enterococcus faecium,Elderly,Vancomycin,865,2354,27,3246,26.65,YES
+Staphylococcus epidermidis,Pediatric,Amikacin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Amoxycillin clavulanate,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ampicillin sulbactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ampicillin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Azithromycin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Aztreonam,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Cefepime,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Cefiderocol,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Cefixime,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Cefoxitin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Cefpodoxime,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ceftaroline,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ceftazidime avibactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ceftazidime,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ceftibuten,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ceftolozane tazobactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ceftriaxone,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ciprofloxacin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Clarithromycin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Clindamycin,321,511,27,859,37.37,YES
+Staphylococcus epidermidis,Pediatric,Colistin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Daptomycin,0,858,1,859,0.0,YES
+Staphylococcus epidermidis,Pediatric,Doripenem,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Ertapenem,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Erythromycin,631,215,13,859,73.46,YES
+Staphylococcus epidermidis,Pediatric,Gentamicin,389,392,78,859,45.29,YES
+Staphylococcus epidermidis,Pediatric,Imipenem,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Levofloxacin,408,529,28,965,42.28,YES
+Staphylococcus epidermidis,Pediatric,Linezolid,6,959,0,965,0.62,YES
+Staphylococcus epidermidis,Pediatric,Meropenem vaborbactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Meropenem,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Metronidazole,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Minocycline,0,356,0,356,0.0,YES
+Staphylococcus epidermidis,Pediatric,Moxifloxacin,83,144,23,250,33.2,YES
+Staphylococcus epidermidis,Pediatric,Oxacillin,690,169,0,859,80.33,YES
+Staphylococcus epidermidis,Pediatric,Penicillin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Piperacillin tazobactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Teicoplanin,0,849,10,859,0.0,YES
+Staphylococcus epidermidis,Pediatric,Tetracycline,0,0,0,0,,NO
+Staphylococcus epidermidis,Pediatric,Tigecycline,0,955,10,965,0.0,YES
+Staphylococcus epidermidis,Pediatric,Trimethoprim sulfa,334,525,0,859,38.88,YES
+Staphylococcus epidermidis,Pediatric,Vancomycin,0,964,1,965,0.0,YES
+Staphylococcus epidermidis,Elderly,Amikacin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Amoxycillin clavulanate,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ampicillin sulbactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ampicillin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Azithromycin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Aztreonam,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Cefepime,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Cefiderocol,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Cefixime,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Cefoxitin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Cefpodoxime,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ceftaroline,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ceftazidime avibactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ceftazidime,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ceftibuten,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ceftolozane tazobactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ceftriaxone,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ciprofloxacin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Clarithromycin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Clindamycin,1023,1553,80,2656,38.52,YES
+Staphylococcus epidermidis,Elderly,Colistin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Daptomycin,0,2654,2,2656,0.0,YES
+Staphylococcus epidermidis,Elderly,Doripenem,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Ertapenem,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Erythromycin,1742,864,50,2656,65.59,YES
+Staphylococcus epidermidis,Elderly,Gentamicin,1062,1405,189,2656,39.98,YES
+Staphylococcus epidermidis,Elderly,Imipenem,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Levofloxacin,1953,1122,90,3165,61.71,YES
+Staphylococcus epidermidis,Elderly,Linezolid,54,3111,0,3165,1.71,YES
+Staphylococcus epidermidis,Elderly,Meropenem vaborbactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Meropenem,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Metronidazole,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Minocycline,1,1171,2,1174,0.09,YES
+Staphylococcus epidermidis,Elderly,Moxifloxacin,284,208,173,665,42.71,YES
+Staphylococcus epidermidis,Elderly,Oxacillin,1997,659,0,2656,75.19,YES
+Staphylococcus epidermidis,Elderly,Penicillin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Piperacillin tazobactam,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Teicoplanin,5,2617,34,2656,0.19,YES
+Staphylococcus epidermidis,Elderly,Tetracycline,0,0,0,0,,NO
+Staphylococcus epidermidis,Elderly,Tigecycline,0,3149,16,3165,0.0,YES
+Staphylococcus epidermidis,Elderly,Trimethoprim sulfa,1090,1566,0,2656,41.04,YES
+Staphylococcus epidermidis,Elderly,Vancomycin,1,3163,1,3165,0.03,YES
+Serratia marcescens,Pediatric,Amikacin,73,497,42,612,11.93,YES
+Serratia marcescens,Pediatric,Amoxycillin clavulanate,558,25,29,612,91.18,YES
+Serratia marcescens,Pediatric,Ampicillin sulbactam,87,50,42,179,48.6,YES
+Serratia marcescens,Pediatric,Ampicillin,532,33,47,612,86.93,YES
+Serratia marcescens,Pediatric,Azithromycin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Aztreonam,33,166,1,200,16.5,YES
+Serratia marcescens,Pediatric,Cefepime,89,504,19,612,14.54,YES
+Serratia marcescens,Pediatric,Cefiderocol,0,17,0,17,0.0,YES
+Serratia marcescens,Pediatric,Cefixime,11,26,5,42,26.19,YES
+Serratia marcescens,Pediatric,Cefoxitin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Cefpodoxime,15,20,7,42,35.71,YES
+Serratia marcescens,Pediatric,Ceftaroline,59,87,54,200,29.5,YES
+Serratia marcescens,Pediatric,Ceftazidime avibactam,10,190,0,200,5.0,YES
+Serratia marcescens,Pediatric,Ceftazidime,48,320,8,376,12.77,YES
+Serratia marcescens,Pediatric,Ceftibuten,5,34,3,42,11.9,YES
+Serratia marcescens,Pediatric,Ceftolozane tazobactam,9,91,5,105,8.57,YES
+Serratia marcescens,Pediatric,Ceftriaxone,95,316,15,426,22.3,YES
+Serratia marcescens,Pediatric,Ciprofloxacin,23,149,7,179,12.85,YES
+Serratia marcescens,Pediatric,Clarithromycin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Clindamycin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Colistin,199,0,1,200,99.5,YES
+Serratia marcescens,Pediatric,Daptomycin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Doripenem,0,21,0,21,0.0,YES
+Serratia marcescens,Pediatric,Ertapenem,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Erythromycin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Gentamicin,32,143,4,179,17.88,YES
+Serratia marcescens,Pediatric,Imipenem,19,231,16,266,7.14,YES
+Serratia marcescens,Pediatric,Levofloxacin,37,553,22,612,6.05,YES
+Serratia marcescens,Pediatric,Linezolid,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Meropenem vaborbactam,3,96,1,100,3.0,YES
+Serratia marcescens,Pediatric,Meropenem,18,524,4,546,3.3,YES
+Serratia marcescens,Pediatric,Metronidazole,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Minocycline,31,319,62,412,7.52,YES
+Serratia marcescens,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Oxacillin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Penicillin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Piperacillin tazobactam,72,529,11,612,11.76,YES
+Serratia marcescens,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Teicoplanin,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Tetracycline,0,0,0,0,,NO
+Serratia marcescens,Pediatric,Tigecycline,6,588,18,612,0.98,YES
+Serratia marcescens,Pediatric,Trimethoprim sulfa,25,154,0,179,13.97,YES
+Serratia marcescens,Pediatric,Vancomycin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Amikacin,131,2402,125,2658,4.93,YES
+Serratia marcescens,Elderly,Amoxycillin clavulanate,2439,80,139,2658,91.76,YES
+Serratia marcescens,Elderly,Ampicillin sulbactam,388,249,203,840,46.19,YES
+Serratia marcescens,Elderly,Ampicillin,2273,132,248,2653,85.68,YES
+Serratia marcescens,Elderly,Azithromycin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Aztreonam,77,814,3,894,8.61,YES
+Serratia marcescens,Elderly,Cefepime,140,2436,82,2658,5.27,YES
+Serratia marcescens,Elderly,Cefiderocol,0,101,0,101,0.0,YES
+Serratia marcescens,Elderly,Cefixime,45,248,21,314,14.33,YES
+Serratia marcescens,Elderly,Cefoxitin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Cefpodoxime,56,210,48,314,17.83,YES
+Serratia marcescens,Elderly,Ceftaroline,224,395,275,894,25.06,YES
+Serratia marcescens,Elderly,Ceftazidime avibactam,8,886,0,894,0.89,YES
+Serratia marcescens,Elderly,Ceftazidime,74,1607,61,1742,4.25,YES
+Serratia marcescens,Elderly,Ceftibuten,8,298,8,314,2.55,YES
+Serratia marcescens,Elderly,Ceftolozane tazobactam,27,558,12,597,4.52,YES
+Serratia marcescens,Elderly,Ceftriaxone,299,1427,71,1797,16.64,YES
+Serratia marcescens,Elderly,Ciprofloxacin,89,719,32,840,10.6,YES
+Serratia marcescens,Elderly,Clarithromycin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Clindamycin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Colistin,845,0,49,894,94.52,YES
+Serratia marcescens,Elderly,Daptomycin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Doripenem,2,52,0,54,3.7,YES
+Serratia marcescens,Elderly,Ertapenem,0,0,0,0,,NO
+Serratia marcescens,Elderly,Erythromycin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Gentamicin,46,781,13,840,5.48,YES
+Serratia marcescens,Elderly,Imipenem,47,1038,79,1164,4.04,YES
+Serratia marcescens,Elderly,Levofloxacin,247,2267,144,2658,9.29,YES
+Serratia marcescens,Elderly,Linezolid,0,0,0,0,,NO
+Serratia marcescens,Elderly,Meropenem vaborbactam,3,577,1,581,0.52,YES
+Serratia marcescens,Elderly,Meropenem,66,2312,10,2388,2.76,YES
+Serratia marcescens,Elderly,Metronidazole,0,0,0,0,,NO
+Serratia marcescens,Elderly,Minocycline,126,1364,274,1764,7.14,YES
+Serratia marcescens,Elderly,Moxifloxacin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Oxacillin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Penicillin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Piperacillin tazobactam,212,2369,77,2658,7.98,YES
+Serratia marcescens,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Teicoplanin,0,0,0,0,,NO
+Serratia marcescens,Elderly,Tetracycline,0,0,0,0,,NO
+Serratia marcescens,Elderly,Tigecycline,27,2568,63,2658,1.02,YES
+Serratia marcescens,Elderly,Trimethoprim sulfa,67,773,0,840,7.98,YES
+Serratia marcescens,Elderly,Vancomycin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Amikacin,0,16,0,16,0.0,YES
+Citrobacter koseri,Pediatric,Amoxycillin clavulanate,1,14,1,16,6.25,YES
+Citrobacter koseri,Pediatric,Ampicillin sulbactam,2,6,0,8,,NO
+Citrobacter koseri,Pediatric,Ampicillin,16,0,0,16,100.0,YES
+Citrobacter koseri,Pediatric,Azithromycin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Aztreonam,1,10,0,11,9.09,YES
+Citrobacter koseri,Pediatric,Cefepime,0,15,1,16,0.0,YES
+Citrobacter koseri,Pediatric,Cefiderocol,0,2,0,2,,NO
+Citrobacter koseri,Pediatric,Cefixime,1,3,0,4,,NO
+Citrobacter koseri,Pediatric,Cefoxitin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Cefpodoxime,1,3,0,4,,NO
+Citrobacter koseri,Pediatric,Ceftaroline,1,10,0,11,9.09,YES
+Citrobacter koseri,Pediatric,Ceftazidime avibactam,0,11,0,11,0.0,YES
+Citrobacter koseri,Pediatric,Ceftazidime,0,16,0,16,0.0,YES
+Citrobacter koseri,Pediatric,Ceftibuten,0,4,0,4,,NO
+Citrobacter koseri,Pediatric,Ceftolozane tazobactam,0,6,0,6,,NO
+Citrobacter koseri,Pediatric,Ceftriaxone,0,7,0,7,,NO
+Citrobacter koseri,Pediatric,Ciprofloxacin,0,8,0,8,,NO
+Citrobacter koseri,Pediatric,Clarithromycin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Clindamycin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Colistin,1,0,10,11,9.09,YES
+Citrobacter koseri,Pediatric,Daptomycin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Doripenem,0,3,0,3,,NO
+Citrobacter koseri,Pediatric,Ertapenem,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Erythromycin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Gentamicin,0,8,0,8,,NO
+Citrobacter koseri,Pediatric,Imipenem,0,10,1,11,0.0,YES
+Citrobacter koseri,Pediatric,Levofloxacin,0,15,1,16,0.0,YES
+Citrobacter koseri,Pediatric,Linezolid,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Meropenem vaborbactam,0,6,0,6,,NO
+Citrobacter koseri,Pediatric,Meropenem,0,16,0,16,0.0,YES
+Citrobacter koseri,Pediatric,Metronidazole,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Minocycline,0,5,0,5,,NO
+Citrobacter koseri,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Oxacillin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Penicillin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Piperacillin tazobactam,0,16,0,16,0.0,YES
+Citrobacter koseri,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Teicoplanin,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Tetracycline,0,0,0,0,,NO
+Citrobacter koseri,Pediatric,Tigecycline,0,16,0,16,0.0,YES
+Citrobacter koseri,Pediatric,Trimethoprim sulfa,1,7,0,8,,NO
+Citrobacter koseri,Pediatric,Vancomycin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Amikacin,3,454,1,458,0.66,YES
+Citrobacter koseri,Elderly,Amoxycillin clavulanate,12,442,4,458,2.62,YES
+Citrobacter koseri,Elderly,Ampicillin sulbactam,13,305,3,321,4.05,YES
+Citrobacter koseri,Elderly,Ampicillin,431,3,24,458,94.1,YES
+Citrobacter koseri,Elderly,Azithromycin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Aztreonam,13,356,2,371,3.5,YES
+Citrobacter koseri,Elderly,Cefepime,3,448,7,458,0.66,YES
+Citrobacter koseri,Elderly,Cefiderocol,0,57,0,57,0.0,YES
+Citrobacter koseri,Elderly,Cefixime,7,158,1,166,4.22,YES
+Citrobacter koseri,Elderly,Cefoxitin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Cefpodoxime,8,156,2,166,4.82,YES
+Citrobacter koseri,Elderly,Ceftaroline,21,342,8,371,5.66,YES
+Citrobacter koseri,Elderly,Ceftazidime avibactam,2,369,0,371,0.54,YES
+Citrobacter koseri,Elderly,Ceftazidime,13,441,4,458,2.84,YES
+Citrobacter koseri,Elderly,Ceftibuten,1,164,1,166,0.6,YES
+Citrobacter koseri,Elderly,Ceftolozane tazobactam,2,273,0,275,0.73,YES
+Citrobacter koseri,Elderly,Ceftriaxone,3,117,0,120,2.5,YES
+Citrobacter koseri,Elderly,Ciprofloxacin,7,310,4,321,2.18,YES
+Citrobacter koseri,Elderly,Clarithromycin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Clindamycin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Colistin,2,0,369,371,0.54,YES
+Citrobacter koseri,Elderly,Daptomycin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Doripenem,0,50,0,50,0.0,YES
+Citrobacter koseri,Elderly,Ertapenem,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Erythromycin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Gentamicin,2,319,0,321,0.62,YES
+Citrobacter koseri,Elderly,Imipenem,2,369,2,373,0.54,YES
+Citrobacter koseri,Elderly,Levofloxacin,4,444,10,458,0.87,YES
+Citrobacter koseri,Elderly,Linezolid,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Meropenem vaborbactam,0,256,0,256,0.0,YES
+Citrobacter koseri,Elderly,Meropenem,0,455,1,456,0.0,YES
+Citrobacter koseri,Elderly,Metronidazole,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Minocycline,0,87,0,87,0.0,YES
+Citrobacter koseri,Elderly,Moxifloxacin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Oxacillin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Penicillin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Piperacillin tazobactam,11,437,10,458,2.4,YES
+Citrobacter koseri,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Teicoplanin,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Tetracycline,0,0,0,0,,NO
+Citrobacter koseri,Elderly,Tigecycline,0,458,0,458,0.0,YES
+Citrobacter koseri,Elderly,Trimethoprim sulfa,5,316,0,321,1.56,YES
+Citrobacter koseri,Elderly,Vancomycin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Amikacin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Amoxycillin clavulanate,51,1288,51,1390,3.67,YES
+Streptococcus pneumoniae,Pediatric,Ampicillin sulbactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Ampicillin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Azithromycin,315,746,7,1068,29.49,YES
+Streptococcus pneumoniae,Pediatric,Aztreonam,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Cefepime,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Cefiderocol,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Cefixime,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Cefoxitin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Cefpodoxime,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Ceftaroline,0,730,1,731,0.0,YES
+Streptococcus pneumoniae,Pediatric,Ceftazidime avibactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Ceftazidime,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Ceftibuten,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Ceftolozane tazobactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Ceftriaxone,22,1785,86,1893,1.16,YES
+Streptococcus pneumoniae,Pediatric,Ciprofloxacin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Clarithromycin,315,750,3,1068,29.49,YES
+Streptococcus pneumoniae,Pediatric,Clindamycin,355,1436,8,1799,19.73,YES
+Streptococcus pneumoniae,Pediatric,Colistin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Daptomycin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Doripenem,0,222,6,228,0.0,YES
+Streptococcus pneumoniae,Pediatric,Ertapenem,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Erythromycin,584,1213,2,1799,32.46,YES
+Streptococcus pneumoniae,Pediatric,Gentamicin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Imipenem,6,136,39,181,3.31,YES
+Streptococcus pneumoniae,Pediatric,Levofloxacin,3,1886,4,1893,0.16,YES
+Streptococcus pneumoniae,Pediatric,Linezolid,0,1893,0,1893,0.0,YES
+Streptococcus pneumoniae,Pediatric,Meropenem vaborbactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Meropenem,170,1414,128,1712,9.93,YES
+Streptococcus pneumoniae,Pediatric,Metronidazole,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Minocycline,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Moxifloxacin,0,228,0,228,0.0,YES
+Streptococcus pneumoniae,Pediatric,Oxacillin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Penicillin,271,1142,480,1893,14.32,YES
+Streptococcus pneumoniae,Pediatric,Piperacillin tazobactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Teicoplanin,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Tetracycline,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Tigecycline,0,1880,13,1893,0.0,YES
+Streptococcus pneumoniae,Pediatric,Trimethoprim sulfa,0,0,0,0,,NO
+Streptococcus pneumoniae,Pediatric,Vancomycin,0,1893,0,1893,0.0,YES
+Streptococcus pneumoniae,Elderly,Amikacin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Amoxycillin clavulanate,67,4011,81,4159,1.61,YES
+Streptococcus pneumoniae,Elderly,Ampicillin sulbactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Ampicillin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Azithromycin,681,2210,26,2917,23.35,YES
+Streptococcus pneumoniae,Elderly,Aztreonam,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Cefepime,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Cefiderocol,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Cefixime,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Cefoxitin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Cefpodoxime,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Ceftaroline,0,2995,5,3000,0.0,YES
+Streptococcus pneumoniae,Elderly,Ceftazidime avibactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Ceftazidime,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Ceftibuten,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Ceftolozane tazobactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Ceftriaxone,38,5994,139,6171,0.62,YES
+Streptococcus pneumoniae,Elderly,Ciprofloxacin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Clarithromycin,676,2235,6,2917,23.17,YES
+Streptococcus pneumoniae,Elderly,Clindamycin,843,5061,13,5917,14.25,YES
+Streptococcus pneumoniae,Elderly,Colistin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Daptomycin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Doripenem,0,979,9,988,0.0,YES
+Streptococcus pneumoniae,Elderly,Ertapenem,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Erythromycin,1336,4562,19,5917,22.58,YES
+Streptococcus pneumoniae,Elderly,Gentamicin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Imipenem,10,358,81,449,2.23,YES
+Streptococcus pneumoniae,Elderly,Levofloxacin,39,6121,11,6171,0.63,YES
+Streptococcus pneumoniae,Elderly,Linezolid,0,6171,0,6171,0.0,YES
+Streptococcus pneumoniae,Elderly,Meropenem vaborbactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Meropenem,308,5118,296,5722,5.38,YES
+Streptococcus pneumoniae,Elderly,Metronidazole,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Minocycline,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Moxifloxacin,6,977,5,988,0.61,YES
+Streptococcus pneumoniae,Elderly,Oxacillin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Penicillin,536,4542,1093,6171,8.69,YES
+Streptococcus pneumoniae,Elderly,Piperacillin tazobactam,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Teicoplanin,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Tetracycline,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Tigecycline,0,6140,31,6171,0.0,YES
+Streptococcus pneumoniae,Elderly,Trimethoprim sulfa,0,0,0,0,,NO
+Streptococcus pneumoniae,Elderly,Vancomycin,0,6171,0,6171,0.0,YES
+Haemophilus influenzae,Pediatric,Amikacin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Amoxycillin clavulanate,1,410,9,420,0.24,YES
+Haemophilus influenzae,Pediatric,Ampicillin sulbactam,1,122,0,123,0.81,YES
+Haemophilus influenzae,Pediatric,Ampicillin,88,315,17,420,20.95,YES
+Haemophilus influenzae,Pediatric,Azithromycin,0,100,0,100,0.0,YES
+Haemophilus influenzae,Pediatric,Aztreonam,0,3,0,3,,NO
+Haemophilus influenzae,Pediatric,Cefepime,0,294,3,297,0.0,YES
+Haemophilus influenzae,Pediatric,Cefiderocol,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Cefixime,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Cefoxitin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Cefpodoxime,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Ceftaroline,0,123,0,123,0.0,YES
+Haemophilus influenzae,Pediatric,Ceftazidime avibactam,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Ceftazidime,0,257,0,257,0.0,YES
+Haemophilus influenzae,Pediatric,Ceftibuten,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Ceftolozane tazobactam,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Ceftriaxone,0,420,0,420,0.0,YES
+Haemophilus influenzae,Pediatric,Ciprofloxacin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Clarithromycin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Clindamycin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Colistin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Daptomycin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Doripenem,0,24,0,24,0.0,YES
+Haemophilus influenzae,Pediatric,Ertapenem,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Erythromycin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Gentamicin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Imipenem,0,73,0,73,0.0,YES
+Haemophilus influenzae,Pediatric,Levofloxacin,0,418,2,420,0.0,YES
+Haemophilus influenzae,Pediatric,Linezolid,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Meropenem vaborbactam,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Meropenem,0,371,0,371,0.0,YES
+Haemophilus influenzae,Pediatric,Metronidazole,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Minocycline,2,314,5,321,0.62,YES
+Haemophilus influenzae,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Oxacillin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Penicillin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Piperacillin tazobactam,3,417,0,420,0.71,YES
+Haemophilus influenzae,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Teicoplanin,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Tetracycline,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Tigecycline,0,418,2,420,0.0,YES
+Haemophilus influenzae,Pediatric,Trimethoprim sulfa,0,0,0,0,,NO
+Haemophilus influenzae,Pediatric,Vancomycin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Amikacin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Amoxycillin clavulanate,0,878,14,892,0.0,YES
+Haemophilus influenzae,Elderly,Ampicillin sulbactam,6,304,0,310,1.94,YES
+Haemophilus influenzae,Elderly,Ampicillin,172,696,24,892,19.28,YES
+Haemophilus influenzae,Elderly,Azithromycin,0,263,1,264,0.0,YES
+Haemophilus influenzae,Elderly,Aztreonam,0,9,0,9,,NO
+Haemophilus influenzae,Elderly,Cefepime,0,575,7,582,0.0,YES
+Haemophilus influenzae,Elderly,Cefiderocol,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Cefixime,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Cefoxitin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Cefpodoxime,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Ceftaroline,0,309,1,310,0.0,YES
+Haemophilus influenzae,Elderly,Ceftazidime avibactam,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Ceftazidime,0,605,0,605,0.0,YES
+Haemophilus influenzae,Elderly,Ceftibuten,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Ceftolozane tazobactam,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Ceftriaxone,0,892,0,892,0.0,YES
+Haemophilus influenzae,Elderly,Ciprofloxacin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Clarithromycin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Clindamycin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Colistin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Daptomycin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Doripenem,0,49,0,49,0.0,YES
+Haemophilus influenzae,Elderly,Ertapenem,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Erythromycin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Gentamicin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Imipenem,0,117,0,117,0.0,YES
+Haemophilus influenzae,Elderly,Levofloxacin,0,886,6,892,0.0,YES
+Haemophilus influenzae,Elderly,Linezolid,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Meropenem vaborbactam,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Meropenem,0,822,2,824,0.0,YES
+Haemophilus influenzae,Elderly,Metronidazole,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Minocycline,3,622,6,631,0.48,YES
+Haemophilus influenzae,Elderly,Moxifloxacin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Oxacillin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Penicillin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Piperacillin tazobactam,3,889,0,892,0.34,YES
+Haemophilus influenzae,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Teicoplanin,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Tetracycline,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Tigecycline,0,892,0,892,0.0,YES
+Haemophilus influenzae,Elderly,Trimethoprim sulfa,0,0,0,0,,NO
+Haemophilus influenzae,Elderly,Vancomycin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Amikacin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Amoxycillin clavulanate,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ampicillin sulbactam,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ampicillin,2,3,0,5,,NO
+Salmonella spp,Pediatric,Azithromycin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Aztreonam,0,0,0,0,,NO
+Salmonella spp,Pediatric,Cefepime,0,0,0,0,,NO
+Salmonella spp,Pediatric,Cefiderocol,0,0,0,0,,NO
+Salmonella spp,Pediatric,Cefixime,0,0,0,0,,NO
+Salmonella spp,Pediatric,Cefoxitin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Cefpodoxime,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ceftaroline,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ceftazidime avibactam,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ceftazidime,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ceftibuten,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ceftolozane tazobactam,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ceftriaxone,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ciprofloxacin,0,2,3,5,,NO
+Salmonella spp,Pediatric,Clarithromycin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Clindamycin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Colistin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Daptomycin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Doripenem,0,0,0,0,,NO
+Salmonella spp,Pediatric,Ertapenem,0,0,0,0,,NO
+Salmonella spp,Pediatric,Erythromycin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Gentamicin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Imipenem,0,5,0,5,,NO
+Salmonella spp,Pediatric,Levofloxacin,0,0,5,5,,NO
+Salmonella spp,Pediatric,Linezolid,0,0,0,0,,NO
+Salmonella spp,Pediatric,Meropenem vaborbactam,0,0,0,0,,NO
+Salmonella spp,Pediatric,Meropenem,0,5,0,5,,NO
+Salmonella spp,Pediatric,Metronidazole,0,0,0,0,,NO
+Salmonella spp,Pediatric,Minocycline,0,0,0,0,,NO
+Salmonella spp,Pediatric,Moxifloxacin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Oxacillin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Penicillin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Piperacillin tazobactam,0,0,0,0,,NO
+Salmonella spp,Pediatric,Quinupristin dalfopristin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Teicoplanin,0,0,0,0,,NO
+Salmonella spp,Pediatric,Tetracycline,0,0,0,0,,NO
+Salmonella spp,Pediatric,Tigecycline,0,0,0,0,,NO
+Salmonella spp,Pediatric,Trimethoprim sulfa,2,3,0,5,,NO
+Salmonella spp,Pediatric,Vancomycin,0,0,0,0,,NO
+Salmonella spp,Elderly,Amikacin,0,0,0,0,,NO
+Salmonella spp,Elderly,Amoxycillin clavulanate,0,0,0,0,,NO
+Salmonella spp,Elderly,Ampicillin sulbactam,0,0,0,0,,NO
+Salmonella spp,Elderly,Ampicillin,2,1,0,3,,NO
+Salmonella spp,Elderly,Azithromycin,0,0,0,0,,NO
+Salmonella spp,Elderly,Aztreonam,0,0,0,0,,NO
+Salmonella spp,Elderly,Cefepime,0,0,0,0,,NO
+Salmonella spp,Elderly,Cefiderocol,0,0,0,0,,NO
+Salmonella spp,Elderly,Cefixime,0,0,0,0,,NO
+Salmonella spp,Elderly,Cefoxitin,0,0,0,0,,NO
+Salmonella spp,Elderly,Cefpodoxime,0,0,0,0,,NO
+Salmonella spp,Elderly,Ceftaroline,0,0,0,0,,NO
+Salmonella spp,Elderly,Ceftazidime avibactam,0,0,0,0,,NO
+Salmonella spp,Elderly,Ceftazidime,0,0,0,0,,NO
+Salmonella spp,Elderly,Ceftibuten,0,0,0,0,,NO
+Salmonella spp,Elderly,Ceftolozane tazobactam,0,0,0,0,,NO
+Salmonella spp,Elderly,Ceftriaxone,0,0,0,0,,NO
+Salmonella spp,Elderly,Ciprofloxacin,0,0,3,3,,NO
+Salmonella spp,Elderly,Clarithromycin,0,0,0,0,,NO
+Salmonella spp,Elderly,Clindamycin,0,0,0,0,,NO
+Salmonella spp,Elderly,Colistin,0,0,0,0,,NO
+Salmonella spp,Elderly,Daptomycin,0,0,0,0,,NO
+Salmonella spp,Elderly,Doripenem,0,0,0,0,,NO
+Salmonella spp,Elderly,Ertapenem,0,0,0,0,,NO
+Salmonella spp,Elderly,Erythromycin,0,0,0,0,,NO
+Salmonella spp,Elderly,Gentamicin,0,0,0,0,,NO
+Salmonella spp,Elderly,Imipenem,0,3,0,3,,NO
+Salmonella spp,Elderly,Levofloxacin,0,0,3,3,,NO
+Salmonella spp,Elderly,Linezolid,0,0,0,0,,NO
+Salmonella spp,Elderly,Meropenem vaborbactam,0,0,0,0,,NO
+Salmonella spp,Elderly,Meropenem,0,3,0,3,,NO
+Salmonella spp,Elderly,Metronidazole,0,0,0,0,,NO
+Salmonella spp,Elderly,Minocycline,0,0,0,0,,NO
+Salmonella spp,Elderly,Moxifloxacin,0,0,0,0,,NO
+Salmonella spp,Elderly,Oxacillin,0,0,0,0,,NO
+Salmonella spp,Elderly,Penicillin,0,0,0,0,,NO
+Salmonella spp,Elderly,Piperacillin tazobactam,0,0,0,0,,NO
+Salmonella spp,Elderly,Quinupristin dalfopristin,0,0,0,0,,NO
+Salmonella spp,Elderly,Teicoplanin,0,0,0,0,,NO
+Salmonella spp,Elderly,Tetracycline,0,0,0,0,,NO
+Salmonella spp,Elderly,Tigecycline,0,0,0,0,,NO
+Salmonella spp,Elderly,Trimethoprim sulfa,0,3,0,3,,NO
+Salmonella spp,Elderly,Vancomycin,0,0,0,0,,NO
