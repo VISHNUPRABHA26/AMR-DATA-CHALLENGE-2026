@@ -1,5 +1,5 @@
 # ============================================================
-# AMR DATA CHALLENGE 2026 — PHASE 5: FORECASTING
+# AMR DATA CHALLENGE 2026 — PHASE 4: FORECASTING
 # Nosocomial Neuroinvasive Bacterial AMR Study
 # ============================================================
 # OBJECTIVE:
@@ -21,13 +21,13 @@
 #   ~/AMR_DATA_CHALLENGE/PHASE1_outputs/atlas_filtered_mdr_flagged.csv
 #
 # OUTPUT (saved to ~/AMR_DATA_CHALLENGE/PHASE8_outputs/):
-#   P5_timeseries_input.csv         — aggregated MDR rates per org×country×year
-#   P5_skipped_series.csv           — series excluded with reason
-#   P5_arima_forecasts.csv          — ARIMA forecasts 2025-2030
-#   P5_prophet_forecasts.csv        — Prophet forecasts 2025-2030
-#   P5_combined_forecasts.csv       — merged ARIMA + Prophet with agreement flag
-#   P5_threshold_alerts.csv         — series crossing MDR>50% within 2025-2030
-#   P5_model_diagnostics.csv        — AIC, RMSE, model order per series
+#   P4_timeseries_input.csv         — aggregated MDR rates per org×country×year
+#   P4_skipped_series.csv           — series excluded with reason
+#   P4_arima_forecasts.csv          — ARIMA forecasts 2025-2030
+#   P4_prophet_forecasts.csv        — Prophet forecasts 2025-2030
+#   P4_combined_forecasts.csv       — merged ARIMA + Prophet with agreement flag
+#   P4_threshold_alerts.csv         — series crossing MDR>50% within 2025-2030
+#   P4_model_diagnostics.csv        — AIC, RMSE, model order per series
 #   plots/                          — one plot per organism (all countries overlaid)
 #
 # REFERENCES:
@@ -73,7 +73,7 @@ import matplotlib.cm as cm
 ATLAS_PATH = os.path.expanduser(
     "~/AMR_DATA_CHALLENGE/phase1_outputs/atlas_filtered_mdr_flagged.csv"
 )
-OUT_DIR      = os.path.expanduser("~/AMR_DATA_CHALLENGE/phase5_outputs")
+OUT_DIR      = os.path.expanduser("~/AMR_DATA_CHALLENGE/phase4_outputs")
 PLOT_DIR     = os.path.join(OUT_DIR, "plots")
 os.makedirs(OUT_DIR,   exist_ok=True)
 os.makedirs(PLOT_DIR,  exist_ok=True)
@@ -251,7 +251,7 @@ print(f"  Total organism×country×year cells : {len(grouped):,}")
 print(f"  Cells with sufficient data (>=10) : {grouped['Sufficient'].sum():,}")
 print(f"  Cells below threshold             : {(~grouped['Sufficient']).sum():,}")
 
-save(grouped, "P5_timeseries_input")
+save(grouped, "P4_timeseries_input")
 
 # ============================================================
 # STEP 4 — BUILD TIME SERIES PER ORGANISM × COUNTRY
@@ -297,7 +297,7 @@ print(f"  Series accepted for modelling : {len(series_list)}")
 print(f"  Series skipped                : {len(skipped_list)}")
 
 df_skipped = pd.DataFrame(skipped_list)
-save(df_skipped, "P5_skipped_series")
+save(df_skipped, "P4_skipped_series")
 
 # ============================================================
 # HELPER: ARIMA ORDER SELECTION BY AIC
@@ -584,9 +584,9 @@ df_arima   = pd.DataFrame(arima_rows)
 df_prophet = pd.DataFrame(prophet_rows)
 df_diag    = pd.DataFrame(diagnostic_rows)
 
-save(df_arima,   "P5_arima_forecasts")
-save(df_prophet, "P5_prophet_forecasts")
-save(df_diag,    "P5_model_diagnostics")
+save(df_arima,   "P4_arima_forecasts")
+save(df_prophet, "P4_prophet_forecasts")
+save(df_diag,    "P4_model_diagnostics")
 
 # ============================================================
 # STEP 6 — MERGE ARIMA AND PROPHET FORECASTS
@@ -631,7 +631,7 @@ if len(df_prophet) > 0:
         axis=1
     )
 
-    save(df_combined, "P5_combined_forecasts")
+    save(df_combined, "P4_combined_forecasts")
     print(f"  Combined rows: {len(df_combined):,}")
     agree_pct = (df_combined["Model_Agreement"] == "AGREE").mean() * 100
     print(f"  Model agreement rate: {agree_pct:.1f}%")
@@ -707,8 +707,8 @@ if len(df_alerts) > 0:
         ["Organism", "Country"]
     ).first().reset_index()
 
-    save(df_alerts,  "P5_threshold_alerts")
-    save(first_alert, "P5_first_threshold_crossing")
+    save(df_alerts,  "P4_threshold_alerts")
+    save(first_alert, "P4_first_threshold_crossing")
 
     print(f"\n  Total alert records         : {len(df_alerts):,}")
     print(f"  Unique organism×country pairs alerting: "
@@ -824,16 +824,16 @@ for org in TARGET_ORGANISMS:
 
     plt.tight_layout()
     safe_name = org.replace(" ", "_").replace(".", "")
-    plot_path = os.path.join(PLOT_DIR, f"P5_{safe_name}_forecast.png")
+    plot_path = os.path.join(PLOT_DIR, f"P4_{safe_name}_forecast.png")
     plt.savefig(plot_path, dpi=150, bbox_inches="tight")
     plt.close()
-    print(f"  Saved plot: P5_{safe_name}_forecast.png")
+    print(f"  Saved plot: P4_{safe_name}_forecast.png")
 
 # ============================================================
 # STEP 9 — FINAL SUMMARY
 # ============================================================
 print("\n" + "=" * 65)
-print("PHASE 5 COMPLETE — SUMMARY")
+print("PHASE 4 COMPLETE — SUMMARY")
 print("=" * 65)
 
 print(f"""
@@ -847,15 +847,15 @@ print(f"""
   Prophet forecast rows                 : {len(prophet_rows)}
   Threshold alerts (MDR > {MDR_THRESHOLD}%)       : {len(alert_rows)}
 
-  Output files in: ~/AMR_DATA_CHALLENGE/phase5_outputs/
-    P5_timeseries_input.csv
-    P5_skipped_series.csv
-    P5_arima_forecasts.csv
-    P5_prophet_forecasts.csv
-    P5_combined_forecasts.csv
-    P5_threshold_alerts.csv
-    P5_first_threshold_crossing.csv
-    P5_model_diagnostics.csv
+  Output files in: ~/AMR_DATA_CHALLENGE/phase4_outputs/
+    P4_timeseries_input.csv
+    P4_skipped_series.csv
+    P4_arima_forecasts.csv
+    P4_prophet_forecasts.csv
+    P4_combined_forecasts.csv
+    P4_threshold_alerts.csv
+    P4_first_threshold_crossing.csv
+    P4_model_diagnostics.csv
     plots/  (one PNG per organism)
 
   References:
@@ -868,22 +868,22 @@ print(f"""
 """)
 
 # ============================================================
-# AMR DATA CHALLENGE 2026 — PHASE 5: INTERACTIVE FORECAST VIZ
+# AMR DATA CHALLENGE 2026 — PHASE 4: INTERACTIVE FORECAST VIZ
 # ============================================================
 # OBJECTIVE:
-#   Build a single interactive HTML dashboard from Phase 5
+#   Build a single interactive HTML dashboard from Phase 4
 #   forecast output CSVs. No external dependencies beyond
 #   pandas, numpy, json, os.
 #
-# INPUT FILES (~/AMR_DATA_CHALLENGE/PHASE5_outputs/):
-#   P5_combined_forecasts.csv
-#   P5_timeseries_input.csv
-#   P5_model_diagnostics.csv
-#   P5_first_threshold_crossing.csv
-#   P5_threshold_alerts.csv
+# INPUT FILES (~/AMR_DATA_CHALLENGE/PHASE4_outputs/):
+#   P4_combined_forecasts.csv
+#   P4_timeseries_input.csv
+#   P4_model_diagnostics.csv
+#   P4_first_threshold_crossing.csv
+#   P4_threshold_alerts.csv
 #
 # OUTPUT:
-#   ~/AMR_DATA_CHALLENGE/PHASE5_outputs/P5_interactive_forecast.html
+#   ~/AMR_DATA_CHALLENGE/PHASE4_outputs/P4_interactive_forecast.html
 #
 # LAYOUT :
 #   - Title bar (dark blue gradient)
@@ -914,19 +914,19 @@ warnings.filterwarnings("ignore")
 # ============================================================
 # PATHS
 # ============================================================
-BASE_DIR  = os.path.expanduser("~/AMR_DATA_CHALLENGE/phase5_outputs")
-COMB_CSV  = os.path.join(BASE_DIR, "P5_combined_forecasts.csv")
-TS_CSV    = os.path.join(BASE_DIR, "P5_timeseries_input.csv")
-DIAG_CSV  = os.path.join(BASE_DIR, "P5_model_diagnostics.csv")
-FIRST_CSV = os.path.join(BASE_DIR, "P5_first_threshold_crossing.csv")
-ALERT_CSV = os.path.join(BASE_DIR, "P5_threshold_alerts.csv")
-OUT_HTML  = os.path.join(BASE_DIR, "P5_interactive_forecast.html")
+BASE_DIR  = os.path.expanduser("~/AMR_DATA_CHALLENGE/phase4_outputs")
+COMB_CSV  = os.path.join(BASE_DIR, "P4_combined_forecasts.csv")
+TS_CSV    = os.path.join(BASE_DIR, "P4_timeseries_input.csv")
+DIAG_CSV  = os.path.join(BASE_DIR, "P4_model_diagnostics.csv")
+FIRST_CSV = os.path.join(BASE_DIR, "P4_first_threshold_crossing.csv")
+ALERT_CSV = os.path.join(BASE_DIR, "P4_threshold_alerts.csv")
+OUT_HTML  = os.path.join(BASE_DIR, "P4_interactive_forecast.html")
 
 # ============================================================
 # STEP 1 — LOAD CSVs
 # ============================================================
 print("=" * 65)
-print("STEP 1 — LOADING PHASE 5 OUTPUT FILES")
+print("STEP 1 — LOADING PHASE 4 OUTPUT FILES")
 print("=" * 65)
 
 comb  = pd.read_csv(COMB_CSV)
@@ -1579,7 +1579,7 @@ HTML = f"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Phase 5  MDR Forecasting 2025 to 2030 | AMR Data Challenge 2026</title>
+<title>Phase 4  MDR Forecasting 2025 to 2030 | AMR Data Challenge 2026</title>
 <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
 <style>
 {CSS}
@@ -1590,7 +1590,7 @@ HTML = f"""<!DOCTYPE html>
 
 <!-- TITLE BAR -->
 <div class="title-bar">
-  <h1>Phase 5 &mdash; MDR Rate Forecasting 2025&ndash;2030</h1>
+  <h1>Phase 4 &mdash; MDR Rate Forecasting 2025&ndash;2030</h1>
   <p>AMR Data Challenge 2026 &nbsp;&middot;&nbsp;
      ARIMA + Prophet Ensemble &nbsp;&middot;&nbsp;
      11 Organisms &nbsp;&middot;&nbsp;
@@ -1781,7 +1781,7 @@ print(f"\n  Saved: {OUT_HTML}")
 print(f"  File size: {os.path.getsize(OUT_HTML)/1024:.1f} KB")
 
 print("\n" + "=" * 65)
-print("PHASE 5 INTERACTIVE VISUALISATION — COMPLETE")
+print("PHASE 4 INTERACTIVE VISUALISATION — COMPLETE")
 print("=" * 65)
 print(f"""
   Output : {OUT_HTML}
@@ -2017,7 +2017,7 @@ _ALERT_HTML = f"""
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Phase 5 — Alert Summary | AMR Data Challenge 2026</title>
+<title>Phase 4 — Alert Summary | AMR Data Challenge 2026</title>
 
 <style>
 {_ALERT_CSS}
@@ -2029,7 +2029,7 @@ _ALERT_HTML = f"""
 <div class="page-wrap">
 
 <div class="title-bar">
-  <h1>Phase 5 &mdash; MDR Threshold Alert Summary</h1>
+  <h1>Phase 4 &mdash; MDR Threshold Alert Summary</h1>
   <p>
     AMR Data Challenge 2026 &nbsp;&middot;&nbsp;
     Countries projected to exceed 50% MDR rate by 2030
@@ -2123,7 +2123,7 @@ _ALERT_HTML = f"""
 </body>
 </html>
 """
-OUT_ALERT_HTML = "P5_alert_summary.html"
+OUT_ALERT_HTML = "P4_alert_summary.html"
 
 with open(OUT_ALERT_HTML, "w", encoding="utf-8") as f:
     f.write(_ALERT_HTML)
@@ -2132,5 +2132,5 @@ print(f"  File size: {os.path.getsize(OUT_ALERT_HTML)/1024:.1f} KB")
 print("\\n" + "=" * 65)
 print("BOTH HTML FILES WRITTEN SUCCESSFULLY")
 print("=" * 65)
-print("  1. P5_interactive_forecast.html  — Forecast plots (unchanged)")
-print("  2. P5_alert_summary.html         — Alert overview + threshold table")
+print("  1. P4_interactive_forecast.html  — Forecast plots (unchanged)")
+print("  2. P4_alert_summary.html         — Alert overview + threshold table")
